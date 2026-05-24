@@ -1,0 +1,516 @@
+{
+  "generated_at": "2026-05-24T19:35:13.587Z",
+  "stores": {
+    "MINOM OFICIAL": {
+      "name": "MINOM OFICIAL",
+      "address": "Av. Avellaneda 2329, C1406FYI Cdad. Autónoma de Buenos Aires, Argentina",
+      "phone": 1149606618,
+      "policies": "Fabricante mayorista de indumentaria Nacional femenino mejor precio y calidad en jeans de todo tipo",
+      "logoUrl": "BD_TIENDAS_Images/MINOM OFICIAL.LOGOTIPO.165026.png",
+      "qrData": "WHATSAPP",
+      "config": {
+        "minorSurcharge": 0,
+        "minimumPurchase": 3,
+        "saleMode": "MANUAL",
+        "allowedPaymentMethods": [
+          "Efectivo",
+          "Transferencia",
+          "Tarjeta Debito",
+          "Tarjeta Credito",
+          "Factura IVA",
+          "Presupuesto"
+        ],
+        "printerIp": "127.0.0.1",
+        "printSettings": {
+          "copias": 1,
+          "sonido": "1",
+          "marketing": "Guarda este cupon/ticket y obten un 5% de descuento en tu proxima compra",
+          "minCupon": 10000
+        }
+      }
+    }
+  },
+  "colors": {
+    "Surtido": {
+      "hex": "FF69B4-800080",
+      "textEdge": "White"
+    },
+    "Negro": {
+      "hex": "000000",
+      "textEdge": "White"
+    },
+    "Blanco": {
+      "hex": "FFFFFF",
+      "textEdge": "Black"
+    },
+    "Rojo": {
+      "hex": "FF0000",
+      "textEdge": "White"
+    },
+    "Verde": {
+      "hex": "00FF00",
+      "textEdge": "000000"
+    },
+    "Azul": {
+      "hex": "0000FF",
+      "textEdge": "White"
+    },
+    "Amarillo": {
+      "hex": "FFFF00",
+      "textEdge": "000000"
+    },
+    "Naranja": {
+      "hex": "FFA500",
+      "textEdge": "000000"
+    },
+    "Morado": {
+      "hex": "800080",
+      "textEdge": "White"
+    },
+    "Rosa": {
+      "hex": "FFC0CB",
+      "textEdge": "000000"
+    },
+    "Turquesa": {
+      "hex": "40E0D0",
+      "textEdge": "000000"
+    },
+    "Gris": {
+      "hex": "808080",
+      "textEdge": "White"
+    },
+    "Marron": {
+      "hex": "8B4513",
+      "textEdge": "White"
+    },
+    "Celeste": {
+      "hex": "ADD8E6",
+      "textEdge": "000000"
+    },
+    "Beige": {
+      "hex": "F5F5DC",
+      "textEdge": "Black"
+    },
+    "Lavanda": {
+      "hex": "C080FF",
+      "textEdge": "000000"
+    },
+    "Salmon": {
+      "hex": "FA8072",
+      "textEdge": "000000"
+    },
+    "Lima": {
+      "hex": "C3FF00",
+      "textEdge": "000000"
+    },
+    "Cian": {
+      "hex": "00FFFF",
+      "textEdge": "000000"
+    },
+    "Amarillo Verde": {
+      "hex": "ADFF2F",
+      "textEdge": "000000"
+    },
+    "Coral": {
+      "hex": "FF7F50",
+      "textEdge": "White"
+    },
+    "Esmeralda": {
+      "hex": "019875",
+      "textEdge": "000000"
+    },
+    "Turquesa Claro": {
+      "hex": "40E0D0",
+      "textEdge": "000000"
+    },
+    "Gris claro": {
+      "hex": "D3D3D3",
+      "textEdge": "000000"
+    },
+    "Aguamarina": {
+      "hex": "7FFFD4",
+      "textEdge": "000000"
+    },
+    "Aguamarina medio": {
+      "hex": "66CDAA",
+      "textEdge": "000000"
+    },
+    "Arena": {
+      "hex": "C2B280",
+      "textEdge": "000000"
+    },
+    "Azul celeste": {
+      "hex": "87CEEB",
+      "textEdge": "000000"
+    },
+    "Azul pizarra": {
+      "hex": "6A5ACD",
+      "textEdge": "White"
+    },
+    "Rosa fuerte": {
+      "hex": "FF69B4",
+      "textEdge": "White"
+    },
+    "Bordo": {
+      "hex": "8B0000",
+      "textEdge": "White"
+    },
+    "Azul marino": {
+      "hex": "00008A",
+      "textEdge": "White"
+    },
+    "Azul acero": {
+      "hex": "1482B4",
+      "textEdge": "White"
+    },
+    "Amarillo mostaza": {
+      "hex": "E3B439",
+      "textEdge": "White"
+    },
+    "Rojo anaranjado": {
+      "hex": "FF4500",
+      "textEdge": "White"
+    },
+    "Violeta": {
+      "hex": "4C2882",
+      "textEdge": "White"
+    },
+    "Purpura": {
+      "hex": "620B57",
+      "textEdge": "White"
+    },
+    "Bison": {
+      "hex": "847450",
+      "textEdge": "White"
+    },
+    "Verde Militar": {
+      "hex": "4B5320",
+      "textEdge": "White"
+    },
+    "Borravino": {
+      "hex": "722F37",
+      "textEdge": "White"
+    }
+  },
+  "categories": [
+    {
+      "id": "Top",
+      "name": "Top",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/7781e5c6.svg"
+    },
+    {
+      "id": "Remera",
+      "name": "Remera",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg"
+    },
+    {
+      "id": "Pollera",
+      "name": "Pollera",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pollera.svg"
+    },
+    {
+      "id": "Short",
+      "name": "Short",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg"
+    },
+    {
+      "id": "Campera",
+      "name": "Campera",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg"
+    },
+    {
+      "id": "Buzo",
+      "name": "Buzo",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/buzo.svg"
+    },
+    {
+      "id": "Camiseta",
+      "name": "Camiseta",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/faac4fc9.svg"
+    },
+    {
+      "id": "Biker",
+      "name": "Biker",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cffdb5ac.svg"
+    },
+    {
+      "id": "Chaleco",
+      "name": "Chaleco",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg"
+    },
+    {
+      "id": "Calza",
+      "name": "Calza",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/calza.svg"
+    },
+    {
+      "id": "Polera",
+      "name": "Polera",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/polera.svg"
+    },
+    {
+      "id": "Oferta",
+      "name": "Oferta",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/oferta.svg"
+    },
+    {
+      "id": "Musculosa",
+      "name": "Musculosa",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/musculosa.svg"
+    },
+    {
+      "id": "Bermuda",
+      "name": "Bermuda",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/bermuda.svg"
+    },
+    {
+      "id": "SPollera",
+      "name": "SPollera",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/e1e43deb.svg"
+    },
+    {
+      "id": "Pantalon Chupin",
+      "name": "Pantalon Chupin",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_chupin.svg"
+    },
+    {
+      "id": "Pantalon Oxfort",
+      "name": "Pantalon Oxfort",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_oxfort.svg"
+    },
+    {
+      "id": "Pantalon Wige Leg",
+      "name": "Pantalon Wige Leg",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg"
+    },
+    {
+      "id": "Pantalon Moon",
+      "name": "Pantalon Moon",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_moon.svg"
+    },
+    {
+      "id": "Pantalon Bagy",
+      "name": "Pantalon Bagy",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_bagy.svg"
+    },
+    {
+      "id": "Pantalon Maxi Wige",
+      "name": "Pantalon Maxi Wige",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_maxi_wige.svg"
+    },
+    {
+      "id": "Pantalon Parachute",
+      "name": "Pantalon Parachute",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg"
+    },
+    {
+      "id": "Pantalon Recto",
+      "name": "Pantalon Recto",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_recto.svg"
+    },
+    {
+      "id": "Cinturon",
+      "name": "Cinturon",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cinturon.svg"
+    }
+  ],
+  "products": [
+    {
+      "id": "PANT6112",
+      "model": "Borravino",
+      "price": 21000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "",
+      "material": "",
+      "image": "",
+      "carpeta_id": "1S0noyQ_4hewHKaC5rn1j7-WxoP9bL8Gy",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT6112-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 21000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT6112-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT6112-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT6112-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ]
+    }
+  ],
+  "priceConfig": {
+    "tipoRegistroPrecio": "PRECIO VARIABLE",
+    "tipoRegistroProducto": "PRODUCTO SIMPLE"
+  },
+  "categorySvgs": {
+    "TOP": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/7781e5c6.svg",
+    "REMERA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
+    "POLLERA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pollera.svg",
+    "SHORT": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg",
+    "CAMPERA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg",
+    "BUZO": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/buzo.svg",
+    "CAMISETA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/faac4fc9.svg",
+    "BIKER": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cffdb5ac.svg",
+    "CHALECO": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
+    "CALZA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/calza.svg",
+    "POLERA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/polera.svg",
+    "OFERTA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/oferta.svg",
+    "MUSCULOSA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/musculosa.svg",
+    "BERMUDA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/bermuda.svg",
+    "SPOLLERA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/e1e43deb.svg",
+    "PANTALON CHUPIN": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_chupin.svg",
+    "PANTALON OXFORT": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_oxfort.svg",
+    "PANTALON WIGE LEG": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg",
+    "PANTALON MOON": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_moon.svg",
+    "PANTALON BAGY": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_bagy.svg",
+    "PANTALON MAXI WIGE": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_maxi_wige.svg",
+    "PANTALON PARACHUTE": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg",
+    "PANTALON RECTO": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_recto.svg",
+    "CINTURON": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cinturon.svg"
+  },
+  "generalConfig": {
+    "GENERAL_ID": "MINOM OFICIAL",
+    "RESPONSABLE": "Daniela Santos Ortega",
+    "CUIT": 27187785613,
+    "TELEFONO": 1149606618,
+    "CELULAR": 1149606618,
+    "CORREO_ELECTRONICO": "minom.oficial@gmail.com",
+    "TIENDA_BLOGGER": "https://minom.blogspot.com/",
+    "SITIO_WEB": "https://minom.com.ar/",
+    "CATALOGO_DRIVE": "https://www.instagram.com/minomjeanss/",
+    "FORMULARIO_COMPROBANTE": "https://www.instagram.com/minomjeanss/",
+    "FORMULARIO_CLIENTE": "https://www.instagram.com/minomjeanss/",
+    "FACEBOOK": "https://www.instagram.com/minomjeanss/",
+    "INSTAGRAM": "https://www.instagram.com/minomjeanss/",
+    "TIKTOK": "https://www.tiktok.com/@minomjeanss",
+    "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
+    "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
+    "EXCLUIR_SURTIDOS_VARIANTES": false,
+    "DOLAR_BLUE_VENTA": "1405",
+    "DOLAR_BLUE_COMPRA": "1425",
+    "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
+    "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
+    "LIMITE_IMAGENES_PRODUCTO": 10,
+    "APLICAR_MARCA_DE_AGUA": true,
+    "HORA_DISPARADOR_BARTENDER": "",
+    "CARRUSELES": ""
+  },
+  "allVarieties": {
+    "PANT6112": [
+      {
+        "variedad_id": "PANT6112-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT6112-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT6112-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1
+      }
+    ]
+  },
+  "clients": [
+    {
+      "id": "CLI001",
+      "name": "Publico General"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "id": "Efectivo",
+      "percent": 0,
+      "code": "Efectivo",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/efectivo.svg"
+    },
+    {
+      "id": "Transferencia",
+      "percent": 0.1,
+      "code": "Transferencia",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/transferencia.svg"
+    },
+    {
+      "id": "Tarjeta Debito",
+      "percent": 0.1,
+      "code": "Tarjeta Debito",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_debito.svg"
+    },
+    {
+      "id": "Tarjeta Credito",
+      "percent": 0.23,
+      "code": "Tarjeta Credito",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_credito.svg"
+    },
+    {
+      "id": "Factura IVA",
+      "percent": 0.21,
+      "code": "Factura IVA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg"
+    },
+    {
+      "id": "Presupuesto",
+      "percent": 0,
+      "code": "Presupuesto",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
+    }
+  ],
+  "metodosPagoIcons": {
+    "Efectivo": {
+      "porcentaje": 0,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/efectivo.svg"
+    },
+    "Transferencia": {
+      "porcentaje": 0.1,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/transferencia.svg"
+    },
+    "Tarjeta Debito": {
+      "porcentaje": 0.1,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_debito.svg"
+    },
+    "Tarjeta Credito": {
+      "porcentaje": 0.23,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_credito.svg"
+    },
+    "Factura IVA": {
+      "porcentaje": 0.21,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg"
+    },
+    "Presupuesto": {
+      "porcentaje": 0,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
+    }
+  },
+  "transferAccounts": [],
+  "timestamp_ms": 1779651419774
+}
