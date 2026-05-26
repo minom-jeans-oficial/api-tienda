@@ -62,33 +62,7 @@
       "hora_entrega": "1899-12-30T18:16:48.000Z"
     }
   ],
-  "pagina_carrusel": [
-    {
-      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%201.191720.jpg",
-      "titulo": "Skypia Underwear",
-      "descripcion": "Distribuidora mayorista de Indumentaria y Lencería importada al mejor precio y calidad"
-    },
-    {
-      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%202.191736.jpg",
-      "titulo": "Informacion",
-      "descripcion": "Datos importante de la tienda"
-    },
-    {
-      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%203.191747.jpg",
-      "titulo": "Nuevo Producto",
-      "descripcion": "Producto destacado disponible para reservar"
-    },
-    {
-      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%204.191758.jpg",
-      "titulo": "Oferta 1",
-      "descripcion": "Disponible hasta agotar stock"
-    },
-    {
-      "url": "https://www.appsheet.com/template/gettablefileurl?appName=TiendaOnlineBlogger-337846396&tableName=Info%20Tienda&fileName=Info%20Tienda_Images%2FCASTFER.Carrusel%205.191816.jpg",
-      "titulo": "Oferta 1",
-      "descripcion": "Disponible hasta agotar stock"
-    }
-  ],
+  "pagina_carrusel": {},
   "contactabilidad": "541149606618",
   "content": [
     {
@@ -2754,7 +2728,7 @@
                   "archivo_id": "1fY70mt6klcmhNiWo4575u2ZbsQQWtpgg",
                   "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                  "fecha_carga": "2026-05-26T10:23:17.278Z"
                 }
               ],
               "variedad": [
@@ -6510,5 +6484,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1779790990328
+  "timestamp_ms": 1779791415930
 }
