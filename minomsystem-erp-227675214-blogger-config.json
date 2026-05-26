@@ -62,7 +62,13 @@
       "hora_entrega": "1899-12-30T18:16:48.000Z"
     }
   ],
-  "pagina_carrusel": {},
+  "pagina_carrusel": [
+    {
+      "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9130%2FPANT9130-1PwgM.webp",
+      "titulo": "Skypia Underwear",
+      "descripcion": "Fabricante mayorista de Indumentaria JEANS al mejor precio y calidad"
+    }
+  ],
   "contactabilidad": "541149606618",
   "content": [
     {
@@ -6484,5 +6490,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1779791415930
+  "timestamp_ms": 1779793109790
 }
