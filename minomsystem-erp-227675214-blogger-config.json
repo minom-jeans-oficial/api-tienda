@@ -129,16 +129,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -147,7 +154,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM3435%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bermuda%20Isabela%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM3435%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bermuda%20Isabela%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -166,21 +173,51 @@
                   "precio": 16000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 18400,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 20000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -214,16 +251,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -232,7 +276,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM3875%0A%F0%9F%94%B9%20Modelo%3A%20BERMUDA%20CARGO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM3875%0A%F0%9F%94%B9%20Modelo%3A%20BERMUDA%20CARGO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -247,21 +291,51 @@
                   "precio": 0,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 0,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 0,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -295,16 +369,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -313,7 +394,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM4189%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bermuda%20Topazio%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM4189%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bermuda%20Topazio%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -332,21 +413,51 @@
                   "precio": 16000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 18400,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 20000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -380,16 +491,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -398,7 +516,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM8418%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bermuda%20colores%201%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM8418%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bermuda%20colores%201%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -417,21 +535,51 @@
                   "precio": 15000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 17250,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 18750,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -473,16 +621,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -491,7 +646,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT1674%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bagy%20cargo%20celeste%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT1674%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bagy%20cargo%20celeste%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -510,21 +665,51 @@
                   "precio": 28000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 32200,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 35000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -558,16 +743,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -576,7 +768,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3144%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5BAGY%20NEGRO%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3144%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5BAGY%20NEGRO%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -595,21 +787,51 @@
                   "precio": 23000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26450,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 28750,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -643,16 +865,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -661,7 +890,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4330%0A%F0%9F%94%B9%20Modelo%3A%20BAGY%20BLANCO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4330%0A%F0%9F%94%B9%20Modelo%3A%20BAGY%20BLANCO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -680,21 +909,51 @@
                   "precio": 27000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 31050,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 33750,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -728,16 +987,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -746,7 +1012,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4551%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bagy%20London%20%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4551%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bagy%20London%20%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -765,21 +1031,51 @@
                   "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 27600,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 30000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -813,16 +1109,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -831,7 +1134,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4657%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bagy%20animal%20print%20%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4657%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bagy%20animal%20print%20%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -850,21 +1153,51 @@
                   "precio": 28000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 32200,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 35000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -898,16 +1231,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -916,7 +1256,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5269%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bagy%20human%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5269%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bagy%20human%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -935,21 +1275,51 @@
                   "precio": 25000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 28750,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 31250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -983,16 +1353,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1001,7 +1378,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5413%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5bagy%20print%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5413%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5bagy%20print%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -1020,21 +1397,51 @@
                   "precio": 23000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26450,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 28750,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -1068,16 +1475,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1086,7 +1500,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9246%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bagy%20Lunar%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9246%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bagy%20Lunar%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -1105,21 +1519,51 @@
                   "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 27600,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 30000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -1153,16 +1597,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1171,7 +1622,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9493%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bagy%20pistacho%20%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9493%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Bagy%20pistacho%20%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -1190,21 +1641,51 @@
                   "precio": 28000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 32200,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 35000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -1238,16 +1719,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1256,7 +1744,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9679%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5BAGY%20MILAN%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9679%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5BAGY%20MILAN%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -1275,21 +1763,51 @@
                   "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 27600,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 30000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -1331,16 +1849,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1349,7 +1874,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3934%0A%F0%9F%94%B9%20Modelo%3A%20Chupin%20ANA%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3934%0A%F0%9F%94%B9%20Modelo%3A%20Chupin%20ANA%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -1368,21 +1893,51 @@
                   "precio": 17000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 19550,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 21250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -1416,16 +1971,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1434,7 +1996,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9288%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5chupin%20Elsa%20%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9288%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5chupin%20Elsa%20%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -1453,21 +2015,51 @@
                   "precio": 17000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 19550,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 21250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -1509,16 +2101,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1527,7 +2126,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT1109%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Maxi%20Wide%20leg%20Flavia%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT1109%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Maxi%20Wide%20leg%20Flavia%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -1546,21 +2145,51 @@
                   "precio": 26000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 29900,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 32500,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -1594,16 +2223,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1612,7 +2248,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4921%0A%F0%9F%94%B9%20Modelo%3A%20maxi%20Wide%20celeste%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4921%0A%F0%9F%94%B9%20Modelo%3A%20maxi%20Wide%20celeste%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -1631,21 +2267,51 @@
                   "precio": 29000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 33350,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 36250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -1687,16 +2353,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1705,7 +2378,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2188%0A%F0%9F%94%B9%20Modelo%3A%20MOM%20BEIGE%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2188%0A%F0%9F%94%B9%20Modelo%3A%20MOM%20BEIGE%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -1724,21 +2397,51 @@
                   "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 27600,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 30000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -1772,16 +2475,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1790,7 +2500,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5804%0A%F0%9F%94%B9%20Modelo%3A%20mom%20negro%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5804%0A%F0%9F%94%B9%20Modelo%3A%20mom%20negro%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -1809,21 +2519,51 @@
                   "precio": 19000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 21850,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 23750,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -1857,16 +2597,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1875,7 +2622,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8582%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5mom%20azul%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8582%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5mom%20azul%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -1894,21 +2641,51 @@
                   "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 27600,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 30000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -1942,16 +2719,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1960,7 +2744,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9130%0A%F0%9F%94%B9%20Modelo%3A%20Mom%20celeste%20AGOTADO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9130%0A%F0%9F%94%B9%20Modelo%3A%20Mom%20celeste%20AGOTADO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -1979,21 +2763,51 @@
                   "precio": 19000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 21850,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 23750,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -2035,16 +2849,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -2053,7 +2874,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2545%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5%F0%9F%94%A5OXFORD%20TIRO%20BAJO%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2545%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5%F0%9F%94%A5OXFORD%20TIRO%20BAJO%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -2072,21 +2893,51 @@
                   "precio": 23000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26450,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 28750,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -2120,16 +2971,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -2138,7 +2996,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3635%0A%F0%9F%94%B9%20Modelo%3A%20OXFORD%20ZAFIRO%20AGOTADO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3635%0A%F0%9F%94%B9%20Modelo%3A%20OXFORD%20ZAFIRO%20AGOTADO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -2157,21 +3015,51 @@
                   "precio": 26000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 29900,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 32500,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -2205,16 +3093,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -2223,7 +3118,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4779%0A%F0%9F%94%B9%20Modelo%3A%20OXFORD%20NEGRO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4779%0A%F0%9F%94%B9%20Modelo%3A%20OXFORD%20NEGRO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -2242,21 +3137,51 @@
                   "precio": 27000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 31050,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 33750,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -2290,16 +3215,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -2308,7 +3240,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5798%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5oxford%20oxido%20tiro%20alto%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5798%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5oxford%20oxido%20tiro%20alto%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -2327,21 +3259,51 @@
                   "precio": 26000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 29900,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 32500,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -2375,16 +3337,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -2393,7 +3362,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT6650%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Oxford%20Pilar%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT6650%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Oxford%20Pilar%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -2412,21 +3381,51 @@
                   "precio": 26000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 29900,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 32500,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -2460,16 +3459,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -2478,7 +3484,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7332%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Oxford%20azul%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7332%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Oxford%20azul%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -2497,21 +3503,51 @@
                   "precio": 21000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 24150,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -2545,16 +3581,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -2563,7 +3606,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8376%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5oxford%20tiro%20bajo%F0%9F%94%A5celeste%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8376%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5oxford%20tiro%20bajo%F0%9F%94%A5celeste%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -2582,21 +3625,51 @@
                   "precio": 27000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 31050,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 33750,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -2630,16 +3703,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -2648,7 +3728,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9631%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5OXFORD%20AZUL%20%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9631%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5OXFORD%20AZUL%20%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -2667,21 +3747,51 @@
                   "precio": 26000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 29900,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 32500,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -2723,16 +3833,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -2741,7 +3858,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2200%0A%F0%9F%94%B9%20Modelo%3A%20Slouchy%20gris%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2200%0A%F0%9F%94%B9%20Modelo%3A%20Slouchy%20gris%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -2760,21 +3877,51 @@
                   "precio": 23000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26450,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 28750,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -2808,16 +3955,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -2826,7 +3980,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3194%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Slouchy%20negro%20%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3194%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Slouchy%20negro%20%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -2845,21 +3999,51 @@
                   "precio": 21000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 24150,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -2893,16 +4077,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -2911,7 +4102,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7616%0A%F0%9F%94%B9%20Modelo%3A%20Slouchy%20Amely%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7616%0A%F0%9F%94%B9%20Modelo%3A%20Slouchy%20Amely%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -2930,21 +4121,51 @@
                   "precio": 23000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26450,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 28750,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -2986,16 +4207,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -3004,7 +4232,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2683%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20recto%20chocolate%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2683%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20recto%20chocolate%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -3023,21 +4251,51 @@
                   "precio": 21000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 24150,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -3071,16 +4329,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -3089,7 +4354,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT6545%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20recto%20bordo%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT6545%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20recto%20bordo%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -3108,21 +4373,51 @@
                   "precio": 21000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 24150,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -3156,16 +4451,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -3174,7 +4476,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7106%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20recto%20tiro%20medio%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7106%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20recto%20tiro%20medio%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -3193,21 +4495,51 @@
                   "precio": 25000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 28750,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 31250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -3241,16 +4573,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -3259,7 +4598,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8212%0A%F0%9F%94%B9%20Modelo%3A%20Recto%20tiro%20medio%20elastizado%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8212%0A%F0%9F%94%B9%20Modelo%3A%20Recto%20tiro%20medio%20elastizado%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -3278,21 +4617,51 @@
                   "precio": 25000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 28750,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 31250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -3419,16 +4788,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -3437,7 +4813,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2578%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20Emilia%F0%9F%94%A5AGOTADO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2578%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20Emilia%F0%9F%94%A5AGOTADO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -3456,21 +4832,51 @@
                   "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 27600,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 30000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -3504,16 +4910,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -3522,7 +4935,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2658%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20leg%20negro%20tiro%20bajo%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2658%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20leg%20negro%20tiro%20bajo%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -3541,21 +4954,51 @@
                   "precio": 21000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 24150,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -3589,16 +5032,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -3607,7 +5057,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3437%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5%F0%9F%94%A5Wide%20chocolate%20tiro%20medio%20%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3437%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5%F0%9F%94%A5Wide%20chocolate%20tiro%20medio%20%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -3626,21 +5076,51 @@
                   "precio": 26000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 29900,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 32500,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -3674,16 +5154,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -3692,7 +5179,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5566%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20leg%20negro%20tiro%20bajo%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5566%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20leg%20negro%20tiro%20bajo%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -3711,21 +5198,51 @@
                   "precio": 21000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 24150,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -3759,16 +5276,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -3777,7 +5301,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT6112%0A%F0%9F%94%B9%20Modelo%3A%20Borravino%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT6112%0A%F0%9F%94%B9%20Modelo%3A%20Borravino%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -3792,21 +5316,51 @@
                   "precio": 21000,
                   "variedad": "Curva",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 24000,
                   "variedad": "Mayor",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26000,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-24T03:00:00.000Z"
@@ -3840,16 +5394,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -3858,7 +5419,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7432%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20leg%20Lucia%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7432%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20leg%20Lucia%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -3877,21 +5438,51 @@
                   "precio": 23000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26450,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 28750,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -3925,16 +5516,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -3943,7 +5541,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7692%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20gris%20estampado%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7692%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20gris%20estampado%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -3962,21 +5560,51 @@
                   "precio": 22000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 25300,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 27500,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -4010,16 +5638,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -4028,7 +5663,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7858%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20verde%20estampado%20%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7858%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20verde%20estampado%20%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -4047,21 +5682,51 @@
                   "precio": 25000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 28750,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 31250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -4095,16 +5760,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -4113,7 +5785,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8389%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5%F0%9F%94%A5Wide%20leg%20Bela%20%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8389%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5%F0%9F%94%A5Wide%20leg%20Bela%20%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -4132,21 +5804,51 @@
                   "precio": 26000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 29900,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 32500,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -4180,16 +5882,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -4198,7 +5907,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8476%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20estrellas%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8476%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20estrellas%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -4217,21 +5926,51 @@
                   "precio": 25000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 28750,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 31250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -4265,16 +6004,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -4283,7 +6029,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8811%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20beige%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8811%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20beige%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -4302,21 +6048,51 @@
                   "precio": 21000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 24150,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -4350,16 +6126,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -4368,7 +6151,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8904%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20tiro%20bajo%20bordo%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8904%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5Wide%20tiro%20bajo%20bordo%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -4387,21 +6170,51 @@
                   "precio": 21000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 24150,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 26250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -4435,16 +6248,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -4453,7 +6273,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9228%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20Borravino%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9228%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20Borravino%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -4472,21 +6292,51 @@
                   "precio": 25000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 28750,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 31250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -4528,16 +6378,23 @@
                 },
                 "talles": {
                   "label": "Talles",
-                  "valores": []
+                  "valores": [
+                    "Surtido"
+                  ]
                 },
                 "colores": {
                   "label": "Colores",
-                  "valores": []
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -4546,7 +6403,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SPOL3429%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5SHORT%20POLLERA%20IVANA%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SPOL3429%0A%F0%9F%94%B9%20Modelo%3A%20%F0%9F%94%A5SHORT%20POLLERA%20IVANA%F0%9F%94%A5%F0%9F%94%A5%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
               "imagen": [
@@ -4565,21 +6422,51 @@
                   "precio": 25000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 28750,
                   "variedad": "Mayor",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
                   "precio": 31250,
                   "variedad": "Menor",
                   "minima": 1,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-05-25T03:00:00.000Z"
@@ -4623,5 +6510,5 @@
     "banco": "Mercado Pago"
   },
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1779736824223
+  "timestamp_ms": 1779790990328
 }
