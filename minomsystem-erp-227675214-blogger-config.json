@@ -274,7 +274,7 @@
                   "moneda": "$",
                   "precio": 16000,
                   "variedad": "Curva",
-                  "minima": 0,
+                  "minima": 2,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -396,7 +396,7 @@
                   "moneda": "$",
                   "precio": 15000,
                   "variedad": "Curva",
-                  "minima": 0,
+                  "minima": 6,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -663,7 +663,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 26450,
+                  "precio": 26000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -680,7 +680,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28750,
+                  "precio": 28000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -785,7 +785,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 31050,
+                  "precio": 30000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -802,7 +802,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 33750,
+                  "precio": 32000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -907,7 +907,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 27600,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -924,7 +924,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 30000,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -1029,7 +1029,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 32200,
+                  "precio": 31000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -1046,7 +1046,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 35000,
+                  "precio": 33000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -1134,7 +1134,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 25000,
+                  "precio": 26000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -1151,7 +1151,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28750,
+                  "precio": 29000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -1168,7 +1168,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 31250,
+                  "precio": 31000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -1256,7 +1256,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 23000,
+                  "precio": 27000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -1273,7 +1273,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 26450,
+                  "precio": 30000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -1290,7 +1290,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28750,
+                  "precio": 32000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -1378,7 +1378,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 24000,
+                  "precio": 26000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -1395,7 +1395,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 27600,
+                  "precio": 29000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -1412,7 +1412,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 30000,
+                  "precio": 31000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -1500,7 +1500,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 28000,
+                  "precio": 17000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -1517,7 +1517,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 32200,
+                  "precio": 20000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -1534,7 +1534,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 35000,
+                  "precio": 22000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -1639,7 +1639,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 27600,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -1656,7 +1656,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 30000,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -1769,7 +1769,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 19550,
+                  "precio": 20000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -1786,7 +1786,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 21250,
+                  "precio": 22000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -1874,7 +1874,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 17000,
+                  "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -1891,7 +1891,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 19550,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -1908,7 +1908,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 21250,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -2021,7 +2021,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 29900,
+                  "precio": 29000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -2126,7 +2126,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 29000,
+                  "precio": 26000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -2143,7 +2143,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 33350,
+                  "precio": 29000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -2160,7 +2160,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 36250,
+                  "precio": 31000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -2273,7 +2273,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 27600,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -2290,7 +2290,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 30000,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -2378,7 +2378,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 19000,
+                  "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -2395,7 +2395,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 21850,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -2412,7 +2412,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 23750,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -2517,7 +2517,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 27600,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -2534,7 +2534,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 30000,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -2622,7 +2622,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 19000,
+                  "precio": 27000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -2639,7 +2639,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 21850,
+                  "precio": 30000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -2656,7 +2656,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 23750,
+                  "precio": 32000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -2891,7 +2891,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 29900,
+                  "precio": 29000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -2908,7 +2908,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 32500,
+                  "precio": 31000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -3013,7 +3013,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 31050,
+                  "precio": 30000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -3030,7 +3030,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 33750,
+                  "precio": 32000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -3118,7 +3118,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 26000,
+                  "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -3135,7 +3135,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 29900,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -3152,7 +3152,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 32500,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -3240,7 +3240,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 26000,
+                  "precio": 28000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -3257,7 +3257,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 29900,
+                  "precio": 31000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -3274,7 +3274,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 32500,
+                  "precio": 33000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -3362,7 +3362,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 21000,
+                  "precio": 26000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -3379,7 +3379,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 24150,
+                  "precio": 29000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -3396,7 +3396,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 26250,
+                  "precio": 31000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -3484,7 +3484,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 27000,
+                  "precio": 28000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -3501,7 +3501,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 31050,
+                  "precio": 31000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -3518,7 +3518,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 33750,
+                  "precio": 33000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -3606,7 +3606,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 26000,
+                  "precio": 28000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -3623,7 +3623,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 29900,
+                  "precio": 31000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -3640,7 +3640,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 32500,
+                  "precio": 33000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -3875,7 +3875,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 24150,
+                  "precio": 24000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -3892,7 +3892,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 26250,
+                  "precio": 26000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -3980,7 +3980,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 23000,
+                  "precio": 17000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -3997,7 +3997,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 26450,
+                  "precio": 20000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -4014,7 +4014,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28750,
+                  "precio": 22000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -4232,7 +4232,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 21000,
+                  "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -4249,7 +4249,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 24150,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -4266,7 +4266,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 26250,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -4354,7 +4354,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 25000,
+                  "precio": 27000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -4371,7 +4371,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28750,
+                  "precio": 30000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -4388,7 +4388,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 31250,
+                  "precio": 32000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -4476,7 +4476,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 25000,
+                  "precio": 28000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -4493,7 +4493,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28750,
+                  "precio": 31000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -4510,7 +4510,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 31250,
+                  "precio": 33000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -4598,14 +4598,14 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 25300,
+                  "precio": 25000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 27500,
+                  "precio": 27000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -4952,7 +4952,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 29900,
+                  "precio": 29000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -4969,7 +4969,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 32500,
+                  "precio": 31000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -5057,7 +5057,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 21000,
+                  "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -5074,7 +5074,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 24150,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -5091,7 +5091,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 26250,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -5175,7 +5175,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 21000,
+                  "precio": 28000,
                   "variedad": "Curva",
                   "minima": 6,
                   "sub_variedad": {
@@ -5192,7 +5192,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 24000,
+                  "precio": 31000,
                   "variedad": "Mayor",
                   "minima": 6,
                   "sub_variedad": {
@@ -5209,7 +5209,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 26000,
+                  "precio": 33000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -5297,7 +5297,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 23000,
+                  "precio": 26000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -5314,7 +5314,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 26450,
+                  "precio": 29000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -5331,7 +5331,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28750,
+                  "precio": 31000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -5419,7 +5419,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 22000,
+                  "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -5436,7 +5436,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 25300,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -5453,7 +5453,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 27500,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -5541,7 +5541,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 25000,
+                  "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -5558,7 +5558,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28750,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -5575,7 +5575,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 31250,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -5663,7 +5663,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 26000,
+                  "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -5680,7 +5680,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 29900,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -5697,7 +5697,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 32500,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -5785,7 +5785,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 25000,
+                  "precio": 28000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -5802,7 +5802,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28750,
+                  "precio": 31000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -5819,7 +5819,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 31250,
+                  "precio": 33000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -5907,7 +5907,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 21000,
+                  "precio": 24000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -5924,7 +5924,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 24150,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -5941,7 +5941,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 26250,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -6029,7 +6029,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 21000,
+                  "precio": 28000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -6046,7 +6046,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 24150,
+                  "precio": 31000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -6063,7 +6063,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 26250,
+                  "precio": 33000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -6151,7 +6151,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 25000,
+                  "precio": 26000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -6168,7 +6168,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28750,
+                  "precio": 29000,
                   "variedad": "Mayor",
                   "minima": 0,
                   "sub_variedad": {
@@ -6185,7 +6185,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 31250,
+                  "precio": 31000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -6283,7 +6283,7 @@
                   "moneda": "$",
                   "precio": 25000,
                   "variedad": "Curva",
-                  "minima": 0,
+                  "minima": 6,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -6298,9 +6298,9 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28750,
+                  "precio": 28000,
                   "variedad": "Mayor",
-                  "minima": 0,
+                  "minima": 6,
                   "sub_variedad": {
                     "Surtido": {
                       "color": "#FF69B4-800080",
@@ -6315,7 +6315,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 31250,
+                  "precio": 30000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {
@@ -6366,5 +6366,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": false,
-  "timestamp_ms": 1779980036596
+  "timestamp_ms": 1779981831563
 }
