@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T16:51:49.020Z",
+  "generated_at": "2026-05-28T17:06:49.815Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2721,15 +2721,15 @@
     "CORREO_ELECTRONICO": "minom.oficial@gmail.com",
     "TIENDA_BLOGGER": "https://minom-jeans.blogspot.com",
     "SITIO_WEB": "",
-    "CATALOGO_DRIVE": "",
-    "FORMULARIO_COMPROBANTE": "",
+    "CATALOGO_DRIVE": "https://drive.google.com/drive/folders/1HcybmQ2afLHD2PcsOtdPqwU5OBlsFdlN?usp=sharing",
+    "FORMULARIO_COMPROBANTE": "https://script.google.com/macros/s/AKfycbzYhSY4sTRnUvPH6EcWNG89LjurVUbeWGAiUZMSdAsaHFpl7S0mjtWeQkfEnknG80A7/exec?view=client_form",
     "FORMULARIO_CLIENTE": "https://script.google.com/macros/s/AKfycbzYhSY4sTRnUvPH6EcWNG89LjurVUbeWGAiUZMSdAsaHFpl7S0mjtWeQkfEnknG80A7/exec?view=client_form",
     "FACEBOOK": "https://www.instagram.com/minomjeanss/",
     "INSTAGRAM": "https://www.instagram.com/minomjeanss/",
     "TIKTOK": "https://www.tiktok.com/@minomjeanss",
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
-    "EXCLUIR_SURTIDOS_VARIANTES": false,
+    "EXCLUIR_SURTIDOS_VARIANTES": true,
     "DOLAR_BLUE_VENTA": "1420",
     "DOLAR_BLUE_COMPRA": "1440",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
@@ -3832,5 +3832,5 @@
     }
   },
   "transferAccounts": [],
-  "timestamp_ms": 1779987198657
+  "timestamp_ms": 1779988103752
 }
