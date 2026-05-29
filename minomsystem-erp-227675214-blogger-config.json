@@ -157,25 +157,8 @@
                 {
                   "moneda": "$",
                   "precio": 16000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 19000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -189,7 +172,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 4,
+              "codigo": 3,
               "categoria": "Bermuda",
               "nombre": "BERM4189",
               "descripcion": {
@@ -261,25 +244,8 @@
                 {
                   "moneda": "$",
                   "precio": 16000,
-                  "variedad": "Curva",
-                  "minima": 2,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 19000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 2,
                   "sub_variedad": {}
                 },
                 {
@@ -293,7 +259,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 7,
+              "codigo": 5,
               "categoria": "Bermuda",
               "nombre": "BERM8418",
               "descripcion": {
@@ -369,25 +335,8 @@
                 {
                   "moneda": "$",
                   "precio": 15000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 18000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -409,7 +358,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_bagy.svg",
           "producto": [
             {
-              "codigo": 10,
+              "codigo": 7,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT1674",
               "descripcion": {
@@ -485,25 +434,8 @@
                 {
                   "moneda": "$",
                   "precio": 28000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 31000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -517,7 +449,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 13,
+              "codigo": 9,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT3144",
               "descripcion": {
@@ -593,25 +525,8 @@
                 {
                   "moneda": "$",
                   "precio": 23000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 26000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -625,7 +540,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 16,
+              "codigo": 11,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT4330",
               "descripcion": {
@@ -701,25 +616,8 @@
                 {
                   "moneda": "$",
                   "precio": 27000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 30000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -733,7 +631,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 19,
+              "codigo": 13,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT4551",
               "descripcion": {
@@ -809,25 +707,8 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -841,7 +722,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 22,
+              "codigo": 15,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT4657",
               "descripcion": {
@@ -911,25 +792,8 @@
                 {
                   "moneda": "$",
                   "precio": 28000,
-                  "variedad": "Curva",
-                  "minima": 0,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 31000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 0,
                   "sub_variedad": {}
                 },
                 {
@@ -943,7 +807,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 25,
+              "codigo": 17,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT5269",
               "descripcion": {
@@ -1016,23 +880,6 @@
                 {
                   "moneda": "$",
                   "precio": 26000,
-                  "variedad": "Curva",
-                  "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 29000,
                   "variedad": "Mayor",
                   "minima": 3,
                   "sub_variedad": {}
@@ -1048,7 +895,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 28,
+              "codigo": 19,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT5413",
               "descripcion": {
@@ -1121,23 +968,6 @@
                 {
                   "moneda": "$",
                   "precio": 27000,
-                  "variedad": "Curva",
-                  "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 30000,
                   "variedad": "Mayor",
                   "minima": 3,
                   "sub_variedad": {}
@@ -1153,7 +983,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 31,
+              "codigo": 21,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT9246",
               "descripcion": {
@@ -1228,25 +1058,8 @@
                 {
                   "moneda": "$",
                   "precio": 26000,
-                  "variedad": "Curva",
-                  "minima": 5,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 29000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 5,
                   "sub_variedad": {}
                 },
                 {
@@ -1260,7 +1073,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 34,
+              "codigo": 23,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT9493",
               "descripcion": {
@@ -1333,23 +1146,6 @@
                 {
                   "moneda": "$",
                   "precio": 17000,
-                  "variedad": "Curva",
-                  "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 20000,
                   "variedad": "Mayor",
                   "minima": 3,
                   "sub_variedad": {}
@@ -1365,7 +1161,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 37,
+              "codigo": 25,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT9679",
               "descripcion": {
@@ -1441,25 +1237,8 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -1481,7 +1260,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_chupin.svg",
           "producto": [
             {
-              "codigo": 40,
+              "codigo": 27,
               "categoria": "Pantalon Chupin",
               "nombre": "PANT3934",
               "descripcion": {
@@ -1557,25 +1336,8 @@
                 {
                   "moneda": "$",
                   "precio": 17000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 20000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -1589,7 +1351,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 43,
+              "codigo": 29,
               "categoria": "Pantalon Chupin",
               "nombre": "PANT9288",
               "descripcion": {
@@ -1665,25 +1427,8 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -1705,7 +1450,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_maxi_wige.svg",
           "producto": [
             {
-              "codigo": 46,
+              "codigo": 31,
               "categoria": "Pantalon Maxi Wige",
               "nombre": "PANT1109",
               "descripcion": {
@@ -1779,25 +1524,8 @@
                 {
                   "moneda": "$",
                   "precio": 26000,
-                  "variedad": "Curva",
-                  "minima": 4,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 29000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 4,
                   "sub_variedad": {}
                 },
                 {
@@ -1811,7 +1539,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 49,
+              "codigo": 33,
               "categoria": "Pantalon Maxi Wige",
               "nombre": "PANT4921",
               "descripcion": {
@@ -1883,25 +1611,8 @@
                 {
                   "moneda": "$",
                   "precio": 26000,
-                  "variedad": "Curva",
-                  "minima": 2,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 29000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 2,
                   "sub_variedad": {}
                 },
                 {
@@ -1923,7 +1634,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_moon.svg",
           "producto": [
             {
-              "codigo": 52,
+              "codigo": 35,
               "categoria": "Pantalon Moon",
               "nombre": "PANT2188",
               "descripcion": {
@@ -1998,25 +1709,8 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 5,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 5,
                   "sub_variedad": {}
                 },
                 {
@@ -2030,7 +1724,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 55,
+              "codigo": 37,
               "categoria": "Pantalon Moon",
               "nombre": "PANT5804",
               "descripcion": {
@@ -2106,25 +1800,8 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -2138,7 +1815,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 58,
+              "codigo": 39,
               "categoria": "Pantalon Moon",
               "nombre": "PANT8582",
               "descripcion": {
@@ -2213,25 +1890,8 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 5,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 5,
                   "sub_variedad": {}
                 },
                 {
@@ -2245,7 +1905,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 61,
+              "codigo": 41,
               "categoria": "Pantalon Moon",
               "nombre": "PANT9130",
               "descripcion": {
@@ -2321,25 +1981,8 @@
                 {
                   "moneda": "$",
                   "precio": 27000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 30000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -2361,7 +2004,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_oxfort.svg",
           "producto": [
             {
-              "codigo": 64,
+              "codigo": 43,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT2545",
               "descripcion": {
@@ -2436,25 +2079,8 @@
                 {
                   "moneda": "$",
                   "precio": 23000,
-                  "variedad": "Curva",
-                  "minima": 5,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 26000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 5,
                   "sub_variedad": {}
                 },
                 {
@@ -2468,7 +2094,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 67,
+              "codigo": 45,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT3635",
               "descripcion": {
@@ -2538,25 +2164,8 @@
                 {
                   "moneda": "$",
                   "precio": 26000,
-                  "variedad": "Curva",
-                  "minima": 0,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 29000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 0,
                   "sub_variedad": {}
                 },
                 {
@@ -2570,7 +2179,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 70,
+              "codigo": 47,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT4779",
               "descripcion": {
@@ -2646,25 +2255,8 @@
                 {
                   "moneda": "$",
                   "precio": 27000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 30000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -2678,7 +2270,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 73,
+              "codigo": 49,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT5798",
               "descripcion": {
@@ -2754,25 +2346,8 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -2786,7 +2361,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 76,
+              "codigo": 51,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT6650",
               "descripcion": {
@@ -2859,23 +2434,6 @@
                 {
                   "moneda": "$",
                   "precio": 28000,
-                  "variedad": "Curva",
-                  "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 31000,
                   "variedad": "Mayor",
                   "minima": 3,
                   "sub_variedad": {}
@@ -2891,7 +2449,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 79,
+              "codigo": 53,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT7332",
               "descripcion": {
@@ -2967,25 +2525,8 @@
                 {
                   "moneda": "$",
                   "precio": 26000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 29000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -2999,7 +2540,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 82,
+              "codigo": 55,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT8376",
               "descripcion": {
@@ -3076,25 +2617,8 @@
                 {
                   "moneda": "$",
                   "precio": 28000,
-                  "variedad": "Curva",
-                  "minima": 7,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 31000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 7,
                   "sub_variedad": {}
                 },
                 {
@@ -3108,7 +2632,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 85,
+              "codigo": 57,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT9631",
               "descripcion": {
@@ -3180,25 +2704,8 @@
                 {
                   "moneda": "$",
                   "precio": 28000,
-                  "variedad": "Curva",
-                  "minima": 2,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 31000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 2,
                   "sub_variedad": {}
                 },
                 {
@@ -3220,7 +2727,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg",
           "producto": [
             {
-              "codigo": 88,
+              "codigo": 59,
               "categoria": "Pantalon Parachute",
               "nombre": "PANT2200",
               "descripcion": {
@@ -3296,25 +2803,8 @@
                 {
                   "moneda": "$",
                   "precio": 23000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 26000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -3328,7 +2818,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 91,
+              "codigo": 61,
               "categoria": "Pantalon Parachute",
               "nombre": "PANT3194",
               "descripcion": {
@@ -3404,25 +2894,8 @@
                 {
                   "moneda": "$",
                   "precio": 21000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 24000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -3436,7 +2909,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 94,
+              "codigo": 63,
               "categoria": "Pantalon Parachute",
               "nombre": "PANT7616",
               "descripcion": {
@@ -3512,25 +2985,8 @@
                 {
                   "moneda": "$",
                   "precio": 17000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 20000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -3552,7 +3008,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_recto.svg",
           "producto": [
             {
-              "codigo": 97,
+              "codigo": 65,
               "categoria": "Pantalon Recto",
               "nombre": "PANT2683",
               "descripcion": {
@@ -3628,25 +3084,8 @@
                 {
                   "moneda": "$",
                   "precio": 21000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 24000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -3660,7 +3099,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 100,
+              "codigo": 67,
               "categoria": "Pantalon Recto",
               "nombre": "PANT6545",
               "descripcion": {
@@ -3736,25 +3175,8 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -3768,7 +3190,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 103,
+              "codigo": 69,
               "categoria": "Pantalon Recto",
               "nombre": "PANT7106",
               "descripcion": {
@@ -3844,25 +3266,8 @@
                 {
                   "moneda": "$",
                   "precio": 27000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 30000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -3876,7 +3281,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 106,
+              "codigo": 71,
               "categoria": "Pantalon Recto",
               "nombre": "PANT8212",
               "descripcion": {
@@ -3952,25 +3357,8 @@
                 {
                   "moneda": "$",
                   "precio": 28000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 31000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -3984,7 +3372,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 109,
+              "codigo": 73,
               "categoria": "Pantalon Recto",
               "nombre": "PANT9862",
               "descripcion": {
@@ -4060,25 +3448,8 @@
                 {
                   "moneda": "$",
                   "precio": 22000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 25000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -4100,7 +3471,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg",
           "producto": [
             {
-              "codigo": 112,
+              "codigo": 75,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT2578",
               "descripcion": {
@@ -4170,25 +3541,8 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 0,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 0,
                   "sub_variedad": {}
                 },
                 {
@@ -4202,7 +3556,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 115,
+              "codigo": 77,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT2658",
               "descripcion": {
@@ -4276,25 +3630,8 @@
                 {
                   "moneda": "$",
                   "precio": 21000,
-                  "variedad": "Curva",
-                  "minima": 4,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 24000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 4,
                   "sub_variedad": {}
                 },
                 {
@@ -4308,7 +3645,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 118,
+              "codigo": 79,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT3437",
               "descripcion": {
@@ -4380,25 +3717,8 @@
                 {
                   "moneda": "$",
                   "precio": 26000,
-                  "variedad": "Curva",
-                  "minima": 2,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 29000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 2,
                   "sub_variedad": {}
                 },
                 {
@@ -4412,7 +3732,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 121,
+              "codigo": 81,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT5566",
               "descripcion": {
@@ -4485,23 +3805,6 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 3,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 3,
                   "sub_variedad": {}
@@ -4517,7 +3820,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 124,
+              "codigo": 83,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT6112",
               "descripcion": {
@@ -4593,25 +3896,8 @@
                 {
                   "moneda": "$",
                   "precio": 28000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 31000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -4625,7 +3911,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 127,
+              "codigo": 85,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7432",
               "descripcion": {
@@ -4702,25 +3988,8 @@
                 {
                   "moneda": "$",
                   "precio": 26000,
-                  "variedad": "Curva",
-                  "minima": 7,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 29000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 7,
                   "sub_variedad": {}
                 },
                 {
@@ -4734,7 +4003,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 130,
+              "codigo": 87,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7692",
               "descripcion": {
@@ -4810,25 +4079,8 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -4842,7 +4094,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 133,
+              "codigo": 89,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7858",
               "descripcion": {
@@ -4918,25 +4170,8 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -4950,7 +4185,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 136,
+              "codigo": 91,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8389",
               "descripcion": {
@@ -5025,25 +4260,8 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 5,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 5,
                   "sub_variedad": {}
                 },
                 {
@@ -5057,7 +4275,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 139,
+              "codigo": 93,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8476",
               "descripcion": {
@@ -5133,25 +4351,8 @@
                 {
                   "moneda": "$",
                   "precio": 28000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 31000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -5165,7 +4366,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 142,
+              "codigo": 95,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8811",
               "descripcion": {
@@ -5240,25 +4441,8 @@
                 {
                   "moneda": "$",
                   "precio": 24000,
-                  "variedad": "Curva",
-                  "minima": 5,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 5,
                   "sub_variedad": {}
                 },
                 {
@@ -5272,7 +4456,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 145,
+              "codigo": 97,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8904",
               "descripcion": {
@@ -5348,25 +4532,8 @@
                 {
                   "moneda": "$",
                   "precio": 28000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 31000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -5380,7 +4547,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 148,
+              "codigo": 99,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9228",
               "descripcion": {
@@ -5456,25 +4623,8 @@
                 {
                   "moneda": "$",
                   "precio": 26000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 29000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -5496,7 +4646,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/spollera.svg",
           "producto": [
             {
-              "codigo": 151,
+              "codigo": 101,
               "categoria": "SPollera",
               "nombre": "SPOL3429",
               "descripcion": {
@@ -5572,25 +4722,8 @@
                 {
                   "moneda": "$",
                   "precio": 25000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 28000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
@@ -5611,5 +4744,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1780080811632
+  "timestamp_ms": 1780082649246
 }
