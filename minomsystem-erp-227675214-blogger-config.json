@@ -518,7 +518,15 @@
                   "archivo_id": "1vKtZ_KTGSOuQo9LZe9kvhS1HRoiBmbhp",
                   "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                  "fecha_carga": "2026-05-29T23:01:16.211Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3144%2FPANT3144-1vuX2.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3144%2FPANT3144-1vuX2.png",
+                  "archivo_id": "1vuX2guc_OuomY5Llzc4mNZ8LA-0u8kqy",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-05-29T23:01:16.211Z"
                 }
               ],
               "variedad": [
@@ -4744,5 +4752,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1780091606807
+  "timestamp_ms": 1780096130151
 }
