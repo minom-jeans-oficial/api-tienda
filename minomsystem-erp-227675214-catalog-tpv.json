@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T18:21:49.132Z",
+  "generated_at": "2026-05-29T18:36:49.651Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -20,7 +20,7 @@
           "Factura IVA",
           "Presupuesto"
         ],
-        "printerIp": "127.0.0.1",
+        "printerIp": "192.168.0.109",
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -48,7 +48,7 @@
           "Factura IVA",
           "Presupuesto"
         ],
-        "printerIp": "127.0.0.1",
+        "printerIp": "192.168.0.109",
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -3871,5 +3871,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1780079028815
+  "timestamp_ms": 1780079903707
 }
