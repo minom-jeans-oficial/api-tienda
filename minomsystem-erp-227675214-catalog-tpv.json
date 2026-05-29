@@ -1,9 +1,37 @@
 {
-  "generated_at": "2026-05-29T18:06:51.418Z",
+  "generated_at": "2026-05-29T18:21:49.132Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
       "address": "Av. Avellaneda 2329, C1406FYI Cdad. Autónoma de Buenos Aires, Argentina",
+      "phone": 1149606618,
+      "policies": "Fabricante mayorista de indumentaria Nacional femenino mejor precio y calidad en jeans de todo tipo",
+      "logoUrl": "BD_TIENDAS_Images/MINOM OFICIAL.LOGOTIPO.170347.png",
+      "qrData": "WHATSAPP",
+      "config": {
+        "minorSurcharge": 0,
+        "minimumPurchase": 3,
+        "saleMode": "MANUAL",
+        "allowedPaymentMethods": [
+          "Efectivo",
+          "Transferencia",
+          "Tarjeta Debito",
+          "Tarjeta Credito",
+          "Factura IVA",
+          "Presupuesto"
+        ],
+        "printerIp": "127.0.0.1",
+        "printSettings": {
+          "copias": 1,
+          "sonido": "1",
+          "marketing": "Guarda este cupon/ticket y obten un 5% de descuento en tu proxima compra",
+          "minCupon": 10000
+        }
+      }
+    },
+    "MINOM ARGERICH": {
+      "name": "MINOM ARGERICH",
+      "address": "Minom Jeans, Argerich 394, C1406AMD C1406AMD, Cdad. Autónoma de Buenos Aires",
       "phone": 1149606618,
       "policies": "Fabricante mayorista de indumentaria Nacional femenino mejor precio y calidad en jeans de todo tipo",
       "logoUrl": "BD_TIENDAS_Images/MINOM OFICIAL.LOGOTIPO.170347.png",
@@ -3843,5 +3871,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1780078126922
+  "timestamp_ms": 1780079028815
 }
