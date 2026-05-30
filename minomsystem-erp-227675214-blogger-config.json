@@ -3192,7 +3192,7 @@
                   "archivo_id": "1LgK7gtX6LuJaMfwiOBoMDwoUg2WUemt6",
                   "portada": true,
                   "orden": 2,
-                  "fecha_carga": "2026-05-30T16:33:33.326Z"
+                  "fecha_carga": "2026-05-30T16:39:25.413Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6545%2FPANT6545-1bU-K.png",
@@ -3200,7 +3200,15 @@
                   "archivo_id": "1bU-Ko3f-IPemhj6Ccjb9nYWqOLuWhsWc",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-05-30T16:33:33.326Z"
+                  "fecha_carga": "2026-05-30T16:39:25.413Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6545%2FPANT6545-1_Y4z.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6545%2FPANT6545-1_Y4z.png",
+                  "archivo_id": "1_Y4zES_L-ZTtLUbcrezyjnQMz2U3bTRt",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-05-30T16:39:25.413Z"
                 }
               ],
               "variedad": [
@@ -4776,5 +4784,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1780159235354
+  "timestamp_ms": 1780160148904
 }
