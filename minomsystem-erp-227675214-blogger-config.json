@@ -1652,8 +1652,12 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9647%2FPANT9647-1gnIA.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9647%2FPANT9647-1gnIA.jpg",
+                  "archivo_id": "1gnIA-pixkQ5h-eBW54NhMf2qd2dvIWXw",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-31T19:26:16.106Z"
                 }
               ],
               "variedad": [
@@ -5630,5 +5634,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1780255727347
+  "timestamp_ms": 1780256557037
 }
