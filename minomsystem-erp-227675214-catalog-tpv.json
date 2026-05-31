@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T19:25:47.140Z",
+  "generated_at": "2026-05-31T19:40:48.383Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3150,7 +3150,7 @@
       "brand": "MINOM",
       "style": "",
       "material": "",
-      "image": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9647%2FPANT9647-1gnIA.jpg",
       "carpeta_id": "1MFbr2C_Ruq9-zJoRCyyVBHLSdDjr4dxy",
       "woo_id": "",
       "varieties": [
@@ -3297,6 +3297,20 @@
         "cantidad_minima": 1
       }
     ],
+    "PANT1647": [
+      {
+        "variedad_id": "PANT1647-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT1647-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28750,
+        "cantidad_minima": 1
+      }
+    ],
     "PANT1674": [
       {
         "variedad_id": "PANT1674-Mayor",
@@ -3308,6 +3322,20 @@
         "variedad_id": "PANT1674-Menor",
         "nombre": "Menor",
         "precio_unitario": 33000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT1954": [
+      {
+        "variedad_id": "PANT1954-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 17000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT1954-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 21250,
         "cantidad_minima": 1
       }
     ],
@@ -3577,6 +3605,20 @@
         "cantidad_minima": 1
       }
     ],
+    "PANT5700": [
+      {
+        "variedad_id": "PANT5700-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT5700-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1
+      }
+    ],
     "PANT5798": [
       {
         "variedad_id": "PANT5798-Mayor",
@@ -3619,6 +3661,20 @@
         "cantidad_minima": 1
       }
     ],
+    "PANT6198": [
+      {
+        "variedad_id": "PANT6198-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 22000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT6198-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 27500,
+        "cantidad_minima": 1
+      }
+    ],
     "PANT6545": [
       {
         "variedad_id": "PANT6545-Mayor",
@@ -3644,6 +3700,20 @@
         "variedad_id": "PANT6650-Menor",
         "nombre": "Menor",
         "precio_unitario": 33000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT6919": [
+      {
+        "variedad_id": "PANT6919-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT6919-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28750,
         "cantidad_minima": 1
       }
     ],
@@ -3731,6 +3801,20 @@
         "cantidad_minima": 1
       }
     ],
+    "PANT8038": [
+      {
+        "variedad_id": "PANT8038-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT8038-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28750,
+        "cantidad_minima": 1
+      }
+    ],
     "PANT8212": [
       {
         "variedad_id": "PANT8212-Mayor",
@@ -3773,6 +3857,20 @@
         "cantidad_minima": 1
       }
     ],
+    "PANT8407": [
+      {
+        "variedad_id": "PANT8407-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT8407-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1
+      }
+    ],
     "PANT8476": [
       {
         "variedad_id": "PANT8476-Mayor",
@@ -3784,6 +3882,20 @@
         "variedad_id": "PANT8476-Menor",
         "nombre": "Menor",
         "precio_unitario": 33000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT8559": [
+      {
+        "variedad_id": "PANT8559-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 17000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT8559-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 21250,
         "cantidad_minima": 1
       }
     ],
@@ -3899,6 +4011,20 @@
         "cantidad_minima": 1
       }
     ],
+    "PANT9563": [
+      {
+        "variedad_id": "PANT9563-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT9563-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1
+      }
+    ],
     "PANT9631": [
       {
         "variedad_id": "PANT9631-Mayor",
@@ -3910,6 +4036,20 @@
         "variedad_id": "PANT9631-Menor",
         "nombre": "Menor",
         "precio_unitario": 33000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT9647": [
+      {
+        "variedad_id": "PANT9647-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT9647-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 18750,
         "cantidad_minima": 1
       }
     ],
@@ -3952,146 +4092,6 @@
         "variedad_id": "SPOL3429-Menor",
         "nombre": "Menor",
         "precio_unitario": 30000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT8407": [
-      {
-        "variedad_id": "PANT8407-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 24000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT8407-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT8038": [
-      {
-        "variedad_id": "PANT8038-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT8038-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 28750,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT5700": [
-      {
-        "variedad_id": "PANT5700-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 24000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT5700-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT6198": [
-      {
-        "variedad_id": "PANT6198-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 22000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT6198-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 27500,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT8559": [
-      {
-        "variedad_id": "PANT8559-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 17000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT8559-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 21250,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT1954": [
-      {
-        "variedad_id": "PANT1954-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 17000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT1954-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 21250,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT6919": [
-      {
-        "variedad_id": "PANT6919-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT6919-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 28750,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT9563": [
-      {
-        "variedad_id": "PANT9563-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 24000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT9563-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT1647": [
-      {
-        "variedad_id": "PANT1647-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT1647-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 28750,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT9647": [
-      {
-        "variedad_id": "PANT9647-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 15000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT9647-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 18750,
         "cantidad_minima": 1
       }
     ]
@@ -4178,5 +4178,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1780255628814
+  "timestamp_ms": 1780256531310
 }
