@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T18:25:48.353Z",
+  "generated_at": "2026-06-03T18:40:47.510Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2721,6 +2721,52 @@
           "variation_id": "PANT9862-Surtido-Surtido-MINOM OFICIAL"
         }
       ]
+    },
+    {
+      "id": "PANT4838",
+      "model": "Cintura Ajustable",
+      "price": 25000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "",
+      "material": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-17eoj.webp",
+      "carpeta_id": "1CEZVCxwG2S9gfl_MAh90znMrQCom-KYj",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT4838-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT4838-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 31250,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4838-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4838-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ]
     }
   ],
   "priceConfig": {
@@ -3494,6 +3540,20 @@
         "precio_unitario": 30000,
         "cantidad_minima": 1
       }
+    ],
+    "PANT4838": [
+      {
+        "variedad_id": "PANT4838-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT4838-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 31250,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -3578,5 +3638,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1780511263553
+  "timestamp_ms": 1780512127854
 }
