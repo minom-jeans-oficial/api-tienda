@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T18:55:49.933Z",
+  "generated_at": "2026-06-03T19:10:47.255Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2749,7 +2749,7 @@
         {
           "variedad_id": "PANT4838-Menor",
           "nombre": "Menor",
-          "precio_unitario": 31250,
+          "precio_unitario": 30000,
           "cantidad_minima": 1
         }
       ],
@@ -2765,6 +2765,52 @@
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
           "variation_id": "PANT4838-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ]
+    },
+    {
+      "id": "PANT1524",
+      "model": "con brillos",
+      "price": 25000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Sublimado",
+      "material": "Rígido",
+      "image": "",
+      "carpeta_id": "1iQboh9AZXZmXqpN5zf-d4naU1_XnWb3W",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT1524-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT1524-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 30000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT1524-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT1524-Surtido-Surtido-MINOM ARGERICH"
         }
       ]
     }
@@ -2817,8 +2863,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": true,
-    "DOLAR_BLUE_VENTA": "1415",
-    "DOLAR_BLUE_COMPRA": "1435",
+    "DOLAR_BLUE_VENTA": "1410",
+    "DOLAR_BLUE_COMPRA": "1430",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
@@ -3551,7 +3597,21 @@
       {
         "variedad_id": "PANT4838-Menor",
         "nombre": "Menor",
-        "precio_unitario": 31250,
+        "precio_unitario": 30000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT1524": [
+      {
+        "variedad_id": "PANT1524-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT1524-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
         "cantidad_minima": 1
       }
     ]
@@ -3638,5 +3698,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1780513073972
+  "timestamp_ms": 1780513946772
 }
