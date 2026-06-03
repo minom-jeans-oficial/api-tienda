@@ -949,7 +949,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 31250,
+                  "precio": 30000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -2157,6 +2157,93 @@
             {
               "codigo": 45,
               "categoria": "Pantalon Oxfort",
+              "nombre": "PANT1524",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "con brillos"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "03-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT1524%0A%F0%9F%94%B9%20Modelo%3A%20con%20brillos%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 25000,
+                  "variedad": "Mayor",
+                  "minima": 6,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 30000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-03T03:00:00.000Z"
+            },
+            {
+              "codigo": 47,
+              "categoria": "Pantalon Oxfort",
               "nombre": "PANT2545",
               "descripcion": {
                 "modelo": {
@@ -2245,7 +2332,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 47,
+              "codigo": 49,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT3635",
               "descripcion": {
@@ -2330,7 +2417,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 49,
+              "codigo": 51,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT4779",
               "descripcion": {
@@ -2421,7 +2508,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 51,
+              "codigo": 53,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT5798",
               "descripcion": {
@@ -2528,7 +2615,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 53,
+              "codigo": 55,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT6650",
               "descripcion": {
@@ -2616,7 +2703,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 55,
+              "codigo": 57,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT7332",
               "descripcion": {
@@ -2707,7 +2794,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 57,
+              "codigo": 59,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT8376",
               "descripcion": {
@@ -2799,7 +2886,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 59,
+              "codigo": 61,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT9631",
               "descripcion": {
@@ -2894,7 +2981,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg",
           "producto": [
             {
-              "codigo": 61,
+              "codigo": 63,
               "categoria": "Pantalon Parachute",
               "nombre": "PANT2200",
               "descripcion": {
@@ -2985,7 +3072,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 63,
+              "codigo": 65,
               "categoria": "Pantalon Parachute",
               "nombre": "PANT3194",
               "descripcion": {
@@ -3076,7 +3163,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 65,
+              "codigo": 67,
               "categoria": "Pantalon Parachute",
               "nombre": "PANT7616",
               "descripcion": {
@@ -3175,7 +3262,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_recto.svg",
           "producto": [
             {
-              "codigo": 67,
+              "codigo": 69,
               "categoria": "Pantalon Recto",
               "nombre": "PANT2683",
               "descripcion": {
@@ -3266,7 +3353,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 69,
+              "codigo": 71,
               "categoria": "Pantalon Recto",
               "nombre": "PANT6545",
               "descripcion": {
@@ -3373,7 +3460,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 71,
+              "codigo": 73,
               "categoria": "Pantalon Recto",
               "nombre": "PANT7106",
               "descripcion": {
@@ -3464,7 +3551,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 73,
+              "codigo": 75,
               "categoria": "Pantalon Recto",
               "nombre": "PANT8212",
               "descripcion": {
@@ -3555,7 +3642,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 75,
+              "codigo": 77,
               "categoria": "Pantalon Recto",
               "nombre": "PANT9862",
               "descripcion": {
@@ -3654,7 +3741,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg",
           "producto": [
             {
-              "codigo": 77,
+              "codigo": 79,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT2578",
               "descripcion": {
@@ -3739,7 +3826,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 79,
+              "codigo": 81,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT2658",
               "descripcion": {
@@ -3828,7 +3915,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 81,
+              "codigo": 83,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT3437",
               "descripcion": {
@@ -3915,7 +4002,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 83,
+              "codigo": 85,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT5566",
               "descripcion": {
@@ -4003,7 +4090,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 85,
+              "codigo": 87,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT6112",
               "descripcion": {
@@ -4094,7 +4181,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 87,
+              "codigo": 89,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7432",
               "descripcion": {
@@ -4186,7 +4273,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 89,
+              "codigo": 91,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7692",
               "descripcion": {
@@ -4277,7 +4364,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 91,
+              "codigo": 93,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7858",
               "descripcion": {
@@ -4368,7 +4455,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 93,
+              "codigo": 95,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8389",
               "descripcion": {
@@ -4458,7 +4545,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 95,
+              "codigo": 97,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8476",
               "descripcion": {
@@ -4549,7 +4636,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 97,
+              "codigo": 99,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8811",
               "descripcion": {
@@ -4639,7 +4726,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 99,
+              "codigo": 101,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8904",
               "descripcion": {
@@ -4730,7 +4817,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 101,
+              "codigo": 103,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9228",
               "descripcion": {
@@ -4829,7 +4916,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/spollera.svg",
           "producto": [
             {
-              "codigo": 103,
+              "codigo": 105,
               "categoria": "SPollera",
               "nombre": "SPOL3429",
               "descripcion": {
@@ -4927,5 +5014,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1780513064457
+  "timestamp_ms": 1780513958881
 }
