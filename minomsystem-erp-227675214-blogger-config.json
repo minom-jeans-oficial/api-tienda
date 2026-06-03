@@ -2219,8 +2219,52 @@
               },
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-19pum.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-19pum.jpg",
+                  "archivo_id": "19pumFBHq5sy-hWZbqZCBeq52h-g1m-3R",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-06-03T19:25:32.219Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1_2q6.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1_2q6.jpg",
+                  "archivo_id": "1_2q64j6gSxYRujwcx0IuRVu0ot10T96w",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-06-03T19:25:32.219Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-11neK.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-11neK.jpg",
+                  "archivo_id": "11neKQqGC4mmrfRSr473uxqK99KA5yqg_",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-06-03T19:25:32.219Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1rPZq.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1rPZq.jpg",
+                  "archivo_id": "1rPZqOsqiGNZjhm04Tl0GECp_unkhmycp",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-06-03T19:25:32.219Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1_tyJ.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1_tyJ.jpg",
+                  "archivo_id": "1_tyJC9rWTtTZ5UowFYGu46iCfkFvBclM",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-06-03T19:25:32.219Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1x5JF.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1x5JF.jpg",
+                  "archivo_id": "1x5JFENy4Wt1kOjQybJbyYjo6AOR8YxnD",
+                  "portada": false,
+                  "orden": 12,
+                  "fecha_carga": "2026-06-03T19:25:32.219Z"
                 }
               ],
               "variedad": [
@@ -5014,5 +5058,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1780513958881
+  "timestamp_ms": 1780514892905
 }
