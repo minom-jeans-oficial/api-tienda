@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T19:25:49.958Z",
+  "generated_at": "2026-06-03T19:40:48.389Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2929,6 +2929,20 @@
         "cantidad_minima": 1
       }
     ],
+    "PANT1524": [
+      {
+        "variedad_id": "PANT1524-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT1524-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1
+      }
+    ],
     "PANT1674": [
       {
         "variedad_id": "PANT1674-Mayor",
@@ -3150,6 +3164,20 @@
         "variedad_id": "PANT4779-Menor",
         "nombre": "Menor",
         "precio_unitario": 32000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT4838": [
+      {
+        "variedad_id": "PANT4838-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT4838-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
         "cantidad_minima": 1
       }
     ],
@@ -3586,34 +3614,6 @@
         "precio_unitario": 30000,
         "cantidad_minima": 1
       }
-    ],
-    "PANT4838": [
-      {
-        "variedad_id": "PANT4838-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "PANT4838-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT1524": [
-      {
-        "variedad_id": "PANT1524-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "PANT1524-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1
-      }
     ]
   },
   "clients": [
@@ -3698,5 +3698,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1780514874661
+  "timestamp_ms": 1780515764270
 }
