@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T18:10:47.552Z",
+  "generated_at": "2026-06-05T18:25:47.814Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -20,7 +20,7 @@
           "Factura IVA",
           "Presupuesto"
         ],
-        "printerIp": "192.168.0.109",
+        "printerIp": "192.168.0.196",
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -478,52 +478,6 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT4657-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ]
-    },
-    {
-      "id": "BERM3435",
-      "model": "Bermuda Isabela",
-      "price": 16000,
-      "display_price": 16000,
-      "minor_surcharge": 0,
-      "category_id": "Bermuda",
-      "categoryName": "Bermuda",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Bermuda",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3435%2FBERM3435-1usJn.jpg",
-      "carpeta_id": "1KWX0l4VlTm5STOM8UbJ1u5fAMXWPRDly",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "BERM3435-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 16000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "BERM3435-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 21000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "BERM3435-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "BERM3435-Surtido-Surtido-MINOM OFICIAL"
         }
       ]
     },
@@ -1172,52 +1126,6 @@
       ]
     },
     {
-      "id": "BERM4189",
-      "model": "Bermuda Topazio",
-      "price": 16000,
-      "display_price": 16000,
-      "minor_surcharge": 0,
-      "category_id": "Bermuda",
-      "categoryName": "Bermuda",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Bermuda",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM4189%2FBERM4189-1tLSq.jpg",
-      "carpeta_id": "1P8O4XaGcrk1x-L9rcNuIGH3iZgYWhiZa",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "BERM4189-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 16000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "BERM4189-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 21000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "BERM4189-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "BERM4189-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ]
-    },
-    {
       "id": "PANT1674",
       "model": "Baggy cargo celeste",
       "price": 28000,
@@ -1357,7 +1265,7 @@
     },
     {
       "id": "PANT9679",
-      "model": "BAGY MILAN",
+      "model": "Bagy milan",
       "price": 24000,
       "display_price": 24000,
       "minor_surcharge": 0,
@@ -1377,12 +1285,12 @@
           "variedad_id": "PANT9679-Mayor",
           "nombre": "Mayor",
           "precio_unitario": 24000,
-          "cantidad_minima": 1
+          "cantidad_minima": 6
         },
         {
           "variedad_id": "PANT9679-Menor",
           "nombre": "Menor",
-          "precio_unitario": 29000,
+          "precio_unitario": 30000,
           "cantidad_minima": 1
         }
       ],
@@ -1582,39 +1490,6 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT7106-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ]
-    },
-    {
-      "id": "BERM3875",
-      "model": "BERMUDA CARGO",
-      "price": 0,
-      "display_price": 0,
-      "minor_surcharge": 0,
-      "category_id": "Bermuda",
-      "categoryName": "Bermuda",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Cargo",
-      "material": "",
-      "image": "",
-      "carpeta_id": "1pdnS_LyEUqd41bVmtiF2TESfk1-khVc1",
-      "woo_id": "",
-      "varieties": [],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "BERM3875-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "BERM3875-Surtido-Surtido-MINOM OFICIAL"
         }
       ]
     },
@@ -1845,52 +1720,6 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT5269-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ]
-    },
-    {
-      "id": "BERM8418",
-      "model": "Bermuda colores 1",
-      "price": 15000,
-      "display_price": 15000,
-      "minor_surcharge": 0,
-      "category_id": "Bermuda",
-      "categoryName": "Bermuda",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Bermuda",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM8418%2FBERM8418-1JHZz.jpg",
-      "carpeta_id": "1mlor4MIP7CIWQ8fCteUWCnq91yLipUU8",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "BERM8418-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 15000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "BERM8418-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 20000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "BERM8418-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "BERM8418-Surtido-Surtido-MINOM OFICIAL"
         }
       ]
     },
@@ -2873,48 +2702,6 @@
     "CARRUSELES": ""
   },
   "allVarieties": {
-    "BERM3435": [
-      {
-        "variedad_id": "BERM3435-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 16000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "BERM3435-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 21000,
-        "cantidad_minima": 1
-      }
-    ],
-    "BERM4189": [
-      {
-        "variedad_id": "BERM4189-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 16000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "BERM4189-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 21000,
-        "cantidad_minima": 1
-      }
-    ],
-    "BERM8418": [
-      {
-        "variedad_id": "BERM8418-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 15000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "BERM8418-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 20000,
-        "cantidad_minima": 1
-      }
-    ],
     "PANT1109": [
       {
         "variedad_id": "PANT1109-Mayor",
@@ -3578,12 +3365,12 @@
         "variedad_id": "PANT9679-Mayor",
         "nombre": "Mayor",
         "precio_unitario": 24000,
-        "cantidad_minima": 1
+        "cantidad_minima": 6
       },
       {
         "variedad_id": "PANT9679-Menor",
         "nombre": "Menor",
-        "precio_unitario": 29000,
+        "precio_unitario": 30000,
         "cantidad_minima": 1
       }
     ],
@@ -3698,5 +3485,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1780683172849
+  "timestamp_ms": 1780684077743
 }
