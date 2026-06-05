@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T18:25:47.814Z",
+  "generated_at": "2026-06-05T18:40:47.077Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -438,8 +438,8 @@
     {
       "id": "PANT4657",
       "model": "Baggy animal print",
-      "price": 28000,
-      "display_price": 28000,
+      "price": 23000,
+      "display_price": 23000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -456,13 +456,13 @@
         {
           "variedad_id": "PANT4657-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 28000,
+          "precio_unitario": 23000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT4657-Menor",
           "nombre": "Menor",
-          "precio_unitario": 33000,
+          "precio_unitario": 28750,
           "cantidad_minima": 1
         }
       ],
@@ -714,8 +714,8 @@
     {
       "id": "PANT3934",
       "model": "Chupín ANA",
-      "price": 17000,
-      "display_price": 17000,
+      "price": 20000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Chupin",
       "categoryName": "Pantalon Chupin",
@@ -732,13 +732,13 @@
         {
           "variedad_id": "PANT3934-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 17000,
-          "cantidad_minima": 1
+          "precio_unitario": 20000,
+          "cantidad_minima": 6
         },
         {
           "variedad_id": "PANT3934-Menor",
           "nombre": "Menor",
-          "precio_unitario": 22000,
+          "precio_unitario": 25000,
           "cantidad_minima": 1
         }
       ],
@@ -1168,52 +1168,6 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT1674-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ]
-    },
-    {
-      "id": "SPOL3429",
-      "model": "SHORT POLLERA IVANA",
-      "price": 25000,
-      "display_price": 25000,
-      "minor_surcharge": 0,
-      "category_id": "SPollera",
-      "categoryName": "SPollera",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Short",
-      "material": "Elastizado",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FSPOL3429%2FSPOL3429-1JgoA.jpg",
-      "carpeta_id": "1IxEXFVnqNHF2GZZ7MH39yKzHtHbSvwh-",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "SPOL3429-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 25000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "SPOL3429-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 30000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "SPOL3429-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "SPOL3429-Surtido-Surtido-MINOM OFICIAL"
         }
       ]
     },
@@ -1679,9 +1633,9 @@
     },
     {
       "id": "PANT5269",
-      "model": "Baggy human",
-      "price": 25000,
-      "display_price": 26000,
+      "model": "Bagy human",
+      "price": 15000,
+      "display_price": 15000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -1698,13 +1652,13 @@
         {
           "variedad_id": "PANT5269-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 26000,
-          "cantidad_minima": 1
+          "precio_unitario": 15000,
+          "cantidad_minima": 3
         },
         {
           "variedad_id": "PANT5269-Menor",
           "nombre": "Menor",
-          "precio_unitario": 31000,
+          "precio_unitario": 18750,
           "cantidad_minima": 1
         }
       ],
@@ -1864,8 +1818,8 @@
     {
       "id": "PANT9288",
       "model": "Chupín Elsa",
-      "price": 17000,
-      "display_price": 24000,
+      "price": 20000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Chupin",
       "categoryName": "Pantalon Chupin",
@@ -1882,13 +1836,13 @@
         {
           "variedad_id": "PANT9288-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
+          "precio_unitario": 20000,
+          "cantidad_minima": 6
         },
         {
           "variedad_id": "PANT9288-Menor",
           "nombre": "Menor",
-          "precio_unitario": 29000,
+          "precio_unitario": 25000,
           "cantidad_minima": 1
         }
       ],
@@ -1955,9 +1909,9 @@
     },
     {
       "id": "PANT4330",
-      "model": "BAGY BLANCO",
+      "model": "Bagy blanco",
       "price": 22000,
-      "display_price": 27000,
+      "display_price": 22000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -1974,13 +1928,13 @@
         {
           "variedad_id": "PANT4330-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 27000,
-          "cantidad_minima": 1
+          "precio_unitario": 22000,
+          "cantidad_minima": 6
         },
         {
           "variedad_id": "PANT4330-Menor",
           "nombre": "Menor",
-          "precio_unitario": 32000,
+          "precio_unitario": 27500,
           "cantidad_minima": 1
         }
       ],
@@ -2888,13 +2842,13 @@
       {
         "variedad_id": "PANT3934-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 17000,
-        "cantidad_minima": 1
+        "precio_unitario": 20000,
+        "cantidad_minima": 6
       },
       {
         "variedad_id": "PANT3934-Menor",
         "nombre": "Menor",
-        "precio_unitario": 22000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1
       }
     ],
@@ -2902,13 +2856,13 @@
       {
         "variedad_id": "PANT4330-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1
+        "precio_unitario": 22000,
+        "cantidad_minima": 6
       },
       {
         "variedad_id": "PANT4330-Menor",
         "nombre": "Menor",
-        "precio_unitario": 32000,
+        "precio_unitario": 27500,
         "cantidad_minima": 1
       }
     ],
@@ -2930,13 +2884,13 @@
       {
         "variedad_id": "PANT4657-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 28000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT4657-Menor",
         "nombre": "Menor",
-        "precio_unitario": 33000,
+        "precio_unitario": 28750,
         "cantidad_minima": 1
       }
     ],
@@ -2986,13 +2940,13 @@
       {
         "variedad_id": "PANT5269-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 26000,
-        "cantidad_minima": 1
+        "precio_unitario": 15000,
+        "cantidad_minima": 3
       },
       {
         "variedad_id": "PANT5269-Menor",
         "nombre": "Menor",
-        "precio_unitario": 31000,
+        "precio_unitario": 18750,
         "cantidad_minima": 1
       }
     ],
@@ -3322,13 +3276,13 @@
       {
         "variedad_id": "PANT9288-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 24000,
-        "cantidad_minima": 1
+        "precio_unitario": 20000,
+        "cantidad_minima": 6
       },
       {
         "variedad_id": "PANT9288-Menor",
         "nombre": "Menor",
-        "precio_unitario": 29000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1
       }
     ],
@@ -3385,20 +3339,6 @@
         "variedad_id": "PANT9862-Menor",
         "nombre": "Menor",
         "precio_unitario": 27000,
-        "cantidad_minima": 1
-      }
-    ],
-    "SPOL3429": [
-      {
-        "variedad_id": "SPOL3429-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "SPOL3429-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
         "cantidad_minima": 1
       }
     ]
@@ -3485,5 +3425,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1780684077743
+  "timestamp_ms": 1780684935023
 }
