@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T18:40:47.077Z",
+  "generated_at": "2026-06-05T18:55:47.602Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -23,9 +23,9 @@
         "printerIp": "192.168.0.196",
         "printSettings": {
           "copias": 1,
-          "sonido": "1",
-          "marketing": "Guarda este cupon/ticket y obten un 5% de descuento en tu proxima compra",
-          "minCupon": 10000
+          "sonido": "0",
+          "marketing": "",
+          "minCupon": 0
         }
       }
     },
@@ -52,8 +52,8 @@
         "printSettings": {
           "copias": 1,
           "sonido": "1",
-          "marketing": "Guarda este cupon/ticket y obten un 5% de descuento en tu proxima compra",
-          "minCupon": 10000
+          "marketing": "",
+          "minCupon": 0
         }
       }
     }
@@ -2646,8 +2646,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": true,
-    "DOLAR_BLUE_VENTA": "1410",
-    "DOLAR_BLUE_COMPRA": "1430",
+    "DOLAR_BLUE_VENTA": "1415",
+    "DOLAR_BLUE_COMPRA": "1435",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
@@ -3425,5 +3425,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1780684935023
+  "timestamp_ms": 1780685904213
 }
