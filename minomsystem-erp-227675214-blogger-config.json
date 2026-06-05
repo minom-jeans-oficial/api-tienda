@@ -76,289 +76,12 @@
       "categorias": [
         {
           "codigo": 1,
-          "nombre": "Bermuda",
-          "url_categoria": "",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/bermuda.svg",
-          "producto": [
-            {
-              "codigo": 1,
-              "categoria": "Bermuda",
-              "nombre": "BERM3435",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Bermuda Isabela"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Rígido"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "36",
-                    "38",
-                    "40",
-                    "42",
-                    "44",
-                    "46"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "100",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "25-05-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM3435%0A%F0%9F%94%B9%20Modelo%3A%20Bermuda%20Isabela%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3435%2FBERM3435-1usJn.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM3435%2FBERM3435-1usJn.jpg",
-                  "archivo_id": "1usJnVU1ny1iNLaDSKhbfH7EQoOAgPD2R",
-                  "portada": true,
-                  "orden": 2,
-                  "fecha_carga": "2026-05-25T05:33:24.442Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 16000,
-                  "variedad": "Mayor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 21000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-05-28T03:00:00.000Z"
-            },
-            {
-              "codigo": 3,
-              "categoria": "Bermuda",
-              "nombre": "BERM4189",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Bermuda Topazio"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Rígido"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "42",
-                    "46"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "100",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "25-05-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM4189%0A%F0%9F%94%B9%20Modelo%3A%20Bermuda%20Topazio%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2042%2C%2046"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM4189%2FBERM4189-1tLSq.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM4189%2FBERM4189-1tLSq.jpg",
-                  "archivo_id": "1tLSqfo_471Ft-eoKG3j8jU7fGW-mHyy5",
-                  "portada": true,
-                  "orden": 2,
-                  "fecha_carga": "2026-05-25T05:33:24.442Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 16000,
-                  "variedad": "Mayor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 21000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-05-28T03:00:00.000Z"
-            },
-            {
-              "codigo": 5,
-              "categoria": "Bermuda",
-              "nombre": "BERM8418",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Bermuda colores 1"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Rígido"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "36",
-                    "38",
-                    "40",
-                    "42",
-                    "44",
-                    "46"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "100",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "25-05-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BERM8418%0A%F0%9F%94%B9%20Modelo%3A%20Bermuda%20colores%201%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM8418%2FBERM8418-1JHZz.jpg",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FBERM8418%2FBERM8418-1JHZz.jpg",
-                  "archivo_id": "1JHZzv_xiB-NbaComrlntCiRGFcXlTz12",
-                  "portada": true,
-                  "orden": 2,
-                  "fecha_carga": "2026-05-25T05:33:24.442Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 15000,
-                  "variedad": "Mayor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 20000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-05-28T03:00:00.000Z"
-            }
-          ]
-        },
-        {
-          "codigo": 2,
           "nombre": "Pantalon Bagy",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_bagy.svg",
           "producto": [
             {
-              "codigo": 7,
+              "codigo": 1,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT1674",
               "descripcion": {
@@ -449,7 +172,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 9,
+              "codigo": 3,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT3144",
               "descripcion": {
@@ -548,7 +271,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 11,
+              "codigo": 5,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT4330",
               "descripcion": {
@@ -639,7 +362,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 13,
+              "codigo": 7,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT4551",
               "descripcion": {
@@ -730,7 +453,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 15,
+              "codigo": 9,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT4657",
               "descripcion": {
@@ -815,7 +538,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 17,
+              "codigo": 11,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT4838",
               "descripcion": {
@@ -958,7 +681,7 @@
               "upd": "2026-06-03T03:00:00.000Z"
             },
             {
-              "codigo": 19,
+              "codigo": 13,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT5269",
               "descripcion": {
@@ -1046,7 +769,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 21,
+              "codigo": 15,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT5413",
               "descripcion": {
@@ -1134,7 +857,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 23,
+              "codigo": 17,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT9246",
               "descripcion": {
@@ -1224,7 +947,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 25,
+              "codigo": 19,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT9493",
               "descripcion": {
@@ -1312,13 +1035,13 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 27,
+              "codigo": 21,
               "categoria": "Pantalon Bagy",
               "nombre": "PANT9679",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
-                  "valor": "BAGY MILAN"
+                  "valor": "Bagy milan"
                 },
                 "marca": {
                   "label": "Marca",
@@ -1366,12 +1089,12 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "25-05-2026"
+                  "valor": "05-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9679%0A%F0%9F%94%B9%20Modelo%3A%20BAGY%20MILAN%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9679%0A%F0%9F%94%B9%20Modelo%3A%20Bagy%20milan%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
               "imagen": [
@@ -1389,29 +1112,29 @@
                   "moneda": "$",
                   "precio": 24000,
                   "variedad": "Mayor",
-                  "minima": 1,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 29000,
+                  "precio": 30000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-05-28T03:00:00.000Z"
+              "upd": "2026-06-05T03:00:00.000Z"
             }
           ]
         },
         {
-          "codigo": 3,
+          "codigo": 2,
           "nombre": "Pantalon Chupin",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_chupin.svg",
           "producto": [
             {
-              "codigo": 29,
+              "codigo": 23,
               "categoria": "Pantalon Chupin",
               "nombre": "PANT3934",
               "descripcion": {
@@ -1502,7 +1225,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 31,
+              "codigo": 25,
               "categoria": "Pantalon Chupin",
               "nombre": "PANT9288",
               "descripcion": {
@@ -1595,13 +1318,13 @@
           ]
         },
         {
-          "codigo": 4,
+          "codigo": 3,
           "nombre": "Pantalon Maxi Wige",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_maxi_wige.svg",
           "producto": [
             {
-              "codigo": 33,
+              "codigo": 27,
               "categoria": "Pantalon Maxi Wige",
               "nombre": "PANT1109",
               "descripcion": {
@@ -1690,7 +1413,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 35,
+              "codigo": 29,
               "categoria": "Pantalon Maxi Wige",
               "nombre": "PANT4921",
               "descripcion": {
@@ -1779,13 +1502,13 @@
           ]
         },
         {
-          "codigo": 5,
+          "codigo": 4,
           "nombre": "Pantalon Moon",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_moon.svg",
           "producto": [
             {
-              "codigo": 37,
+              "codigo": 31,
               "categoria": "Pantalon Moon",
               "nombre": "PANT2188",
               "descripcion": {
@@ -1875,7 +1598,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 39,
+              "codigo": 33,
               "categoria": "Pantalon Moon",
               "nombre": "PANT5804",
               "descripcion": {
@@ -1966,7 +1689,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 41,
+              "codigo": 35,
               "categoria": "Pantalon Moon",
               "nombre": "PANT8582",
               "descripcion": {
@@ -2056,7 +1779,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 43,
+              "codigo": 37,
               "categoria": "Pantalon Moon",
               "nombre": "PANT9130",
               "descripcion": {
@@ -2149,13 +1872,13 @@
           ]
         },
         {
-          "codigo": 6,
+          "codigo": 5,
           "nombre": "Pantalon Oxfort",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_oxfort.svg",
           "producto": [
             {
-              "codigo": 45,
+              "codigo": 39,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT1524",
               "descripcion": {
@@ -2270,7 +1993,7 @@
               "upd": "2026-06-03T03:00:00.000Z"
             },
             {
-              "codigo": 47,
+              "codigo": 41,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT2545",
               "descripcion": {
@@ -2360,7 +2083,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 49,
+              "codigo": 43,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT3635",
               "descripcion": {
@@ -2445,7 +2168,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 51,
+              "codigo": 45,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT4779",
               "descripcion": {
@@ -2536,7 +2259,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 53,
+              "codigo": 47,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT5798",
               "descripcion": {
@@ -2643,7 +2366,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 55,
+              "codigo": 49,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT6650",
               "descripcion": {
@@ -2689,7 +2412,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "100",
+                  "valor": "99",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -2731,7 +2454,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 57,
+              "codigo": 51,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT7332",
               "descripcion": {
@@ -2822,7 +2545,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 59,
+              "codigo": 53,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT8376",
               "descripcion": {
@@ -2914,7 +2637,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 61,
+              "codigo": 55,
               "categoria": "Pantalon Oxfort",
               "nombre": "PANT9631",
               "descripcion": {
@@ -3003,13 +2726,13 @@
           ]
         },
         {
-          "codigo": 7,
+          "codigo": 6,
           "nombre": "Pantalon Parachute",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg",
           "producto": [
             {
-              "codigo": 63,
+              "codigo": 57,
               "categoria": "Pantalon Parachute",
               "nombre": "PANT2200",
               "descripcion": {
@@ -3100,7 +2823,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 65,
+              "codigo": 59,
               "categoria": "Pantalon Parachute",
               "nombre": "PANT3194",
               "descripcion": {
@@ -3191,7 +2914,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 67,
+              "codigo": 61,
               "categoria": "Pantalon Parachute",
               "nombre": "PANT7616",
               "descripcion": {
@@ -3284,13 +3007,13 @@
           ]
         },
         {
-          "codigo": 8,
+          "codigo": 7,
           "nombre": "Pantalon Recto",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_recto.svg",
           "producto": [
             {
-              "codigo": 69,
+              "codigo": 63,
               "categoria": "Pantalon Recto",
               "nombre": "PANT2683",
               "descripcion": {
@@ -3381,7 +3104,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 71,
+              "codigo": 65,
               "categoria": "Pantalon Recto",
               "nombre": "PANT6545",
               "descripcion": {
@@ -3488,7 +3211,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 73,
+              "codigo": 67,
               "categoria": "Pantalon Recto",
               "nombre": "PANT7106",
               "descripcion": {
@@ -3579,7 +3302,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 75,
+              "codigo": 69,
               "categoria": "Pantalon Recto",
               "nombre": "PANT8212",
               "descripcion": {
@@ -3670,7 +3393,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 77,
+              "codigo": 71,
               "categoria": "Pantalon Recto",
               "nombre": "PANT9862",
               "descripcion": {
@@ -3763,13 +3486,13 @@
           ]
         },
         {
-          "codigo": 9,
+          "codigo": 8,
           "nombre": "Pantalon Wige Leg",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg",
           "producto": [
             {
-              "codigo": 79,
+              "codigo": 73,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT2578",
               "descripcion": {
@@ -3854,7 +3577,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 81,
+              "codigo": 75,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT2658",
               "descripcion": {
@@ -3943,7 +3666,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 83,
+              "codigo": 77,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT3437",
               "descripcion": {
@@ -4030,7 +3753,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 85,
+              "codigo": 79,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT5566",
               "descripcion": {
@@ -4118,7 +3841,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 87,
+              "codigo": 81,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT6112",
               "descripcion": {
@@ -4209,7 +3932,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 89,
+              "codigo": 83,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7432",
               "descripcion": {
@@ -4301,7 +4024,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 91,
+              "codigo": 85,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7692",
               "descripcion": {
@@ -4392,7 +4115,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 93,
+              "codigo": 87,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7858",
               "descripcion": {
@@ -4483,7 +4206,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 95,
+              "codigo": 89,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8389",
               "descripcion": {
@@ -4573,7 +4296,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 97,
+              "codigo": 91,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8476",
               "descripcion": {
@@ -4664,7 +4387,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 99,
+              "codigo": 93,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8811",
               "descripcion": {
@@ -4754,7 +4477,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 101,
+              "codigo": 95,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8904",
               "descripcion": {
@@ -4845,7 +4568,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 103,
+              "codigo": 97,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9228",
               "descripcion": {
@@ -4938,13 +4661,13 @@
           ]
         },
         {
-          "codigo": 10,
+          "codigo": 9,
           "nombre": "SPollera",
           "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/spollera.svg",
           "producto": [
             {
-              "codigo": 105,
+              "codigo": 99,
               "categoria": "SPollera",
               "nombre": "SPOL3429",
               "descripcion": {
@@ -5042,5 +4765,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1780679537851
+  "timestamp_ms": 1780684058315
 }
