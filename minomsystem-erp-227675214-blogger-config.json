@@ -353,7 +353,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 27500,
+                  "precio": 27000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -529,7 +529,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28750,
+                  "precio": 28000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -760,7 +760,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 18750,
+                  "precio": 20000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -1117,7 +1117,7 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 30000,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -4666,5 +4666,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1780918976299
+  "timestamp_ms": 1780924338674
 }
