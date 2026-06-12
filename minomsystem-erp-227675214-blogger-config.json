@@ -236,7 +236,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "25-05-2026"
+                  "valor": "12-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -267,18 +267,18 @@
                   "moneda": "$",
                   "precio": 23000,
                   "variedad": "Mayor",
-                  "minima": 1,
+                  "minima": 6,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 28000,
+                  "precio": 28750,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-05-28T03:00:00.000Z"
+              "upd": "2026-06-12T03:00:00.000Z"
             },
             {
               "codigo": 5,
@@ -526,7 +526,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "05-06-2026"
+                  "valor": "12-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -554,13 +554,13 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28000,
+                  "precio": 28750,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-06-05T03:00:00.000Z"
+              "upd": "2026-06-12T03:00:00.000Z"
             },
             {
               "codigo": 11,
@@ -4911,5 +4911,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781268004610
+  "timestamp_ms": 1781276984865
 }
