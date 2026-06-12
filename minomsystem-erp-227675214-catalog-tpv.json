@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T14:52:49.333Z",
+  "generated_at": "2026-06-12T15:07:49.265Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -464,7 +464,7 @@
         {
           "variedad_id": "PANT4657-Menor",
           "nombre": "Menor",
-          "precio_unitario": 28000,
+          "precio_unitario": 28750,
           "cantidad_minima": 1
         }
       ],
@@ -600,12 +600,12 @@
           "variedad_id": "PANT3144-Mayor",
           "nombre": "Mayor",
           "precio_unitario": 23000,
-          "cantidad_minima": 1
+          "cantidad_minima": 6
         },
         {
           "variedad_id": "PANT3144-Menor",
           "nombre": "Menor",
-          "precio_unitario": 28000,
+          "precio_unitario": 28750,
           "cantidad_minima": 1
         }
       ],
@@ -2836,12 +2836,12 @@
         "variedad_id": "PANT3144-Mayor",
         "nombre": "Mayor",
         "precio_unitario": 23000,
-        "cantidad_minima": 1
+        "cantidad_minima": 6
       },
       {
         "variedad_id": "PANT3144-Menor",
         "nombre": "Menor",
-        "precio_unitario": 28000,
+        "precio_unitario": 28750,
         "cantidad_minima": 1
       }
     ],
@@ -2939,7 +2939,7 @@
       {
         "variedad_id": "PANT4657-Menor",
         "nombre": "Menor",
-        "precio_unitario": 28000,
+        "precio_unitario": 28750,
         "cantidad_minima": 1
       }
     ],
@@ -3474,5 +3474,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781276081422
+  "timestamp_ms": 1781277001045
 }
