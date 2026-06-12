@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T14:37:50.697Z",
+  "generated_at": "2026-06-12T14:52:49.333Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3419,7 +3419,7 @@
     },
     {
       "id": "Tarjeta Credito",
-      "percent": 0.23,
+      "percent": 0.1,
       "code": "Tarjeta Credito",
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_credito.svg"
     },
@@ -3450,7 +3450,7 @@
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_debito.svg"
     },
     "Tarjeta Credito": {
-      "porcentaje": 0.23,
+      "porcentaje": 0.1,
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_credito.svg"
     },
     "Factura IVA": {
@@ -3474,5 +3474,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781275162358
+  "timestamp_ms": 1781276081422
 }
