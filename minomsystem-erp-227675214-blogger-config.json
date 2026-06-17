@@ -3950,6 +3950,136 @@
             {
               "codigo": 79,
               "categoria": "Pantalon Wige Leg",
+              "nombre": "PANT4655",
+              "carpeta_id": "1YrISWNg_pnysgLSNziTi5jaUndZbVC1s",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Recto Gris"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Liso"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Gris",
+                      "hex": "#808080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "17-06-2026"
+                },
+                "video": {
+                  "label": "Video",
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4655%2FPANT4655-1VK9P.mov",
+                  "thumbnail": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4655%2FPANT4655-1VK9P_thumb.jpg&v=1JdExND26HqTFCGzfsQ5aONSgl22-dzbH"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4655%0A%F0%9F%94%B9%20Modelo%3A%20Recto%20Gris%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4655%2FPANT4655-18TP7.JPG",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4655%2FPANT4655-18TP7.JPG",
+                  "archivo_id": "18TP7Q1PfCSMgaxx1znCi3N6kz-NVerMJ",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-06-17T17:48:12.408Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4655%2FPANT4655-1yJxS.JPG",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4655%2FPANT4655-1yJxS.JPG",
+                  "archivo_id": "1yJxSMd7czBRhM-pQZKl0aLcJ4qCJaCZY",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-06-17T17:48:12.408Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4655%2FPANT4655-18eJk.JPG",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4655%2FPANT4655-18eJk.JPG",
+                  "archivo_id": "18eJkdFOTVjceuI8aSkIk__x5WD2NTfia",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-06-17T17:48:12.408Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4655%2FPANT4655-1MeVg.JPG",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4655%2FPANT4655-1MeVg.JPG",
+                  "archivo_id": "1MeVgC7QLg2eeDNYTWoP-W3k2eqbEsqRR",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-06-17T17:48:12.408Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 23000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 28000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-17T03:00:00.000Z"
+            },
+            {
+              "codigo": 81,
+              "categoria": "Pantalon Wige Leg",
               "nombre": "PANT5566",
               "carpeta_id": "1Sv-L6UmtVYtFryoWxgeQJUTgH_5X8kLZ",
               "descripcion": {
@@ -4041,7 +4171,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 81,
+              "codigo": 83,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT6112",
               "carpeta_id": "1S0noyQ_4hewHKaC5rn1j7-WxoP9bL8Gy",
@@ -4137,7 +4267,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 83,
+              "codigo": 85,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7432",
               "carpeta_id": "16jLb-v4SFvIZTHYv67EBzoAjf01-R-ws",
@@ -4234,7 +4364,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 85,
+              "codigo": 87,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7692",
               "carpeta_id": "1Yh-VjDudMbQKO-QOkopDtSi9WSS6Satf",
@@ -4330,7 +4460,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 87,
+              "codigo": 89,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7858",
               "carpeta_id": "1Nt_g-g_rqtLwmGcm-hTaDceSC0HIFTHt",
@@ -4426,7 +4556,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 89,
+              "codigo": 91,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8389",
               "carpeta_id": "1kI7x0VKM0RwEOQb4vb7pq-Tu74wBosHf",
@@ -4521,7 +4651,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 91,
+              "codigo": 93,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8476",
               "carpeta_id": "1lXvbCMLDF3ZWRwmTTpXDTIbgH2Z-QMZj",
@@ -4617,7 +4747,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 93,
+              "codigo": 95,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8811",
               "carpeta_id": "1XAvHKZAKZXRG-IAzirYkwPYAB39gHPgh",
@@ -4712,7 +4842,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 95,
+              "codigo": 97,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8904",
               "carpeta_id": "18hp_wYAWzzLzDVHpsbv5CSaSjlPcgmv5",
@@ -4808,7 +4938,7 @@
               "upd": "2026-05-28T03:00:00.000Z"
             },
             {
-              "codigo": 97,
+              "codigo": 99,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9228",
               "carpeta_id": "1oXI-FqpZm7vGcT9n7YO2vQkPnA18jihY",
@@ -4902,6 +5032,102 @@
                 }
               ],
               "upd": "2026-05-28T03:00:00.000Z"
+            },
+            {
+              "codigo": 101,
+              "categoria": "Pantalon Wige Leg",
+              "nombre": "PANT9681",
+              "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Maxiwide negro"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Con recortes"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Negro",
+                      "hex": "#000000"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "17-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9681%0A%F0%9F%94%B9%20Modelo%3A%20Maxiwide%20negro%0A%F0%9F%94%B9%20Marca%3A%20MINOM%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 26000,
+                  "variedad": "Mayor",
+                  "minima": 6,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 26000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-17T03:00:00.000Z"
             }
           ]
         },
@@ -4912,7 +5138,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/spollera.svg",
           "producto": [
             {
-              "codigo": 99,
+              "codigo": 103,
               "categoria": "SPollera",
               "nombre": "SPOL7447",
               "carpeta_id": "1Endpv77oBQ1mAzKvnoMqUTisO2jpQzDN",
@@ -5008,5 +5234,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781708112157
+  "timestamp_ms": 1781718894042
 }
