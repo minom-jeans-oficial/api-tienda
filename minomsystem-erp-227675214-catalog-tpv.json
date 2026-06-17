@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T18:22:50.597Z",
+  "generated_at": "2026-06-17T18:37:49.294Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -344,176 +344,32 @@
   ],
   "products": [
     {
-      "id": "PANT6112",
-      "sku": "Pant001",
-      "model": "Borravino",
-      "price": 21000,
-      "display_price": 28000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
+      "id": "PANT1109",
+      "sku": "24199294046379447",
+      "model": "Maxi Wide leg Flavia",
+      "price": 19000,
+      "display_price": 26000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Maxi Wige",
+      "categoryName": "Pantalon Maxi Wige",
       "parentCategory": "INDUMENTARIA",
       "season": "SIN-TEMPORADA",
       "gender": "Mujer",
       "brand": "MINOM",
       "style": "Wide Leg",
-      "material": "",
-      "image": "",
-      "carpeta_id": "1S0noyQ_4hewHKaC5rn1j7-WxoP9bL8Gy",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT6112-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 28000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT6112-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 33000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT6112-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT6112-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT6650",
-      "sku": "25264224996513383",
-      "model": "Oxford Pilar",
-      "price": 22000,
-      "display_price": 28000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Oxfort",
-      "categoryName": "Pantalon Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Oxford",
-      "material": "Elastizado",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6650%2FPANT6650-1F4HA.jpg",
-      "carpeta_id": "1oroqVlHdrMB76_ZDT07uMGBeAvnvCQzO",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT6650-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 28000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT6650-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 33000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT6650-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT6650-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT4657",
-      "sku": "26418724157798953",
-      "model": "Baggy animal print",
-      "price": 23000,
-      "display_price": 23000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Baggy",
       "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4657%2FPANT4657-12DVF.jpg",
-      "carpeta_id": "1A7ybXc5rcOvlZRRDBgWWPAozaG1LDFuj",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1109%2FPANT1109-18Z_N.jpg",
+      "carpeta_id": "1IRrhNZq3kbEsVxymqh_9tc9qmf11g25H",
       "woo_id": "",
       "varieties": [
         {
-          "variedad_id": "PANT4657-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 23000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT4657-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 28750,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4657-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4657-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT7332",
-      "sku": "26458644670487058",
-      "model": "Oxford azul",
-      "price": 21000,
-      "display_price": 26000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Oxfort",
-      "categoryName": "Pantalon Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Oxford",
-      "material": "Elastizado",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7332%2FPANT7332-1-O3H.jpg",
-      "carpeta_id": "1Q2VXBW6ZCumsU4xs87VWcOeLrqnoTV1p",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT7332-Mayor",
+          "variedad_id": "PANT1109-Mayor",
           "nombre": "Mayor",
           "precio_unitario": 26000,
           "cantidad_minima": 1
         },
         {
-          "variedad_id": "PANT7332-Menor",
+          "variedad_id": "PANT1109-Menor",
           "nombre": "Menor",
           "precio_unitario": 31000,
           "cantidad_minima": 1
@@ -524,13 +380,349 @@
           "color": "Surtido",
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT7332-Surtido-Surtido-MINOM ARGERICH"
+          "variation_id": "PANT1109-Surtido-Surtido-MINOM ARGERICH"
         },
         {
           "color": "Surtido",
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT7332-Surtido-Surtido-MINOM OFICIAL"
+          "variation_id": "PANT1109-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT1524",
+      "sku": "Pant009",
+      "model": "con brillos",
+      "price": 25000,
+      "display_price": 25000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Sublimado",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1LauB.webp",
+      "carpeta_id": "1iQboh9AZXZmXqpN5zf-d4naU1_XnWb3W",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT1524-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT1524-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 30000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT1524-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT1524-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT1674",
+      "sku": "24210543938585518",
+      "model": "Baggy cargo celeste",
+      "price": 28000,
+      "display_price": 28000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Baggy",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1674%2FPANT1674-17krx.jpg",
+      "carpeta_id": "1f40_lt-F68AwvAVlBWPQovya_XxT7ss0",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT1674-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 28000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT1674-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 33000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT1674-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT1674-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2188",
+      "sku": "26969842115935938",
+      "model": "MOM BEIGE",
+      "price": 20000,
+      "display_price": 24000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Moon",
+      "categoryName": "Pantalon Moon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Mom",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2188%2FPANT2188-1CbF_.jpg",
+      "carpeta_id": "1QCWPaBbJhWH3uy8hIaDLHsV9ykiUPVLc",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT2188-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT2188-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT2188-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT2188-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2200",
+      "sku": "25412160445118685",
+      "model": "Slouchy gris",
+      "price": 20000,
+      "display_price": 23000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Parachute",
+      "categoryName": "Pantalon Parachute",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Slouchy",
+      "material": "Elastizado",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2200%2FPANT2200-1IjC3.jpg",
+      "carpeta_id": "1uDBLdjOt3B2e8n3dFOsqM42kRDw4E0Q8",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT2200-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 23000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT2200-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 28000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT2200-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT2200-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2545",
+      "sku": "26287052090947757",
+      "model": "OXFORD TIRO BAJO",
+      "price": 22000,
+      "display_price": 23000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Oxford",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2545%2FPANT2545-1ULXV.jpg",
+      "carpeta_id": "1rnQIxY8nXVa6EAYH2vGi1pAOUYC7CArd",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT2545-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 23000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT2545-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 28000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT2545-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT2545-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2578",
+      "sku": "26511104985193016",
+      "model": "Wide leg Emilia",
+      "price": 24000,
+      "display_price": 24000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Surtido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2578%2FPANT2578-14pDt.jpg",
+      "carpeta_id": "1HW637kRbmZ_obWOHq19nTwdQdCrD5Lqt",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT2578-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT2578-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT2578-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT2578-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2658",
+      "sku": "27449559801297138",
+      "model": "Wide leg negro tiro bajo",
+      "price": 21000,
+      "display_price": 21000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2658%2FPANT2658-1Ktzl.jpg",
+      "carpeta_id": "12FUGn9lLyq_9rx-yv3-1jqv3wDNbP6rQ",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT2658-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 21000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT2658-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT2658-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT2658-Surtido-Surtido-MINOM OFICIAL"
         }
       ],
       "fecha_creacion": ""
@@ -541,7 +733,7 @@
       "model": "Wide recto chocolate",
       "price": 21000,
       "display_price": 21000,
-      "minor_surcharge": 0,
+      "minor_surcharge": 5000,
       "category_id": "Pantalon Recto",
       "categoryName": "Pantalon Recto",
       "parentCategory": "INDUMENTARIA",
@@ -589,7 +781,7 @@
       "model": "BAGY NEGRO",
       "price": 23000,
       "display_price": 23000,
-      "minor_surcharge": 0,
+      "minor_surcharge": 5000,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
       "parentCategory": "INDUMENTARIA",
@@ -632,444 +824,12 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT4551",
-      "sku": "26297584769875138",
-      "model": "Baggy London",
-      "price": 24000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Baggy",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4551%2FPANT4551-1uFml.jpg",
-      "carpeta_id": "19FVdJP0j5bb-Hxa_Gfivga0PigMNMImC",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT4551-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT4551-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 29000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4551-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4551-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT2658",
-      "sku": "27449559801297138",
-      "model": "Wide leg negro tiro bajo",
-      "price": 21000,
-      "display_price": 21000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2658%2FPANT2658-1Ktzl.jpg",
-      "carpeta_id": "12FUGn9lLyq_9rx-yv3-1jqv3wDNbP6rQ",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT2658-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 21000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT2658-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 26000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT2658-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT2658-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT3934",
-      "sku": "10032434470189158",
-      "model": "Chupín ANA",
-      "price": 20000,
-      "display_price": 20000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Chupin",
-      "categoryName": "Pantalon Chupin",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Pitillo",
-      "material": "Elastizado",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3934%2FPANT3934-1Y1xa.jpg",
-      "carpeta_id": "1TIAw7Z_I1xygInrDdMxkBzgU0sOS0pZ9",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT3934-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 20000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT3934-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 25000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT3934-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT3934-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT7432",
-      "sku": "24461514323503637",
-      "model": "Wide leg Lucia",
-      "price": 22000,
-      "display_price": 26000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7432%2FPANT7432-1SXt3.jpg",
-      "carpeta_id": "16jLb-v4SFvIZTHYv67EBzoAjf01-R-ws",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT7432-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 26000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT7432-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 31000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT7432-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT7432-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT1109",
-      "sku": "24199294046379447",
-      "model": "Maxi Wide leg Flavia",
-      "price": 19000,
-      "display_price": 26000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Maxi Wige",
-      "categoryName": "Pantalon Maxi Wige",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1109%2FPANT1109-18Z_N.jpg",
-      "carpeta_id": "1IRrhNZq3kbEsVxymqh_9tc9qmf11g25H",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT1109-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 26000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT1109-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 31000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT1109-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT1109-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT8904",
-      "sku": "35779747758306567",
-      "model": "Wide tiro bajo bordo",
-      "price": 21000,
-      "display_price": 28000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8904%2FPANT8904-1Jy4V.jpg",
-      "carpeta_id": "18hp_wYAWzzLzDVHpsbv5CSaSjlPcgmv5",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT8904-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 28000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT8904-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 33000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT8904-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT8904-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT8582",
-      "sku": "27097995193123189",
-      "model": "mom azul",
-      "price": 22000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Moon",
-      "categoryName": "Pantalon Moon",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Mom",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8582%2FPANT8582-1vQWZ.jpg",
-      "carpeta_id": "1ABRNNdfBTCTkrNhQhc5Oh__lle7K_4un",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT8582-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT8582-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 29000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT8582-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT8582-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT7692",
-      "sku": "26545887375068706",
-      "model": "Wide gris estampado",
-      "price": 22000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7692%2FPANT7692-1G1QV.jpg",
-      "carpeta_id": "1Yh-VjDudMbQKO-QOkopDtSi9WSS6Satf",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT7692-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT7692-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 29000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT7692-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT7692-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT3635",
-      "sku": "25955598870766978",
-      "model": "OXFORD ZAFIRO AGOTADO",
-      "price": 22000,
-      "display_price": 26000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Oxfort",
-      "categoryName": "Pantalon Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Oxford",
-      "material": "Elastizado",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3635%2FPANT3635-1Cw_u.jpg",
-      "carpeta_id": "1Z8pCu6jUWPcR00FHDcF_Irlq2gMB0W9N",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT3635-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 26000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT3635-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 31000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT3635-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT3635-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "PANT3194",
       "sku": "26793884046964588",
       "model": "Slouchy negro",
       "price": 20000,
       "display_price": 21000,
-      "minor_surcharge": 0,
+      "minor_surcharge": 5000,
       "category_id": "Pantalon Parachute",
       "categoryName": "Pantalon Parachute",
       "parentCategory": "INDUMENTARIA",
@@ -1112,12 +872,108 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT1674",
-      "sku": "24210543938585518",
-      "model": "Baggy cargo celeste",
-      "price": 28000,
-      "display_price": 28000,
-      "minor_surcharge": 0,
+      "id": "PANT3437",
+      "sku": "26648751968086316",
+      "model": "Wide chocolate tiro medio",
+      "price": 21000,
+      "display_price": 26000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Elastizado",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3437%2FPANT3437-1WpZt.jpg",
+      "carpeta_id": "1JUjZvYmgySKryYFHsLbhSd-CeLA3JxWq",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT3437-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT3437-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 31000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT3437-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT3437-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT3934",
+      "sku": "10032434470189158",
+      "model": "Chupín ANA",
+      "price": 20000,
+      "display_price": 20000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Chupin",
+      "categoryName": "Pantalon Chupin",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Pitillo",
+      "material": "Elastizado",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3934%2FPANT3934-1Y1xa.jpg",
+      "carpeta_id": "1TIAw7Z_I1xygInrDdMxkBzgU0sOS0pZ9",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT3934-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 20000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT3934-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT3934-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT3934-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4330",
+      "sku": "25859128170386263",
+      "model": "Bagy blanco",
+      "price": 22000,
+      "display_price": 22000,
+      "minor_surcharge": 5000,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
       "parentCategory": "INDUMENTARIA",
@@ -1126,18 +982,546 @@
       "brand": "MINOM",
       "style": "Baggy",
       "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1674%2FPANT1674-17krx.jpg",
-      "carpeta_id": "1f40_lt-F68AwvAVlBWPQovya_XxT7ss0",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4330%2FPANT4330-152yq.jpg",
+      "carpeta_id": "1w0IwolZnXEbF0g860Eqy6yAzxqo3gVJD",
       "woo_id": "",
       "varieties": [
         {
-          "variedad_id": "PANT1674-Mayor",
+          "variedad_id": "PANT4330-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 22000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4330-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 27000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4330-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4330-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4551",
+      "sku": "26297584769875138",
+      "model": "Baggy London",
+      "price": 24000,
+      "display_price": 24000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Baggy",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4551%2FPANT4551-1uFml.jpg",
+      "carpeta_id": "19FVdJP0j5bb-Hxa_Gfivga0PigMNMImC",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT4551-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4551-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4551-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4551-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4655",
+      "sku": "Pant014",
+      "model": "Recto Gris",
+      "price": 23000,
+      "display_price": 23000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Liso",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4655%2FPANT4655-18TP7.JPG",
+      "carpeta_id": "1YrISWNg_pnysgLSNziTi5jaUndZbVC1s",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT4655-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 23000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4655-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 28000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4655-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4655-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4657",
+      "sku": "26418724157798953",
+      "model": "Baggy animal print",
+      "price": 23000,
+      "display_price": 23000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Baggy",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4657%2FPANT4657-12DVF.jpg",
+      "carpeta_id": "1A7ybXc5rcOvlZRRDBgWWPAozaG1LDFuj",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT4657-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 23000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4657-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 28750,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4657-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4657-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4779",
+      "sku": "25920431124287225",
+      "model": "OXFORD NEGRO",
+      "price": 21000,
+      "display_price": 27000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Oxford",
+      "material": "Elastizado",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4779%2FPANT4779-141c8.jpg",
+      "carpeta_id": "1p8JojmpITDX1TdO9yoXIt_mFkWEYqtJB",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT4779-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 27000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4779-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 32000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4779-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4779-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4838",
+      "sku": "Pant011",
+      "model": "Cintura Ajustable",
+      "price": 25000,
+      "display_price": 25000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "",
+      "material": "",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-17eoj.webp",
+      "carpeta_id": "1CEZVCxwG2S9gfl_MAh90znMrQCom-KYj",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT4838-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4838-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 30000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4838-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4838-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4921",
+      "sku": "26922916100679312",
+      "model": "maxi Wide celeste",
+      "price": 29000,
+      "display_price": 26000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Maxi Wige",
+      "categoryName": "Pantalon Maxi Wige",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4921%2FPANT4921-1Ne1d.jpg",
+      "carpeta_id": "1gqi6Sl5EoV8aNQ9xsCFcqpT0djRuuPmy",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT4921-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4921-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 31000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4921-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4921-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT5269",
+      "sku": "25341562188861376",
+      "model": "Bagy human",
+      "price": 15000,
+      "display_price": 15000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Baggy",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5269%2FPANT5269-1il_g.jpg",
+      "carpeta_id": "1DEr4XE3YSKc3S7APs5m69FVeyF7K1GMS",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT5269-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 15000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT5269-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 20000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT5269-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT5269-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT5413",
+      "sku": "26923576650613057",
+      "model": "Baggy print",
+      "price": 23000,
+      "display_price": 27000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Baggy",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5413%2FPANT5413-1txqm.jpg",
+      "carpeta_id": "1j4eYWmuvSp83jgAnSJ8sMS1peVOC7I19",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT5413-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 27000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT5413-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 32000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT5413-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT5413-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT5798",
+      "sku": "26801450732838777",
+      "model": "oxford oxido tiro alto",
+      "price": 22000,
+      "display_price": 24000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Oxford",
+      "material": "Elastizado",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5798%2FPANT5798-1R3cZ.png",
+      "carpeta_id": "1v5TWfwxWgH5GKCxcqM1V9iqOsdUsCG2a",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT5798-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT5798-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT5798-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT5798-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT5804",
+      "sku": "25865684273131237",
+      "model": "mom negro",
+      "price": 22000,
+      "display_price": 24000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Moon",
+      "categoryName": "Pantalon Moon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Mom",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5804%2FPANT5804-1PkkM.jpg",
+      "carpeta_id": "172W2x_XurqE0fPh_HnNiV2A1eD3WnP2V",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT5804-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT5804-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT5804-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT5804-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT6112",
+      "sku": "Pant001",
+      "model": "Borravino",
+      "price": 21000,
+      "display_price": 28000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "",
+      "image": "",
+      "carpeta_id": "1S0noyQ_4hewHKaC5rn1j7-WxoP9bL8Gy",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT6112-Mayor",
           "nombre": "Mayor",
           "precio_unitario": 28000,
           "cantidad_minima": 1
         },
         {
-          "variedad_id": "PANT1674-Menor",
+          "variedad_id": "PANT6112-Menor",
           "nombre": "Menor",
           "precio_unitario": 33000,
           "cantidad_minima": 1
@@ -1148,13 +1532,877 @@
           "color": "Surtido",
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT1674-Surtido-Surtido-MINOM ARGERICH"
+          "variation_id": "PANT6112-Surtido-Surtido-MINOM ARGERICH"
         },
         {
           "color": "Surtido",
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT1674-Surtido-Surtido-MINOM OFICIAL"
+          "variation_id": "PANT6112-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT6545",
+      "sku": "27117721721248129",
+      "model": "Wide recto bordo",
+      "price": 21000,
+      "display_price": 24000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Recto",
+      "categoryName": "Pantalon Recto",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6545%2FPANT6545-1_Y4z.png",
+      "carpeta_id": "1xOSjiT7lVULTd6LywTjZf2ygBvN9IGXD",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT6545-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT6545-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT6545-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT6545-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT6650",
+      "sku": "25264224996513383",
+      "model": "Oxford Pilar",
+      "price": 22000,
+      "display_price": 28000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Oxford",
+      "material": "Elastizado",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6650%2FPANT6650-1F4HA.jpg",
+      "carpeta_id": "1oroqVlHdrMB76_ZDT07uMGBeAvnvCQzO",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT6650-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 28000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT6650-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 33000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT6650-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT6650-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT7106",
+      "sku": "26521953680803068",
+      "model": "Wide recto tiro medio",
+      "price": 25000,
+      "display_price": 27000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Recto",
+      "categoryName": "Pantalon Recto",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7106%2FPANT7106-1NBg_.jpg",
+      "carpeta_id": "1ugNMmTWhZxlXbBEUZEFU-WjGLLDKDJOx",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT7106-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 27000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT7106-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 32000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT7106-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT7106-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT7332",
+      "sku": "26458644670487058",
+      "model": "Oxford azul",
+      "price": 21000,
+      "display_price": 26000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Oxford",
+      "material": "Elastizado",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7332%2FPANT7332-1-O3H.jpg",
+      "carpeta_id": "1Q2VXBW6ZCumsU4xs87VWcOeLrqnoTV1p",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT7332-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT7332-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 31000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT7332-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT7332-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT7432",
+      "sku": "24461514323503637",
+      "model": "Wide leg Lucia",
+      "price": 22000,
+      "display_price": 26000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7432%2FPANT7432-1SXt3.jpg",
+      "carpeta_id": "16jLb-v4SFvIZTHYv67EBzoAjf01-R-ws",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT7432-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT7432-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 31000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT7432-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT7432-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT7616",
+      "sku": "25432790663036698",
+      "model": "Slouchy Amely",
+      "price": 20000,
+      "display_price": 17000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Parachute",
+      "categoryName": "Pantalon Parachute",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Slouchy",
+      "material": "Elastizado",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7616%2FPANT7616-1UwbG.jpg",
+      "carpeta_id": "1YPTNiFBVeWNHzJoIoxePCLkABg98NeUs",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT7616-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 17000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT7616-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 22000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT7616-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT7616-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT7692",
+      "sku": "26545887375068706",
+      "model": "Wide gris estampado",
+      "price": 22000,
+      "display_price": 24000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7692%2FPANT7692-1G1QV.jpg",
+      "carpeta_id": "1Yh-VjDudMbQKO-QOkopDtSi9WSS6Satf",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT7692-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT7692-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT7692-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT7692-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT7858",
+      "sku": "26881441064827160",
+      "model": "Wide verde estampado",
+      "price": 22000,
+      "display_price": 24000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7858%2FPANT7858-1wcNw.jpg",
+      "carpeta_id": "1Nt_g-g_rqtLwmGcm-hTaDceSC0HIFTHt",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT7858-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT7858-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT7858-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT7858-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8212",
+      "sku": "25903961175950696",
+      "model": "Recto tiro medio elastizado",
+      "price": 20000,
+      "display_price": 28000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Recto",
+      "categoryName": "Pantalon Recto",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Recto",
+      "material": "Elastizado",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8212%2FPANT8212-1SebL.jpg",
+      "carpeta_id": "1qT2SBAWyrg0dyANAInzUb3MZEX6EAoRY",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT8212-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 28000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT8212-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 33000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8212-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8212-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8376",
+      "sku": "34949324234716071",
+      "model": "oxford tiro bajoceleste",
+      "price": 22000,
+      "display_price": 28000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Oxford",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8376%2FPANT8376-1-FkL.jpg",
+      "carpeta_id": "1wHBgAnOhmLmlI_j87STAF9Wv2qsBqWLD",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT8376-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 28000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT8376-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 33000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8376-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8376-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8389",
+      "sku": "26548980608106951",
+      "model": "Wide leg Bela",
+      "price": 21000,
+      "display_price": 24000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8389%2FPANT8389-1fh2D.jpg",
+      "carpeta_id": "1kI7x0VKM0RwEOQb4vb7pq-Tu74wBosHf",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT8389-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT8389-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8389-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8389-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8476",
+      "sku": "27192738670415477",
+      "model": "Wide estrellas",
+      "price": 25000,
+      "display_price": 28000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8476%2FPANT8476-1wvh5.jpg",
+      "carpeta_id": "1lXvbCMLDF3ZWRwmTTpXDTIbgH2Z-QMZj",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT8476-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 28000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT8476-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 33000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8476-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8476-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8582",
+      "sku": "27097995193123189",
+      "model": "mom azul",
+      "price": 22000,
+      "display_price": 24000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Moon",
+      "categoryName": "Pantalon Moon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Mom",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8582%2FPANT8582-1vQWZ.jpg",
+      "carpeta_id": "1ABRNNdfBTCTkrNhQhc5Oh__lle7K_4un",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT8582-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT8582-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8582-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8582-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8811",
+      "sku": "27388202160772547",
+      "model": "Wide leg beige",
+      "price": 21000,
+      "display_price": 24000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8811%2FPANT8811-1vjGY.jpg",
+      "carpeta_id": "1XAvHKZAKZXRG-IAzirYkwPYAB39gHPgh",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT8811-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT8811-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8811-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8811-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8904",
+      "sku": "35779747758306567",
+      "model": "Wide tiro bajo bordo",
+      "price": 21000,
+      "display_price": 28000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8904%2FPANT8904-1Jy4V.jpg",
+      "carpeta_id": "18hp_wYAWzzLzDVHpsbv5CSaSjlPcgmv5",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT8904-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 28000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT8904-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 33000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8904-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8904-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT9228",
+      "sku": "26459322103731602",
+      "model": "Wide leg Borravino",
+      "price": 21000,
+      "display_price": 26000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Wide Leg",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9228%2FPANT9228-1ixir.jpg",
+      "carpeta_id": "1oXI-FqpZm7vGcT9n7YO2vQkPnA18jihY",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT9228-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT9228-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 31000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT9228-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT9228-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT9246",
+      "sku": "34885282421062816",
+      "model": "Baggy Lunar",
+      "price": 24000,
+      "display_price": 26000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Baggy",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9246%2FPANT9246-1C23j.jpg",
+      "carpeta_id": "1j7uNEsAmx_wZhwDgy2LF9kHKzqyBKXyr",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT9246-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT9246-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 31000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT9246-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT9246-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT9288",
+      "sku": "26790268437279040",
+      "model": "Chupín Elsa",
+      "price": 20000,
+      "display_price": 20000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Chupin",
+      "categoryName": "Pantalon Chupin",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Pitillo",
+      "material": "Elastizado",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9288%2FPANT9288-1WoX8.jpg",
+      "carpeta_id": "1g5B6TcyDrOEYFhbn2XLAsEUHPYzX591L",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT9288-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 20000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT9288-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT9288-Surtido-Surtido-MINOM ARGERICH"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT9288-Surtido-Surtido-MINOM OFICIAL"
         }
       ],
       "fecha_creacion": ""
@@ -1165,7 +2413,7 @@
       "model": "OXFORD AZUL",
       "price": 21000,
       "display_price": 28000,
-      "minor_surcharge": 0,
+      "minor_surcharge": 5000,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
       "parentCategory": "INDUMENTARIA",
@@ -1213,7 +2461,7 @@
       "model": "Bagy milan",
       "price": 24000,
       "display_price": 24000,
-      "minor_surcharge": 0,
+      "minor_surcharge": 5000,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
       "parentCategory": "INDUMENTARIA",
@@ -1256,83 +2504,35 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT9246",
-      "sku": "34885282421062816",
-      "model": "Baggy Lunar",
-      "price": 24000,
+      "id": "PANT9681",
+      "sku": "Pant014",
+      "model": "Maxiwide negro",
+      "price": 26000,
       "display_price": 26000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
       "parentCategory": "INDUMENTARIA",
       "season": "SIN-TEMPORADA",
       "gender": "Mujer",
       "brand": "MINOM",
-      "style": "Baggy",
+      "style": "Con recortes",
       "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9246%2FPANT9246-1C23j.jpg",
-      "carpeta_id": "1j7uNEsAmx_wZhwDgy2LF9kHKzqyBKXyr",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9681%2FPANT9681-1oVXW.jpg",
+      "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
       "woo_id": "",
       "varieties": [
         {
-          "variedad_id": "PANT9246-Mayor",
+          "variedad_id": "PANT9681-Mayor",
           "nombre": "Mayor",
           "precio_unitario": 26000,
-          "cantidad_minima": 1
+          "cantidad_minima": 6
         },
         {
-          "variedad_id": "PANT9246-Menor",
+          "variedad_id": "PANT9681-Menor",
           "nombre": "Menor",
-          "precio_unitario": 31000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT9246-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT9246-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT3437",
-      "sku": "26648751968086316",
-      "model": "Wide chocolate tiro medio",
-      "price": 21000,
-      "display_price": 26000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Elastizado",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3437%2FPANT3437-1WpZt.jpg",
-      "carpeta_id": "1JUjZvYmgySKryYFHsLbhSd-CeLA3JxWq",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT3437-Mayor",
-          "nombre": "Mayor",
           "precio_unitario": 26000,
           "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT3437-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 31000,
-          "cantidad_minima": 1
         }
       ],
       "variations": [
@@ -1340,1117 +2540,13 @@
           "color": "Surtido",
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT3437-Surtido-Surtido-MINOM ARGERICH"
+          "variation_id": "PANT9681-Surtido-Surtido-MINOM ARGERICH"
         },
         {
           "color": "Surtido",
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT3437-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT7106",
-      "sku": "26521953680803068",
-      "model": "Wide recto tiro medio",
-      "price": 25000,
-      "display_price": 27000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Recto",
-      "categoryName": "Pantalon Recto",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7106%2FPANT7106-1NBg_.jpg",
-      "carpeta_id": "1ugNMmTWhZxlXbBEUZEFU-WjGLLDKDJOx",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT7106-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 27000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT7106-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 32000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT7106-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT7106-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT2545",
-      "sku": "26287052090947757",
-      "model": "OXFORD TIRO BAJO",
-      "price": 22000,
-      "display_price": 23000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Oxfort",
-      "categoryName": "Pantalon Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Oxford",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2545%2FPANT2545-1ULXV.jpg",
-      "carpeta_id": "1rnQIxY8nXVa6EAYH2vGi1pAOUYC7CArd",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT2545-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 23000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT2545-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 28000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT2545-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT2545-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT5413",
-      "sku": "26923576650613057",
-      "model": "Baggy print",
-      "price": 23000,
-      "display_price": 27000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Baggy",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5413%2FPANT5413-1txqm.jpg",
-      "carpeta_id": "1j4eYWmuvSp83jgAnSJ8sMS1peVOC7I19",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT5413-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 27000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT5413-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 32000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT5413-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT5413-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT2578",
-      "sku": "26511104985193016",
-      "model": "Wide leg Emilia",
-      "price": 24000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Surtido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2578%2FPANT2578-14pDt.jpg",
-      "carpeta_id": "1HW637kRbmZ_obWOHq19nTwdQdCrD5Lqt",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT2578-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT2578-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 29000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT2578-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT2578-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT8389",
-      "sku": "26548980608106951",
-      "model": "Wide leg Bela",
-      "price": 21000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8389%2FPANT8389-1fh2D.jpg",
-      "carpeta_id": "1kI7x0VKM0RwEOQb4vb7pq-Tu74wBosHf",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT8389-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT8389-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 29000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT8389-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT8389-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT5269",
-      "sku": "25341562188861376",
-      "model": "Bagy human",
-      "price": 15000,
-      "display_price": 15000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Baggy",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5269%2FPANT5269-1il_g.jpg",
-      "carpeta_id": "1DEr4XE3YSKc3S7APs5m69FVeyF7K1GMS",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT5269-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 15000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT5269-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 20000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT5269-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT5269-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT7858",
-      "sku": "26881441064827160",
-      "model": "Wide verde estampado",
-      "price": 22000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7858%2FPANT7858-1wcNw.jpg",
-      "carpeta_id": "1Nt_g-g_rqtLwmGcm-hTaDceSC0HIFTHt",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT7858-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT7858-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 29000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT7858-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT7858-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT5798",
-      "sku": "26801450732838777",
-      "model": "oxford oxido tiro alto",
-      "price": 22000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Oxfort",
-      "categoryName": "Pantalon Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Oxford",
-      "material": "Elastizado",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5798%2FPANT5798-1R3cZ.png",
-      "carpeta_id": "1v5TWfwxWgH5GKCxcqM1V9iqOsdUsCG2a",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT5798-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT5798-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 29000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT5798-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT5798-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT8376",
-      "sku": "34949324234716071",
-      "model": "oxford tiro bajoceleste",
-      "price": 22000,
-      "display_price": 28000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Oxfort",
-      "categoryName": "Pantalon Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Oxford",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8376%2FPANT8376-1-FkL.jpg",
-      "carpeta_id": "1wHBgAnOhmLmlI_j87STAF9Wv2qsBqWLD",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT8376-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 28000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT8376-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 33000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT8376-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT8376-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT9288",
-      "sku": "26790268437279040",
-      "model": "Chupín Elsa",
-      "price": 20000,
-      "display_price": 20000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Chupin",
-      "categoryName": "Pantalon Chupin",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Pitillo",
-      "material": "Elastizado",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9288%2FPANT9288-1WoX8.jpg",
-      "carpeta_id": "1g5B6TcyDrOEYFhbn2XLAsEUHPYzX591L",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT9288-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 20000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT9288-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 25000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT9288-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT9288-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT8476",
-      "sku": "27192738670415477",
-      "model": "Wide estrellas",
-      "price": 25000,
-      "display_price": 28000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8476%2FPANT8476-1wvh5.jpg",
-      "carpeta_id": "1lXvbCMLDF3ZWRwmTTpXDTIbgH2Z-QMZj",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT8476-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 28000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT8476-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 33000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT8476-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT8476-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT4330",
-      "sku": "25859128170386263",
-      "model": "Bagy blanco",
-      "price": 22000,
-      "display_price": 22000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Baggy",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4330%2FPANT4330-152yq.jpg",
-      "carpeta_id": "1w0IwolZnXEbF0g860Eqy6yAzxqo3gVJD",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT4330-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 22000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT4330-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 27000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4330-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4330-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT9130",
-      "sku": "26420206014336394",
-      "model": "Mom celeste AGOTADO",
-      "price": 19000,
-      "display_price": 27000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Moon",
-      "categoryName": "Pantalon Moon",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Mom",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9130%2FPANT9130-1PwgM.webp",
-      "carpeta_id": "1WDc8f0e6Wv-_dfwekEZyoxFUjpcfXVAg",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT9130-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 27000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT9130-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 32000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT9130-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT9130-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT9228",
-      "sku": "26459322103731602",
-      "model": "Wide leg Borravino",
-      "price": 21000,
-      "display_price": 26000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9228%2FPANT9228-1ixir.jpg",
-      "carpeta_id": "1oXI-FqpZm7vGcT9n7YO2vQkPnA18jihY",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT9228-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 26000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT9228-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 31000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT9228-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT9228-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT6545",
-      "sku": "27117721721248129",
-      "model": "Wide recto bordo",
-      "price": 21000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Recto",
-      "categoryName": "Pantalon Recto",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6545%2FPANT6545-1_Y4z.png",
-      "carpeta_id": "1xOSjiT7lVULTd6LywTjZf2ygBvN9IGXD",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT6545-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT6545-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 29000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT6545-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT6545-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT2188",
-      "sku": "26969842115935938",
-      "model": "MOM BEIGE",
-      "price": 20000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Moon",
-      "categoryName": "Pantalon Moon",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Mom",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2188%2FPANT2188-1CbF_.jpg",
-      "carpeta_id": "1QCWPaBbJhWH3uy8hIaDLHsV9ykiUPVLc",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT2188-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT2188-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 29000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT2188-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT2188-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT7616",
-      "sku": "25432790663036698",
-      "model": "Slouchy Amely",
-      "price": 20000,
-      "display_price": 17000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Parachute",
-      "categoryName": "Pantalon Parachute",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Slouchy",
-      "material": "Elastizado",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7616%2FPANT7616-1UwbG.jpg",
-      "carpeta_id": "1YPTNiFBVeWNHzJoIoxePCLkABg98NeUs",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT7616-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 17000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT7616-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 22000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT7616-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT7616-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT4921",
-      "sku": "26922916100679312",
-      "model": "maxi Wide celeste",
-      "price": 29000,
-      "display_price": 26000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Maxi Wige",
-      "categoryName": "Pantalon Maxi Wige",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4921%2FPANT4921-1Ne1d.jpg",
-      "carpeta_id": "1gqi6Sl5EoV8aNQ9xsCFcqpT0djRuuPmy",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT4921-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 26000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT4921-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 31000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4921-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4921-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT5804",
-      "sku": "25865684273131237",
-      "model": "mom negro",
-      "price": 22000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Moon",
-      "categoryName": "Pantalon Moon",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Mom",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5804%2FPANT5804-1PkkM.jpg",
-      "carpeta_id": "172W2x_XurqE0fPh_HnNiV2A1eD3WnP2V",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT5804-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT5804-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 29000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT5804-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT5804-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT8811",
-      "sku": "27388202160772547",
-      "model": "Wide leg beige",
-      "price": 21000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Wide Leg",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8811%2FPANT8811-1vjGY.jpg",
-      "carpeta_id": "1XAvHKZAKZXRG-IAzirYkwPYAB39gHPgh",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT8811-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT8811-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 29000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT8811-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT8811-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT8212",
-      "sku": "25903961175950696",
-      "model": "Recto tiro medio elastizado",
-      "price": 20000,
-      "display_price": 28000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Recto",
-      "categoryName": "Pantalon Recto",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Recto",
-      "material": "Elastizado",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8212%2FPANT8212-1SebL.jpg",
-      "carpeta_id": "1qT2SBAWyrg0dyANAInzUb3MZEX6EAoRY",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT8212-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 28000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT8212-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 33000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT8212-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT8212-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT4779",
-      "sku": "25920431124287225",
-      "model": "OXFORD NEGRO",
-      "price": 21000,
-      "display_price": 27000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Oxfort",
-      "categoryName": "Pantalon Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Oxford",
-      "material": "Elastizado",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4779%2FPANT4779-141c8.jpg",
-      "carpeta_id": "1p8JojmpITDX1TdO9yoXIt_mFkWEYqtJB",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT4779-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 27000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT4779-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 32000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4779-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4779-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT2200",
-      "sku": "25412160445118685",
-      "model": "Slouchy gris",
-      "price": 20000,
-      "display_price": 23000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Parachute",
-      "categoryName": "Pantalon Parachute",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Slouchy",
-      "material": "Elastizado",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2200%2FPANT2200-1IjC3.jpg",
-      "carpeta_id": "1uDBLdjOt3B2e8n3dFOsqM42kRDw4E0Q8",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT2200-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 23000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT2200-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 28000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT2200-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT2200-Surtido-Surtido-MINOM OFICIAL"
+          "variation_id": "PANT9681-Surtido-Surtido-MINOM OFICIAL"
         }
       ],
       "fecha_creacion": ""
@@ -2461,7 +2557,7 @@
       "model": "Wide recto elastizado negro",
       "price": 20000,
       "display_price": 22000,
-      "minor_surcharge": 0,
+      "minor_surcharge": 5000,
       "category_id": "Pantalon Recto",
       "categoryName": "Pantalon Recto",
       "parentCategory": "INDUMENTARIA",
@@ -2504,102 +2600,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT4838",
-      "sku": "Pant011",
-      "model": "Cintura Ajustable",
-      "price": 25000,
-      "display_price": 25000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "",
-      "material": "",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-17eoj.webp",
-      "carpeta_id": "1CEZVCxwG2S9gfl_MAh90znMrQCom-KYj",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT4838-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 25000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT4838-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 30000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4838-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4838-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT1524",
-      "sku": "Pant009",
-      "model": "con brillos",
-      "price": 25000,
-      "display_price": 25000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Oxfort",
-      "categoryName": "Pantalon Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Sublimado",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1LauB.webp",
-      "carpeta_id": "1iQboh9AZXZmXqpN5zf-d4naU1_XnWb3W",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT1524-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 25000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT1524-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 30000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT1524-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT1524-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "SPOL7447",
       "sku": "SPol001",
       "model": "123",
@@ -2635,110 +2635,14 @@
         {
           "color": "Surtido",
           "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "SPOL7447-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
           "store_id": "MINOM ARGERICH",
           "variation_id": "SPOL7447-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT4655",
-      "sku": "Pant014",
-      "model": "Recto Gris",
-      "price": 23000,
-      "display_price": 23000,
-      "minor_surcharge": 5000,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Liso",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4655%2FPANT4655-18TP7.JPG",
-      "carpeta_id": "1YrISWNg_pnysgLSNziTi5jaUndZbVC1s",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT4655-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 23000,
-          "cantidad_minima": 1
         },
-        {
-          "variedad_id": "PANT4655-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 28000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
         {
           "color": "Surtido",
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4655-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4655-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT9681",
-      "sku": "Pant014",
-      "model": "Maxiwide negro",
-      "price": 26000,
-      "display_price": 26000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Con recortes",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9681%2FPANT9681-1oVXW.jpg",
-      "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT9681-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 26000,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "PANT9681-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 26000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT9681-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT9681-Surtido-Surtido-MINOM ARGERICH"
+          "variation_id": "SPOL7447-Surtido-Surtido-MINOM OFICIAL"
         }
       ],
       "fecha_creacion": ""
@@ -2970,20 +2874,6 @@
         "cantidad_minima": 1
       }
     ],
-    "PANT3635": [
-      {
-        "variedad_id": "PANT3635-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 26000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT3635-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 31000,
-        "cantidad_minima": 1
-      }
-    ],
     "PANT3934": [
       {
         "variedad_id": "PANT3934-Mayor",
@@ -3023,6 +2913,20 @@
         "variedad_id": "PANT4551-Menor",
         "nombre": "Menor",
         "precio_unitario": 29000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT4655": [
+      {
+        "variedad_id": "PANT4655-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT4655-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
         "cantidad_minima": 1
       }
     ],
@@ -3362,20 +3266,6 @@
         "cantidad_minima": 1
       }
     ],
-    "PANT9130": [
-      {
-        "variedad_id": "PANT9130-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT9130-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 32000,
-        "cantidad_minima": 1
-      }
-    ],
     "PANT9228": [
       {
         "variedad_id": "PANT9228-Mayor",
@@ -3446,6 +3336,20 @@
         "cantidad_minima": 1
       }
     ],
+    "PANT9681": [
+      {
+        "variedad_id": "PANT9681-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT9681-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1
+      }
+    ],
     "PANT9862": [
       {
         "variedad_id": "PANT9862-Mayor",
@@ -3471,34 +3375,6 @@
         "variedad_id": "SPOL7447-Menor",
         "nombre": "Menor",
         "precio_unitario": 20000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT4655": [
-      {
-        "variedad_id": "PANT4655-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT4655-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 28000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT9681": [
-      {
-        "variedad_id": "PANT9681-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 26000,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "PANT9681-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 26000,
         "cantidad_minima": 1
       }
     ]
@@ -3585,5 +3461,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781720688003
+  "timestamp_ms": 1781721583899
 }
