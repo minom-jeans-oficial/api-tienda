@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T23:37:49.462Z",
+  "generated_at": "2026-06-17T23:42:11.992Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2601,7 +2601,7 @@
     }
   ],
   "priceConfig": {
-    "tipoRegistroPrecio": "PRECIO + RECARGO PERSONALIZADO",
+    "tipoRegistroPrecio": "PRECIO VARIABLE",
     "tipoRegistroProducto": "PRODUCTO SIMPLE"
   },
   "categorySvgs": {
@@ -2646,7 +2646,7 @@
     "INSTAGRAM": "https://www.instagram.com/minomjeanss/",
     "TIKTOK": "https://www.tiktok.com/@minomjeanss",
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
-    "TIPO_REGISTRO_PRECIO": "PRECIO + RECARGO PERSONALIZADO",
+    "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": true,
     "DOLAR_BLUE_VENTA": "1455",
     "DOLAR_BLUE_COMPRA": "1475",
@@ -3399,5 +3399,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781739585725
+  "timestamp_ms": 1781739850410
 }
