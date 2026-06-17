@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T19:37:50.916Z",
+  "generated_at": "2026-06-17T19:52:51.032Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -1256,54 +1256,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT5269",
-      "sku": "25341562188861376",
-      "model": "Bagy human",
-      "price": 15000,
-      "display_price": 15000,
-      "minor_surcharge": 5000,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Baggy",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5269%2FPANT5269-1il_g.jpg",
-      "carpeta_id": "1DEr4XE3YSKc3S7APs5m69FVeyF7K1GMS",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT5269-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 15000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT5269-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 20000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT5269-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT5269-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "PANT5413",
       "sku": "26923576650613057",
       "model": "Baggy print",
@@ -2411,8 +2363,8 @@
       "id": "PANT9679",
       "sku": "26902565559431327",
       "model": "Bagy milan",
-      "price": 24000,
-      "display_price": 24000,
+      "price": 20000,
+      "display_price": 20000,
       "minor_surcharge": 5000,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -2429,13 +2381,13 @@
         {
           "variedad_id": "PANT9679-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 24000,
+          "precio_unitario": 20000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT9679-Menor",
           "nombre": "Menor",
-          "precio_unitario": 29000,
+          "precio_unitario": 25000,
           "cantidad_minima": 1
         }
       ],
@@ -2972,20 +2924,6 @@
         "cantidad_minima": 1
       }
     ],
-    "PANT5269": [
-      {
-        "variedad_id": "PANT5269-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 15000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT5269-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 20000,
-        "cantidad_minima": 1
-      }
-    ],
     "PANT5413": [
       {
         "variedad_id": "PANT5413-Mayor",
@@ -3312,13 +3250,13 @@
       {
         "variedad_id": "PANT9679-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 24000,
+        "precio_unitario": 20000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT9679-Menor",
         "nombre": "Menor",
-        "precio_unitario": 29000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1
       }
     ],
@@ -3461,5 +3399,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781725196501
+  "timestamp_ms": 1781726079543
 }
