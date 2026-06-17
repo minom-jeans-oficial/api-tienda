@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T18:52:49.385Z",
+  "generated_at": "2026-06-17T19:07:50.249Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -440,54 +440,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT1674",
-      "sku": "24210543938585518",
-      "model": "Baggy cargo celeste",
-      "price": 28000,
-      "display_price": 28000,
-      "minor_surcharge": 5000,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM",
-      "style": "Baggy",
-      "material": "Rígido",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1674%2FPANT1674-17krx.jpg",
-      "carpeta_id": "1f40_lt-F68AwvAVlBWPQovya_XxT7ss0",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT1674-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 28000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT1674-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 33000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT1674-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT1674-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "PANT2188",
       "sku": "26969842115935938",
       "model": "MOM BEIGE",
@@ -803,7 +755,7 @@
         {
           "variedad_id": "PANT3144-Menor",
           "nombre": "Menor",
-          "precio_unitario": 28750,
+          "precio_unitario": 28000,
           "cantidad_minima": 1
         }
       ],
@@ -2646,6 +2598,54 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT1329",
+      "sku": "Pant015",
+      "model": "bela",
+      "price": 21000,
+      "display_price": 21000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "espigado",
+      "material": "Rígido",
+      "image": "",
+      "carpeta_id": "128qFBjkCyrCNKc90hoWVMxCcAnZzvUeq",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT1329-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 21000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT1329-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT1329-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT1329-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -2731,20 +2731,6 @@
         "variedad_id": "PANT1524-Menor",
         "nombre": "Menor",
         "precio_unitario": 30000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT1674": [
-      {
-        "variedad_id": "PANT1674-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 28000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT1674-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 33000,
         "cantidad_minima": 1
       }
     ],
@@ -2842,7 +2828,7 @@
       {
         "variedad_id": "PANT3144-Menor",
         "nombre": "Menor",
-        "precio_unitario": 28750,
+        "precio_unitario": 28000,
         "cantidad_minima": 1
       }
     ],
@@ -3377,6 +3363,20 @@
         "precio_unitario": 20000,
         "cantidad_minima": 1
       }
+    ],
+    "PANT1329": [
+      {
+        "variedad_id": "PANT1329-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 21000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT1329-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -3461,5 +3461,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781722500532
+  "timestamp_ms": 1781723417241
 }
