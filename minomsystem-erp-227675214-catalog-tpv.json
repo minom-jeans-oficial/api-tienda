@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T17:37:50.895Z",
+  "generated_at": "2026-06-17T17:52:51.012Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2742,10 +2742,106 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4655",
+      "sku": "Pant014",
+      "model": "Recto Gris",
+      "price": 23000,
+      "display_price": 23000,
+      "minor_surcharge": 5000,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Liso",
+      "material": "Rígido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4655%2FPANT4655-18TP7.JPG",
+      "carpeta_id": "1YrISWNg_pnysgLSNziTi5jaUndZbVC1s",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT4655-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 23000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4655-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 28000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4655-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4655-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT9681",
+      "sku": "Pant014",
+      "model": "Maxiwide negro",
+      "price": 26000,
+      "display_price": 26000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM",
+      "style": "Con recortes",
+      "material": "Rígido",
+      "image": "",
+      "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT9681-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT9681-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT9681-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT9681-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
-    "tipoRegistroPrecio": "PRECIO VARIABLE",
+    "tipoRegistroPrecio": "PRECIO + RECARGO PERSONALIZADO",
     "tipoRegistroProducto": "PRODUCTO SIMPLE"
   },
   "categorySvgs": {
@@ -2790,7 +2886,7 @@
     "INSTAGRAM": "https://www.instagram.com/minomjeanss/",
     "TIKTOK": "https://www.tiktok.com/@minomjeanss",
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
-    "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
+    "TIPO_REGISTRO_PRECIO": "PRECIO + RECARGO PERSONALIZADO",
     "EXCLUIR_SURTIDOS_VARIANTES": true,
     "DOLAR_BLUE_VENTA": "1455",
     "DOLAR_BLUE_COMPRA": "1475",
@@ -3501,6 +3597,34 @@
         "precio_unitario": 20000,
         "cantidad_minima": 1
       }
+    ],
+    "PANT4655": [
+      {
+        "variedad_id": "PANT4655-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT4655-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT9681": [
+      {
+        "variedad_id": "PANT9681-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT9681-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -3585,5 +3709,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781718004522
+  "timestamp_ms": 1781718864865
 }
