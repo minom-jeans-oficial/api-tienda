@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T14:37:49.794Z",
+  "generated_at": "2026-06-17T14:52:56.356Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2645,10 +2645,57 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "SPOL7447",
+      "model": "123",
+      "price": 15000,
+      "display_price": 15000,
+      "minor_surcharge": 5000,
+      "category_id": "SPollera",
+      "categoryName": "SPollera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Estampado",
+      "material": "Elastizado",
+      "image": "",
+      "carpeta_id": "1Endpv77oBQ1mAzKvnoMqUTisO2jpQzDN",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "SPOL7447-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 15000,
+          "cantidad_minima": 3
+        },
+        {
+          "variedad_id": "SPOL7447-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 20000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "SPOL7447-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "SPOL7447-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
-    "tipoRegistroPrecio": "PRECIO VARIABLE",
+    "tipoRegistroPrecio": "PRECIO + RECARGO PERSONALIZADO",
     "tipoRegistroProducto": "PRODUCTO SIMPLE"
   },
   "categorySvgs": {
@@ -2693,7 +2740,7 @@
     "INSTAGRAM": "https://www.instagram.com/minomjeanss/",
     "TIKTOK": "https://www.tiktok.com/@minomjeanss",
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
-    "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
+    "TIPO_REGISTRO_PRECIO": "PRECIO + RECARGO PERSONALIZADO",
     "EXCLUIR_SURTIDOS_VARIANTES": true,
     "DOLAR_BLUE_VENTA": "1455",
     "DOLAR_BLUE_COMPRA": "1475",
@@ -3390,6 +3437,20 @@
         "precio_unitario": 27000,
         "cantidad_minima": 1
       }
+    ],
+    "SPOL7447": [
+      {
+        "variedad_id": "SPOL7447-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 3
+      },
+      {
+        "variedad_id": "SPOL7447-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -3474,5 +3535,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781707194847
+  "timestamp_ms": 1781708096441
 }
