@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T02:52:49.768Z",
+  "generated_at": "2026-06-18T03:09:19.334Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -1532,41 +1532,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT6112",
-      "sku": "Pant001",
-      "model": "Borravino",
-      "price": 21000,
-      "display_price": 21000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Wide Leg",
-      "material": "",
-      "image": "",
-      "carpeta_id": "1S0noyQ_4hewHKaC5rn1j7-WxoP9bL8Gy",
-      "woo_id": "",
-      "varieties": [],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT6112-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT6112-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "PANT6545",
       "sku": "27117721721248100.00",
       "model": "Wide recto bordo",
@@ -1787,7 +1752,7 @@
       "sku": "24461514323503600.00",
       "model": "Wide leg Lucia",
       "price": 22000,
-      "display_price": 22000,
+      "display_price": 18500,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -1800,7 +1765,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7432%2FPANT7432-1SXt3.jpg",
       "carpeta_id": "16jLb-v4SFvIZTHYv67EBzoAjf01-R-ws",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT7432-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 18500,
+          "cantidad_minima": 7
+        },
+        {
+          "variedad_id": "PANT7432-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 22000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT7432-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26500,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1930,7 +1914,7 @@
       "sku": "26881441064827100.00",
       "model": "Wide verde estampado",
       "price": 22000,
-      "display_price": 22000,
+      "display_price": 18500,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -1943,7 +1927,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7858%2FPANT7858-1wcNw.jpg",
       "carpeta_id": "1Nt_g-g_rqtLwmGcm-hTaDceSC0HIFTHt",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT7858-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 18500,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT7858-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 22000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT7858-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26500,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -2073,7 +2076,7 @@
       "sku": "26548980608106900.00",
       "model": "Wide leg Bela",
       "price": 21000,
-      "display_price": 21000,
+      "display_price": 18000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -2086,7 +2089,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8389%2FPANT8389-1fh2D.jpg",
       "carpeta_id": "1kI7x0VKM0RwEOQb4vb7pq-Tu74wBosHf",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT8389-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 18000,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "PANT8389-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 21000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT8389-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -2107,8 +2129,8 @@
       "id": "PANT8476",
       "sku": "27192738670415400.00",
       "model": "Wide estrellas",
-      "price": 25000,
-      "display_price": 25000,
+      "price": 24000,
+      "display_price": 20500,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -2121,7 +2143,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8476%2FPANT8476-1wvh5.jpg",
       "carpeta_id": "1lXvbCMLDF3ZWRwmTTpXDTIbgH2Z-QMZj",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT8476-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 20500,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT8476-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT8476-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -2667,46 +2708,11 @@
       "fecha_creacion": ""
     },
     {
-      "id": "SPOL7447",
-      "sku": "SPol001",
-      "model": "123456",
-      "price": 15000,
-      "display_price": 15000,
-      "minor_surcharge": 0,
-      "category_id": "SPollera",
-      "categoryName": "SPollera",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Estampado",
-      "material": "Elastizado",
-      "image": "",
-      "carpeta_id": "1Endpv77oBQ1mAzKvnoMqUTisO2jpQzDN",
-      "woo_id": "",
-      "varieties": [],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "SPOL7447-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "SPOL7447-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "PANT1329",
       "sku": "Pant015",
-      "model": "bela",
+      "model": "Bela",
       "price": 21000,
-      "display_price": 21000,
+      "display_price": 18000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -2719,7 +2725,26 @@
       "image": "",
       "carpeta_id": "128qFBjkCyrCNKc90hoWVMxCcAnZzvUeq",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT1329-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 18000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT1329-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 21000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT1329-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -3582,6 +3607,106 @@
         "precio_unitario": 18000,
         "cantidad_minima": 5
       }
+    ],
+    "PANT8476": [
+      {
+        "variedad_id": "PANT8476-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 20500,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT8476-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT8476-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 29000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT7858": [
+      {
+        "variedad_id": "PANT7858-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 18500,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT7858-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 22000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT7858-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26500,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT7432": [
+      {
+        "variedad_id": "PANT7432-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 18500,
+        "cantidad_minima": 7
+      },
+      {
+        "variedad_id": "PANT7432-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 22000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT7432-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26500,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT1329": [
+      {
+        "variedad_id": "PANT1329-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 18000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT1329-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 21000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT1329-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT8389": [
+      {
+        "variedad_id": "PANT8389-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 18000,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "PANT8389-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 21000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT8389-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -3666,5 +3791,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781751306818
+  "timestamp_ms": 1781752247954
 }
