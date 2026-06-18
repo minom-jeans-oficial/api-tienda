@@ -4762,9 +4762,9 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 15000,
+                  "precio": 18000,
                   "variedad": "Mayor",
-                  "minima": 3,
+                  "minima": 1,
                   "sub_variedad": {}
                 },
                 {
@@ -4785,5 +4785,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781728774719
+  "timestamp_ms": 1781743158565
 }
