@@ -3729,6 +3729,109 @@
             {
               "codigo": 94,
               "categoria": "Pantalon Wige Leg",
+              "nombre": "PANT1329",
+              "carpeta_id": "128qFBjkCyrCNKc90hoWVMxCcAnZzvUeq",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Bela"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "espigado"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Azul",
+                      "hex": "#0000FF"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "18-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT1329%0A%F0%9F%94%B9%20Modelo%3A%20Bela%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 18000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 21000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 25000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-18T03:00:00.000Z"
+            },
+            {
+              "codigo": 97,
+              "categoria": "Pantalon Wige Leg",
               "nombre": "PANT2578",
               "carpeta_id": "1HW637kRbmZ_obWOHq19nTwdQdCrD5Lqt",
               "descripcion": {
@@ -3834,7 +3937,7 @@
               "upd": "2026-05-25T03:00:00.000Z"
             },
             {
-              "codigo": 97,
+              "codigo": 100,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT2658",
               "carpeta_id": "12FUGn9lLyq_9rx-yv3-1jqv3wDNbP6rQ",
@@ -3945,7 +4048,7 @@
               "upd": "2026-05-25T03:00:00.000Z"
             },
             {
-              "codigo": 100,
+              "codigo": 103,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT3437",
               "carpeta_id": "1JUjZvYmgySKryYFHsLbhSd-CeLA3JxWq",
@@ -4054,7 +4157,7 @@
               "upd": "2026-05-31T03:00:00.000Z"
             },
             {
-              "codigo": 103,
+              "codigo": 106,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT4655",
               "carpeta_id": "1YrISWNg_pnysgLSNziTi5jaUndZbVC1s",
@@ -4201,7 +4304,121 @@
               "upd": "2026-06-17T03:00:00.000Z"
             },
             {
-              "codigo": 106,
+              "codigo": 109,
+              "categoria": "Pantalon Wige Leg",
+              "nombre": "PANT7432",
+              "carpeta_id": "16jLb-v4SFvIZTHYv67EBzoAjf01-R-ws",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Wide leg Lucia"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Wide Leg"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "18-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7432%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20Lucia%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7432%2FPANT7432-1SXt3.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7432%2FPANT7432-1SXt3.jpg",
+                  "archivo_id": "1SXt3R7gZLSD4nXsY3ZbhYOYrNk7tMI4G",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 18500,
+                  "variedad": "Curva",
+                  "minima": 7,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 22000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 26500,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-18T03:00:00.000Z"
+            },
+            {
+              "codigo": 112,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7692",
               "carpeta_id": "1Yh-VjDudMbQKO-QOkopDtSi9WSS6Satf",
@@ -4314,7 +4531,345 @@
               "upd": "2026-05-25T03:00:00.000Z"
             },
             {
-              "codigo": 109,
+              "codigo": 115,
+              "categoria": "Pantalon Wige Leg",
+              "nombre": "PANT7858",
+              "carpeta_id": "1Nt_g-g_rqtLwmGcm-hTaDceSC0HIFTHt",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Wide verde estampado"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Wide Leg"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "18-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7858%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20verde%20estampado%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7858%2FPANT7858-1wcNw.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7858%2FPANT7858-1wcNw.jpg",
+                  "archivo_id": "1wcNwbsKHLJxXcKoYVt9d4v17C5BQLA9r",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 18500,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 22000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 26500,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-18T03:00:00.000Z"
+            },
+            {
+              "codigo": 118,
+              "categoria": "Pantalon Wige Leg",
+              "nombre": "PANT8389",
+              "carpeta_id": "1kI7x0VKM0RwEOQb4vb7pq-Tu74wBosHf",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Wide leg Bela"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Wide Leg"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "18-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8389%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20Bela%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8389%2FPANT8389-1fh2D.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8389%2FPANT8389-1fh2D.jpg",
+                  "archivo_id": "1fh2Dr-QaLp_bj1iMILyU-cRWnS33-RDi",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 18000,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 21000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 25000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-18T03:00:00.000Z"
+            },
+            {
+              "codigo": 121,
+              "categoria": "Pantalon Wige Leg",
+              "nombre": "PANT8476",
+              "carpeta_id": "1lXvbCMLDF3ZWRwmTTpXDTIbgH2Z-QMZj",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Wide estrellas"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Wide Leg"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "17-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8476%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20estrellas%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8476%2FPANT8476-1wvh5.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8476%2FPANT8476-1wvh5.jpg",
+                  "archivo_id": "1wvh5KDxps8kz5f5Aswmfsa_eMqPuaczA",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:40:27.317Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 20500,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 29000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-17T03:00:00.000Z"
+            },
+            {
+              "codigo": 124,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8811",
               "carpeta_id": "1XAvHKZAKZXRG-IAzirYkwPYAB39gHPgh",
@@ -4412,7 +4967,7 @@
               "upd": "2026-05-25T03:00:00.000Z"
             },
             {
-              "codigo": 110,
+              "codigo": 125,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8904",
               "carpeta_id": "18hp_wYAWzzLzDVHpsbv5CSaSjlPcgmv5",
@@ -4525,7 +5080,7 @@
               "upd": "2026-05-25T03:00:00.000Z"
             },
             {
-              "codigo": 113,
+              "codigo": 128,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9228",
               "carpeta_id": "1oXI-FqpZm7vGcT9n7YO2vQkPnA18jihY",
@@ -4638,7 +5193,7 @@
               "upd": "2026-05-31T03:00:00.000Z"
             },
             {
-              "codigo": 116,
+              "codigo": 131,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9681",
               "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
@@ -4778,5 +5333,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781751255988
+  "timestamp_ms": 1781752254737
 }
