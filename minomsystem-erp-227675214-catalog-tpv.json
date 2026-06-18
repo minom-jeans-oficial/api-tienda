@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T00:52:50.712Z",
+  "generated_at": "2026-06-18T01:07:49.629Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2507,8 +2507,8 @@
       "id": "SPOL7447",
       "sku": "SPol001",
       "model": "123",
-      "price": 15000,
-      "display_price": 12000,
+      "price": 16000,
+      "display_price": 16000,
       "minor_surcharge": 0,
       "category_id": "SPollera",
       "categoryName": "SPollera",
@@ -2521,26 +2521,7 @@
       "image": "",
       "carpeta_id": "1Endpv77oBQ1mAzKvnoMqUTisO2jpQzDN",
       "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "SPOL7447-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 18000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "SPOL7447-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 20000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "SPOL7447-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 12000,
-          "cantidad_minima": 4
-        }
-      ],
+      "varieties": [],
       "variations": [
         {
           "color": "Surtido",
@@ -3294,26 +3275,6 @@
         "cantidad_minima": 1
       }
     ],
-    "SPOL7447": [
-      {
-        "variedad_id": "SPOL7447-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 18000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "SPOL7447-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 20000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "SPOL7447-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 12000,
-        "cantidad_minima": 4
-      }
-    ],
     "PANT1329": [
       {
         "variedad_id": "PANT1329-Mayor",
@@ -3411,5 +3372,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781744109389
+  "timestamp_ms": 1781745010128
 }
