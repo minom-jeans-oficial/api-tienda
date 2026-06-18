@@ -4681,120 +4681,6 @@
               "upd": "2026-06-17T03:00:00.000Z"
             }
           ]
-        },
-        {
-          "codigo": 9,
-          "nombre": "SPollera",
-          "url_categoria": "",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/spollera.svg",
-          "producto": [
-            {
-              "codigo": 93,
-              "categoria": "SPollera",
-              "nombre": "SPOL7447",
-              "carpeta_id": "1Endpv77oBQ1mAzKvnoMqUTisO2jpQzDN",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "123"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM OFICIAL"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Estampado"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Elastizado"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "34",
-                    "36",
-                    "38"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "144",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "17-06-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SPOL7447%0A%F0%9F%94%B9%20Modelo%3A%20123%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038"
-                }
-              },
-              "imagen": [
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 18000,
-                  "variedad": "Mayor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 20000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 12000,
-                  "variedad": "Curva",
-                  "minima": 4,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "144"
-                        }
-                      ]
-                    }
-                  }
-                }
-              ],
-              "upd": "2026-06-17T03:00:00.000Z"
-            }
-          ]
         }
       ]
     }
@@ -4802,5 +4688,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781744074029
+  "timestamp_ms": 1781744964038
 }
