@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T00:37:49.773Z",
+  "generated_at": "2026-06-18T00:52:50.712Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2508,7 +2508,7 @@
       "sku": "SPol001",
       "model": "123",
       "price": 15000,
-      "display_price": 18000,
+      "display_price": 12000,
       "minor_surcharge": 0,
       "category_id": "SPollera",
       "categoryName": "SPollera",
@@ -2533,6 +2533,12 @@
           "nombre": "Menor",
           "precio_unitario": 20000,
           "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "SPOL7447-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 12000,
+          "cantidad_minima": 4
         }
       ],
       "variations": [
@@ -3300,6 +3306,12 @@
         "nombre": "Menor",
         "precio_unitario": 20000,
         "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "SPOL7447-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 12000,
+        "cantidad_minima": 4
       }
     ],
     "PANT1329": [
@@ -3399,5 +3411,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781743178461
+  "timestamp_ms": 1781744109389
 }
