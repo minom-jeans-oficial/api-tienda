@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T02:22:50.618Z",
+  "generated_at": "2026-06-18T02:37:53.269Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -345,10 +345,10 @@
   "products": [
     {
       "id": "PANT1109",
-      "sku": 2.41993e+21,
+      "sku": "24199294046379400.00",
       "model": "Maxi Wide leg Flavia",
       "price": 19000,
-      "display_price": 19000,
+      "display_price": 16000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Maxi Wige",
       "categoryName": "Pantalon Maxi Wige",
@@ -361,7 +361,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1109%2FPANT1109-18Z_N.jpg",
       "carpeta_id": "1IRrhNZq3kbEsVxymqh_9tc9qmf11g25H",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT1109-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 16000,
+          "cantidad_minima": 4
+        },
+        {
+          "variedad_id": "PANT1109-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 19000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT1109-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 23000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -383,7 +402,7 @@
       "sku": "Pant009",
       "model": "con brillos",
       "price": 25000,
-      "display_price": 25000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -396,7 +415,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1LauB.webp",
       "carpeta_id": "1iQboh9AZXZmXqpN5zf-d4naU1_XnWb3W",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT1524-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 21000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT1524-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT1524-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 30000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -415,10 +453,10 @@
     },
     {
       "id": "PANT2188",
-      "sku": 2.69698e+21,
+      "sku": "26969842115935900.00",
       "model": "MOM BEIGE",
       "price": 20000,
-      "display_price": 20000,
+      "display_price": 17000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Moon",
       "categoryName": "Pantalon Moon",
@@ -431,7 +469,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2188%2FPANT2188-1CbF_.jpg",
       "carpeta_id": "1QCWPaBbJhWH3uy8hIaDLHsV9ykiUPVLc",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT2188-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 17000,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "PANT2188-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 20000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT2188-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -450,10 +507,10 @@
     },
     {
       "id": "PANT2200",
-      "sku": 2.54122e+21,
+      "sku": "25412160445118600.00",
       "model": "Slouchy gris",
       "price": 20000,
-      "display_price": 20000,
+      "display_price": 17000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Parachute",
       "categoryName": "Pantalon Parachute",
@@ -466,7 +523,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2200%2FPANT2200-1IjC3.jpg",
       "carpeta_id": "1uDBLdjOt3B2e8n3dFOsqM42kRDw4E0Q8",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT2200-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 17000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT2200-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 20000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT2200-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -485,10 +561,10 @@
     },
     {
       "id": "PANT2545",
-      "sku": 2.62871e+21,
+      "sku": "26287052090947700.00",
       "model": "OXFORD TIRO BAJO",
       "price": 22000,
-      "display_price": 22000,
+      "display_price": 19000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -501,7 +577,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2545%2FPANT2545-1ULXV.jpg",
       "carpeta_id": "1rnQIxY8nXVa6EAYH2vGi1pAOUYC7CArd",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT2545-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 19000,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "PANT2545-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 22000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT2545-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -520,7 +615,7 @@
     },
     {
       "id": "PANT2578",
-      "sku": 2.65111e+21,
+      "sku": "26511104985193000.00",
       "model": "Wide leg Emilia",
       "price": 24000,
       "display_price": 24000,
@@ -555,7 +650,7 @@
     },
     {
       "id": "PANT2658",
-      "sku": 2.74496e+21,
+      "sku": "27449559801297100.00",
       "model": "Wide leg negro tiro bajo",
       "price": 21000,
       "display_price": 21000,
@@ -590,7 +685,7 @@
     },
     {
       "id": "PANT2683",
-      "sku": 2.67767e+21,
+      "sku": "26776686381954000.00",
       "model": "Wide recto chocolate",
       "price": 21000,
       "display_price": 21000,
@@ -625,10 +720,10 @@
     },
     {
       "id": "PANT3144",
-      "sku": 2.68712e+21,
+      "sku": "26871219782501800.00",
       "model": "BAGY NEGRO",
       "price": 23000,
-      "display_price": 23000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -641,7 +736,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3144%2FPANT3144-1NLP4.png",
       "carpeta_id": "1C-9HM7MTOOcl4GxvQ84xnSYLaKr9go0D",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT3144-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 20000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT3144-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 23000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT3144-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 28000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -660,10 +774,10 @@
     },
     {
       "id": "PANT3194",
-      "sku": 2.67939e+21,
+      "sku": "26793884046964500.00",
       "model": "Slouchy negro",
       "price": 20000,
-      "display_price": 20000,
+      "display_price": 17000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Parachute",
       "categoryName": "Pantalon Parachute",
@@ -676,7 +790,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3194%2FPANT3194-1Yr7j.jpg",
       "carpeta_id": "1ssiSRIoEko3ujdqxTlzl8q8nAxtwDSPt",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT3194-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 17000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT3194-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 20000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT3194-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -695,7 +828,7 @@
     },
     {
       "id": "PANT3437",
-      "sku": 2.66488e+21,
+      "sku": "26648751968086300.00",
       "model": "Wide chocolate tiro medio",
       "price": 21000,
       "display_price": 21000,
@@ -730,10 +863,10 @@
     },
     {
       "id": "PANT3934",
-      "sku": 1.00324e+21,
+      "sku": "10032434470189100.00",
       "model": "Chupín AN",
       "price": 20000,
-      "display_price": 20000,
+      "display_price": 17000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Chupin",
       "categoryName": "Pantalon Chupin",
@@ -746,7 +879,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3934%2FPANT3934-1Y1xa.jpg",
       "carpeta_id": "1TIAw7Z_I1xygInrDdMxkBzgU0sOS0pZ9",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT3934-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 17000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT3934-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 20000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT3934-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -765,10 +917,10 @@
     },
     {
       "id": "PANT4330",
-      "sku": 2.58591e+21,
+      "sku": "25859128170386200.00",
       "model": "Bagy blanco",
       "price": 22000,
-      "display_price": 22000,
+      "display_price": 19000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -781,7 +933,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4330%2FPANT4330-152yq.jpg",
       "carpeta_id": "1w0IwolZnXEbF0g860Eqy6yAzxqo3gVJD",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT4330-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 19000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT4330-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 22000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4330-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -800,10 +971,10 @@
     },
     {
       "id": "PANT4551",
-      "sku": 2.62976e+21,
+      "sku": "26297584769875100.00",
       "model": "Baggy London",
       "price": 24000,
-      "display_price": 24000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -816,7 +987,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4551%2FPANT4551-1uFml.jpg",
       "carpeta_id": "19FVdJP0j5bb-Hxa_Gfivga0PigMNMImC",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT4551-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 20000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT4551-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4551-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -870,10 +1060,10 @@
     },
     {
       "id": "PANT4657",
-      "sku": 2.64187e+21,
+      "sku": "26418724157798900.00",
       "model": "Baggy animal print",
       "price": 23000,
-      "display_price": 23000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -886,7 +1076,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4657%2FPANT4657-12DVF.jpg",
       "carpeta_id": "1A7ybXc5rcOvlZRRDBgWWPAozaG1LDFuj",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT4657-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 20000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4657-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 23000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4657-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 28000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -905,10 +1114,10 @@
     },
     {
       "id": "PANT4779",
-      "sku": 2.59204e+21,
+      "sku": "25920431124287200.00",
       "model": "OXFORD NEGRO",
       "price": 21000,
-      "display_price": 21000,
+      "display_price": 18000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -921,7 +1130,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4779%2FPANT4779-141c8.jpg",
       "carpeta_id": "1p8JojmpITDX1TdO9yoXIt_mFkWEYqtJB",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT4779-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 18000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT4779-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 21000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4779-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -943,7 +1171,7 @@
       "sku": "Pant011",
       "model": "Cintura Ajustable",
       "price": 25000,
-      "display_price": 25000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -956,7 +1184,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-17eoj.webp",
       "carpeta_id": "1CEZVCxwG2S9gfl_MAh90znMrQCom-KYj",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT4838-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 21000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT4838-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4838-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 30000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -975,10 +1222,10 @@
     },
     {
       "id": "PANT4921",
-      "sku": 2.69229e+21,
+      "sku": "26922916100679300.00",
       "model": "maxi Wide celeste",
       "price": 29000,
-      "display_price": 29000,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Maxi Wige",
       "categoryName": "Pantalon Maxi Wige",
@@ -991,7 +1238,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4921%2FPANT4921-1Ne1d.jpg",
       "carpeta_id": "1gqi6Sl5EoV8aNQ9xsCFcqpT0djRuuPmy",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT4921-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 25000,
+          "cantidad_minima": 2
+        },
+        {
+          "variedad_id": "PANT4921-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT4921-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 35000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1010,10 +1276,10 @@
     },
     {
       "id": "PANT5413",
-      "sku": 2.69236e+21,
+      "sku": "26923576650613000.00",
       "model": "Baggy print",
       "price": 23000,
-      "display_price": 23000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -1026,7 +1292,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5413%2FPANT5413-1txqm.jpg",
       "carpeta_id": "1j4eYWmuvSp83jgAnSJ8sMS1peVOC7I19",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT5413-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 20000,
+          "cantidad_minima": 3
+        },
+        {
+          "variedad_id": "PANT5413-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 23000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT5413-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 28000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1045,10 +1330,10 @@
     },
     {
       "id": "PANT5798",
-      "sku": 2.68015e+21,
+      "sku": "26801450732838700.00",
       "model": "oxford oxido tiro alto",
       "price": 22000,
-      "display_price": 22000,
+      "display_price": 19000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -1061,7 +1346,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5798%2FPANT5798-1R3cZ.png",
       "carpeta_id": "1v5TWfwxWgH5GKCxcqM1V9iqOsdUsCG2a",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT5798-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 19000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT5798-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 22000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT5798-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1080,10 +1384,10 @@
     },
     {
       "id": "PANT5804",
-      "sku": 2.58657e+21,
+      "sku": "25865684273131200.00",
       "model": "mom negro",
       "price": 22000,
-      "display_price": 22000,
+      "display_price": 19000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Moon",
       "categoryName": "Pantalon Moon",
@@ -1096,7 +1400,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5804%2FPANT5804-1PkkM.jpg",
       "carpeta_id": "172W2x_XurqE0fPh_HnNiV2A1eD3WnP2V",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT5804-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 19000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT5804-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 22000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT5804-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1150,7 +1473,7 @@
     },
     {
       "id": "PANT6545",
-      "sku": 2.71177e+21,
+      "sku": "27117721721248100.00",
       "model": "Wide recto bordo",
       "price": 21000,
       "display_price": 21000,
@@ -1185,10 +1508,10 @@
     },
     {
       "id": "PANT6650",
-      "sku": 2.52642e+21,
+      "sku": "25264224996513300.00",
       "model": "Oxford Pilar",
       "price": 22000,
-      "display_price": 22000,
+      "display_price": 19000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -1201,7 +1524,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6650%2FPANT6650-1F4HA.jpg",
       "carpeta_id": "1oroqVlHdrMB76_ZDT07uMGBeAvnvCQzO",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT6650-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 19000,
+          "cantidad_minima": 3
+        },
+        {
+          "variedad_id": "PANT6650-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 22000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT6650-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1220,7 +1562,7 @@
     },
     {
       "id": "PANT7106",
-      "sku": 265220000000000000000,
+      "sku": "26521953680803000.00",
       "model": "Wide recto tiro medio",
       "price": 25000,
       "display_price": 25000,
@@ -1255,10 +1597,10 @@
     },
     {
       "id": "PANT7332",
-      "sku": 2.64586e+21,
+      "sku": "26458644670487000.00",
       "model": "Oxford azul",
       "price": 21000,
-      "display_price": 21000,
+      "display_price": 18000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -1271,7 +1613,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7332%2FPANT7332-1-O3H.jpg",
       "carpeta_id": "1Q2VXBW6ZCumsU4xs87VWcOeLrqnoTV1p",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT7332-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 18000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT7332-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 21000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT7332-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1290,7 +1651,7 @@
     },
     {
       "id": "PANT7432",
-      "sku": 2.44615e+21,
+      "sku": "24461514323503600.00",
       "model": "Wide leg Lucia",
       "price": 22000,
       "display_price": 22000,
@@ -1325,10 +1686,10 @@
     },
     {
       "id": "PANT7616",
-      "sku": 2.54328e+21,
+      "sku": "25432790663036600.00",
       "model": "Slouchy Amely",
       "price": 20000,
-      "display_price": 20000,
+      "display_price": 17000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Parachute",
       "categoryName": "Pantalon Parachute",
@@ -1341,7 +1702,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7616%2FPANT7616-1UwbG.jpg",
       "carpeta_id": "1YPTNiFBVeWNHzJoIoxePCLkABg98NeUs",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT7616-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 17000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT7616-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 20000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT7616-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1360,7 +1740,7 @@
     },
     {
       "id": "PANT7692",
-      "sku": 2.65459e+21,
+      "sku": "26545887375068700.00",
       "model": "Wide gris estampado",
       "price": 22000,
       "display_price": 22000,
@@ -1395,7 +1775,7 @@
     },
     {
       "id": "PANT7858",
-      "sku": 2.68814e+21,
+      "sku": "26881441064827100.00",
       "model": "Wide verde estampado",
       "price": 22000,
       "display_price": 22000,
@@ -1430,7 +1810,7 @@
     },
     {
       "id": "PANT8212",
-      "sku": 259040000000000000000,
+      "sku": "25903961175950600.00",
       "model": "Recto tiro medio elastizado",
       "price": 20000,
       "display_price": 20000,
@@ -1465,10 +1845,10 @@
     },
     {
       "id": "PANT8376",
-      "sku": 3.49493e+21,
+      "sku": "34949324234716000.00",
       "model": "oxford tiro bajoceleste",
       "price": 22000,
-      "display_price": 22000,
+      "display_price": 19000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -1481,7 +1861,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8376%2FPANT8376-1-FkL.jpg",
       "carpeta_id": "1wHBgAnOhmLmlI_j87STAF9Wv2qsBqWLD",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT8376-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 19000,
+          "cantidad_minima": 7
+        },
+        {
+          "variedad_id": "PANT8376-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 22000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT8376-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1500,7 +1899,7 @@
     },
     {
       "id": "PANT8389",
-      "sku": 265490000000000000000,
+      "sku": "26548980608106900.00",
       "model": "Wide leg Bela",
       "price": 21000,
       "display_price": 21000,
@@ -1535,7 +1934,7 @@
     },
     {
       "id": "PANT8476",
-      "sku": 2.71927e+21,
+      "sku": "27192738670415400.00",
       "model": "Wide estrellas",
       "price": 25000,
       "display_price": 25000,
@@ -1570,10 +1969,10 @@
     },
     {
       "id": "PANT8582",
-      "sku": 270980000000000000000,
+      "sku": "27097995193123100.00",
       "model": "mom azul",
       "price": 22000,
-      "display_price": 22000,
+      "display_price": 19000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Moon",
       "categoryName": "Pantalon Moon",
@@ -1586,7 +1985,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8582%2FPANT8582-1vQWZ.jpg",
       "carpeta_id": "1ABRNNdfBTCTkrNhQhc5Oh__lle7K_4un",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT8582-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 19000,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "PANT8582-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 22000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT8582-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 26000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1605,7 +2023,7 @@
     },
     {
       "id": "PANT8811",
-      "sku": 2.73882e+21,
+      "sku": "27388202160772500.00",
       "model": "Wide leg beige",
       "price": 21000,
       "display_price": 21000,
@@ -1640,7 +2058,7 @@
     },
     {
       "id": "PANT8904",
-      "sku": 3.57797e+21,
+      "sku": "35779747758306500.00",
       "model": "Wide tiro bajo bordo",
       "price": 21000,
       "display_price": 21000,
@@ -1675,7 +2093,7 @@
     },
     {
       "id": "PANT9228",
-      "sku": 2.64593e+21,
+      "sku": "26459322103731600.00",
       "model": "Wide leg Borravino",
       "price": 21000,
       "display_price": 21000,
@@ -1710,10 +2128,10 @@
     },
     {
       "id": "PANT9246",
-      "sku": 3.48853e+21,
+      "sku": "34885282421062800.00",
       "model": "Baggy Lunar",
       "price": 24000,
-      "display_price": 24000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -1726,7 +2144,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9246%2FPANT9246-1C23j.jpg",
       "carpeta_id": "1j7uNEsAmx_wZhwDgy2LF9kHKzqyBKXyr",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT9246-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 20000,
+          "cantidad_minima": 5
+        },
+        {
+          "variedad_id": "PANT9246-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT9246-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 29000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1745,10 +2182,10 @@
     },
     {
       "id": "PANT9288",
-      "sku": 2.67903e+21,
+      "sku": "26790268437279000.00",
       "model": "Chupín Els",
       "price": 20000,
-      "display_price": 20000,
+      "display_price": 17000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Chupin",
       "categoryName": "Pantalon Chupin",
@@ -1761,7 +2198,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9288%2FPANT9288-1WoX8.jpg",
       "carpeta_id": "1g5B6TcyDrOEYFhbn2XLAsEUHPYzX591L",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT9288-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 17000,
+          "cantidad_minima": 6
+        },
+        {
+          "variedad_id": "PANT9288-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 20000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT9288-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1780,10 +2236,10 @@
     },
     {
       "id": "PANT9631",
-      "sku": 2.59965e+21,
+      "sku": "25996546613342300.00",
       "model": "OXFORD AZUL",
       "price": 21000,
-      "display_price": 21000,
+      "display_price": 18000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -1796,7 +2252,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9631%2FPANT9631-1j9fA.jpg",
       "carpeta_id": "1QBSpvWEBGr74Crb4mp3xkN-rcT5EsvTG",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT9631-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 18000,
+          "cantidad_minima": 2
+        },
+        {
+          "variedad_id": "PANT9631-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 21000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT9631-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1815,10 +2290,10 @@
     },
     {
       "id": "PANT9679",
-      "sku": 2.69026e+21,
+      "sku": "26902565559431300.00",
       "model": "Bagy milan",
       "price": 20000,
-      "display_price": 20000,
+      "display_price": 17000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -1831,7 +2306,26 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9679%2FPANT9679-1_06c.jpg",
       "carpeta_id": "1GnG0ZKZ8lahqe36_kMAH8g7pK5tmSwDw",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT9679-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 17000,
+          "cantidad_minima": 2
+        },
+        {
+          "variedad_id": "PANT9679-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 20000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT9679-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 24000,
+          "cantidad_minima": 1
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -1885,10 +2379,10 @@
     },
     {
       "id": "PANT9862",
-      "sku": 2.71731e+21,
+      "sku": "27173082642277500.00",
       "model": "Wide recto elastizado negro",
       "price": 20000,
-      "display_price": 20000,
+      "display_price": 17000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Recto",
       "categoryName": "Pantalon Recto",
@@ -1901,7 +2395,14 @@
       "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9862%2FPANT9862-1stkV.jpg",
       "carpeta_id": "16Daw8od-3sU8K_-cHjNrxaIsgmo3ulTi",
       "woo_id": "",
-      "varieties": [],
+      "varieties": [
+        {
+          "variedad_id": "PANT9862-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 17000,
+          "cantidad_minima": 6
+        }
+      ],
       "variations": [
         {
           "color": "Surtido",
@@ -2046,7 +2547,536 @@
     "HORA_DISPARADOR_BARTENDER": "",
     "CARRUSELES": ""
   },
-  "allVarieties": {},
+  "allVarieties": {
+    "PANT4551": [
+      {
+        "variedad_id": "PANT4551-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 20000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT4551-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT4551-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 29000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT5413": [
+      {
+        "variedad_id": "PANT5413-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 20000,
+        "cantidad_minima": 3
+      },
+      {
+        "variedad_id": "PANT5413-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT5413-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT4838": [
+      {
+        "variedad_id": "PANT4838-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT4838-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT4838-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT4657": [
+      {
+        "variedad_id": "PANT4657-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT4657-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT4657-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT9246": [
+      {
+        "variedad_id": "PANT9246-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 20000,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "PANT9246-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT9246-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 29000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT9679": [
+      {
+        "variedad_id": "PANT9679-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 2
+      },
+      {
+        "variedad_id": "PANT9679-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT9679-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT4330": [
+      {
+        "variedad_id": "PANT4330-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 19000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT4330-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 22000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT4330-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT3144": [
+      {
+        "variedad_id": "PANT3144-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 20000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT3144-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT3144-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT3934": [
+      {
+        "variedad_id": "PANT3934-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT3934-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT3934-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT9288": [
+      {
+        "variedad_id": "PANT9288-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT9288-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT9288-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT4921": [
+      {
+        "variedad_id": "PANT4921-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 2
+      },
+      {
+        "variedad_id": "PANT4921-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 29000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT4921-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 35000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT1109": [
+      {
+        "variedad_id": "PANT1109-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 16000,
+        "cantidad_minima": 4
+      },
+      {
+        "variedad_id": "PANT1109-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 19000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT1109-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT2188": [
+      {
+        "variedad_id": "PANT2188-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "PANT2188-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT2188-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT5804": [
+      {
+        "variedad_id": "PANT5804-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 19000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT5804-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 22000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT5804-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT8582": [
+      {
+        "variedad_id": "PANT8582-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 19000,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "PANT8582-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 22000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT8582-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT9631": [
+      {
+        "variedad_id": "PANT9631-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 18000,
+        "cantidad_minima": 2
+      },
+      {
+        "variedad_id": "PANT9631-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 21000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT9631-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT7332": [
+      {
+        "variedad_id": "PANT7332-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 18000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT7332-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 21000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT7332-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT2545": [
+      {
+        "variedad_id": "PANT2545-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 19000,
+        "cantidad_minima": 5
+      },
+      {
+        "variedad_id": "PANT2545-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 22000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT2545-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT4779": [
+      {
+        "variedad_id": "PANT4779-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 18000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT4779-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 21000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT4779-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT1524": [
+      {
+        "variedad_id": "PANT1524-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT1524-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT1524-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT5798": [
+      {
+        "variedad_id": "PANT5798-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 19000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT5798-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 22000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT5798-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT8376": [
+      {
+        "variedad_id": "PANT8376-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 19000,
+        "cantidad_minima": 7
+      },
+      {
+        "variedad_id": "PANT8376-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 22000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT8376-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT6650": [
+      {
+        "variedad_id": "PANT6650-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 19000,
+        "cantidad_minima": 3
+      },
+      {
+        "variedad_id": "PANT6650-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 22000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT6650-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT2200": [
+      {
+        "variedad_id": "PANT2200-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT2200-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT2200-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT3194": [
+      {
+        "variedad_id": "PANT3194-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT3194-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT3194-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT7616": [
+      {
+        "variedad_id": "PANT7616-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 6
+      },
+      {
+        "variedad_id": "PANT7616-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT7616-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1
+      }
+    ],
+    "PANT9862": [
+      {
+        "variedad_id": "PANT9862-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 6
+      }
+    ]
+  },
   "clients": [
     {
       "id": "CLI001",
@@ -2129,5 +3159,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781749515137
+  "timestamp_ms": 1781750356121
 }
