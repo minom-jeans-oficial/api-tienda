@@ -70,9 +70,3179 @@
     }
   ],
   "contactabilidad": "541149606618",
-  "content": [],
+  "content": [
+    {
+      "nombre_padre": "INDUMENTARIA",
+      "categorias": [
+        {
+          "codigo": 1,
+          "nombre": "Pantalon Bagy",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_bagy.svg",
+          "producto": [
+            {
+              "codigo": 1,
+              "categoria": "Pantalon Bagy",
+              "nombre": "PANT3144",
+              "carpeta_id": "1C-9HM7MTOOcl4GxvQ84xnSYLaKr9go0D",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "BAGY NEGRO"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Baggy"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "94",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "17-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3144%0A%F0%9F%94%B9%20Modelo%3A%20BAGY%20NEGRO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3144%2FPANT3144-1vKtZ.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3144%2FPANT3144-1vKtZ.jpg",
+                  "archivo_id": "1vKtZ_KTGSOuQo9LZe9kvhS1HRoiBmbhp",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-30T02:06:59.037Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3144%2FPANT3144-1NLP4.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3144%2FPANT3144-1NLP4.png",
+                  "archivo_id": "1NLP4SFWHcxDa0RxxCt_wOnfvyjRJB886",
+                  "portada": true,
+                  "orden": 6,
+                  "fecha_carga": "2026-05-30T02:06:59.037Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "94"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 23000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 28000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-17T03:00:00.000Z"
+            },
+            {
+              "codigo": 4,
+              "categoria": "Pantalon Bagy",
+              "nombre": "PANT4330",
+              "carpeta_id": "1w0IwolZnXEbF0g860Eqy6yAzxqo3gVJD",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Bagy blanco"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Baggy"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "98",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "05-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4330%0A%F0%9F%94%B9%20Modelo%3A%20Bagy%20blanco%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4330%2FPANT4330-152yq.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4330%2FPANT4330-152yq.jpg",
+                  "archivo_id": "152yqI0v612humtZT6HMrNRlf5bi2uEPD",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 19000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "98"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 22000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 26000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-05T03:00:00.000Z"
+            },
+            {
+              "codigo": 7,
+              "categoria": "Pantalon Bagy",
+              "nombre": "PANT4551",
+              "carpeta_id": "19FVdJP0j5bb-Hxa_Gfivga0PigMNMImC",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Baggy London"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Baggy"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "98",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "25-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4551%0A%F0%9F%94%B9%20Modelo%3A%20Baggy%20London%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4551%2FPANT4551-1uFml.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4551%2FPANT4551-1uFml.jpg",
+                  "archivo_id": "1uFmlQzSyt2twPVtX3zjYJpkBg_a2fb0D",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "98"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 29000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-25T03:00:00.000Z"
+            },
+            {
+              "codigo": 10,
+              "categoria": "Pantalon Bagy",
+              "nombre": "PANT4657",
+              "carpeta_id": "1A7ybXc5rcOvlZRRDBgWWPAozaG1LDFuj",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Baggy animal print"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Baggy"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "96",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "12-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4657%0A%F0%9F%94%B9%20Modelo%3A%20Baggy%20animal%20print%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4657%2FPANT4657-12DVF.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4657%2FPANT4657-12DVF.jpg",
+                  "archivo_id": "12DVFmIZTlP3Wj5vIMHsUaGymnPlhtmvy",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Curva",
+                  "minima": 0,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "96"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 23000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 28000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-12T03:00:00.000Z"
+            },
+            {
+              "codigo": 13,
+              "categoria": "Pantalon Bagy",
+              "nombre": "PANT4838",
+              "carpeta_id": "1CEZVCxwG2S9gfl_MAh90znMrQCom-KYj",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Cintura Ajustable"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "-"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "-"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    },
+                    {
+                      "nombre": "Azul acero",
+                      "hex": "#1482B4"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "144",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "03-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4838%0A%F0%9F%94%B9%20Modelo%3A%20Cintura%20Ajustable%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-17eoj.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-17eoj.webp",
+                  "archivo_id": "17eoj-r9tP_mGiPhOMhvNf3uFnzOEI7N2",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-06-03T18:52:44.584Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-1Vbr8.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-1Vbr8.webp",
+                  "archivo_id": "1Vbr8BhtrMZScx8rrqnIcJcFfmgkVnLGA",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-06-03T18:52:44.584Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-1sED-.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-1sED-.webp",
+                  "archivo_id": "1sED-DwKT1C5Gr01RfLku1ArfBOtnlrRt",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-06-03T18:52:44.584Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-1uWBD.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-1uWBD.webp",
+                  "archivo_id": "1uWBDGMpldA6Mb6YDcwS0QQRJmEI2PBEr",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-06-03T18:52:44.584Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-1G20G.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-1G20G.webp",
+                  "archivo_id": "1G20GutNkC4BE9CSuR9jMSAgF5ko9oORd",
+                  "portada": false,
+                  "orden": 10,
+                  "fecha_carga": "2026-06-03T18:52:44.584Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-1MrAL.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-1MrAL.png",
+                  "archivo_id": "1MrAL3jSyTwhcFpEnlxXBIEJqCKyUmgZC",
+                  "portada": false,
+                  "orden": 12,
+                  "fecha_carga": "2026-06-03T18:52:44.584Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-1VUIq.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-1VUIq.png",
+                  "archivo_id": "1VUIqJAn8-0z1g03hWu9IF2gBGKxS_KiP",
+                  "portada": false,
+                  "orden": 16,
+                  "fecha_carga": "2026-06-03T18:52:44.584Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 21000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 25000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 30000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-03T03:00:00.000Z"
+            },
+            {
+              "codigo": 16,
+              "categoria": "Pantalon Bagy",
+              "nombre": "PANT5413",
+              "carpeta_id": "1j4eYWmuvSp83jgAnSJ8sMS1peVOC7I19",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Baggy print"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Baggy"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "25-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5413%0A%F0%9F%94%B9%20Modelo%3A%20Baggy%20print%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5413%2FPANT5413-1txqm.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5413%2FPANT5413-1txqm.jpg",
+                  "archivo_id": "1txqm-h-fgQifDytvdrtOUe_pmAQA6f2s",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Curva",
+                  "minima": 3,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 23000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 28000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-25T03:00:00.000Z"
+            },
+            {
+              "codigo": 19,
+              "categoria": "Pantalon Bagy",
+              "nombre": "PANT9246",
+              "carpeta_id": "1j7uNEsAmx_wZhwDgy2LF9kHKzqyBKXyr",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Baggy Lunar"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Baggy"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "25-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9246%0A%F0%9F%94%B9%20Modelo%3A%20Baggy%20Lunar%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9246%2FPANT9246-1C23j.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9246%2FPANT9246-1C23j.jpg",
+                  "archivo_id": "1C23jUFU5Bz19y68e6guNobkanB97eS8K",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 29000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-25T03:00:00.000Z"
+            },
+            {
+              "codigo": 22,
+              "categoria": "Pantalon Bagy",
+              "nombre": "PANT9679",
+              "carpeta_id": "1GnG0ZKZ8lahqe36_kMAH8g7pK5tmSwDw",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Bagy milan"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Baggy"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "17-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9679%0A%F0%9F%94%B9%20Modelo%3A%20Bagy%20milan%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9679%2FPANT9679-1_06c.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9679%2FPANT9679-1_06c.jpg",
+                  "archivo_id": "1_06clh4rCuK0E2dowPm2_Q8oSNjNSarY",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 17000,
+                  "variedad": "Curva",
+                  "minima": 2,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-17T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 2,
+          "nombre": "Pantalon Chupin",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_chupin.svg",
+          "producto": [
+            {
+              "codigo": 25,
+              "categoria": "Pantalon Chupin",
+              "nombre": "PANT3934",
+              "carpeta_id": "1TIAw7Z_I1xygInrDdMxkBzgU0sOS0pZ9",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Chupín AN"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Pitillo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Elastizado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "05-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3934%0A%F0%9F%94%B9%20Modelo%3A%20Chup%C3%ADn%20AN%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3934%2FPANT3934-1Y1xa.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3934%2FPANT3934-1Y1xa.jpg",
+                  "archivo_id": "1Y1xajeCvoC9Lhz8rve8NeqNxrZapPIAR",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 17000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-05T03:00:00.000Z"
+            },
+            {
+              "codigo": 28,
+              "categoria": "Pantalon Chupin",
+              "nombre": "PANT9288",
+              "carpeta_id": "1g5B6TcyDrOEYFhbn2XLAsEUHPYzX591L",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Chupín Els"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Pitillo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Elastizado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "05-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9288%0A%F0%9F%94%B9%20Modelo%3A%20Chup%C3%ADn%20Els%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9288%2FPANT9288-1WoX8.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9288%2FPANT9288-1WoX8.jpg",
+                  "archivo_id": "1WoX8hXi1kno74AqPsjlFfcHhiBmL3Irw",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 17000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-05T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 3,
+          "nombre": "Pantalon Maxi Wige",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_maxi_wige.svg",
+          "producto": [
+            {
+              "codigo": 31,
+              "categoria": "Pantalon Maxi Wige",
+              "nombre": "PANT1109",
+              "carpeta_id": "1IRrhNZq3kbEsVxymqh_9tc9qmf11g25H",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Maxi Wide leg Flavia"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Wide Leg"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT1109%0A%F0%9F%94%B9%20Modelo%3A%20Maxi%20Wide%20leg%20Flavia%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1109%2FPANT1109-18Z_N.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1109%2FPANT1109-18Z_N.jpg",
+                  "archivo_id": "18Z_NK6NalJDYRhpkAzSjZ3kSpKyEpXyd",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 16000,
+                  "variedad": "Curva",
+                  "minima": 4,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 19000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 23000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            },
+            {
+              "codigo": 34,
+              "categoria": "Pantalon Maxi Wige",
+              "nombre": "PANT4921",
+              "carpeta_id": "1gqi6Sl5EoV8aNQ9xsCFcqpT0djRuuPmy",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "maxi Wide celeste"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Wide Leg"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "25-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4921%0A%F0%9F%94%B9%20Modelo%3A%20maxi%20Wide%20celeste%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4921%2FPANT4921-1Ne1d.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4921%2FPANT4921-1Ne1d.jpg",
+                  "archivo_id": "1Ne1dUplTkW940bGxPGocd2TOHh8y_H-M",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 25000,
+                  "variedad": "Curva",
+                  "minima": 2,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 29000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 35000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-25T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 4,
+          "nombre": "Pantalon Moon",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_moon.svg",
+          "producto": [
+            {
+              "codigo": 37,
+              "categoria": "Pantalon Moon",
+              "nombre": "PANT2188",
+              "carpeta_id": "1QCWPaBbJhWH3uy8hIaDLHsV9ykiUPVLc",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "MOM BEIGE"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Mom"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2188%0A%F0%9F%94%B9%20Modelo%3A%20MOM%20BEIGE%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2188%2FPANT2188-1CbF_.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2188%2FPANT2188-1CbF_.jpg",
+                  "archivo_id": "1CbF_siqo1Quy5e51YelyNxgMLuloeDqB",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 17000,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            },
+            {
+              "codigo": 40,
+              "categoria": "Pantalon Moon",
+              "nombre": "PANT5804",
+              "carpeta_id": "172W2x_XurqE0fPh_HnNiV2A1eD3WnP2V",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "mom negro"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Mom"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5804%0A%F0%9F%94%B9%20Modelo%3A%20mom%20negro%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5804%2FPANT5804-1PkkM.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5804%2FPANT5804-1PkkM.jpg",
+                  "archivo_id": "1PkkMlvDfzW4jX8CRGL9l8Rgt4IK1_fhV",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 19000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 22000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 26000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            },
+            {
+              "codigo": 43,
+              "categoria": "Pantalon Moon",
+              "nombre": "PANT8582",
+              "carpeta_id": "1ABRNNdfBTCTkrNhQhc5Oh__lle7K_4un",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "mom azul"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Mom"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8582%0A%F0%9F%94%B9%20Modelo%3A%20mom%20azul%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8582%2FPANT8582-1vQWZ.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8582%2FPANT8582-1vQWZ.jpg",
+                  "archivo_id": "1vQWZZz1FyZJH0rGa23NurE0iD1S9e-XY",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 19000,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 22000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 26000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 5,
+          "nombre": "Pantalon Oxfort",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_oxfort.svg",
+          "producto": [
+            {
+              "codigo": 46,
+              "categoria": "Pantalon Oxfort",
+              "nombre": "PANT1524",
+              "carpeta_id": "1iQboh9AZXZmXqpN5zf-d4naU1_XnWb3W",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "con brillos"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Sublimado"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "144",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "03-06-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT1524%0A%F0%9F%94%B9%20Modelo%3A%20con%20brillos%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1LauB.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1LauB.webp",
+                  "archivo_id": "1LauBnd1VdJ8aOeH6qD3PxpKbqoPa0iqM",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-06-03T19:54:25.780Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1EnBI.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1EnBI.webp",
+                  "archivo_id": "1EnBItzpAoBBeZF7_1qs07L8PnvgPfZW4",
+                  "portada": false,
+                  "orden": 4,
+                  "fecha_carga": "2026-06-03T19:54:25.780Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1fEkF.webp",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1fEkF.webp",
+                  "archivo_id": "1fEkFFDc5HXZJk7ohU1cm3PZ30de72v-n",
+                  "portada": false,
+                  "orden": 6,
+                  "fecha_carga": "2026-06-03T19:54:25.780Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1BajX.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1BajX.png",
+                  "archivo_id": "1BajX9z28DgbXJcXuSIUgvutDtw_F0B7o",
+                  "portada": false,
+                  "orden": 8,
+                  "fecha_carga": "2026-06-03T19:54:25.780Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 21000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 25000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 30000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-06-03T03:00:00.000Z"
+            },
+            {
+              "codigo": 49,
+              "categoria": "Pantalon Oxfort",
+              "nombre": "PANT2545",
+              "carpeta_id": "1rnQIxY8nXVa6EAYH2vGi1pAOUYC7CArd",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "OXFORD TIRO BAJO"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Oxford"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2545%0A%F0%9F%94%B9%20Modelo%3A%20OXFORD%20TIRO%20BAJO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2545%2FPANT2545-1ULXV.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2545%2FPANT2545-1ULXV.jpg",
+                  "archivo_id": "1ULXV6iTHJH6qoG9pgCTuvjXA38rjAbDf",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 19000,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 22000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 26000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            },
+            {
+              "codigo": 52,
+              "categoria": "Pantalon Oxfort",
+              "nombre": "PANT4779",
+              "carpeta_id": "1p8JojmpITDX1TdO9yoXIt_mFkWEYqtJB",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "OXFORD NEGRO"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Oxford"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Elastizado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4779%0A%F0%9F%94%B9%20Modelo%3A%20OXFORD%20NEGRO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4779%2FPANT4779-141c8.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4779%2FPANT4779-141c8.jpg",
+                  "archivo_id": "141c8edJGePCo7dN4SDVmLfZkk1MalJjN",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 18000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 21000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 25000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            },
+            {
+              "codigo": 55,
+              "categoria": "Pantalon Oxfort",
+              "nombre": "PANT5798",
+              "carpeta_id": "1v5TWfwxWgH5GKCxcqM1V9iqOsdUsCG2a",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "oxford oxido tiro alto"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Oxford"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Elastizado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5798%0A%F0%9F%94%B9%20Modelo%3A%20oxford%20oxido%20tiro%20alto%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5798%2FPANT5798-1tf1Z.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5798%2FPANT5798-1tf1Z.jpg",
+                  "archivo_id": "1tf1ZVvVFqjIeqSOaRu1BFWRp_3m3MNru",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-30T05:05:40.180Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5798%2FPANT5798-1Hc2o.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5798%2FPANT5798-1Hc2o.png",
+                  "archivo_id": "1Hc2oEAiCZeMGE0_KebcyyN1qSJw22jr6",
+                  "portada": true,
+                  "orden": 4,
+                  "fecha_carga": "2026-05-30T05:05:40.180Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5798%2FPANT5798-1R3cZ.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5798%2FPANT5798-1R3cZ.png",
+                  "archivo_id": "1R3cZLBeFexmc-XD2AuLO0QsuSOGf6Z9w",
+                  "portada": true,
+                  "orden": 6,
+                  "fecha_carga": "2026-05-30T05:05:40.180Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 19000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 22000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 26000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            },
+            {
+              "codigo": 58,
+              "categoria": "Pantalon Oxfort",
+              "nombre": "PANT6650",
+              "carpeta_id": "1oroqVlHdrMB76_ZDT07uMGBeAvnvCQzO",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Oxford Pilar"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Oxford"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Elastizado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "38",
+                    "40",
+                    "42"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "97",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT6650%0A%F0%9F%94%B9%20Modelo%3A%20Oxford%20Pilar%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2038%2C%2040%2C%2042"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6650%2FPANT6650-1F4HA.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT6650%2FPANT6650-1F4HA.jpg",
+                  "archivo_id": "1F4HA2QGkXzhQxC4P6HUFTAtwJZWSJ-kg",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 19000,
+                  "variedad": "Curva",
+                  "minima": 3,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "97"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 22000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 26000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            },
+            {
+              "codigo": 61,
+              "categoria": "Pantalon Oxfort",
+              "nombre": "PANT7332",
+              "carpeta_id": "1Q2VXBW6ZCumsU4xs87VWcOeLrqnoTV1p",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Oxford azul"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Oxford"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Elastizado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "99",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "25-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7332%0A%F0%9F%94%B9%20Modelo%3A%20Oxford%20azul%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7332%2FPANT7332-1-O3H.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7332%2FPANT7332-1-O3H.jpg",
+                  "archivo_id": "1-O3HdwYl7VIW7jH4wjgPdpgdqZqfUh8Q",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 18000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "99"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 21000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 25000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-25T03:00:00.000Z"
+            },
+            {
+              "codigo": 64,
+              "categoria": "Pantalon Oxfort",
+              "nombre": "PANT8376",
+              "carpeta_id": "1wHBgAnOhmLmlI_j87STAF9Wv2qsBqWLD",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "oxford tiro bajoceleste"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Oxford"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Rígid"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8376%0A%F0%9F%94%B9%20Modelo%3A%20oxford%20tiro%20bajoceleste%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8376%2FPANT8376-1-FkL.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT8376%2FPANT8376-1-FkL.jpg",
+                  "archivo_id": "1-FkL5u_eFIkF9pvU5O92EFG8JX0KuKCZ",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 19000,
+                  "variedad": "Curva",
+                  "minima": 7,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 22000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 26000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            },
+            {
+              "codigo": 67,
+              "categoria": "Pantalon Oxfort",
+              "nombre": "PANT9631",
+              "carpeta_id": "1QBSpvWEBGr74Crb4mp3xkN-rcT5EsvTG",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "OXFORD AZUL"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Oxford"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "-"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "99",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9631%0A%F0%9F%94%B9%20Modelo%3A%20OXFORD%20AZUL%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9631%2FPANT9631-1j9fA.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9631%2FPANT9631-1j9fA.jpg",
+                  "archivo_id": "1j9fAjcPxi1FG9MiyqzZIgttS9ofeSjgK",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 18000,
+                  "variedad": "Curva",
+                  "minima": 2,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "99"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 21000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 25000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 6,
+          "nombre": "Pantalon Parachute",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg",
+          "producto": [
+            {
+              "codigo": 70,
+              "categoria": "Pantalon Parachute",
+              "nombre": "PANT2200",
+              "carpeta_id": "1uDBLdjOt3B2e8n3dFOsqM42kRDw4E0Q8",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Slouchy gris"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Slouchy"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Elastizado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "97",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2200%0A%F0%9F%94%B9%20Modelo%3A%20Slouchy%20gris%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2200%2FPANT2200-1IjC3.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2200%2FPANT2200-1IjC3.jpg",
+                  "archivo_id": "1IjC37eVT49GbfV8dpezwtfjji3z0_x8x",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 17000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "97"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            },
+            {
+              "codigo": 73,
+              "categoria": "Pantalon Parachute",
+              "nombre": "PANT3194",
+              "carpeta_id": "1ssiSRIoEko3ujdqxTlzl8q8nAxtwDSPt",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Slouchy negro"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Slouchy"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Elastizado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3194%0A%F0%9F%94%B9%20Modelo%3A%20Slouchy%20negro%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3194%2FPANT3194-1Yr7j.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT3194%2FPANT3194-1Yr7j.jpg",
+                  "archivo_id": "1Yr7j8Du-fJQIg3Kc-K7jKqj8o5ADwJCy",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 17000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            },
+            {
+              "codigo": 76,
+              "categoria": "Pantalon Parachute",
+              "nombre": "PANT7616",
+              "carpeta_id": "1YPTNiFBVeWNHzJoIoxePCLkABg98NeUs",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Slouchy Amely"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Slouchy"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Elastizado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "99",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7616%0A%F0%9F%94%B9%20Modelo%3A%20Slouchy%20Amely%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7616%2FPANT7616-1UwbG.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT7616%2FPANT7616-1UwbG.jpg",
+                  "archivo_id": "1UwbGA1DH7dt4mQPk1d5-c0wXlTkKQTqz",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:33:24.442Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 17000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "99"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            }
+          ]
+        },
+        {
+          "codigo": 7,
+          "nombre": "Pantalon Recto",
+          "url_categoria": "",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_recto.svg",
+          "producto": [
+            {
+              "codigo": 79,
+              "categoria": "Pantalon Recto",
+              "nombre": "PANT9862",
+              "carpeta_id": "16Daw8od-3sU8K_-cHjNrxaIsgmo3ulTi",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Wide recto elastizado negro"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Wide Leg"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Elastizado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "31-05-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9862%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20recto%20elastizado%20negro%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9862%2FPANT9862-1stkV.jpg",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9862%2FPANT9862-1stkV.jpg",
+                  "archivo_id": "1stkVtLEtmxkbqIyhG0POlG7DHyhs0ZiH",
+                  "portada": true,
+                  "orden": 2,
+                  "fecha_carga": "2026-05-25T05:37:56.021Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 17000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
+                }
+              ],
+              "upd": "2026-05-31T03:00:00.000Z"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781749504165
+  "timestamp_ms": 1781750404425
 }
