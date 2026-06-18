@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T00:22:52.688Z",
+  "generated_at": "2026-06-18T00:37:49.773Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2508,7 +2508,7 @@
       "sku": "SPol001",
       "model": "123",
       "price": 15000,
-      "display_price": 15000,
+      "display_price": 18000,
       "minor_surcharge": 0,
       "category_id": "SPollera",
       "categoryName": "SPollera",
@@ -2525,8 +2525,8 @@
         {
           "variedad_id": "SPOL7447-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 15000,
-          "cantidad_minima": 3
+          "precio_unitario": 18000,
+          "cantidad_minima": 1
         },
         {
           "variedad_id": "SPOL7447-Menor",
@@ -3292,8 +3292,8 @@
       {
         "variedad_id": "SPOL7447-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 15000,
-        "cantidad_minima": 3
+        "precio_unitario": 18000,
+        "cantidad_minima": 1
       },
       {
         "variedad_id": "SPOL7447-Menor",
@@ -3399,5 +3399,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781742276410
+  "timestamp_ms": 1781743178461
 }
