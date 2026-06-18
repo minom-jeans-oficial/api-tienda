@@ -4696,7 +4696,7 @@
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
-                  "valor": "123"
+                  "valor": "123456"
                 },
                 "marca": {
                   "label": "Marca",
@@ -4750,7 +4750,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SPOL7447%0A%F0%9F%94%B9%20Modelo%3A%20123%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SPOL7447%0A%F0%9F%94%B9%20Modelo%3A%20123456%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038"
                 }
               },
               "imagen": [
@@ -4762,7 +4762,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 12000,
+                  "precio": 14000,
                   "variedad": "Curva",
                   "minima": 3,
                   "sub_variedad": {
@@ -4779,14 +4779,14 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 18000,
+                  "precio": 15000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 20000,
+                  "precio": 18000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -4802,5 +4802,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781745887909
+  "timestamp_ms": 1781747658149
 }
