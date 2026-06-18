@@ -4773,6 +4773,23 @@
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 12000,
+                  "variedad": "Curva",
+                  "minima": 4,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
                 }
               ],
               "upd": "2026-06-17T03:00:00.000Z"
@@ -4785,5 +4802,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1781743158565
+  "timestamp_ms": 1781744074029
 }
