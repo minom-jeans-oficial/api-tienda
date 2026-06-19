@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T17:07:48.867Z",
+  "generated_at": "2026-06-19T17:22:49.132Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -779,8 +779,8 @@
       "id": "PANT3144",
       "sku": "26871219782501800.00",
       "model": "BAGY NEGRO",
-      "price": 23000,
-      "display_price": 19500,
+      "price": 25000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -797,19 +797,19 @@
         {
           "variedad_id": "PANT3144-Curva",
           "nombre": "Curva",
-          "precio_unitario": 19500,
+          "precio_unitario": 21000,
           "cantidad_minima": 6
         },
         {
           "variedad_id": "PANT3144-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 23000,
+          "precio_unitario": 25000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT3144-Menor",
           "nombre": "Menor",
-          "precio_unitario": 27500,
+          "precio_unitario": 30000,
           "cantidad_minima": 1
         }
       ],
@@ -995,8 +995,8 @@
       "id": "PANT4330",
       "sku": "25859128170386200.00",
       "model": "Bagy blanco",
-      "price": 22000,
-      "display_price": 18500,
+      "price": 23000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -1013,8 +1013,8 @@
         {
           "variedad_id": "PANT4330-Curva",
           "nombre": "Curva",
-          "precio_unitario": 18500,
-          "cantidad_minima": 6
+          "precio_unitario": 20000,
+          "cantidad_minima": 7
         },
         {
           "variedad_id": "PANT4330-Mayor",
@@ -1025,7 +1025,7 @@
         {
           "variedad_id": "PANT4330-Menor",
           "nombre": "Menor",
-          "precio_unitario": 26500,
+          "precio_unitario": 28000,
           "cantidad_minima": 1
         }
       ],
@@ -2944,8 +2944,8 @@
       {
         "variedad_id": "PANT4330-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18500,
-        "cantidad_minima": 6
+        "precio_unitario": 20000,
+        "cantidad_minima": 7
       },
       {
         "variedad_id": "PANT4330-Mayor",
@@ -2956,7 +2956,7 @@
       {
         "variedad_id": "PANT4330-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26500,
+        "precio_unitario": 28000,
         "cantidad_minima": 1
       }
     ],
@@ -2964,19 +2964,19 @@
       {
         "variedad_id": "PANT3144-Curva",
         "nombre": "Curva",
-        "precio_unitario": 19500,
+        "precio_unitario": 21000,
         "cantidad_minima": 6
       },
       {
         "variedad_id": "PANT3144-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 23000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT3144-Menor",
         "nombre": "Menor",
-        "precio_unitario": 27500,
+        "precio_unitario": 30000,
         "cantidad_minima": 1
       }
     ],
@@ -3791,5 +3791,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1781888974945
+  "timestamp_ms": 1781889896920
 }
