@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T15:37:50.412Z",
+  "generated_at": "2026-06-26T15:52:49.334Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -941,8 +941,8 @@
       "id": "PANT4551",
       "sku": "26297584769875100.00",
       "model": "Baggy London",
-      "price": 24000,
-      "display_price": 20500,
+      "price": 25000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -959,19 +959,19 @@
         {
           "variedad_id": "PANT4551-Curva",
           "nombre": "Curva",
-          "precio_unitario": 20500,
+          "precio_unitario": 21000,
           "cantidad_minima": 6
         },
         {
           "variedad_id": "PANT4551-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 24000,
+          "precio_unitario": 25000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT4551-Menor",
           "nombre": "Menor",
-          "precio_unitario": 29000,
+          "precio_unitario": 30000,
           "cantidad_minima": 1
         }
       ],
@@ -1168,7 +1168,7 @@
       "brand": "MINOM OFICIAL",
       "style": "",
       "material": "",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-17eoj.webp",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4838%2FPANT4838-1MrAL.png",
       "carpeta_id": "1CEZVCxwG2S9gfl_MAh90znMrQCom-KYj",
       "woo_id": "",
       "varieties": [
@@ -1203,60 +1203,6 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT4838-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT5413",
-      "sku": "26923576650613000.00",
-      "model": "Baggy print",
-      "price": 23000,
-      "display_price": 19500,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Baggy",
-      "material": "Rígid",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5413%2FPANT5413-1txqm.jpg",
-      "carpeta_id": "1j4eYWmuvSp83jgAnSJ8sMS1peVOC7I19",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT5413-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 19500,
-          "cantidad_minima": 3
-        },
-        {
-          "variedad_id": "PANT5413-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 23000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT5413-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 27500,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT5413-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT5413-Surtido-Surtido-MINOM OFICIAL"
         }
       ],
       "fecha_creacion": ""
@@ -2608,39 +2554,19 @@
       {
         "variedad_id": "PANT4551-Curva",
         "nombre": "Curva",
-        "precio_unitario": 20500,
+        "precio_unitario": 21000,
         "cantidad_minima": 6
       },
       {
         "variedad_id": "PANT4551-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 24000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT4551-Menor",
         "nombre": "Menor",
-        "precio_unitario": 29000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT5413": [
-      {
-        "variedad_id": "PANT5413-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 19500,
-        "cantidad_minima": 3
-      },
-      {
-        "variedad_id": "PANT5413-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT5413-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 27500,
+        "precio_unitario": 30000,
         "cantidad_minima": 1
       }
     ],
@@ -3495,5 +3421,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1782488404191
+  "timestamp_ms": 1782489246658
 }
