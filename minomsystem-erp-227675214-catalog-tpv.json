@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T15:22:49.358Z",
+  "generated_at": "2026-06-26T15:37:50.412Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -344,60 +344,6 @@
   ],
   "products": [
     {
-      "id": "PANT1109",
-      "sku": "24199294046379400.00",
-      "model": "Maxi Wide leg Flavia",
-      "price": 19000,
-      "display_price": 16000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Maxi Wige",
-      "categoryName": "Pantalon Maxi Wige",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Wide Leg",
-      "material": "Rígid",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1109%2FPANT1109-18Z_N.jpg",
-      "carpeta_id": "1IRrhNZq3kbEsVxymqh_9tc9qmf11g25H",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT1109-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 16000,
-          "cantidad_minima": 4
-        },
-        {
-          "variedad_id": "PANT1109-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 19000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT1109-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 23000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT1109-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT1109-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "PANT1524",
       "sku": "Pant009",
       "model": "con brillos",
@@ -447,60 +393,6 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT1524-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT2188",
-      "sku": "26969842115935900.00",
-      "model": "MOM BEIGE",
-      "price": 20000,
-      "display_price": 17000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Moon",
-      "categoryName": "Pantalon Moon",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Mom",
-      "material": "Rígid",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT2188%2FPANT2188-1CbF_.jpg",
-      "carpeta_id": "1QCWPaBbJhWH3uy8hIaDLHsV9ykiUPVLc",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT2188-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 17000,
-          "cantidad_minima": 5
-        },
-        {
-          "variedad_id": "PANT2188-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 20000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT2188-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT2188-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT2188-Surtido-Surtido-MINOM OFICIAL"
         }
       ],
       "fecha_creacion": ""
@@ -941,8 +833,8 @@
       "id": "PANT3934",
       "sku": "10032434470189100.00",
       "model": "Chupín AN",
-      "price": 20000,
-      "display_price": 17000,
+      "price": 17000,
+      "display_price": 14000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Chupin",
       "categoryName": "Pantalon Chupin",
@@ -959,19 +851,19 @@
         {
           "variedad_id": "PANT3934-Curva",
           "nombre": "Curva",
-          "precio_unitario": 17000,
+          "precio_unitario": 14000,
           "cantidad_minima": 6
         },
         {
           "variedad_id": "PANT3934-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 20000,
+          "precio_unitario": 17000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT3934-Menor",
           "nombre": "Menor",
-          "precio_unitario": 24000,
+          "precio_unitario": 20000,
           "cantidad_minima": 1
         }
       ],
@@ -1157,8 +1049,8 @@
       "id": "PANT4657",
       "sku": "26418724157798900.00",
       "model": "Baggy animal print",
-      "price": 23000,
-      "display_price": 19500,
+      "price": 25000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -1175,19 +1067,19 @@
         {
           "variedad_id": "PANT4657-Curva",
           "nombre": "Curva",
-          "precio_unitario": 19500,
+          "precio_unitario": 21000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT4657-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 23000,
+          "precio_unitario": 25000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT4657-Menor",
           "nombre": "Menor",
-          "precio_unitario": 27500,
+          "precio_unitario": 30000,
           "cantidad_minima": 1
         }
       ],
@@ -1316,60 +1208,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT4921",
-      "sku": "26922916100679300.00",
-      "model": "maxi Wide celeste",
-      "price": 29000,
-      "display_price": 24500,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Maxi Wige",
-      "categoryName": "Pantalon Maxi Wige",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Wide Leg",
-      "material": "Rígid",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT4921%2FPANT4921-1Ne1d.jpg",
-      "carpeta_id": "1gqi6Sl5EoV8aNQ9xsCFcqpT0djRuuPmy",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT4921-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 24500,
-          "cantidad_minima": 2
-        },
-        {
-          "variedad_id": "PANT4921-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 29000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT4921-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 35000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4921-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4921-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "PANT5413",
       "sku": "26923576650613000.00",
       "model": "Baggy print",
@@ -1473,60 +1311,6 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT5798-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT5804",
-      "sku": "25865684273131200.00",
-      "model": "mom negro",
-      "price": 22000,
-      "display_price": 18500,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Moon",
-      "categoryName": "Pantalon Moon",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Mom",
-      "material": "Rígid",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT5804%2FPANT5804-1PkkM.jpg",
-      "carpeta_id": "172W2x_XurqE0fPh_HnNiV2A1eD3WnP2V",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT5804-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 18500,
-          "cantidad_minima": 6
-        },
-        {
-          "variedad_id": "PANT5804-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 22000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT5804-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 26500,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT5804-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT5804-Surtido-Surtido-MINOM OFICIAL"
         }
       ],
       "fecha_creacion": ""
@@ -2387,8 +2171,8 @@
       "id": "PANT9246",
       "sku": "34885282421062800.00",
       "model": "Baggy Lunar",
-      "price": 24000,
-      "display_price": 20500,
+      "price": 25000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -2405,19 +2189,19 @@
         {
           "variedad_id": "PANT9246-Curva",
           "nombre": "Curva",
-          "precio_unitario": 20500,
+          "precio_unitario": 21000,
           "cantidad_minima": 5
         },
         {
           "variedad_id": "PANT9246-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 24000,
+          "precio_unitario": 25000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT9246-Menor",
           "nombre": "Menor",
-          "precio_unitario": 29000,
+          "precio_unitario": 30000,
           "cantidad_minima": 1
         }
       ],
@@ -2441,8 +2225,8 @@
       "id": "PANT9288",
       "sku": "26790268437279000.00",
       "model": "Chupín Els",
-      "price": 20000,
-      "display_price": 17000,
+      "price": 17000,
+      "display_price": 14000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Chupin",
       "categoryName": "Pantalon Chupin",
@@ -2459,19 +2243,19 @@
         {
           "variedad_id": "PANT9288-Curva",
           "nombre": "Curva",
-          "precio_unitario": 17000,
+          "precio_unitario": 14000,
           "cantidad_minima": 6
         },
         {
           "variedad_id": "PANT9288-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 20000,
+          "precio_unitario": 17000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT9288-Menor",
           "nombre": "Menor",
-          "precio_unitario": 24000,
+          "precio_unitario": 20000,
           "cantidad_minima": 1
         }
       ],
@@ -2541,60 +2325,6 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT9631-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT9679",
-      "sku": "26902565559431300.00",
-      "model": "Bagy milan",
-      "price": 20000,
-      "display_price": 17000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Baggy",
-      "material": "Rígid",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT9679%2FPANT9679-1_06c.jpg",
-      "carpeta_id": "1GnG0ZKZ8lahqe36_kMAH8g7pK5tmSwDw",
-      "woo_id": "",
-      "varieties": [
-        {
-          "variedad_id": "PANT9679-Curva",
-          "nombre": "Curva",
-          "precio_unitario": 17000,
-          "cantidad_minima": 2
-        },
-        {
-          "variedad_id": "PANT9679-Mayor",
-          "nombre": "Mayor",
-          "precio_unitario": 20000,
-          "cantidad_minima": 1
-        },
-        {
-          "variedad_id": "PANT9679-Menor",
-          "nombre": "Menor",
-          "precio_unitario": 24000,
-          "cantidad_minima": 1
-        }
-      ],
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT9679-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT9679-Surtido-Surtido-MINOM OFICIAL"
         }
       ],
       "fecha_creacion": ""
@@ -2760,6 +2490,60 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT1883",
+      "sku": "Pant009",
+      "model": "BOLSILLO BORDADO",
+      "price": 25000,
+      "display_price": 22000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Liso",
+      "material": "Jeans Rigido",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1-Z-i.jpg",
+      "carpeta_id": "1yHI0HZueWFbSFWlqOqx56mdPooCMCOgn",
+      "woo_id": "",
+      "varieties": [
+        {
+          "variedad_id": "PANT1883-Curva",
+          "nombre": "Curva",
+          "precio_unitario": 22000,
+          "cantidad_minima": 8
+        },
+        {
+          "variedad_id": "PANT1883-Mayor",
+          "nombre": "Mayor",
+          "precio_unitario": 25000,
+          "cantidad_minima": 1
+        },
+        {
+          "variedad_id": "PANT1883-Menor",
+          "nombre": "Menor",
+          "precio_unitario": 30000,
+          "cantidad_minima": 1
+        }
+      ],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT1883-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT1883-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -2884,19 +2668,19 @@
       {
         "variedad_id": "PANT4657-Curva",
         "nombre": "Curva",
-        "precio_unitario": 19500,
+        "precio_unitario": 21000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT4657-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 23000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT4657-Menor",
         "nombre": "Menor",
-        "precio_unitario": 27500,
+        "precio_unitario": 30000,
         "cantidad_minima": 1
       }
     ],
@@ -2904,39 +2688,19 @@
       {
         "variedad_id": "PANT9246-Curva",
         "nombre": "Curva",
-        "precio_unitario": 20500,
+        "precio_unitario": 21000,
         "cantidad_minima": 5
       },
       {
         "variedad_id": "PANT9246-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 24000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT9246-Menor",
         "nombre": "Menor",
-        "precio_unitario": 29000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT9679": [
-      {
-        "variedad_id": "PANT9679-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 17000,
-        "cantidad_minima": 2
-      },
-      {
-        "variedad_id": "PANT9679-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 20000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT9679-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 24000,
+        "precio_unitario": 30000,
         "cantidad_minima": 1
       }
     ],
@@ -2984,19 +2748,19 @@
       {
         "variedad_id": "PANT3934-Curva",
         "nombre": "Curva",
-        "precio_unitario": 17000,
+        "precio_unitario": 14000,
         "cantidad_minima": 6
       },
       {
         "variedad_id": "PANT3934-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 20000,
+        "precio_unitario": 17000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT3934-Menor",
         "nombre": "Menor",
-        "precio_unitario": 24000,
+        "precio_unitario": 20000,
         "cantidad_minima": 1
       }
     ],
@@ -3004,99 +2768,19 @@
       {
         "variedad_id": "PANT9288-Curva",
         "nombre": "Curva",
-        "precio_unitario": 17000,
+        "precio_unitario": 14000,
         "cantidad_minima": 6
       },
       {
         "variedad_id": "PANT9288-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 20000,
+        "precio_unitario": 17000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT9288-Menor",
         "nombre": "Menor",
-        "precio_unitario": 24000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT4921": [
-      {
-        "variedad_id": "PANT4921-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 24500,
-        "cantidad_minima": 2
-      },
-      {
-        "variedad_id": "PANT4921-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 29000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT4921-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 35000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT1109": [
-      {
-        "variedad_id": "PANT1109-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 16000,
-        "cantidad_minima": 4
-      },
-      {
-        "variedad_id": "PANT1109-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 19000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT1109-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT2188": [
-      {
-        "variedad_id": "PANT2188-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 17000,
-        "cantidad_minima": 5
-      },
-      {
-        "variedad_id": "PANT2188-Mayor",
-        "nombre": "Mayor",
         "precio_unitario": 20000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT2188-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 24000,
-        "cantidad_minima": 1
-      }
-    ],
-    "PANT5804": [
-      {
-        "variedad_id": "PANT5804-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 18500,
-        "cantidad_minima": 6
-      },
-      {
-        "variedad_id": "PANT5804-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 22000,
-        "cantidad_minima": 1
-      },
-      {
-        "variedad_id": "PANT5804-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 26500,
         "cantidad_minima": 1
       }
     ],
@@ -3707,6 +3391,26 @@
         "precio_unitario": 25000,
         "cantidad_minima": 1
       }
+    ],
+    "PANT1883": [
+      {
+        "variedad_id": "PANT1883-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 22000,
+        "cantidad_minima": 8
+      },
+      {
+        "variedad_id": "PANT1883-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1
+      },
+      {
+        "variedad_id": "PANT1883-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1
+      }
     ]
   },
   "clients": [
@@ -3791,5 +3495,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1782487454231
+  "timestamp_ms": 1782488404191
 }
