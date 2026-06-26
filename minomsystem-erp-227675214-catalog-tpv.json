@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T15:52:49.334Z",
+  "generated_at": "2026-06-26T16:07:49.057Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -340,6 +340,11 @@
       "id": "Cinturon",
       "name": "Cinturon",
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cinturon.svg"
+    },
+    {
+      "id": "Slouchy",
+      "name": "Slouchy",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slouchy.svg"
     }
   ],
   "products": [
@@ -358,7 +363,7 @@
       "brand": "MINOM OFICIAL",
       "style": "Sublimado",
       "material": "Rígid",
-      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1LauB.webp",
+      "image": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1BajX.png",
       "carpeta_id": "1iQboh9AZXZmXqpN5zf-d4naU1_XnWb3W",
       "woo_id": "",
       "varieties": [
@@ -404,8 +409,8 @@
       "price": 20000,
       "display_price": 17000,
       "minor_surcharge": 0,
-      "category_id": "Pantalon Parachute",
-      "categoryName": "Pantalon Parachute",
+      "category_id": "Slouchy",
+      "categoryName": "Slouchy",
       "parentCategory": "INDUMENTARIA",
       "season": "SIN-TEMPORADA",
       "gender": "Mujer",
@@ -455,8 +460,8 @@
       "id": "PANT2545",
       "sku": "26287052090947700.00",
       "model": "OXFORD TIRO BAJO",
-      "price": 22000,
-      "display_price": 18500,
+      "price": 23000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -473,19 +478,19 @@
         {
           "variedad_id": "PANT2545-Curva",
           "nombre": "Curva",
-          "precio_unitario": 18500,
+          "precio_unitario": 20000,
           "cantidad_minima": 5
         },
         {
           "variedad_id": "PANT2545-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 22000,
+          "precio_unitario": 23000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT2545-Menor",
           "nombre": "Menor",
-          "precio_unitario": 26500,
+          "precio_unitario": 28000,
           "cantidad_minima": 1
         }
       ],
@@ -728,8 +733,8 @@
       "price": 20000,
       "display_price": 17000,
       "minor_surcharge": 0,
-      "category_id": "Pantalon Parachute",
-      "categoryName": "Pantalon Parachute",
+      "category_id": "Slouchy",
+      "categoryName": "Slouchy",
       "parentCategory": "INDUMENTARIA",
       "season": "SIN-TEMPORADA",
       "gender": "Mujer",
@@ -887,8 +892,8 @@
       "id": "PANT4330",
       "sku": "25859128170386200.00",
       "model": "Bagy blanco",
-      "price": 23000,
-      "display_price": 20000,
+      "price": 25000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -905,19 +910,19 @@
         {
           "variedad_id": "PANT4330-Curva",
           "nombre": "Curva",
-          "precio_unitario": 20000,
+          "precio_unitario": 21000,
           "cantidad_minima": 7
         },
         {
           "variedad_id": "PANT4330-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 23000,
+          "precio_unitario": 25000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT4330-Menor",
           "nombre": "Menor",
-          "precio_unitario": 28000,
+          "precio_unitario": 30000,
           "cantidad_minima": 1
         }
       ],
@@ -1103,8 +1108,8 @@
       "id": "PANT4779",
       "sku": "25920431124287200.00",
       "model": "OXFORD NEGRO",
-      "price": 21000,
-      "display_price": 18000,
+      "price": 23000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -1121,19 +1126,19 @@
         {
           "variedad_id": "PANT4779-Curva",
           "nombre": "Curva",
-          "precio_unitario": 18000,
+          "precio_unitario": 20000,
           "cantidad_minima": 6
         },
         {
           "variedad_id": "PANT4779-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 21000,
+          "precio_unitario": 23000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT4779-Menor",
           "nombre": "Menor",
-          "precio_unitario": 25000,
+          "precio_unitario": 28000,
           "cantidad_minima": 1
         }
       ],
@@ -1157,8 +1162,8 @@
       "id": "PANT4838",
       "sku": "Pant011",
       "model": "Cintura Ajustable",
-      "price": 25000,
-      "display_price": 21500,
+      "price": 27000,
+      "display_price": 23000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -1175,19 +1180,19 @@
         {
           "variedad_id": "PANT4838-Curva",
           "nombre": "Curva",
-          "precio_unitario": 21500,
+          "precio_unitario": 23000,
           "cantidad_minima": 6
         },
         {
           "variedad_id": "PANT4838-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 25000,
+          "precio_unitario": 27000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT4838-Menor",
           "nombre": "Menor",
-          "precio_unitario": 30000,
+          "precio_unitario": 32000,
           "cantidad_minima": 1
         }
       ],
@@ -1211,8 +1216,8 @@
       "id": "PANT5798",
       "sku": "26801450732838700.00",
       "model": "oxford oxido tiro alto",
-      "price": 22000,
-      "display_price": 18500,
+      "price": 23000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -1229,19 +1234,19 @@
         {
           "variedad_id": "PANT5798-Curva",
           "nombre": "Curva",
-          "precio_unitario": 18500,
+          "precio_unitario": 20000,
           "cantidad_minima": 6
         },
         {
           "variedad_id": "PANT5798-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 22000,
+          "precio_unitario": 23000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT5798-Menor",
           "nombre": "Menor",
-          "precio_unitario": 26500,
+          "precio_unitario": 28000,
           "cantidad_minima": 1
         }
       ],
@@ -1319,8 +1324,8 @@
       "id": "PANT6650",
       "sku": "25264224996513300.00",
       "model": "Oxford Pilar",
-      "price": 22000,
-      "display_price": 18500,
+      "price": 23000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -1337,19 +1342,19 @@
         {
           "variedad_id": "PANT6650-Curva",
           "nombre": "Curva",
-          "precio_unitario": 18500,
+          "precio_unitario": 20000,
           "cantidad_minima": 3
         },
         {
           "variedad_id": "PANT6650-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 22000,
+          "precio_unitario": 23000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT6650-Menor",
           "nombre": "Menor",
-          "precio_unitario": 26500,
+          "precio_unitario": 28000,
           "cantidad_minima": 1
         }
       ],
@@ -1427,8 +1432,8 @@
       "id": "PANT7332",
       "sku": "26458644670487000.00",
       "model": "Oxford azul",
-      "price": 21000,
-      "display_price": 18000,
+      "price": 23000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -1445,19 +1450,19 @@
         {
           "variedad_id": "PANT7332-Curva",
           "nombre": "Curva",
-          "precio_unitario": 18000,
+          "precio_unitario": 20000,
           "cantidad_minima": 6
         },
         {
           "variedad_id": "PANT7332-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 21000,
+          "precio_unitario": 23000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT7332-Menor",
           "nombre": "Menor",
-          "precio_unitario": 25000,
+          "precio_unitario": 28000,
           "cantidad_minima": 1
         }
       ],
@@ -1538,8 +1543,8 @@
       "price": 20000,
       "display_price": 17000,
       "minor_surcharge": 0,
-      "category_id": "Pantalon Parachute",
-      "categoryName": "Pantalon Parachute",
+      "category_id": "Slouchy",
+      "categoryName": "Slouchy",
       "parentCategory": "INDUMENTARIA",
       "season": "SIN-TEMPORADA",
       "gender": "Mujer",
@@ -1751,8 +1756,8 @@
       "id": "PANT8376",
       "sku": "34949324234716000.00",
       "model": "oxford tiro bajoceleste",
-      "price": 22000,
-      "display_price": 18500,
+      "price": 23000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -1769,19 +1774,19 @@
         {
           "variedad_id": "PANT8376-Curva",
           "nombre": "Curva",
-          "precio_unitario": 18500,
+          "precio_unitario": 20000,
           "cantidad_minima": 7
         },
         {
           "variedad_id": "PANT8376-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 22000,
+          "precio_unitario": 23000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT8376-Menor",
           "nombre": "Menor",
-          "precio_unitario": 26500,
+          "precio_unitario": 28000,
           "cantidad_minima": 1
         }
       ],
@@ -2225,8 +2230,8 @@
       "id": "PANT9631",
       "sku": "25996546613342300.00",
       "model": "OXFORD AZUL",
-      "price": 21000,
-      "display_price": 18000,
+      "price": 23000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -2243,19 +2248,19 @@
         {
           "variedad_id": "PANT9631-Curva",
           "nombre": "Curva",
-          "precio_unitario": 18000,
+          "precio_unitario": 20000,
           "cantidad_minima": 2
         },
         {
           "variedad_id": "PANT9631-Mayor",
           "nombre": "Mayor",
-          "precio_unitario": 21000,
+          "precio_unitario": 23000,
           "cantidad_minima": 1
         },
         {
           "variedad_id": "PANT9631-Menor",
           "nombre": "Menor",
-          "precio_unitario": 25000,
+          "precio_unitario": 28000,
           "cantidad_minima": 1
         }
       ],
@@ -2520,7 +2525,8 @@
     "PANTALON MAXI WIGE": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_maxi_wige.svg",
     "PANTALON PARACHUTE": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg",
     "PANTALON RECTO": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_recto.svg",
-    "CINTURON": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cinturon.svg"
+    "CINTURON": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cinturon.svg",
+    "SLOUCHY": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slouchy.svg"
   },
   "generalConfig": {
     "GENERAL_ID": "MINOM OFICIAL",
@@ -2574,19 +2580,19 @@
       {
         "variedad_id": "PANT4838-Curva",
         "nombre": "Curva",
-        "precio_unitario": 21500,
+        "precio_unitario": 23000,
         "cantidad_minima": 6
       },
       {
         "variedad_id": "PANT4838-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 25000,
+        "precio_unitario": 27000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT4838-Menor",
         "nombre": "Menor",
-        "precio_unitario": 30000,
+        "precio_unitario": 32000,
         "cantidad_minima": 1
       }
     ],
@@ -2634,19 +2640,19 @@
       {
         "variedad_id": "PANT4330-Curva",
         "nombre": "Curva",
-        "precio_unitario": 20000,
+        "precio_unitario": 21000,
         "cantidad_minima": 7
       },
       {
         "variedad_id": "PANT4330-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 23000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT4330-Menor",
         "nombre": "Menor",
-        "precio_unitario": 28000,
+        "precio_unitario": 30000,
         "cantidad_minima": 1
       }
     ],
@@ -2734,19 +2740,19 @@
       {
         "variedad_id": "PANT9631-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18000,
+        "precio_unitario": 20000,
         "cantidad_minima": 2
       },
       {
         "variedad_id": "PANT9631-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 21000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT9631-Menor",
         "nombre": "Menor",
-        "precio_unitario": 25000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1
       }
     ],
@@ -2754,19 +2760,19 @@
       {
         "variedad_id": "PANT7332-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18000,
+        "precio_unitario": 20000,
         "cantidad_minima": 6
       },
       {
         "variedad_id": "PANT7332-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 21000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT7332-Menor",
         "nombre": "Menor",
-        "precio_unitario": 25000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1
       }
     ],
@@ -2774,19 +2780,19 @@
       {
         "variedad_id": "PANT2545-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18500,
+        "precio_unitario": 20000,
         "cantidad_minima": 5
       },
       {
         "variedad_id": "PANT2545-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 22000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT2545-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26500,
+        "precio_unitario": 28000,
         "cantidad_minima": 1
       }
     ],
@@ -2794,19 +2800,19 @@
       {
         "variedad_id": "PANT4779-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18000,
+        "precio_unitario": 20000,
         "cantidad_minima": 6
       },
       {
         "variedad_id": "PANT4779-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 21000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT4779-Menor",
         "nombre": "Menor",
-        "precio_unitario": 25000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1
       }
     ],
@@ -2834,19 +2840,19 @@
       {
         "variedad_id": "PANT5798-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18500,
+        "precio_unitario": 20000,
         "cantidad_minima": 6
       },
       {
         "variedad_id": "PANT5798-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 22000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT5798-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26500,
+        "precio_unitario": 28000,
         "cantidad_minima": 1
       }
     ],
@@ -2854,19 +2860,19 @@
       {
         "variedad_id": "PANT8376-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18500,
+        "precio_unitario": 20000,
         "cantidad_minima": 7
       },
       {
         "variedad_id": "PANT8376-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 22000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT8376-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26500,
+        "precio_unitario": 28000,
         "cantidad_minima": 1
       }
     ],
@@ -2874,19 +2880,19 @@
       {
         "variedad_id": "PANT6650-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18500,
+        "precio_unitario": 20000,
         "cantidad_minima": 3
       },
       {
         "variedad_id": "PANT6650-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 22000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1
       },
       {
         "variedad_id": "PANT6650-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26500,
+        "precio_unitario": 28000,
         "cantidad_minima": 1
       }
     ],
@@ -3421,5 +3427,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1782489246658
+  "timestamp_ms": 1782490159795
 }
