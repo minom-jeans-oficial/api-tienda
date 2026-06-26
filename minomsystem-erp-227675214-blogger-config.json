@@ -2,12 +2,12 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://minom-jeans.blogspot.com",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
   "pagina_tienda": {
     "tienda_id": "MINOM OFICIAL",
     "descripcion": "Fabricante mayorista de indumentaria Nacional femenino mejor precio y calidad en jeans de todo tipo",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
-    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=MINOM%20OFICIAL&lastName=GASTON&email=minom.oficial%40gmail.com&cellPhone=1149606618&workPhone=1149606618&address=Av.%20Avellaneda%202329%2C%20C1406FYI%20Cdad.%20Aut%C3%B3noma%20de%20Buenos%20Aires%2C%20Argentina&org=MINOM%20OFICIAL&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
+    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=MINOM%20OFICIAL&lastName=DANIELA&email=minom.oficial%40gmail.com&cellPhone=1149606618&workPhone=1149606618&address=Av.%20Avellaneda%202329%2C%20C1406FYI%20Cdad.%20Aut%C3%B3noma%20de%20Buenos%20Aires%2C%20Argentina&org=MINOM%20OFICIAL&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "minom.oficial@gmail.com",
     "telefono": "1149606618",
     "direccion": "Av. Avellaneda 2329, C1406FYI Cdad. Autónoma de Buenos Aires, Argentina",
@@ -16,7 +16,7 @@
       "apertura": "07:00:00",
       "cierre": "17:00:00"
     },
-    "compra_minima": "3",
+    "compra_minima": 3,
     "redes_sociales": {
       "facebook": "https://www.instagram.com/minomjeanss/",
       "instagram": "https://www.instagram.com/minomjeanss/",
@@ -98,6 +98,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -220,6 +225,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Adulto",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Baggy"
@@ -262,12 +272,12 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "19-06-2026"
+                  "valor": "26-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4330%0A%F0%9F%94%B9%20Modelo%3A%20Bagy%20blanco%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4330%0A%F0%9F%94%B9%20Modelo%3A%20Bagy%20blanco%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
               "imagen": [
@@ -333,6 +343,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -447,6 +462,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Baggy"
@@ -553,6 +573,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -719,6 +744,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Baggy"
@@ -828,6 +858,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -940,6 +975,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -1058,6 +1098,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Pitillo"
@@ -1170,6 +1215,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -1292,6 +1342,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Wide Leg"
@@ -1402,6 +1457,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -1520,6 +1580,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Mom"
@@ -1631,6 +1696,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -1744,6 +1814,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -1864,6 +1939,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -2002,6 +2082,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Oxford"
@@ -2113,6 +2198,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -2226,6 +2316,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -2356,6 +2451,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Oxford"
@@ -2465,6 +2565,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -2579,6 +2684,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Oxford"
@@ -2692,6 +2802,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -2810,6 +2925,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Slouchy"
@@ -2923,6 +3043,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Slouchy"
@@ -3035,6 +3160,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -3157,6 +3287,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Wide Leg"
@@ -3269,6 +3404,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -3399,6 +3539,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Wide Leg"
@@ -3512,6 +3657,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Recto"
@@ -3624,6 +3774,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -3746,6 +3901,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "espigado"
@@ -3848,6 +4008,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -3955,6 +4120,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -4067,6 +4237,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Wide Leg"
@@ -4175,6 +4350,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -4323,6 +4503,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Wide Leg"
@@ -4437,6 +4622,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Wide Leg"
@@ -4549,6 +4739,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -4663,6 +4858,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Wide Leg"
@@ -4774,6 +4974,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -4888,6 +5093,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Wide Leg"
@@ -4985,6 +5195,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -5099,6 +5314,11 @@
                   "valor": "Mujer",
                   "icono": "♀️"
                 },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
+                },
                 "estilo": {
                   "label": "Estilo",
                   "valor": "Wide Leg"
@@ -5211,6 +5431,11 @@
                   "label": "Género",
                   "valor": "Mujer",
                   "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "-",
+                  "icono": "👶"
                 },
                 "estilo": {
                   "label": "Estilo",
@@ -5334,5 +5559,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782432592984
+  "timestamp_ms": 1782468594800
 }
