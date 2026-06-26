@@ -293,7 +293,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 20000,
+                  "precio": 21000,
                   "variedad": "Curva",
                   "minima": 7,
                   "sub_variedad": {
@@ -310,20 +310,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 23000,
+                  "precio": 25000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 28000,
+                  "precio": 30000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-06-19T03:00:00.000Z"
+              "upd": "2026-06-26T03:00:00.000Z"
             },
             {
               "codigo": 7,
@@ -624,7 +624,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "03-06-2026"
+                  "valor": "26-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -693,7 +693,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 21500,
+                  "precio": 23000,
                   "variedad": "Curva",
                   "minima": 6,
                   "sub_variedad": {
@@ -710,20 +710,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 25000,
+                  "precio": 27000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 30000,
+                  "precio": 32000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-06-03T03:00:00.000Z"
+              "upd": "2026-06-26T03:00:00.000Z"
             },
             {
               "codigo": 16,
@@ -1297,7 +1297,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1LauB.webp",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1LauB.webp",
                   "archivo_id": "1LauBnd1VdJ8aOeH6qD3PxpKbqoPa0iqM",
-                  "portada": true,
+                  "portada": false,
                   "orden": 2,
                   "fecha_carga": "2026-06-03T19:54:25.780Z"
                 },
@@ -1321,7 +1321,7 @@
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1BajX.png",
                   "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1524%2FPANT1524-1BajX.png",
                   "archivo_id": "1BajX9z28DgbXJcXuSIUgvutDtw_F0B7o",
-                  "portada": false,
+                  "portada": true,
                   "orden": 8,
                   "fecha_carga": "2026-06-03T19:54:25.780Z"
                 }
@@ -1447,7 +1447,7 @@
                   "archivo_id": "1-Z-iOTPgf3JxGSwR6nSBB5JNlZnEbqU9",
                   "portada": true,
                   "orden": 1,
-                  "fecha_carga": "2026-06-26T15:52:03.616Z"
+                  "fecha_carga": "2026-06-26T16:03:27.400Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1sL66.jpg",
@@ -1455,7 +1455,7 @@
                   "archivo_id": "1sL66fNlK4AvoWlQE9DTYmd97mZ5eLvlE",
                   "portada": false,
                   "orden": 2,
-                  "fecha_carga": "2026-06-26T15:52:03.616Z"
+                  "fecha_carga": "2026-06-26T16:03:27.400Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1hOJJ.jpg",
@@ -1463,7 +1463,7 @@
                   "archivo_id": "1hOJJpFcoxtn9bP6qm_NjpWh9y2qS1cpo",
                   "portada": false,
                   "orden": 3,
-                  "fecha_carga": "2026-06-26T15:52:03.616Z"
+                  "fecha_carga": "2026-06-26T16:03:27.400Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1bhaP.png",
@@ -1471,23 +1471,15 @@
                   "archivo_id": "1bhaPcF8YqEo1EaNSGJ9V_bWs4CO2mFWm",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-06-26T15:52:03.616Z"
+                  "fecha_carga": "2026-06-26T16:03:27.400Z"
                 },
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1wfVu.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1wfVu.png",
-                  "archivo_id": "1wfVuuC0UEuNddH-V_ffOWHyuT9bGXMjI",
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1O-r_.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1O-r_.png",
+                  "archivo_id": "1O-r_sP0hsjodan-WAhwiE4yMwLsHxPnh",
                   "portada": false,
-                  "orden": 5,
-                  "fecha_carga": "2026-06-26T15:52:03.616Z"
-                },
-                {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1T01U.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1T01U.png",
-                  "archivo_id": "1T01UZhbg86rKhL_UWLHyZmPVglCdv4Qi",
-                  "portada": false,
-                  "orden": 6,
-                  "fecha_carga": "2026-06-26T15:52:03.616Z"
+                  "orden": 9,
+                  "fecha_carga": "2026-06-26T16:03:27.400Z"
                 }
               ],
               "variedad": [
@@ -1579,7 +1571,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "31-05-2026"
+                  "valor": "26-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -1600,7 +1592,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18500,
+                  "precio": 20000,
                   "variedad": "Curva",
                   "minima": 5,
                   "sub_variedad": {
@@ -1617,20 +1609,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 22000,
+                  "precio": 23000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 26500,
+                  "precio": 28000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-05-31T03:00:00.000Z"
+              "upd": "2026-06-26T03:00:00.000Z"
             },
             {
               "codigo": 37,
@@ -1697,7 +1689,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "31-05-2026"
+                  "valor": "26-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -1718,7 +1710,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18000,
+                  "precio": 20000,
                   "variedad": "Curva",
                   "minima": 6,
                   "sub_variedad": {
@@ -1735,20 +1727,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 21000,
+                  "precio": 23000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 25000,
+                  "precio": 28000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-05-31T03:00:00.000Z"
+              "upd": "2026-06-26T03:00:00.000Z"
             },
             {
               "codigo": 40,
@@ -1815,7 +1807,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "31-05-2026"
+                  "valor": "26-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -1852,7 +1844,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18500,
+                  "precio": 20000,
                   "variedad": "Curva",
                   "minima": 6,
                   "sub_variedad": {
@@ -1869,20 +1861,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 22000,
+                  "precio": 23000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 26500,
+                  "precio": 28000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-05-31T03:00:00.000Z"
+              "upd": "2026-06-26T03:00:00.000Z"
             },
             {
               "codigo": 43,
@@ -1946,7 +1938,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "31-05-2026"
+                  "valor": "26-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -1967,7 +1959,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18500,
+                  "precio": 20000,
                   "variedad": "Curva",
                   "minima": 3,
                   "sub_variedad": {
@@ -1984,20 +1976,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 22000,
+                  "precio": 23000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 26500,
+                  "precio": 28000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-05-31T03:00:00.000Z"
+              "upd": "2026-06-26T03:00:00.000Z"
             },
             {
               "codigo": 46,
@@ -2064,7 +2056,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "25-05-2026"
+                  "valor": "26-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -2085,7 +2077,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18000,
+                  "precio": 20000,
                   "variedad": "Curva",
                   "minima": 6,
                   "sub_variedad": {
@@ -2102,20 +2094,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 21000,
+                  "precio": 23000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 25000,
+                  "precio": 28000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-05-25T03:00:00.000Z"
+              "upd": "2026-06-26T03:00:00.000Z"
             },
             {
               "codigo": 49,
@@ -2183,7 +2175,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "31-05-2026"
+                  "valor": "26-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -2204,7 +2196,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18500,
+                  "precio": 20000,
                   "variedad": "Curva",
                   "minima": 7,
                   "sub_variedad": {
@@ -2221,20 +2213,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 22000,
+                  "precio": 23000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 26500,
+                  "precio": 28000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-05-31T03:00:00.000Z"
+              "upd": "2026-06-26T03:00:00.000Z"
             },
             {
               "codigo": 52,
@@ -2297,7 +2289,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "31-05-2026"
+                  "valor": "26-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -2318,7 +2310,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18000,
+                  "precio": 20000,
                   "variedad": "Curva",
                   "minima": 2,
                   "sub_variedad": {
@@ -2335,20 +2327,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 21000,
+                  "precio": 23000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 25000,
+                  "precio": 28000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-05-31T03:00:00.000Z"
+              "upd": "2026-06-26T03:00:00.000Z"
             }
           ]
         },
@@ -2423,7 +2415,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "31-05-2026"
+                  "valor": "26-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -2541,7 +2533,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "31-05-2026"
+                  "valor": "26-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -2659,7 +2651,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "31-05-2026"
+                  "valor": "26-06-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -5011,5 +5003,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782489281586
+  "timestamp_ms": 1782490154352
 }
