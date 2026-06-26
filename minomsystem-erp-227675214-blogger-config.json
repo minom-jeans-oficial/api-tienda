@@ -1427,8 +1427,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "144",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -1447,7 +1447,7 @@
                   "archivo_id": "1-Z-iOTPgf3JxGSwR6nSBB5JNlZnEbqU9",
                   "portada": false,
                   "orden": 1,
-                  "fecha_carga": "2026-06-26T16:10:56.229Z"
+                  "fecha_carga": "2026-06-26T16:25:18.741Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1sL66.jpg",
@@ -1455,7 +1455,7 @@
                   "archivo_id": "1sL66fNlK4AvoWlQE9DTYmd97mZ5eLvlE",
                   "portada": false,
                   "orden": 2,
-                  "fecha_carga": "2026-06-26T16:10:56.229Z"
+                  "fecha_carga": "2026-06-26T16:25:18.741Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1hOJJ.jpg",
@@ -1463,7 +1463,7 @@
                   "archivo_id": "1hOJJpFcoxtn9bP6qm_NjpWh9y2qS1cpo",
                   "portada": false,
                   "orden": 3,
-                  "fecha_carga": "2026-06-26T16:10:56.229Z"
+                  "fecha_carga": "2026-06-26T16:25:18.741Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1bhaP.png",
@@ -1471,7 +1471,7 @@
                   "archivo_id": "1bhaPcF8YqEo1EaNSGJ9V_bWs4CO2mFWm",
                   "portada": false,
                   "orden": 4,
-                  "fecha_carga": "2026-06-26T16:10:56.229Z"
+                  "fecha_carga": "2026-06-26T16:25:18.741Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1O-r_.png",
@@ -1479,7 +1479,7 @@
                   "archivo_id": "1O-r_sP0hsjodan-WAhwiE4yMwLsHxPnh",
                   "portada": true,
                   "orden": 9,
-                  "fecha_carga": "2026-06-26T16:10:56.229Z"
+                  "fecha_carga": "2026-06-26T16:25:18.741Z"
                 },
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-182MQ.png",
@@ -1487,7 +1487,15 @@
                   "archivo_id": "182MQVal0xqV102erxm8E95JwOOvM0_kh",
                   "portada": false,
                   "orden": 10,
-                  "fecha_carga": "2026-06-26T16:10:56.229Z"
+                  "fecha_carga": "2026-06-26T16:25:18.741Z"
+                },
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1dBUZ.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_PRODUCTO_IMAGENES&fileName=BD_PRODUCTO_IMAGENES_Images%2FPANT1883%2FPANT1883-1dBUZ.png",
+                  "archivo_id": "1dBUZd6m6qTLiod7nqmi_973MQbFK9uY6",
+                  "portada": false,
+                  "orden": 11,
+                  "fecha_carga": "2026-06-26T16:25:18.741Z"
                 }
               ],
               "variedad": [
@@ -1496,7 +1504,17 @@
                   "precio": 22000,
                   "variedad": "Curva",
                   "minima": 8,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "144"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
@@ -5011,5 +5029,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1782491079615
+  "timestamp_ms": 1782492023455
 }
