@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T19:22:48.810Z",
+  "generated_at": "2026-07-06T19:35:04.502Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -1474,8 +1474,8 @@
       "id": "PANT9246",
       "sku": "34885282421062800.00",
       "model": "Baggy Lunar",
-      "price": 25000,
-      "display_price": 22000,
+      "price": 19000,
+      "display_price": 16000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -2597,21 +2597,21 @@
       {
         "variedad_id": "PANT9246-Curva",
         "nombre": "Curva",
-        "precio_unitario": 22000,
+        "precio_unitario": 16000,
         "cantidad_minima": 5,
         "visible": true
       },
       {
         "variedad_id": "PANT9246-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 25000,
+        "precio_unitario": 19000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT9246-Menor",
         "nombre": "Menor",
-        "precio_unitario": 30000,
+        "precio_unitario": 24000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2800,5 +2800,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1783365847637
+  "timestamp_ms": 1783366613627
 }
