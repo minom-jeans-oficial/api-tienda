@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T19:52:50.932Z",
+  "generated_at": "2026-07-06T20:07:51.753Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -1741,6 +1741,40 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT7057",
+      "sku": "Pant007",
+      "model": "Gris con Regulador",
+      "price": 27000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "image": "",
+      "carpeta_id": "13K7K7uBF9UvvIZy9soA4ANgVGci2I5AW",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT7057-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT7057-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -2716,6 +2750,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT7057": [
+      {
+        "variedad_id": "PANT7057-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7057-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7057-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -2800,5 +2857,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1783367672406
+  "timestamp_ms": 1783368593186
 }
