@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T19:37:49.739Z",
+  "generated_at": "2026-07-06T19:52:50.932Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -383,40 +383,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT2200",
-      "sku": "25412160445118600.00",
-      "model": "Slouchy gris",
-      "price": 20000,
-      "display_price": 17000,
-      "minor_surcharge": 0,
-      "category_id": "Slouchy",
-      "categoryName": "Slouchy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Slouchy",
-      "material": "Elastizado",
-      "image": "https://drive.google.com/thumbnail?id=1IjC37eVT49GbfV8dpezwtfjji3z0_x8x&sz=s600-rw",
-      "carpeta_id": "1uDBLdjOt3B2e8n3dFOsqM42kRDw4E0Q8",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT2200-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT2200-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "PANT2545",
       "sku": "26287052090947700.00",
       "model": "OXFORD TIRO BAJO",
@@ -488,8 +454,8 @@
       "id": "PANT2658",
       "sku": "27449559801297100.00",
       "model": "Wide leg negro tiro bajo",
-      "price": 21000,
-      "display_price": 18000,
+      "price": 23000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -522,8 +488,8 @@
       "id": "PANT2683",
       "sku": "26776686381954000.00",
       "model": "Wide recto chocolate",
-      "price": 21000,
-      "display_price": 18000,
+      "price": 23000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Recto",
       "categoryName": "Pantalon Recto",
@@ -624,8 +590,8 @@
       "id": "PANT3437",
       "sku": "26648751968086300.00",
       "model": "Wide chocolate tiro medio",
-      "price": 21000,
-      "display_price": 18000,
+      "price": 23000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -760,8 +726,8 @@
       "id": "PANT4655",
       "sku": "Pant014",
       "model": "Recto Gris",
-      "price": 23000,
-      "display_price": 20000,
+      "price": 24000,
+      "display_price": 22000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -930,8 +896,8 @@
       "id": "PANT6545",
       "sku": "27117721721248100.00",
       "model": "Wide recto bordo",
-      "price": 21000,
-      "display_price": 18000,
+      "price": 23000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Recto",
       "categoryName": "Pantalon Recto",
@@ -998,8 +964,8 @@
       "id": "PANT7106",
       "sku": "26521953680803000.00",
       "model": "Wide recto tiro medio",
-      "price": 25000,
-      "display_price": 22000,
+      "price": 23000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Recto",
       "categoryName": "Pantalon Recto",
@@ -1066,8 +1032,8 @@
       "id": "PANT7432",
       "sku": "24461514323503600.00",
       "model": "Wide leg Lucia",
-      "price": 22000,
-      "display_price": 19000,
+      "price": 24000,
+      "display_price": 22000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -1134,8 +1100,8 @@
       "id": "PANT7692",
       "sku": "26545887375068700.00",
       "model": "Wide gris estampado",
-      "price": 22000,
-      "display_price": 19000,
+      "price": 23000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -1168,8 +1134,8 @@
       "id": "PANT7858",
       "sku": "26881441064827100.00",
       "model": "Wide verde estampado",
-      "price": 22000,
-      "display_price": 19000,
+      "price": 23000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -1202,8 +1168,8 @@
       "id": "PANT8212",
       "sku": "25903961175950600.00",
       "model": "Recto tiro medio elastizado",
-      "price": 20000,
-      "display_price": 17000,
+      "price": 23000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Recto",
       "categoryName": "Pantalon Recto",
@@ -1270,8 +1236,8 @@
       "id": "PANT8389",
       "sku": "26548980608106900.00",
       "model": "Wide leg Bela",
-      "price": 21000,
-      "display_price": 18000,
+      "price": 23000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -1304,8 +1270,8 @@
       "id": "PANT8476",
       "sku": "27192738670415400.00",
       "model": "Wide estrellas",
-      "price": 24000,
-      "display_price": 21000,
+      "price": 25000,
+      "display_price": 23000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -1406,8 +1372,8 @@
       "id": "PANT8904",
       "sku": "35779747758306500.00",
       "model": "Wide tiro bajo bordo",
-      "price": 21000,
-      "display_price": 18000,
+      "price": 23000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -1440,8 +1406,8 @@
       "id": "PANT9228",
       "sku": "26459322103731600.00",
       "model": "Wide leg Borravino",
-      "price": 21000,
-      "display_price": 18000,
+      "price": 23000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -1475,7 +1441,7 @@
       "sku": "34885282421062800.00",
       "model": "Baggy Lunar",
       "price": 19000,
-      "display_price": 16000,
+      "display_price": 17000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Bagy",
       "categoryName": "Pantalon Bagy",
@@ -1610,8 +1576,8 @@
       "id": "PANT9862",
       "sku": "27173082642277500.00",
       "model": "Wide recto elastizado negro",
-      "price": 20000,
-      "display_price": 17000,
+      "price": 23000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Recto",
       "categoryName": "Pantalon Recto",
@@ -1644,8 +1610,8 @@
       "id": "PANT1329",
       "sku": "Pant015",
       "model": "Bela",
-      "price": 21000,
-      "display_price": 18000,
+      "price": 23000,
+      "display_price": 21000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -1741,6 +1707,40 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4983",
+      "sku": "Pant010",
+      "model": "BORDADO FLORES OXIDO",
+      "price": 29000,
+      "display_price": 27000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "image": "",
+      "carpeta_id": "1q4vA6la7M-o2A9eRjkzGAyunT-1_Y6tq",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4983-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4983-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -1806,21 +1806,21 @@
       {
         "variedad_id": "PANT1329-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18000,
+        "precio_unitario": 21000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT1329-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 21000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT1329-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -1867,29 +1867,6 @@
         "variedad_id": "PANT1883-Menor",
         "nombre": "Menor",
         "precio_unitario": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT2200": [
-      {
-        "variedad_id": "PANT2200-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 17000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2200-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 20000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2200-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 25000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -1944,21 +1921,21 @@
       {
         "variedad_id": "PANT2658-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18000,
+        "precio_unitario": 21000,
         "cantidad_minima": 4,
         "visible": true
       },
       {
         "variedad_id": "PANT2658-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 21000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT2658-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -1967,21 +1944,21 @@
       {
         "variedad_id": "PANT2683-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18000,
+        "precio_unitario": 21000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT2683-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 21000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT2683-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2036,21 +2013,21 @@
       {
         "variedad_id": "PANT3437-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18000,
+        "precio_unitario": 21000,
         "cantidad_minima": 2,
         "visible": true
       },
       {
         "variedad_id": "PANT3437-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 21000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT3437-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2128,21 +2105,21 @@
       {
         "variedad_id": "PANT4655-Curva",
         "nombre": "Curva",
-        "precio_unitario": 20000,
+        "precio_unitario": 22000,
         "cantidad_minima": 7,
         "visible": true
       },
       {
         "variedad_id": "PANT4655-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 23000,
+        "precio_unitario": 24000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT4655-Menor",
         "nombre": "Menor",
-        "precio_unitario": 28000,
+        "precio_unitario": 29000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2243,21 +2220,21 @@
       {
         "variedad_id": "PANT6545-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18000,
+        "precio_unitario": 21000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT6545-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 21000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT6545-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2289,21 +2266,21 @@
       {
         "variedad_id": "PANT7106-Curva",
         "nombre": "Curva",
-        "precio_unitario": 22000,
+        "precio_unitario": 21000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT7106-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 25000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT7106-Menor",
         "nombre": "Menor",
-        "precio_unitario": 30000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2335,21 +2312,21 @@
       {
         "variedad_id": "PANT7432-Curva",
         "nombre": "Curva",
-        "precio_unitario": 19000,
+        "precio_unitario": 22000,
         "cantidad_minima": 7,
         "visible": true
       },
       {
         "variedad_id": "PANT7432-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 22000,
+        "precio_unitario": 24000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT7432-Menor",
         "nombre": "Menor",
-        "precio_unitario": 27000,
+        "precio_unitario": 29000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2381,21 +2358,21 @@
       {
         "variedad_id": "PANT7692-Curva",
         "nombre": "Curva",
-        "precio_unitario": 19000,
+        "precio_unitario": 21000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT7692-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 22000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT7692-Menor",
         "nombre": "Menor",
-        "precio_unitario": 27000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2404,21 +2381,21 @@
       {
         "variedad_id": "PANT7858-Curva",
         "nombre": "Curva",
-        "precio_unitario": 19000,
+        "precio_unitario": 21000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT7858-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 22000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT7858-Menor",
         "nombre": "Menor",
-        "precio_unitario": 27000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2427,21 +2404,21 @@
       {
         "variedad_id": "PANT8212-Curva",
         "nombre": "Curva",
-        "precio_unitario": 17000,
+        "precio_unitario": 21000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT8212-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 20000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT8212-Menor",
         "nombre": "Menor",
-        "precio_unitario": 25000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2473,21 +2450,21 @@
       {
         "variedad_id": "PANT8389-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18000,
+        "precio_unitario": 21000,
         "cantidad_minima": 5,
         "visible": true
       },
       {
         "variedad_id": "PANT8389-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 21000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT8389-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2496,21 +2473,21 @@
       {
         "variedad_id": "PANT8476-Curva",
         "nombre": "Curva",
-        "precio_unitario": 21000,
+        "precio_unitario": 23000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT8476-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 24000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT8476-Menor",
         "nombre": "Menor",
-        "precio_unitario": 29000,
+        "precio_unitario": 30000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2551,21 +2528,21 @@
       {
         "variedad_id": "PANT8904-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18000,
+        "precio_unitario": 21000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT8904-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 21000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT8904-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2574,21 +2551,21 @@
       {
         "variedad_id": "PANT9228-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18000,
+        "precio_unitario": 21000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT9228-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 21000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT9228-Menor",
         "nombre": "Menor",
-        "precio_unitario": 26000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2597,7 +2574,7 @@
       {
         "variedad_id": "PANT9246-Curva",
         "nombre": "Curva",
-        "precio_unitario": 16000,
+        "precio_unitario": 17000,
         "cantidad_minima": 5,
         "visible": true
       },
@@ -2689,21 +2666,21 @@
       {
         "variedad_id": "PANT9862-Curva",
         "nombre": "Curva",
-        "precio_unitario": 17000,
+        "precio_unitario": 21000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT9862-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 20000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT9862-Menor",
         "nombre": "Menor",
-        "precio_unitario": 25000,
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2713,6 +2690,29 @@
         "variedad_id": "OFER1572-Menor",
         "nombre": "Menor",
         "precio_unitario": 0,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT4983": [
+      {
+        "variedad_id": "PANT4983-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 27000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4983-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 29000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4983-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 34000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2800,5 +2800,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1783366799196
+  "timestamp_ms": 1783367672406
 }
