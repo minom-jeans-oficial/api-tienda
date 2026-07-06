@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T19:07:48.984Z",
+  "generated_at": "2026-07-06T19:18:21.144Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -1707,6 +1707,40 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "OFER1572",
+      "sku": "Ofer001",
+      "model": "PANT",
+      "price": 0,
+      "display_price": null,
+      "minor_surcharge": 0,
+      "category_id": "Oferta",
+      "categoryName": "Oferta",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "image": "",
+      "carpeta_id": "16NLIL4YxTMcxVegN_fxA5w0Phqjs4zN6",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "OFER1572-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "OFER1572-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -2673,6 +2707,15 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "OFER1572": [
+      {
+        "variedad_id": "OFER1572-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 0,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -2757,5 +2800,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1783364961853
+  "timestamp_ms": 1783365635786
 }
