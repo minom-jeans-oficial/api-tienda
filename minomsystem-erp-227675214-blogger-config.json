@@ -77,7 +77,6 @@
         {
           "codigo": 1,
           "nombre": "Oferta",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/oferta.svg",
           "producto": [
             {
@@ -170,7 +169,6 @@
         {
           "codigo": 2,
           "nombre": "Pantalon Bagy",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_bagy.svg",
           "producto": [
             {
@@ -1053,7 +1051,6 @@
         {
           "codigo": 3,
           "nombre": "Pantalon Chupin",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_chupin.svg",
           "producto": [
             {
@@ -1297,7 +1294,6 @@
         {
           "codigo": 4,
           "nombre": "Pantalon Moon",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_moon.svg",
           "producto": [
             {
@@ -1422,7 +1418,6 @@
         {
           "codigo": 5,
           "nombre": "Pantalon Oxfort",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_oxfort.svg",
           "producto": [
             {
@@ -2700,7 +2695,6 @@
         {
           "codigo": 6,
           "nombre": "Pantalon Parachute",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg",
           "producto": [
             {
@@ -2944,7 +2938,6 @@
         {
           "codigo": 7,
           "nombre": "Pantalon Recto",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_recto.svg",
           "producto": [
             {
@@ -3558,7 +3551,6 @@
         {
           "codigo": 8,
           "nombre": "Pantalon Wige Leg",
-          "url_categoria": "",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg",
           "producto": [
             {
@@ -5239,5 +5231,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1783705195516
+  "timestamp_ms": 1783714171532
 }
