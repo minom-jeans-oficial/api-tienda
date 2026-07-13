@@ -2,12 +2,12 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://minom-jeans.blogspot.com",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
   "pagina_tienda": {
     "tienda_id": "MINOM OFICIAL",
     "descripcion": "Fabricante mayorista de indumentaria Nacional femenino mejor precio y calidad en jeans de todo tipo",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
-    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=MINOM%20OFICIAL&lastName=GASTON&email=minom.oficial%40gmail.com&cellPhone=1149606618&workPhone=1149606618&address=Av.%20Avellaneda%202329%2C%20C1406FYI%20Cdad.%20Aut%C3%B3noma%20de%20Buenos%20Aires%2C%20Argentina&org=MINOM%20OFICIAL&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
+    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=MINOM%20OFICIAL&lastName=DANIELA&email=minom.oficial%40gmail.com&cellPhone=1149606618&workPhone=1149606618&address=Av.%20Avellaneda%202329%2C%20C1406FYI%20Cdad.%20Aut%C3%B3noma%20de%20Buenos%20Aires%2C%20Argentina&org=MINOM%20OFICIAL&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "minom.oficial@gmail.com",
     "telefono": "1149606618",
     "direccion": "Av. Avellaneda 2329, C1406FYI Cdad. Autónoma de Buenos Aires, Argentina",
@@ -16,7 +16,7 @@
       "apertura": "07:00:00",
       "cierre": "17:00:00"
     },
-    "compra_minima": "3",
+    "compra_minima": 3,
     "redes_sociales": {
       "facebook": "https://www.instagram.com/minomjeanss/",
       "instagram": "https://www.instagram.com/minomjeanss/",
@@ -146,6 +146,7 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20OFER1572%0A%F0%9F%94%B9%20Modelo%3A%20PANT%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
@@ -244,12 +245,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3144%0A%F0%9F%94%B9%20Modelo%3A%20BAGY%20NEGRO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1vKtZ_KTGSOuQo9LZe9kvhS1HRoiBmbhp&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1vKtZ_KTGSOuQo9LZe9kvhS1HRoiBmbhp&sz=s600-rw",
                   "archivo_id": "1vKtZ_KTGSOuQo9LZe9kvhS1HRoiBmbhp",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -258,6 +263,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1fje2Ka8jfriIlXPBWPnpiqq3p7_aAUAW&sz=s600-rw",
                   "archivo_id": "1fje2Ka8jfriIlXPBWPnpiqq3p7_aAUAW",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -266,6 +274,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1NLP4SFWHcxDa0RxxCt_wOnfvyjRJB886&sz=s600-rw",
                   "archivo_id": "1NLP4SFWHcxDa0RxxCt_wOnfvyjRJB886",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "PORTADA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -379,12 +390,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4330%0A%F0%9F%94%B9%20Modelo%3A%20Bagy%20blanco%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=152yqI0v612humtZT6HMrNRlf5bi2uEPD&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=152yqI0v612humtZT6HMrNRlf5bi2uEPD&sz=s600-rw",
                   "archivo_id": "152yqI0v612humtZT6HMrNRlf5bi2uEPD",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -497,12 +512,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4551%0A%F0%9F%94%B9%20Modelo%3A%20Baggy%20London%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1uFmlQzSyt2twPVtX3zjYJpkBg_a2fb0D&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1uFmlQzSyt2twPVtX3zjYJpkBg_a2fb0D&sz=s600-rw",
                   "archivo_id": "1uFmlQzSyt2twPVtX3zjYJpkBg_a2fb0D",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -609,12 +628,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4657%0A%F0%9F%94%B9%20Modelo%3A%20Baggy%20animal%20print%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=12DVFmIZTlP3Wj5vIMHsUaGymnPlhtmvy&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=12DVFmIZTlP3Wj5vIMHsUaGymnPlhtmvy&sz=s600-rw",
                   "archivo_id": "12DVFmIZTlP3Wj5vIMHsUaGymnPlhtmvy",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -731,12 +754,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4838%0A%F0%9F%94%B9%20Modelo%3A%20Cintura%20Ajustable%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=17eoj-r9tP_mGiPhOMhvNf3uFnzOEI7N2&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=17eoj-r9tP_mGiPhOMhvNf3uFnzOEI7N2&sz=s600-rw",
                   "archivo_id": "17eoj-r9tP_mGiPhOMhvNf3uFnzOEI7N2",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -745,6 +772,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1Vbr8BhtrMZScx8rrqnIcJcFfmgkVnLGA&sz=s600-rw",
                   "archivo_id": "1Vbr8BhtrMZScx8rrqnIcJcFfmgkVnLGA",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -753,6 +783,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1sED-DwKT1C5Gr01RfLku1ArfBOtnlrRt&sz=s600-rw",
                   "archivo_id": "1sED-DwKT1C5Gr01RfLku1ArfBOtnlrRt",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -761,6 +794,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1uWBDGMpldA6Mb6YDcwS0QQRJmEI2PBEr&sz=s600-rw",
                   "archivo_id": "1uWBDGMpldA6Mb6YDcwS0QQRJmEI2PBEr",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 8,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -769,6 +805,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1G20GutNkC4BE9CSuR9jMSAgF5ko9oORd&sz=s600-rw",
                   "archivo_id": "1G20GutNkC4BE9CSuR9jMSAgF5ko9oORd",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 10,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -777,6 +816,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1MrAL3jSyTwhcFpEnlxXBIEJqCKyUmgZC&sz=s600-rw",
                   "archivo_id": "1MrAL3jSyTwhcFpEnlxXBIEJqCKyUmgZC",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "PORTADA",
                   "orden": 12,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -785,6 +827,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1VUIqJAn8-0z1g03hWu9IF2gBGKxS_KiP&sz=s600-rw",
                   "archivo_id": "1VUIqJAn8-0z1g03hWu9IF2gBGKxS_KiP",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
                   "orden": 16,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -897,6 +942,7 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7057%0A%F0%9F%94%B9%20Modelo%3A%20Gris%20con%20Regulador%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%20%2C%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
@@ -1001,12 +1047,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9246%0A%F0%9F%94%B9%20Modelo%3A%20Baggy%20Lunar%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1C23jUFU5Bz19y68e6guNobkanB97eS8K&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1C23jUFU5Bz19y68e6guNobkanB97eS8K&sz=s600-rw",
                   "archivo_id": "1C23jUFU5Bz19y68e6guNobkanB97eS8K",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -1126,12 +1176,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3934%0A%F0%9F%94%B9%20Modelo%3A%20Chup%C3%ADn%20AN%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1Y1xajeCvoC9Lhz8rve8NeqNxrZapPIAR&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1Y1xajeCvoC9Lhz8rve8NeqNxrZapPIAR&sz=s600-rw",
                   "archivo_id": "1Y1xajeCvoC9Lhz8rve8NeqNxrZapPIAR",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -1244,12 +1298,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9288%0A%F0%9F%94%B9%20Modelo%3A%20Chup%C3%ADn%20Els%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1WoX8hXi1kno74AqPsjlFfcHhiBmL3Irw&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1WoX8hXi1kno74AqPsjlFfcHhiBmL3Irw&sz=s600-rw",
                   "archivo_id": "1WoX8hXi1kno74AqPsjlFfcHhiBmL3Irw",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -1368,12 +1426,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8582%0A%F0%9F%94%B9%20Modelo%3A%20mom%20azul%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1vQWZZz1FyZJH0rGa23NurE0iD1S9e-XY&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1vQWZZz1FyZJH0rGa23NurE0iD1S9e-XY&sz=s600-rw",
                   "archivo_id": "1vQWZZz1FyZJH0rGa23NurE0iD1S9e-XY",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -1493,12 +1555,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT1524%0A%F0%9F%94%B9%20Modelo%3A%20con%20brillos%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1LauBnd1VdJ8aOeH6qD3PxpKbqoPa0iqM&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1LauBnd1VdJ8aOeH6qD3PxpKbqoPa0iqM&sz=s600-rw",
                   "archivo_id": "1LauBnd1VdJ8aOeH6qD3PxpKbqoPa0iqM",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -1507,6 +1573,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1EnBItzpAoBBeZF7_1qs07L8PnvgPfZW4&sz=s600-rw",
                   "archivo_id": "1EnBItzpAoBBeZF7_1qs07L8PnvgPfZW4",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -1515,6 +1584,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1nDZas92v2Mv656A1egCNjHcHNOHzFe_2&sz=s600-rw",
                   "archivo_id": "1nDZas92v2Mv656A1egCNjHcHNOHzFe_2",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 5,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -1523,6 +1595,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1fEkFFDc5HXZJk7ohU1cm3PZ30de72v-n&sz=s600-rw",
                   "archivo_id": "1fEkFFDc5HXZJk7ohU1cm3PZ30de72v-n",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -1531,6 +1606,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1qglOyrg80snaGPsbh_w3yuTjRjFUNBgi&sz=s600-rw",
                   "archivo_id": "1qglOyrg80snaGPsbh_w3yuTjRjFUNBgi",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -1539,6 +1617,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1BajX9z28DgbXJcXuSIUgvutDtw_F0B7o&sz=s600-rw",
                   "archivo_id": "1BajX9z28DgbXJcXuSIUgvutDtw_F0B7o",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "PORTADA",
                   "orden": 8,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -1657,12 +1738,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT1883%0A%F0%9F%94%B9%20Modelo%3A%20BOLSILLO%20BORDADO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046%2C%2048"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1-Z-iOTPgf3JxGSwR6nSBB5JNlZnEbqU9&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1-Z-iOTPgf3JxGSwR6nSBB5JNlZnEbqU9&sz=s600-rw",
                   "archivo_id": "1-Z-iOTPgf3JxGSwR6nSBB5JNlZnEbqU9",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 1,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -1671,6 +1756,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1sL66fNlK4AvoWlQE9DTYmd97mZ5eLvlE&sz=s600-rw",
                   "archivo_id": "1sL66fNlK4AvoWlQE9DTYmd97mZ5eLvlE",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -1679,6 +1767,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1hOJJpFcoxtn9bP6qm_NjpWh9y2qS1cpo&sz=s600-rw",
                   "archivo_id": "1hOJJpFcoxtn9bP6qm_NjpWh9y2qS1cpo",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 3,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -1687,6 +1778,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1bhaPcF8YqEo1EaNSGJ9V_bWs4CO2mFWm&sz=s600-rw",
                   "archivo_id": "1bhaPcF8YqEo1EaNSGJ9V_bWs4CO2mFWm",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -1695,6 +1789,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1O-r_sP0hsjodan-WAhwiE4yMwLsHxPnh&sz=s600-rw",
                   "archivo_id": "1O-r_sP0hsjodan-WAhwiE4yMwLsHxPnh",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "PORTADA",
                   "orden": 9,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -1703,6 +1800,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=182MQVal0xqV102erxm8E95JwOOvM0_kh&sz=s600-rw",
                   "archivo_id": "182MQVal0xqV102erxm8E95JwOOvM0_kh",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
                   "orden": 10,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -1711,6 +1811,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1dBUZd6m6qTLiod7nqmi_973MQbFK9uY6&sz=s600-rw",
                   "archivo_id": "1dBUZd6m6qTLiod7nqmi_973MQbFK9uY6",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
                   "orden": 11,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -1822,12 +1925,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2545%0A%F0%9F%94%B9%20Modelo%3A%20OXFORD%20TIRO%20BAJO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1ULXV6iTHJH6qoG9pgCTuvjXA38rjAbDf&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1ULXV6iTHJH6qoG9pgCTuvjXA38rjAbDf&sz=s600-rw",
                   "archivo_id": "1ULXV6iTHJH6qoG9pgCTuvjXA38rjAbDf",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -1940,12 +2047,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4779%0A%F0%9F%94%B9%20Modelo%3A%20OXFORD%20NEGRO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=141c8edJGePCo7dN4SDVmLfZkk1MalJjN&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=141c8edJGePCo7dN4SDVmLfZkk1MalJjN&sz=s600-rw",
                   "archivo_id": "141c8edJGePCo7dN4SDVmLfZkk1MalJjN",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -2058,6 +2169,7 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4983%0A%F0%9F%94%B9%20Modelo%3A%20BORDADO%20FLORES%20OXIDO%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
@@ -2163,12 +2275,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT5798%0A%F0%9F%94%B9%20Modelo%3A%20oxford%20oxido%20tiro%20alto%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1tf1ZVvVFqjIeqSOaRu1BFWRp_3m3MNru&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1tf1ZVvVFqjIeqSOaRu1BFWRp_3m3MNru&sz=s600-rw",
                   "archivo_id": "1tf1ZVvVFqjIeqSOaRu1BFWRp_3m3MNru",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -2177,6 +2293,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1Hc2oEAiCZeMGE0_KebcyyN1qSJw22jr6&sz=s600-rw",
                   "archivo_id": "1Hc2oEAiCZeMGE0_KebcyyN1qSJw22jr6",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "PORTADA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -2185,6 +2304,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1R3cZLBeFexmc-XD2AuLO0QsuSOGf6Z9w&sz=s600-rw",
                   "archivo_id": "1R3cZLBeFexmc-XD2AuLO0QsuSOGf6Z9w",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "PORTADA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -2294,12 +2416,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT6650%0A%F0%9F%94%B9%20Modelo%3A%20Oxford%20Pilar%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2038%2C%2040%2C%2042"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1F4HA2QGkXzhQxC4P6HUFTAtwJZWSJ-kg&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1F4HA2QGkXzhQxC4P6HUFTAtwJZWSJ-kg&sz=s600-rw",
                   "archivo_id": "1F4HA2QGkXzhQxC4P6HUFTAtwJZWSJ-kg",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -2412,12 +2538,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7332%0A%F0%9F%94%B9%20Modelo%3A%20Oxford%20azul%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1-O3HdwYl7VIW7jH4wjgPdpgdqZqfUh8Q&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1-O3HdwYl7VIW7jH4wjgPdpgdqZqfUh8Q&sz=s600-rw",
                   "archivo_id": "1-O3HdwYl7VIW7jH4wjgPdpgdqZqfUh8Q",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -2531,12 +2661,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8376%0A%F0%9F%94%B9%20Modelo%3A%20oxford%20tiro%20bajoceleste%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1-FkL5u_eFIkF9pvU5O92EFG8JX0KuKCZ&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1-FkL5u_eFIkF9pvU5O92EFG8JX0KuKCZ&sz=s600-rw",
                   "archivo_id": "1-FkL5u_eFIkF9pvU5O92EFG8JX0KuKCZ",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -2645,12 +2779,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9631%0A%F0%9F%94%B9%20Modelo%3A%20OXFORD%20AZUL%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1j9fAjcPxi1FG9MiyqzZIgttS9ofeSjgK&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1j9fAjcPxi1FG9MiyqzZIgttS9ofeSjgK&sz=s600-rw",
                   "archivo_id": "1j9fAjcPxi1FG9MiyqzZIgttS9ofeSjgK",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -2770,12 +2908,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3194%0A%F0%9F%94%B9%20Modelo%3A%20Slouchy%20negro%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1Yr7j8Du-fJQIg3Kc-K7jKqj8o5ADwJCy&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1Yr7j8Du-fJQIg3Kc-K7jKqj8o5ADwJCy&sz=s600-rw",
                   "archivo_id": "1Yr7j8Du-fJQIg3Kc-K7jKqj8o5ADwJCy",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -2888,12 +3030,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7616%0A%F0%9F%94%B9%20Modelo%3A%20Slouchy%20Amely%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1UwbGA1DH7dt4mQPk1d5-c0wXlTkKQTqz&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1UwbGA1DH7dt4mQPk1d5-c0wXlTkKQTqz&sz=s600-rw",
                   "archivo_id": "1UwbGA1DH7dt4mQPk1d5-c0wXlTkKQTqz",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -3013,12 +3159,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2683%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20recto%20chocolate%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1I1E5MxsCvbOEqjwAz430jDHwmsb3pB8A&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1I1E5MxsCvbOEqjwAz430jDHwmsb3pB8A&sz=s600-rw",
                   "archivo_id": "1I1E5MxsCvbOEqjwAz430jDHwmsb3pB8A",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -3131,12 +3281,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT6545%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20recto%20bordo%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1LgK7gtX6LuJaMfwiOBoMDwoUg2WUemt6&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1LgK7gtX6LuJaMfwiOBoMDwoUg2WUemt6&sz=s600-rw",
                   "archivo_id": "1LgK7gtX6LuJaMfwiOBoMDwoUg2WUemt6",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -3145,6 +3299,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1bU-Ko3f-IPemhj6Ccjb9nYWqOLuWhsWc&sz=s600-rw",
                   "archivo_id": "1bU-Ko3f-IPemhj6Ccjb9nYWqOLuWhsWc",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "PORTADA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -3153,6 +3310,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1_Y4zES_L-ZTtLUbcrezyjnQMz2U3bTRt&sz=s600-rw",
                   "archivo_id": "1_Y4zES_L-ZTtLUbcrezyjnQMz2U3bTRt",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "PORTADA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -3265,12 +3425,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7106%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20recto%20tiro%20medio%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1NBg_ykDZORnIxYV3gEmLlZrx_4-ys8T6&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1NBg_ykDZORnIxYV3gEmLlZrx_4-ys8T6&sz=s600-rw",
                   "archivo_id": "1NBg_ykDZORnIxYV3gEmLlZrx_4-ys8T6",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -3383,12 +3547,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8212%0A%F0%9F%94%B9%20Modelo%3A%20Recto%20tiro%20medio%20elastizado%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1SebLqgnas9O80XayOWsbxFC27f2VVhRq&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1SebLqgnas9O80XayOWsbxFC27f2VVhRq&sz=s600-rw",
                   "archivo_id": "1SebLqgnas9O80XayOWsbxFC27f2VVhRq",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -3501,12 +3669,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9862%0A%F0%9F%94%B9%20Modelo%3A%20recto%20azul%20intenso%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1stkVtLEtmxkbqIyhG0POlG7DHyhs0ZiH&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1stkVtLEtmxkbqIyhG0POlG7DHyhs0ZiH&sz=s600-rw",
                   "archivo_id": "1stkVtLEtmxkbqIyhG0POlG7DHyhs0ZiH",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -3630,6 +3802,7 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT1329%0A%F0%9F%94%B9%20Modelo%3A%20Bela%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
@@ -3729,12 +3902,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2578%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20Emilia%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=14pDtfKNNDcUR0CH3zwOK8KgzC-w0nISP&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=14pDtfKNNDcUR0CH3zwOK8KgzC-w0nISP&sz=s600-rw",
                   "archivo_id": "14pDtfKNNDcUR0CH3zwOK8KgzC-w0nISP",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -3845,12 +4022,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2658%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20negro%20tiro%20bajo%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2038%2C%2040%2C%2042"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1KtzlcidzwBTOOSU8QsNEgo9qp-tlu-tQ&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1KtzlcidzwBTOOSU8QsNEgo9qp-tlu-tQ&sz=s600-rw",
                   "archivo_id": "1KtzlcidzwBTOOSU8QsNEgo9qp-tlu-tQ",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -3959,12 +4140,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3437%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20chocolate%20tiro%20medio%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2038%2C%2042"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1WpZtbKcl6gYyb2OPuq4F2o4YE85ziPZd&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1WpZtbKcl6gYyb2OPuq4F2o4YE85ziPZd&sz=s600-rw",
                   "archivo_id": "1WpZtbKcl6gYyb2OPuq4F2o4YE85ziPZd",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -4087,12 +4272,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4655%0A%F0%9F%94%B9%20Modelo%3A%20Recto%20Gris%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=18TP7Q1PfCSMgaxx1znCi3N6kz-NVerMJ&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=18TP7Q1PfCSMgaxx1znCi3N6kz-NVerMJ&sz=s600-rw",
                   "archivo_id": "18TP7Q1PfCSMgaxx1znCi3N6kz-NVerMJ",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -4101,6 +4290,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1yJxSMd7czBRhM-pQZKl0aLcJ4qCJaCZY&sz=s600-rw",
                   "archivo_id": "1yJxSMd7czBRhM-pQZKl0aLcJ4qCJaCZY",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -4109,6 +4301,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=18eJkdFOTVjceuI8aSkIk__x5WD2NTfia&sz=s600-rw",
                   "archivo_id": "18eJkdFOTVjceuI8aSkIk__x5WD2NTfia",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -4117,6 +4312,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1MeVgC7QLg2eeDNYTWoP-W3k2eqbEsqRR&sz=s600-rw",
                   "archivo_id": "1MeVgC7QLg2eeDNYTWoP-W3k2eqbEsqRR",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 8,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -4230,12 +4428,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7432%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20Lucia%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1SXt3R7gZLSD4nXsY3ZbhYOYrNk7tMI4G&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1SXt3R7gZLSD4nXsY3ZbhYOYrNk7tMI4G&sz=s600-rw",
                   "archivo_id": "1SXt3R7gZLSD4nXsY3ZbhYOYrNk7tMI4G",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -4348,12 +4550,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7692%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20gris%20estampado%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1G1QV-lTljF5ugsyES5_aH4kdjNzp0_Le&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1G1QV-lTljF5ugsyES5_aH4kdjNzp0_Le&sz=s600-rw",
                   "archivo_id": "1G1QV-lTljF5ugsyES5_aH4kdjNzp0_Le",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -4466,12 +4672,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7858%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20verde%20estampado%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1wcNwbsKHLJxXcKoYVt9d4v17C5BQLA9r&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1wcNwbsKHLJxXcKoYVt9d4v17C5BQLA9r&sz=s600-rw",
                   "archivo_id": "1wcNwbsKHLJxXcKoYVt9d4v17C5BQLA9r",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -4583,12 +4793,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8389%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20Bela%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1fh2Dr-QaLp_bj1iMILyU-cRWnS33-RDi&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1fh2Dr-QaLp_bj1iMILyU-cRWnS33-RDi&sz=s600-rw",
                   "archivo_id": "1fh2Dr-QaLp_bj1iMILyU-cRWnS33-RDi",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -4701,12 +4915,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8476%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20estrellas%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1wvh5KDxps8kz5f5Aswmfsa_eMqPuaczA&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1wvh5KDxps8kz5f5Aswmfsa_eMqPuaczA&sz=s600-rw",
                   "archivo_id": "1wvh5KDxps8kz5f5Aswmfsa_eMqPuaczA",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -4818,12 +5036,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8811%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20beige%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1vjGYxoatfL8N1_Qm-45__hdV_dsHyQ9W&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1vjGYxoatfL8N1_Qm-45__hdV_dsHyQ9W&sz=s600-rw",
                   "archivo_id": "1vjGYxoatfL8N1_Qm-45__hdV_dsHyQ9W",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -4922,12 +5144,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8904%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20tiro%20bajo%20bordo%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1Jy4VZbEiENngQIIMNzA_mCxz7UY6-j1x&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1Jy4VZbEiENngQIIMNzA_mCxz7UY6-j1x&sz=s600-rw",
                   "archivo_id": "1Jy4VZbEiENngQIIMNzA_mCxz7UY6-j1x",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -5040,12 +5266,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9228%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20Borravino%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1ixirZuoMpAcebRzR5vB5NcFtjkyySluz&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1ixirZuoMpAcebRzR5vB5NcFtjkyySluz&sz=s600-rw",
                   "archivo_id": "1ixirZuoMpAcebRzR5vB5NcFtjkyySluz",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -5162,12 +5392,16 @@
                   "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT9681%0A%F0%9F%94%B9%20Modelo%3A%20Maxiwide%20negro%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
                 }
               },
+              "guia_talles_img": "",
               "imagen": [
                 {
                   "url": "https://drive.google.com/thumbnail?id=1oVXW3FxOtQpybaJAAcH4s2UmsmFd2Is1&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1oVXW3FxOtQpybaJAAcH4s2UmsmFd2Is1&sz=s600-rw",
                   "archivo_id": "1oVXW3FxOtQpybaJAAcH4s2UmsmFd2Is1",
                   "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
                   "orden": 2,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -5176,6 +5410,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1rBPIW9jPAKrl0DQqR16lZQua4fmoH2xI&sz=s600-rw",
                   "archivo_id": "1rBPIW9jPAKrl0DQqR16lZQua4fmoH2xI",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 4,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 },
@@ -5184,6 +5421,9 @@
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=104g6ncup8TWjZlgsPlyxNd-oSyXunhYU&sz=s600-rw",
                   "archivo_id": "104g6ncup8TWjZlgsPlyxNd-oSyXunhYU",
                   "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
                   "orden": 6,
                   "fecha_carga": "2026-07-03T00:53:30.555Z"
                 }
@@ -5231,5 +5471,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1783902308199
+  "timestamp_ms": 1783937366689
 }
