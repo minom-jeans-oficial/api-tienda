@@ -138,7 +138,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "06-07-2026"
+                  "valor": "14-07-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -157,13 +157,13 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 0,
+                  "precio": 22000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-07-06T03:00:00.000Z"
+              "upd": "2026-07-14T03:00:00.000Z"
             }
           ]
         },
@@ -6439,5 +6439,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1784046275384
+  "timestamp_ms": 1784053503495
 }
