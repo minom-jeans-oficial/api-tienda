@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T15:37:50.221Z",
+  "generated_at": "2026-07-14T15:52:50.645Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2089,7 +2089,7 @@
       "ageGroup": "Teens",
       "grupo_edad": "Teens",
       "GRUPO_EDAD": "Teens",
-      "image": "",
+      "image": "https://drive.google.com/thumbnail?id=1MgD7ODFVbHXgAOEzOueix42oH7S_M2HR&sz=s600-rw",
       "carpeta_id": "14_BpA7g7zbSo_d7hambrIwzpQ7BTF94M",
       "woo_id": "",
       "variations": [
@@ -2104,6 +2104,126 @@
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
           "variation_id": "PANT9126-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4023",
+      "sku": "Pant011",
+      "model": "Con bordado celeste",
+      "price": 29000,
+      "display_price": 27000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=15AqRe2WZO7ShCLXfwWjyaRjbi92PcbS2&sz=s600-rw",
+      "carpeta_id": "1KezinL8i2ffVZF9Bo9Aa9owR6DtNnikJ",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4023-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4023-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8657",
+      "sku": "Pant012",
+      "model": "Elastizado oxido tiro alto",
+      "price": 23000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Alto",
+      "material": "Jeans Elastizado",
+      "sizes": "Surtido,36,38,40,42,44,46",
+      "talles": "Surtido,36,38,40,42,44,46",
+      "TALLES": "Surtido,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1teWsKgEDB_RAf7MJ8fwkLiXM75EnARZ7&sz=s600-rw",
+      "carpeta_id": "1FnVXNKK3dB1x3JNA40KQ8mPuBxdn41W-",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8657-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8657-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2841",
+      "sku": "Pant003",
+      "model": "Chupin negro",
+      "price": 18000,
+      "display_price": 16000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Chupin",
+      "categoryName": "Pantalon Chupin",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "",
+      "sizes": "Surtido,36,38,40,42,44,46",
+      "talles": "Surtido,36,38,40,42,44,46",
+      "TALLES": "Surtido,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1RPnWogo2IkjKi3JODwIMlXJAcTqPjyY0",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT2841-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT2841-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -3151,6 +3271,75 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT4023": [
+      {
+        "variedad_id": "PANT4023-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 27000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4023-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 29000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4023-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 34000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT8657": [
+      {
+        "variedad_id": "PANT8657-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8657-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8657-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT2841": [
+      {
+        "variedad_id": "PANT2841-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 16000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2841-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 18000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2841-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -3235,5 +3424,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1784043565328
+  "timestamp_ms": 1784044508608
 }
