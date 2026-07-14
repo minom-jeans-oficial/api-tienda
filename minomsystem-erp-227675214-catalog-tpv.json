@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T17:52:52.041Z",
+  "generated_at": "2026-07-14T18:22:49.234Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -1912,8 +1912,8 @@
       "id": "OFER1572",
       "sku": "Ofer001",
       "model": "PANT",
-      "price": 0,
-      "display_price": null,
+      "price": 17000,
+      "display_price": 22000,
       "minor_surcharge": 0,
       "category_id": "Oferta",
       "categoryName": "Oferta",
@@ -3255,7 +3255,7 @@
       {
         "variedad_id": "OFER1572-Menor",
         "nombre": "Menor",
-        "precio_unitario": 0,
+        "precio_unitario": 22000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -3550,5 +3550,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1784051680058
+  "timestamp_ms": 1784053469661
 }
