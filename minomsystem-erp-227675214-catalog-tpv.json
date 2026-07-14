@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:22:49.712Z",
+  "generated_at": "2026-07-14T12:37:50.194Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2027,6 +2027,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8193",
+      "sku": "Pant008",
+      "model": "bagy dakota gris",
+      "price": 27000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1gMbeWZjXc82QeDZvLGi5ZhLak1qpkN1v&sz=s600-rw",
+      "carpeta_id": "1Fs915u9AyKsSVGK0JGVpxB3EuLbIDPbO",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8193-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8193-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -3025,6 +3065,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT8193": [
+      {
+        "variedad_id": "PANT8193-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8193-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8193-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -3109,5 +3172,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1784031851542
+  "timestamp_ms": 1784032780665
 }
