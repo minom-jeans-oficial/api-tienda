@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T15:22:50.951Z",
+  "generated_at": "2026-07-14T15:37:50.221Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2049,7 +2049,7 @@
       "ageGroup": "Teens",
       "grupo_edad": "Teens",
       "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1gMbeWZjXc82QeDZvLGi5ZhLak1qpkN1v&sz=s600-rw",
+      "image": "https://drive.google.com/thumbnail?id=1WJ0LLQWox9HwhYL3b3dY4MdEmE8oQ-Qv&sz=s600-rw",
       "carpeta_id": "1Fs915u9AyKsSVGK0JGVpxB3EuLbIDPbO",
       "woo_id": "",
       "variations": [
@@ -2064,6 +2064,46 @@
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
           "variation_id": "PANT8193-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT9126",
+      "sku": "Pant009",
+      "model": "Con regulador gris",
+      "price": 27000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "14_BpA7g7zbSo_d7hambrIwzpQ7BTF94M",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT9126-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT9126-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -3088,6 +3128,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT9126": [
+      {
+        "variedad_id": "PANT9126-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT9126-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT9126-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -3172,5 +3235,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1784042704533
+  "timestamp_ms": 1784043565328
 }
