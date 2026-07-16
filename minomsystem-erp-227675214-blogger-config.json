@@ -83,7 +83,7 @@
               "codigo": 1,
               "categoria": "Oferta",
               "nombre": "OFER1572",
-              "carpeta_id": "16NLIL4YxTMcxVegN_fxA5w0Phqjs4zN6",
+              "carpeta_id": "",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -6320,7 +6320,7 @@
                 },
                 "estilo": {
                   "label": "Estilo",
-                  "valor": "Wide Leg"
+                  "valor": "Tiro Bajo"
                 },
                 "material": {
                   "label": "Material",
@@ -6358,7 +6358,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "25-05-2026"
+                  "valor": "16-07-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -6383,7 +6383,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18,
+                  "precio": 18000,
                   "variedad": "Curva",
                   "minima": 5,
                   "sub_variedad": {
@@ -6397,12 +6397,26 @@
                       ]
                     }
                   }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 25000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
                 }
               ],
-              "upd": "2026-05-25T03:00:00.000Z"
+              "upd": "2026-07-16T03:00:00.000Z"
             },
             {
-              "codigo": 140,
+              "codigo": 142,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8904",
               "carpeta_id": "18hp_wYAWzzLzDVHpsbv5CSaSjlPcgmv5",
@@ -6524,7 +6538,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 143,
+              "codigo": 145,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9228",
               "carpeta_id": "1oXI-FqpZm7vGcT9n7YO2vQkPnA18jihY",
@@ -6646,7 +6660,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 146,
+              "codigo": 148,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9681",
               "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
@@ -6801,5 +6815,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1784218177110
+  "timestamp_ms": 1784219092812
 }
