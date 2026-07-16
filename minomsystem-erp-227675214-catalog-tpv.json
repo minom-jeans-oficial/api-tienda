@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T15:37:50.303Z",
+  "generated_at": "2026-07-16T15:52:49.657Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -348,46 +348,6 @@
     }
   ],
   "products": [
-    {
-      "id": "PANT1524",
-      "sku": "Pant009",
-      "model": "con brillos",
-      "price": 25000,
-      "display_price": 22000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Oxfort",
-      "categoryName": "Pantalon Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Sublimado",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "",
-      "grupo_edad": "",
-      "GRUPO_EDAD": "",
-      "image": "https://drive.google.com/thumbnail?id=1BajX9z28DgbXJcXuSIUgvutDtw_F0B7o&sz=s600-rw",
-      "carpeta_id": "1iQboh9AZXZmXqpN5zf-d4naU1_XnWb3W",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT1524-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT1524-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
     {
       "id": "PANT2545",
       "sku": "26287052090947700.00",
@@ -841,7 +801,7 @@
       "season": "SIN-TEMPORADA",
       "gender": "Mujer",
       "brand": "MINOM OFICIAL",
-      "style": "Baggy",
+      "style": "Tiro Medio",
       "material": "Rígid",
       "sizes": "Surtido",
       "talles": "Surtido",
@@ -1024,46 +984,6 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT6545-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT6650",
-      "sku": "25264224996513300.00",
-      "model": "Oxford Pilar",
-      "price": 23000,
-      "display_price": 20000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Oxfort",
-      "categoryName": "Pantalon Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Oxford",
-      "material": "Elastizado",
-      "sizes": "Surtido,38,40,42",
-      "talles": "Surtido,38,40,42",
-      "TALLES": "Surtido,38,40,42",
-      "ageGroup": "",
-      "grupo_edad": "",
-      "GRUPO_EDAD": "",
-      "image": "https://drive.google.com/thumbnail?id=1F4HA2QGkXzhQxC4P6HUFTAtwJZWSJ-kg&sz=s600-rw",
-      "carpeta_id": "1oroqVlHdrMB76_ZDT07uMGBeAvnvCQzO",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT6650-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT6650-Surtido-Surtido-MINOM OFICIAL"
         }
       ],
       "fecha_creacion": ""
@@ -1629,46 +1549,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT9246",
-      "sku": "34885282421062800.00",
-      "model": "Baggy Lunar",
-      "price": 19000,
-      "display_price": 17000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Baggy",
-      "material": "Rígid",
-      "sizes": "Surtido,34,36,38,40,42",
-      "talles": "Surtido,34,36,38,40,42",
-      "TALLES": "Surtido,34,36,38,40,42",
-      "ageGroup": "",
-      "grupo_edad": "",
-      "GRUPO_EDAD": "",
-      "image": "https://drive.google.com/thumbnail?id=1C23jUFU5Bz19y68e6guNobkanB97eS8K&sz=s600-rw",
-      "carpeta_id": "1j7uNEsAmx_wZhwDgy2LF9kHKzqyBKXyr",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT9246-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT9246-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "PANT9288",
       "sku": "26790268437279000.00",
       "model": "Azul",
@@ -2198,7 +2078,7 @@
       "category_id": "Pantalon Chupin",
       "categoryName": "Pantalon Chupin",
       "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
+      "season": "VERANO",
       "gender": "Mujer",
       "brand": "MINOM OFICIAL",
       "style": "Tiro Medio",
@@ -2646,29 +2526,6 @@
         "visible": true
       }
     ],
-    "PANT1524": [
-      {
-        "variedad_id": "PANT1524-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 22000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT1524-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT1524-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
     "PANT1883": [
       {
         "variedad_id": "PANT1883-Curva",
@@ -3060,29 +2917,6 @@
         "visible": true
       }
     ],
-    "PANT6650": [
-      {
-        "variedad_id": "PANT6650-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 20000,
-        "cantidad_minima": 3,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT6650-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT6650-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 28000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
     "PANT7106": [
       {
         "variedad_id": "PANT7106-Curva",
@@ -3387,29 +3221,6 @@
         "variedad_id": "PANT9228-Menor",
         "nombre": "Menor",
         "precio_unitario": 28000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT9246": [
-      {
-        "variedad_id": "PANT9246-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 17000,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT9246-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 19000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT9246-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 24000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -3919,5 +3730,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1784216357779
+  "timestamp_ms": 1784217292787
 }
