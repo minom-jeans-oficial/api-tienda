@@ -1828,7 +1828,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "14-07-2026"
+                  "valor": "16-07-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -1845,7 +1845,7 @@
                   "portada": true,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
-                  "rol": "GALERIA",
+                  "rol": "PORTADA",
                   "orden": 1,
                   "fecha_carga": "2026-07-14T15:51:19.178Z"
                 },
@@ -2090,7 +2090,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "14-07-2026"
+                  "valor": "16-07-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -7218,5 +7218,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1784214581460
+  "timestamp_ms": 1784216350618
 }
