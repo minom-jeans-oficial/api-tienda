@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T19:07:49.903Z",
+  "generated_at": "2026-07-16T19:20:15.541Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -412,7 +412,20 @@
       "image": "",
       "carpeta_id": "",
       "woo_id": "",
-      "variations": [],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "OFER2503-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "OFER2503-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
       "fecha_creacion": ""
     },
     {
@@ -439,7 +452,20 @@
       "image": "",
       "carpeta_id": "",
       "woo_id": "",
-      "variations": [],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "OFER6488-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "OFER6488-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
       "fecha_creacion": ""
     },
     {
@@ -466,7 +492,20 @@
       "image": "",
       "carpeta_id": "",
       "woo_id": "",
-      "variations": [],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "OFER6855-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "OFER6855-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
       "fecha_creacion": ""
     },
     {
@@ -491,9 +530,22 @@
       "grupo_edad": "Adulto",
       "GRUPO_EDAD": "Adulto",
       "image": "",
-      "carpeta_id": "",
+      "carpeta_id": "1oDRgLfdONJKbwCRHsDi1RjpDZ1yqUlvM",
       "woo_id": "",
-      "variations": [],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "OFER8592-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "OFER8592-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
       "fecha_creacion": ""
     },
     {
@@ -520,7 +572,20 @@
       "image": "",
       "carpeta_id": "",
       "woo_id": "",
-      "variations": [],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "OFER9830-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "OFER9830-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
       "fecha_creacion": ""
     },
     {
@@ -3744,5 +3809,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1784228962935
+  "timestamp_ms": 1784229726791
 }
