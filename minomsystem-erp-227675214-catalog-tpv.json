@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T14:37:50.818Z",
+  "generated_at": "2026-07-16T14:52:51.071Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2427,6 +2427,33 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "OFER8592",
+      "sku": "Ofer002",
+      "model": "Varios",
+      "price": 17000,
+      "display_price": 22000,
+      "minor_surcharge": 0,
+      "category_id": "Oferta",
+      "categoryName": "Oferta",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Adulto",
+      "grupo_edad": "Adulto",
+      "GRUPO_EDAD": "Adulto",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": "",
+      "variations": [],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -3655,6 +3682,15 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "OFER8592": [
+      {
+        "variedad_id": "OFER8592-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 22000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -3739,5 +3775,5 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1784212815776
+  "timestamp_ms": 1784213707565
 }
