@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T18:07:48.765Z",
+  "generated_at": "2026-07-17T18:22:49.774Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -586,46 +586,6 @@
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
           "variation_id": "OFER9830-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT1329",
-      "sku": "Pant015",
-      "model": "Bela",
-      "price": 23000,
-      "display_price": 21000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "espigado",
-      "material": "Rígid",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "",
-      "grupo_edad": "",
-      "GRUPO_EDAD": "",
-      "image": "",
-      "carpeta_id": "128qFBjkCyrCNKc90hoWVMxCcAnZzvUeq",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT1329-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT1329-Surtido-Surtido-MINOM OFICIAL"
         }
       ],
       "fecha_creacion": ""
@@ -1591,46 +1551,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT7057",
-      "sku": "Pant007",
-      "model": "Carpintero con regulador",
-      "price": 27000,
-      "display_price": 25000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens , Adulto",
-      "grupo_edad": "Teens , Adulto",
-      "GRUPO_EDAD": "Teens , Adulto",
-      "image": "",
-      "carpeta_id": "13K7K7uBF9UvvIZy9soA4ANgVGci2I5AW",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT7057-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT7057-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "PANT7106",
       "sku": "26521953680803000.00",
       "model": "Wide recto tiro medio",
@@ -2251,7 +2171,7 @@
       "ageGroup": "Teens",
       "grupo_edad": "Teens",
       "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1DE8mIVI2YYabuYRrd-JocK-RVDjtI1HM&sz=s600-rw",
+      "image": "https://drive.google.com/thumbnail?id=1BOby_MsQzCSPCJ9IpH48uPF7eUI3RNlA&sz=s600-rw",
       "carpeta_id": "1iW-VxPIlZQ1rQfx854NzjIT4zldy9Zup",
       "woo_id": "",
       "variations": [
@@ -2570,29 +2490,6 @@
     "CARRUSELES": ""
   },
   "allVarieties": {
-    "PANT1329": [
-      {
-        "variedad_id": "PANT1329-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 21000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT1329-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT1329-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 28000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
     "PANT1883": [
       {
         "variedad_id": "PANT1883-Curva",
@@ -3430,29 +3327,6 @@
         "visible": true
       }
     ],
-    "PANT7057": [
-      {
-        "variedad_id": "PANT7057-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 25000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT7057-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT7057-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
     "PANT8193": [
       {
         "variedad_id": "PANT8193-Curva",
@@ -3818,5 +3692,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784311764049
+  "timestamp_ms": 1784312706383
 }
