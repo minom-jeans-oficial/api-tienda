@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T02:52:53.226Z",
+  "generated_at": "2026-07-17T10:07:51.694Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -12,6 +12,7 @@
         "minorSurcharge": 6000,
         "minimumPurchase": 3,
         "saleMode": "MANUAL",
+        "allowNegativeStock": true,
         "allowedPaymentMethods": [
           "Efectivo",
           "Transferencia",
@@ -40,6 +41,7 @@
         "minorSurcharge": 6000,
         "minimumPurchase": 3,
         "saleMode": "MANUAL",
+        "allowNegativeStock": true,
         "allowedPaymentMethods": [
           "Efectivo",
           "Transferencia",
@@ -3809,5 +3811,12 @@
       "name": "Gaston Herrera Luna"
     }
   ],
-  "timestamp_ms": 1784256884876
+  "appSheet": {
+    "appName": "MINOMSYSTEM-ERP-227675214",
+    "appId": "3489ba83-341c-45be-96c4-adda5cd368f7",
+    "inventoryListView": "BD_INVENTARIO",
+    "inventoryDetailView": "BD_INVENTARIO_Detail",
+    "inventoryFormView": "BD_INVENTARIO_Form"
+  },
+  "timestamp_ms": 1784282967507
 }
