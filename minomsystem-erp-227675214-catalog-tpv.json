@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T19:37:53.419Z",
+  "generated_at": "2026-07-17T19:52:50.023Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -355,7 +355,7 @@
       "sku": "Ofer001",
       "model": "PANT",
       "price": 20000,
-      "display_price": 25000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Oferta",
       "categoryName": "Oferta",
@@ -395,7 +395,7 @@
       "sku": "Ofer003",
       "model": "Pantalon",
       "price": 18000,
-      "display_price": 23000,
+      "display_price": 18000,
       "minor_surcharge": 0,
       "category_id": "Oferta",
       "categoryName": "Oferta",
@@ -435,7 +435,7 @@
       "sku": "Ofer005",
       "model": "Ofertas",
       "price": 25000,
-      "display_price": 30000,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Oferta",
       "categoryName": "Oferta",
@@ -475,7 +475,7 @@
       "sku": "Ofer004",
       "model": "Variado",
       "price": 19000,
-      "display_price": 24000,
+      "display_price": 19000,
       "minor_surcharge": 0,
       "category_id": "Oferta",
       "categoryName": "Oferta",
@@ -515,7 +515,7 @@
       "sku": "Ofer002",
       "model": "Varios",
       "price": 17000,
-      "display_price": 22000,
+      "display_price": 17000,
       "minor_surcharge": 0,
       "category_id": "Oferta",
       "categoryName": "Oferta",
@@ -555,7 +555,7 @@
       "sku": "Ofer006",
       "model": "Variado",
       "price": 15000,
-      "display_price": 20000,
+      "display_price": 15000,
       "minor_surcharge": 0,
       "category_id": "Oferta",
       "categoryName": "Oferta",
@@ -3299,7 +3299,7 @@
       {
         "variedad_id": "OFER1572-Menor",
         "nombre": "Menor",
-        "precio_unitario": 25000,
+        "precio_unitario": 20000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -3561,7 +3561,7 @@
       {
         "variedad_id": "OFER8592-Menor",
         "nombre": "Menor",
-        "precio_unitario": 22000,
+        "precio_unitario": 17000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -3570,7 +3570,7 @@
       {
         "variedad_id": "OFER2503-Menor",
         "nombre": "Menor",
-        "precio_unitario": 23000,
+        "precio_unitario": 18000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -3579,7 +3579,7 @@
       {
         "variedad_id": "OFER6855-Menor",
         "nombre": "Menor",
-        "precio_unitario": 24000,
+        "precio_unitario": 19000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -3588,7 +3588,7 @@
       {
         "variedad_id": "OFER6488-Menor",
         "nombre": "Menor",
-        "precio_unitario": 30000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -3597,7 +3597,7 @@
       {
         "variedad_id": "OFER9830-Menor",
         "nombre": "Menor",
-        "precio_unitario": 20000,
+        "precio_unitario": 15000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -3692,5 +3692,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784317213059
+  "timestamp_ms": 1784318058887
 }
