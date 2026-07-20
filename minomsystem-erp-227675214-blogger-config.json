@@ -6632,6 +6632,229 @@
               "upd": "2026-06-17T03:00:00.000Z"
             }
           ]
+        },
+        {
+          "codigo": 10,
+          "nombre": "Top",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/7781e5c6.svg",
+          "producto": [
+            {
+              "codigo": 145,
+              "categoria": "Top",
+              "nombre": "TOP1511",
+              "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Top colores"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "-"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "20-07-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20TOP1511%0A%F0%9F%94%B9%20Modelo%3A%20Top%20colores%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 10000,
+                  "variedad": "Curva",
+                  "minima": 0,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 12000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 14000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-07-20T03:00:00.000Z"
+            },
+            {
+              "codigo": 148,
+              "categoria": "Top",
+              "nombre": "TOP5771",
+              "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Top manga larga"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jeans Rigido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "1100",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "20-07-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20TOP5771%0A%F0%9F%94%B9%20Modelo%3A%20Top%20manga%20larga%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1ogZPbCQjXDUJFpm-iI2_90mNpVVLWdzr&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1ogZPbCQjXDUJFpm-iI2_90mNpVVLWdzr&sz=s600-rw",
+                  "archivo_id": "1ogZPbCQjXDUJFpm-iI2_90mNpVVLWdzr",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "GALERIA",
+                  "orden": 1,
+                  "fecha_carga": "2026-07-20T15:49:43.264Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 14000,
+                  "variedad": "Curva",
+                  "minima": 0,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "1100"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 16000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 16000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-07-20T03:00:00.000Z"
+            }
+          ]
         }
       ]
     }
@@ -6639,5 +6862,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1784561090573
+  "timestamp_ms": 1784562884876
 }
