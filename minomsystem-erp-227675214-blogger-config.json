@@ -6009,128 +6009,6 @@
             {
               "codigo": 130,
               "categoria": "Pantalon Wige Leg",
-              "nombre": "PANT8476",
-              "carpeta_id": "1lXvbCMLDF3ZWRwmTTpXDTIbgH2Z-QMZj",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Wide estrellas"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM OFICIAL"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "-",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Wide Leg"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Rígid"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "34",
-                    "36",
-                    "38",
-                    "40",
-                    "42",
-                    "44"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "99",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "06-07-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8476%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20estrellas%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1wvh5KDxps8kz5f5Aswmfsa_eMqPuaczA&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1wvh5KDxps8kz5f5Aswmfsa_eMqPuaczA&sz=s600-rw",
-                  "archivo_id": "1wvh5KDxps8kz5f5Aswmfsa_eMqPuaczA",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "PORTADA",
-                  "orden": 2,
-                  "fecha_carga": "2026-07-03T00:53:30.555Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 23000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "99"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 25000,
-                  "variedad": "Mayor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 30000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-07-06T03:00:00.000Z"
-            },
-            {
-              "codigo": 133,
-              "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8811",
               "carpeta_id": "1XAvHKZAKZXRG-IAzirYkwPYAB39gHPgh",
               "descripcion": {
@@ -6250,7 +6128,7 @@
               "upd": "2026-07-16T03:00:00.000Z"
             },
             {
-              "codigo": 136,
+              "codigo": 133,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8904",
               "carpeta_id": "18hp_wYAWzzLzDVHpsbv5CSaSjlPcgmv5",
@@ -6372,7 +6250,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 139,
+              "codigo": 136,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9228",
               "carpeta_id": "1oXI-FqpZm7vGcT9n7YO2vQkPnA18jihY",
@@ -6494,7 +6372,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 142,
+              "codigo": 139,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9681",
               "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
@@ -6649,7 +6527,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/7781e5c6.svg",
           "producto": [
             {
-              "codigo": 145,
+              "codigo": 142,
               "categoria": "Top",
               "nombre": "TOP1511",
               "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
@@ -6749,7 +6627,7 @@
               "upd": "2026-07-20T03:00:00.000Z"
             },
             {
-              "codigo": 148,
+              "codigo": 145,
               "categoria": "Top",
               "nombre": "TOP5771",
               "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
@@ -6872,5 +6750,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1784566458539
+  "timestamp_ms": 1784567398355
 }
