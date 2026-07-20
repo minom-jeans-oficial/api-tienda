@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T17:52:50.474Z",
+  "generated_at": "2026-07-20T18:08:01.360Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2509,6 +2509,86 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP2235",
+      "sku": "Camp001",
+      "model": "Jeans con peluche",
+      "price": 55000,
+      "display_price": 53000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "11kfQvO-c3iTgYjiepDmAZZtSnyjgE6Lh",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "CAMP2235-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "CAMP2235-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP8313",
+      "sku": "Camp002",
+      "model": "Con peluche cuero",
+      "price": 65000,
+      "display_price": 63000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Gabardina Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1DEKlNlanS-vh4md7xkPslSUcaJeHzbiR",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "CAMP8313-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "CAMP8313-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -3727,6 +3807,52 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CAMP2235": [
+      {
+        "variedad_id": "CAMP2235-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 53000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP2235-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 55000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP2235-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 60000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "CAMP8313": [
+      {
+        "variedad_id": "CAMP8313-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 63000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP8313-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 65000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP8313-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 70000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -3818,5 +3944,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784570110049
+  "timestamp_ms": 1784570993558
 }
