@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T16:52:49.445Z",
+  "generated_at": "2026-07-20T17:07:49.625Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -1951,46 +1951,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT8476",
-      "sku": "27192738670415400.00",
-      "model": "Wide estrellas",
-      "price": 25000,
-      "display_price": 23000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Wide Leg",
-      "material": "Rígid",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "",
-      "grupo_edad": "",
-      "GRUPO_EDAD": "",
-      "image": "https://drive.google.com/thumbnail?id=1wvh5KDxps8kz5f5Aswmfsa_eMqPuaczA&sz=s600-rw",
-      "carpeta_id": "1lXvbCMLDF3ZWRwmTTpXDTIbgH2Z-QMZj",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT8476-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT8476-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "PANT8582",
       "sku": "27097995193123100.00",
       "model": "mom azul",
@@ -3168,29 +3128,6 @@
         "visible": true
       }
     ],
-    "PANT8476": [
-      {
-        "variedad_id": "PANT8476-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 23000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8476-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8476-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
     "PANT8582": [
       {
         "variedad_id": "PANT8582-Curva",
@@ -3818,5 +3755,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784566455544
+  "timestamp_ms": 1784567360453
 }
