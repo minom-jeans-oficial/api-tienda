@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T15:37:49.228Z",
+  "generated_at": "2026-07-20T15:52:50.085Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2429,6 +2429,86 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "TOP1511",
+      "sku": "Top001",
+      "model": "Top colores",
+      "price": 12000,
+      "display_price": 10000,
+      "minor_surcharge": 0,
+      "category_id": "Top",
+      "categoryName": "Top",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "TOP1511-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "TOP1511-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "TOP5771",
+      "sku": "Top002",
+      "model": "Top manga larga",
+      "price": 16000,
+      "display_price": 14000,
+      "minor_surcharge": 0,
+      "category_id": "Top",
+      "categoryName": "Top",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1ogZPbCQjXDUJFpm-iI2_90mNpVVLWdzr&sz=s600-rw",
+      "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "TOP5771-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "TOP5771-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -3601,6 +3681,52 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "TOP1511": [
+      {
+        "variedad_id": "TOP1511-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 10000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "TOP1511-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 12000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "TOP1511-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 14000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "TOP5771": [
+      {
+        "variedad_id": "TOP5771-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 14000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "TOP5771-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 16000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "TOP5771-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 16000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -3692,5 +3818,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784561962146
+  "timestamp_ms": 1784562855441
 }
