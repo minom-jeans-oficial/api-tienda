@@ -133,12 +133,12 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "100",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "20-07-2026"
+                  "valor": "21-07-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -160,7 +160,17 @@
                   "precio": 53000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "100"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
@@ -7063,5 +7073,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1784646606700
+  "timestamp_ms": 1784655590953
 }
