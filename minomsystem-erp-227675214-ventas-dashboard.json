@@ -2403,6 +2403,88 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-eb56ebd6-e3a1-4f64-8951-583a45380f47": [
+        {
+          "id": "TPV-1784654364769",
+          "fecha": "2026-07-21 14:19",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 33000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM ARGERICH",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-eb56ebd6-e3a1-4f64-8951-583a45380f47",
+          "asesor": "DANIELA",
+          "fechaCaja": "2026-07-21",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3000,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1784654364769-84",
+              "descripcion": "PANT3144-Surtido-Surtido-MINOM ARGERICH",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT3144",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3144-Surtido-Surtido-MINOM ARGERICH"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1784654846490",
+          "fecha": "2026-07-21 14:27",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 65000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM ARGERICH",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-eb56ebd6-e3a1-4f64-8951-583a45380f47",
+          "asesor": "DANIELA",
+          "fechaCaja": "2026-07-21",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1784654846490-85",
+              "descripcion": "CAMP8313-Surtido-Surtido-MINOM ARGERICH",
+              "cantidad": 1,
+              "precioUnitario": 65000,
+              "subtotal": 65000,
+              "tipoPrecio": "Mayor",
+              "productoId": "CAMP8313",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CAMP8313-Surtido-Surtido-MINOM ARGERICH"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 65000,
+          "subtotal": 65000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     }
   },
@@ -2454,6 +2536,11 @@
     },
     "CR-e0f9a4f5-1e82-4635-ba2e-742a02bda8fe": {
       "fecha": "2026-07-20",
+      "tienda": "MINOM ARGERICH",
+      "asesor": "DANIELA"
+    },
+    "CR-eb56ebd6-e3a1-4f64-8951-583a45380f47": {
+      "fecha": "2026-07-21",
       "tienda": "MINOM ARGERICH",
       "asesor": "DANIELA"
     }
@@ -2550,5 +2637,5 @@
     "PANT3769": "https://drive.google.com/thumbnail?id=1id47g-jBHqTyAIamair9GFGQnWzuT0hl&sz=s600-rw",
     "TOP5771": "https://drive.google.com/thumbnail?id=1ogZPbCQjXDUJFpm-iI2_90mNpVVLWdzr&sz=s600-rw"
   },
-  "timestamp_ms": 1784587019773
+  "timestamp_ms": 1784655429826
 }
