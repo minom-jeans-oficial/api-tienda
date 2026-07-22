@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:37:49.371Z",
+  "generated_at": "2026-07-22T19:52:57.717Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2789,6 +2789,126 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4723",
+      "sku": "Pant017",
+      "model": "Celeste con Rotura",
+      "price": 23000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1E7kojJqPcx3sC2rJfbYPFhbtLf-rd6FX&sz=s600-rw",
+      "carpeta_id": "1YCK3adMYnF9sa42F5PG3OWrQxCbpdX2T",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4723-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4723-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8140",
+      "sku": "Pant005",
+      "model": "Negro con Recorte",
+      "price": 26000,
+      "display_price": 24000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Maxi Wige",
+      "categoryName": "Pantalon Maxi Wige",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1NNEucqkXvAK6p_TQJ3DS1ClAfGoTWW7U&sz=s600-rw",
+      "carpeta_id": "11rudJ_531TefFc73QDnwQACFNREYSFi7",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8140-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8140-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4710",
+      "sku": "Pant004",
+      "model": "Celeste",
+      "price": 20000,
+      "display_price": 18000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Chupin",
+      "categoryName": "Pantalon Chupin",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Elastizado",
+      "sizes": "Surtido,36,38,40,42,44,46",
+      "talles": "Surtido,36,38,40,42,44,46",
+      "TALLES": "Surtido,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1apP7aeeNbAXFSYgqDANJ7HrA41R0JmIb",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4710-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4710-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -4168,6 +4288,75 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT4723": [
+      {
+        "variedad_id": "PANT4723-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4723-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4723-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT8140": [
+      {
+        "variedad_id": "PANT8140-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 24000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8140-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8140-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 31000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT4710": [
+      {
+        "variedad_id": "PANT4710-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 18000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4710-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4710-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -4259,5 +4448,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784749160595
+  "timestamp_ms": 1784750086974
 }
