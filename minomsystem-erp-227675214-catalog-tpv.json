@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T18:22:50.461Z",
+  "generated_at": "2026-07-22T18:37:50.263Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2629,6 +2629,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2259",
+      "sku": "Pant002",
+      "model": "Negro",
+      "price": 23000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Moon",
+      "categoryName": "Pantalon Moon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1ZYI1Tk8ROfvi15QAK3hV2Dz-tSOkk5So&sz=s600-rw",
+      "carpeta_id": "198u9i-xHY06AYsR5LNw9LfXiG4yTmhGU",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT2259-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT2259-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -3916,6 +3956,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT2259": [
+      {
+        "variedad_id": "PANT2259-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2259-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2259-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -4007,5 +4070,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784744692839
+  "timestamp_ms": 1784745561626
 }
