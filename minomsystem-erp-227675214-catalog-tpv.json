@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:22:50.544Z",
+  "generated_at": "2026-07-22T19:37:49.371Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2691,7 +2691,7 @@
       "ageGroup": "Teens",
       "grupo_edad": "Teens",
       "GRUPO_EDAD": "Teens",
-      "image": "",
+      "image": "https://drive.google.com/thumbnail?id=1NptaqxZpdZrJ4OTbANblQdN1Gko3folv&sz=s600-rw",
       "carpeta_id": "10RbbMzwW7_1zC7d013MX-xRir0gjtbW4",
       "woo_id": "",
       "variations": [
@@ -2706,6 +2706,86 @@
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
           "variation_id": "PANT4545-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT7862",
+      "sku": "Pant015",
+      "model": "Negro Bastones",
+      "price": 23000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1pjyzYz8ZhkrJGHH-lCYHPJ0v3FMzoRFf&sz=s600-rw",
+      "carpeta_id": "1c1B168PjaSk9Tq3vUe247w16eTtKBiYU",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT7862-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT7862-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4385",
+      "sku": "Pant016",
+      "model": "Blanco",
+      "price": 23000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1FXK1vE2vW1fublu4nXHaJwJGvv2W0Q6X",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4385-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4385-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -4042,6 +4122,52 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT7862": [
+      {
+        "variedad_id": "PANT7862-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7862-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7862-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT4385": [
+      {
+        "variedad_id": "PANT4385-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4385-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4385-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -4133,5 +4259,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784748292810
+  "timestamp_ms": 1784749160595
 }
