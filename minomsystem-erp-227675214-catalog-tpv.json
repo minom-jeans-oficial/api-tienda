@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:07:50.418Z",
+  "generated_at": "2026-07-22T19:22:50.544Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -634,8 +634,8 @@
       "id": "PANT1883",
       "sku": "Pant009",
       "model": "BOLSILLO BORDADO",
-      "price": 25000,
-      "display_price": 22000,
+      "price": 29000,
+      "display_price": 27000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -714,8 +714,8 @@
       "id": "PANT2545",
       "sku": "26287052090947700.00",
       "model": "OXFORD TIRO BAJO",
-      "price": 23000,
-      "display_price": 20000,
+      "price": 25000,
+      "display_price": 23000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Oxfort",
       "categoryName": "Pantalon Oxfort",
@@ -1991,46 +1991,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT8657",
-      "sku": "Pant012",
-      "model": "Elastizado oxido tiro alto",
-      "price": 23000,
-      "display_price": 21000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Oxfort",
-      "categoryName": "Pantalon Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Alto",
-      "material": "Jeans Elastizado",
-      "sizes": "Surtido,36,38,40,42,44,46",
-      "talles": "Surtido,36,38,40,42,44,46",
-      "TALLES": "Surtido,36,38,40,42,44,46",
-      "ageGroup": "Adulto",
-      "grupo_edad": "Adulto",
-      "GRUPO_EDAD": "Adulto",
-      "image": "https://drive.google.com/thumbnail?id=1teWsKgEDB_RAf7MJ8fwkLiXM75EnARZ7&sz=s600-rw",
-      "carpeta_id": "1FnVXNKK3dB1x3JNA40KQ8mPuBxdn41W-",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT8657-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT8657-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "PANT8811",
       "sku": "27388202160772500.00",
       "model": "Wide leg beige",
@@ -2669,6 +2629,86 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT5968",
+      "sku": "Pant010",
+      "model": "Elastizado tiro bajo",
+      "price": 23000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1I88U_8Ik7JT8s6-etejBq7wxMwv-BV-t&sz=s600-rw",
+      "carpeta_id": "1Q0XCF68baBksh9uySeJOrMiBBQqpcf6e",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT5968-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT5968-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4545",
+      "sku": "Pant014",
+      "model": "Gris Claro",
+      "price": 24000,
+      "display_price": 22000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "10RbbMzwW7_1zC7d013MX-xRir0gjtbW4",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4545-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4545-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -2734,21 +2774,21 @@
       {
         "variedad_id": "PANT1883-Curva",
         "nombre": "Curva",
-        "precio_unitario": 22000,
+        "precio_unitario": 27000,
         "cantidad_minima": 8,
         "visible": true
       },
       {
         "variedad_id": "PANT1883-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 25000,
+        "precio_unitario": 29000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT1883-Menor",
         "nombre": "Menor",
-        "precio_unitario": 30000,
+        "precio_unitario": 34000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -2757,21 +2797,21 @@
       {
         "variedad_id": "PANT2545-Curva",
         "nombre": "Curva",
-        "precio_unitario": 20000,
+        "precio_unitario": 23000,
         "cantidad_minima": 5,
         "visible": true
       },
       {
         "variedad_id": "PANT2545-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 23000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT2545-Menor",
         "nombre": "Menor",
-        "precio_unitario": 28000,
+        "precio_unitario": 30000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -3613,29 +3653,6 @@
         "visible": true
       }
     ],
-    "PANT8657": [
-      {
-        "variedad_id": "PANT8657-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 21000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8657-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8657-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 28000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
     "PANT2841": [
       {
         "variedad_id": "PANT2841-Curva",
@@ -3979,6 +3996,52 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT5968": [
+      {
+        "variedad_id": "PANT5968-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5968-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5968-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT4545": [
+      {
+        "variedad_id": "PANT4545-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 22000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4545-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4545-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 29000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -4070,5 +4133,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784747386046
+  "timestamp_ms": 1784748292810
 }
