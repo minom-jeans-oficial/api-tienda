@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T19:52:57.717Z",
+  "generated_at": "2026-07-22T20:07:54.064Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2909,6 +2909,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4575",
+      "sku": "Pant011",
+      "model": "Negro Localizado",
+      "price": 25000,
+      "display_price": 23000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1IsyA46sVDP046LzJa1AlQuUlmvmQup5q&sz=s600-rw",
+      "carpeta_id": "1NxDsE-UE93kiK_sP9k1VRO611dp-DjTK",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4575-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4575-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -4357,6 +4397,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT4575": [
+      {
+        "variedad_id": "PANT4575-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 23000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4575-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4575-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -4448,5 +4511,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784750086974
+  "timestamp_ms": 1784750984454
 }
