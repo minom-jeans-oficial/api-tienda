@@ -1792,6 +1792,46 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1784750264567",
+          "fecha": "2026-07-22 16:57",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 34100,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-07e9a7e8-3819-4076-98cc-f6af11bfed5c",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-07-22",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3100,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1784750264567-104",
+              "descripcion": "PANT3628-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 31000,
+              "subtotal": 31000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT3628",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3628-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 31000,
+          "subtotal": 31000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -3366,7 +3406,10 @@
     "PANT2259": "https://drive.google.com/thumbnail?id=1ZYI1Tk8ROfvi15QAK3hV2Dz-tSOkk5So&sz=s600-rw",
     "PANT5968": "https://drive.google.com/thumbnail?id=1I88U_8Ik7JT8s6-etejBq7wxMwv-BV-t&sz=s600-rw",
     "PANT4545": "https://drive.google.com/thumbnail?id=1NptaqxZpdZrJ4OTbANblQdN1Gko3folv&sz=s600-rw",
-    "PANT7862": "https://drive.google.com/thumbnail?id=1pjyzYz8ZhkrJGHH-lCYHPJ0v3FMzoRFf&sz=s600-rw"
+    "PANT7862": "https://drive.google.com/thumbnail?id=1pjyzYz8ZhkrJGHH-lCYHPJ0v3FMzoRFf&sz=s600-rw",
+    "PANT4723": "https://drive.google.com/thumbnail?id=1E7kojJqPcx3sC2rJfbYPFhbtLf-rd6FX&sz=s600-rw",
+    "PANT8140": "https://drive.google.com/thumbnail?id=1NNEucqkXvAK6p_TQJ3DS1ClAfGoTWW7U&sz=s600-rw",
+    "PANT4575": "https://drive.google.com/thumbnail?id=1IsyA46sVDP046LzJa1AlQuUlmvmQup5q&sz=s600-rw"
   },
-  "timestamp_ms": 1784749028270
+  "timestamp_ms": 1784752638905
 }
