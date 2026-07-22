@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T16:37:52.743Z",
+  "generated_at": "2026-07-22T16:52:51.465Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2640,8 +2640,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": true,
-    "DOLAR_BLUE_VENTA": "1530",
-    "DOLAR_BLUE_COMPRA": "1550",
+    "DOLAR_BLUE_VENTA": "1535",
+    "DOLAR_BLUE_COMPRA": "1555",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
@@ -3944,5 +3944,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784738418541
+  "timestamp_ms": 1784739281175
 }
