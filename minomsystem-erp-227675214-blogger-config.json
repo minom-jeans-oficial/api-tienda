@@ -5894,6 +5894,112 @@
             {
               "codigo": 130,
               "categoria": "Pantalon Wige Leg",
+              "nombre": "PANT4385",
+              "carpeta_id": "1FXK1vE2vW1fublu4nXHaJwJGvv2W0Q6X",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Blanco"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jeans Rigido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "22-07-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4385%0A%F0%9F%94%B9%20Modelo%3A%20Blanco%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 21000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 23000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 28000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-07-22T03:00:00.000Z"
+            },
+            {
+              "codigo": 133,
+              "categoria": "Pantalon Wige Leg",
               "nombre": "PANT4545",
               "carpeta_id": "10RbbMzwW7_1zC7d013MX-xRir0gjtbW4",
               "descripcion": {
@@ -5967,9 +6073,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1NptaqxZpdZrJ4OTbANblQdN1Gko3folv&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1NptaqxZpdZrJ4OTbANblQdN1Gko3folv&sz=s600-rw",
+                  "archivo_id": "1NptaqxZpdZrJ4OTbANblQdN1Gko3folv",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-07-22T19:22:50.851Z"
                 }
               ],
               "variedad": [
@@ -5998,7 +6110,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 133,
+              "codigo": 136,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT4655",
               "carpeta_id": "1YrISWNg_pnysgLSNziTi5jaUndZbVC1s",
@@ -6163,7 +6275,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 136,
+              "codigo": 139,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7432",
               "carpeta_id": "16jLb-v4SFvIZTHYv67EBzoAjf01-R-ws",
@@ -6286,7 +6398,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 139,
+              "codigo": 142,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7692",
               "carpeta_id": "1Yh-VjDudMbQKO-QOkopDtSi9WSS6Satf",
@@ -6408,7 +6520,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 142,
+              "codigo": 145,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7858",
               "carpeta_id": "1Nt_g-g_rqtLwmGcm-hTaDceSC0HIFTHt",
@@ -6530,7 +6642,119 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 145,
+              "codigo": 148,
+              "categoria": "Pantalon Wige Leg",
+              "nombre": "PANT7862",
+              "carpeta_id": "1c1B168PjaSk9Tq3vUe247w16eTtKBiYU",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Negro Bastones"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jeans Rigido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "22-07-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7862%0A%F0%9F%94%B9%20Modelo%3A%20Negro%20Bastones%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1pjyzYz8ZhkrJGHH-lCYHPJ0v3FMzoRFf&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1pjyzYz8ZhkrJGHH-lCYHPJ0v3FMzoRFf&sz=s600-rw",
+                  "archivo_id": "1pjyzYz8ZhkrJGHH-lCYHPJ0v3FMzoRFf",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-07-22T19:27:37.941Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 21000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 23000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 28000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-07-22T03:00:00.000Z"
+            },
+            {
+              "codigo": 151,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8389",
               "carpeta_id": "1kI7x0VKM0RwEOQb4vb7pq-Tu74wBosHf",
@@ -6651,7 +6875,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 148,
+              "codigo": 154,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8811",
               "carpeta_id": "1XAvHKZAKZXRG-IAzirYkwPYAB39gHPgh",
@@ -6772,7 +6996,7 @@
               "upd": "2026-07-16T03:00:00.000Z"
             },
             {
-              "codigo": 151,
+              "codigo": 157,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8904",
               "carpeta_id": "18hp_wYAWzzLzDVHpsbv5CSaSjlPcgmv5",
@@ -6894,7 +7118,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 154,
+              "codigo": 160,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9228",
               "carpeta_id": "1oXI-FqpZm7vGcT9n7YO2vQkPnA18jihY",
@@ -7016,7 +7240,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 157,
+              "codigo": 163,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9681",
               "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
@@ -7171,7 +7395,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/7781e5c6.svg",
           "producto": [
             {
-              "codigo": 160,
+              "codigo": 166,
               "categoria": "Top",
               "nombre": "TOP1511",
               "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
@@ -7271,7 +7495,7 @@
               "upd": "2026-07-20T03:00:00.000Z"
             },
             {
-              "codigo": 163,
+              "codigo": 169,
               "categoria": "Top",
               "nombre": "TOP5771",
               "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
@@ -7394,5 +7618,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1784748281318
+  "timestamp_ms": 1784749207034
 }
