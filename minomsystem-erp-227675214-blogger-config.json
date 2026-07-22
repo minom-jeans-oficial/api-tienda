@@ -3848,8 +3848,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "344",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -3875,7 +3875,17 @@
                   "precio": 27000,
                   "variedad": "Curva",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "344"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
@@ -7333,5 +7343,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1784746500516
+  "timestamp_ms": 1784747388599
 }
