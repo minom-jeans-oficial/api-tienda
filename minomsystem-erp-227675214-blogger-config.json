@@ -3104,7 +3104,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
+                  "valor": "-1",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -8061,5 +8061,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1784802276199
+  "timestamp_ms": 1784813150996
 }
