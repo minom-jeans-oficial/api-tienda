@@ -694,7 +694,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "198",
+                  "valor": "197",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -1395,7 +1395,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "89",
+                  "valor": "88",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -1434,7 +1434,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "89"
+                          "stock": "88"
                         }
                       ]
                     }
@@ -1964,7 +1964,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "135",
+                  "valor": "133",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -2025,7 +2025,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "135"
+                          "stock": "133"
                         }
                       ]
                     }
@@ -2260,7 +2260,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "98",
+                  "valor": "97",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -2299,7 +2299,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "98"
+                          "stock": "97"
                         }
                       ]
                     }
@@ -2864,7 +2864,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "343",
+                  "valor": "341",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -2903,7 +2903,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "343"
+                          "stock": "341"
                         }
                       ]
                     }
@@ -3812,7 +3812,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "140",
+                  "valor": "139",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3862,7 +3862,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "140"
+                          "stock": "139"
                         }
                       ]
                     }
@@ -6282,7 +6282,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
+                  "valor": "-1",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -7498,7 +7498,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "100",
+                  "valor": "99",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -7537,7 +7537,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "100"
+                          "stock": "99"
                         }
                       ]
                     }
@@ -8061,5 +8061,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1784900399795
+  "timestamp_ms": 1784901258577
 }
