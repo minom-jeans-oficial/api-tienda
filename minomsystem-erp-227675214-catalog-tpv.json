@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T15:22:50.490Z",
+  "generated_at": "2026-07-25T15:37:50.127Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3029,6 +3029,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CINT4155",
+      "sku": "Cint002",
+      "model": "Varios 1",
+      "price": 13000,
+      "display_price": 11000,
+      "minor_surcharge": 0,
+      "category_id": "Cinturon",
+      "categoryName": "Cinturon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1Dl00Bd_bAp6H6k6fZStoBo4B0eDE7ocu",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "CINT4155-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "CINT4155-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -4546,6 +4586,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CINT4155": [
+      {
+        "variedad_id": "CINT4155-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 11000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT4155-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 13000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT4155-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 18000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -4637,5 +4700,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1784993096313
+  "timestamp_ms": 1784993980086
 }
