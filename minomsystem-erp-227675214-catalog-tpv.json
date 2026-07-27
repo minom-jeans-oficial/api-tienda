@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T12:37:49.241Z",
+  "generated_at": "2026-07-27T12:52:48.908Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3034,8 +3034,8 @@
       "id": "CINT4155",
       "sku": "Cint002",
       "model": "Varios 1",
-      "price": 13000,
-      "display_price": 11000,
+      "price": 15000,
+      "display_price": 13000,
       "minor_surcharge": 0,
       "category_id": "Cinturon",
       "categoryName": "Cinturon",
@@ -3066,6 +3066,46 @@
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
           "variation_id": "CINT4155-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CINT1686",
+      "sku": "Cint003",
+      "model": "Varios 2",
+      "price": 19000,
+      "display_price": 17000,
+      "minor_surcharge": 0,
+      "category_id": "Cinturon",
+      "categoryName": "Cinturon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1QKDwb6_uOaxyrGNk2q_JuKD2G-728y5m",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "CINT1686-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "CINT1686-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -4591,21 +4631,44 @@
       {
         "variedad_id": "CINT4155-Curva",
         "nombre": "Curva",
-        "precio_unitario": 11000,
+        "precio_unitario": 13000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "CINT4155-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 13000,
+        "precio_unitario": 15000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "CINT4155-Menor",
         "nombre": "Menor",
-        "precio_unitario": 18000,
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "CINT1686": [
+      {
+        "variedad_id": "CINT1686-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT1686-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 19000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT1686-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4700,5 +4763,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785155973579
+  "timestamp_ms": 1785156909418
 }
