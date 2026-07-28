@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T13:52:50.448Z",
+  "generated_at": "2026-07-28T14:07:49.372Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3149,6 +3149,86 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT3290",
+      "sku": "Pant011",
+      "model": "Estampado negro con reguladores",
+      "price": 27000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1QUsWYqVPeRdNvy0TbgvZWzxvZppEe69n",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT3290-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT3290-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT7650",
+      "sku": "Pant006",
+      "model": "Azul elastizado",
+      "price": 26000,
+      "display_price": 24000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Maxi Wige",
+      "categoryName": "Pantalon Maxi Wige",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Alto",
+      "material": "Jeans Elastizado",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1AvKpAvYDnzzAJEy4zhP45m83Idg8N_5Z",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT7650-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT7650-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -4735,6 +4815,52 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT3290": [
+      {
+        "variedad_id": "PANT3290-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3290-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3290-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT7650": [
+      {
+        "variedad_id": "PANT7650-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 24000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7650-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7650-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 31000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -4826,5 +4952,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785246910075
+  "timestamp_ms": 1785247750491
 }
