@@ -4886,6 +4886,46 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1785268585396",
+          "fecha": "2026-07-28 16:56",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 40700,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-f0493594-77aa-4b0e-908e-83de0d70fe5c",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-07-28",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3700,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1785268585396-221",
+              "descripcion": "OFER2503-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 37000,
+              "subtotal": 37000,
+              "tipoPrecio": "Menor",
+              "productoId": "OFER2503",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER2503-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 37000,
+          "subtotal": 37000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -6491,5 +6531,5 @@
     "PANT4575": "https://drive.google.com/thumbnail?id=1IsyA46sVDP046LzJa1AlQuUlmvmQup5q&sz=s600-rw",
     "PANT5578": "https://drive.google.com/thumbnail?id=1VWfP5OIkwmZhiZaV5tBpZoFOEB-VE11v&sz=s600-rw"
   },
-  "timestamp_ms": 1785267443426
+  "timestamp_ms": 1785271035496
 }
