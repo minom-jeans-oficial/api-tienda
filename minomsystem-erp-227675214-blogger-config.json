@@ -5165,8 +5165,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "300",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -5198,7 +5198,17 @@
                   "precio": 21000,
                   "variedad": "Curva",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
@@ -6908,8 +6918,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-2",
-                  "estado": "Baja"
+                  "valor": "298",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -6935,7 +6945,17 @@
                   "precio": 21000,
                   "variedad": "Curva",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "298"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
@@ -7014,8 +7034,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-1",
-                  "estado": "Baja"
+                  "valor": "299",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -7047,7 +7067,17 @@
                   "precio": 22000,
                   "variedad": "Curva",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "299"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
@@ -7291,8 +7321,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "300",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -7324,7 +7354,17 @@
                   "precio": 22000,
                   "variedad": "Curva",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
@@ -7403,8 +7443,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "300",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -7436,7 +7476,17 @@
                   "precio": 23000,
                   "variedad": "Curva",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
@@ -7882,8 +7932,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-2",
-                  "estado": "Baja"
+                  "valor": "298",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -7915,7 +7965,17 @@
                   "precio": 21000,
                   "variedad": "Curva",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "298"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
@@ -8916,5 +8976,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1785264024600
+  "timestamp_ms": 1785268491426
 }
