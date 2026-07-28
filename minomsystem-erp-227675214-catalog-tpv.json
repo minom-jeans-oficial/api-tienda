@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T18:22:49.731Z",
+  "generated_at": "2026-07-28T18:38:13.367Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3269,46 +3269,6 @@
         }
       ],
       "fecha_creacion": ""
-    },
-    {
-      "id": "OFER4374",
-      "sku": "Ofer007",
-      "model": "prueba",
-      "price": 100,
-      "display_price": 100,
-      "minor_surcharge": 0,
-      "category_id": "Oferta",
-      "categoryName": "Oferta",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "OFER4374-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "OFER4374-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -4964,15 +4924,6 @@
         "cantidad_minima": 1,
         "visible": true
       }
-    ],
-    "OFER4374": [
-      {
-        "variedad_id": "OFER4374-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 100,
-        "cantidad_minima": 1,
-        "visible": true
-      }
     ]
   },
   "clients": [
@@ -5064,5 +5015,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785263074274
+  "timestamp_ms": 1785263981687
 }
