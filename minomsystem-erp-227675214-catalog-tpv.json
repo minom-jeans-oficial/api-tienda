@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T14:07:49.372Z",
+  "generated_at": "2026-07-28T14:22:57.803Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -474,8 +474,8 @@
       "id": "OFER6855",
       "sku": "Ofer004",
       "model": "Variado",
-      "price": 19000,
-      "display_price": 19000,
+      "price": 20000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Oferta",
       "categoryName": "Oferta",
@@ -754,8 +754,8 @@
       "id": "PANT2578",
       "sku": "26511104985193000.00",
       "model": "Wide leg Emilia",
-      "price": 24000,
-      "display_price": 21000,
+      "price": 25000,
+      "display_price": 23000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -765,9 +765,9 @@
       "brand": "MINOM OFICIAL",
       "style": "Wide Leg",
       "material": "Surtido",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
       "ageGroup": "",
       "grupo_edad": "",
       "GRUPO_EDAD": "",
@@ -2794,8 +2794,8 @@
       "id": "PANT4723",
       "sku": "Pant017",
       "model": "Celeste con Rotura",
-      "price": 23000,
-      "display_price": 21000,
+      "price": 24000,
+      "display_price": 22000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Wige Leg",
       "categoryName": "Pantalon Wige Leg",
@@ -3229,6 +3229,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT5578",
+      "sku": "Pant018",
+      "model": "Negro estampado",
+      "price": 25000,
+      "display_price": 23000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1VWfP5OIkwmZhiZaV5tBpZoFOEB-VE11v&sz=s600-rw",
+      "carpeta_id": "1rHfN8mPJrdsSJDfciW05zACodBuQSOmU",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT5578-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT5578-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -3340,21 +3380,21 @@
       {
         "variedad_id": "PANT2578-Curva",
         "nombre": "Curva",
-        "precio_unitario": 21000,
-        "cantidad_minima": 1,
+        "precio_unitario": 23000,
+        "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT2578-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 24000,
+        "precio_unitario": 25000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT2578-Menor",
         "nombre": "Menor",
-        "precio_unitario": 29000,
+        "precio_unitario": 30000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4333,7 +4373,7 @@
       {
         "variedad_id": "OFER6855-Menor",
         "nombre": "Menor",
-        "precio_unitario": 19000,
+        "precio_unitario": 20000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4613,21 +4653,21 @@
       {
         "variedad_id": "PANT4723-Curva",
         "nombre": "Curva",
-        "precio_unitario": 21000,
+        "precio_unitario": 22000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT4723-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 23000,
+        "precio_unitario": 24000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT4723-Menor",
         "nombre": "Menor",
-        "precio_unitario": 28000,
+        "precio_unitario": 29000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4861,6 +4901,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT5578": [
+      {
+        "variedad_id": "PANT5578-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 23000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5578-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5578-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -4952,5 +5015,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785247750491
+  "timestamp_ms": 1785248707453
 }
