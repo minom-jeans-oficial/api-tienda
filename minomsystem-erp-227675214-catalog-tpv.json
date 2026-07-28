@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T14:22:57.803Z",
+  "generated_at": "2026-07-28T14:37:50.222Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3269,6 +3269,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "REME2429",
+      "sku": "Reme001",
+      "model": "Basicos",
+      "price": 10000,
+      "display_price": 8000,
+      "minor_surcharge": 0,
+      "category_id": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Gabardina Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1meIOA5eORilWAqIYGXSRyOhrp0Hx9lRF",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "REME2429-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "REME2429-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -3320,8 +3360,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": true,
-    "DOLAR_BLUE_VENTA": "1540",
-    "DOLAR_BLUE_COMPRA": "1560",
+    "DOLAR_BLUE_VENTA": "1550",
+    "DOLAR_BLUE_COMPRA": "1570",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
@@ -4924,6 +4964,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "REME2429": [
+      {
+        "variedad_id": "REME2429-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 8000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME2429-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 10000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME2429-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -5015,5 +5078,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785248707453
+  "timestamp_ms": 1785249586568
 }
