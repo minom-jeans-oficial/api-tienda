@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T13:07:53.031Z",
+  "generated_at": "2026-07-28T13:22:56.134Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3109,6 +3109,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "CINT6072",
+      "sku": "Cint004",
+      "model": "Varios 3",
+      "price": 21000,
+      "display_price": 19000,
+      "minor_surcharge": 0,
+      "category_id": "Cinturon",
+      "categoryName": "Cinturon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1jXBA6cJ6YwoZufVGLJca82uC2owTDmqe",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "CINT6072-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "CINT6072-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -4672,6 +4712,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "CINT6072": [
+      {
+        "variedad_id": "CINT6072-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 19000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT6072-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 21000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT6072-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -4763,5 +4826,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1785244229754
+  "timestamp_ms": 1785245152337
 }
