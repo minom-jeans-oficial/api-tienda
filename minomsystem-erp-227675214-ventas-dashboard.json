@@ -6780,6 +6780,70 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1785864661716",
+          "fecha": "2026-08-04 14:31",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 279000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-bea1de38-8147-4d9c-8fc6-c65254c78906",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-04",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1785864661716-280",
+              "descripcion": "PANT2969-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 4,
+              "precioUnitario": 26000,
+              "subtotal": 104000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT2969",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2969-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1785864661716-281",
+              "descripcion": "PANT4657-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 3,
+              "precioUnitario": 25000,
+              "subtotal": 75000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT4657",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4657-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1785864661716-282",
+              "descripcion": "PANT2578-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 4,
+              "precioUnitario": 25000,
+              "subtotal": 100000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT2578",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2578-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 279000,
+          "subtotal": 279000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -8413,5 +8477,5 @@
     "PANT8348": "https://drive.google.com/thumbnail?id=1ELNlFN9mSchWoOUiwjpa1INvGabFIHiM&sz=s600-rw",
     "CAMP1837": "https://drive.google.com/thumbnail?id=1xMLwKsKeY3MulZzqtUxmF0tm3tERkebx&sz=s600-rw"
   },
-  "timestamp_ms": 1785861423418
+  "timestamp_ms": 1785865098724
 }
