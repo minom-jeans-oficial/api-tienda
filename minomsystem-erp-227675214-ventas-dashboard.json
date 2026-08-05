@@ -7277,6 +7277,48 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-9dacbb0c-53b7-4496-97f0-a2edd7836037": [
+        {
+          "id": "TPV-1785931981533",
+          "fecha": "2026-08-05 09:13",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 33000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-9dacbb0c-53b7-4496-97f0-a2edd7836037",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-05",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3000,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1785931981533-298",
+              "descripcion": "PANT5578-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT5578",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT5578-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "MINOM ARGERICH": {
@@ -8804,6 +8846,11 @@
       "fecha": "2026-08-04",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON"
+    },
+    "CR-9dacbb0c-53b7-4496-97f0-a2edd7836037": {
+      "fecha": "2026-08-05",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON"
     }
   },
   "filterOptions": {
@@ -8909,5 +8956,5 @@
     "PANT8348": "https://drive.google.com/thumbnail?id=1ELNlFN9mSchWoOUiwjpa1INvGabFIHiM&sz=s600-rw",
     "CAMP1837": "https://drive.google.com/thumbnail?id=1xMLwKsKeY3MulZzqtUxmF0tm3tERkebx&sz=s600-rw"
   },
-  "timestamp_ms": 1785872236240
+  "timestamp_ms": 1785933425245
 }
