@@ -2487,9 +2487,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1YSsMsVyFtMlfE3V3S2IcO4_miiJKMJ6y&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1YSsMsVyFtMlfE3V3S2IcO4_miiJKMJ6y&sz=s600-rw",
+                  "archivo_id": "1YSsMsVyFtMlfE3V3S2IcO4_miiJKMJ6y",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-08-07T20:08:14.351Z"
                 }
               ],
               "variedad": [
@@ -9890,5 +9896,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1786133393783
+  "timestamp_ms": 1786134285703
 }
