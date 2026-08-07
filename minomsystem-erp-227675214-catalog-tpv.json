@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:07:49.100Z",
+  "generated_at": "2026-08-07T21:22:49.983Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3549,6 +3549,126 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT5614",
+      "sku": "Pant021",
+      "model": "Animal print",
+      "price": 25000,
+      "display_price": 23000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1jWuVI9kABn1rmBF3gIsHYM0g1UPsD87G&sz=s600-rw",
+      "carpeta_id": "1Z-s3D4KRHzialtuNWORVAkC7lbw3Op3I",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT5614-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT5614-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8838",
+      "sku": "Pant008",
+      "model": "Print gris",
+      "price": 26000,
+      "display_price": 24000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Maxi Wige",
+      "categoryName": "Pantalon Maxi Wige",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1ovkunxKoWu2B_oBmEMXV0iOJm4-eMBV2&sz=s600-rw",
+      "carpeta_id": "1l-X9Xct8BWhqB2niDRfmF5hfbHiIyEgq",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8838-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8838-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2110",
+      "sku": "Pant022",
+      "model": "Primt claro",
+      "price": 27000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT2110-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT2110-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -5365,6 +5485,75 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT5614": [
+      {
+        "variedad_id": "PANT5614-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 23000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5614-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5614-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT8838": [
+      {
+        "variedad_id": "PANT8838-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 24000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8838-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8838-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 31000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT2110": [
+      {
+        "variedad_id": "PANT2110-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2110-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2110-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -5456,5 +5645,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786136984032
+  "timestamp_ms": 1786137887253
 }
