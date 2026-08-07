@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T19:52:52.365Z",
+  "generated_at": "2026-08-07T20:07:49.692Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3509,6 +3509,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "PANT7325",
+      "sku": "Pant013",
+      "model": "Grisss",
+      "price": 25000,
+      "display_price": 23000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1CsKg9K5H5YxktNGJa6G9Y3dBtQqmMt8W",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT7325-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT7325-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -5302,6 +5342,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT7325": [
+      {
+        "variedad_id": "PANT7325-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7325-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7325-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -5393,5 +5456,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786132478544
+  "timestamp_ms": 1786133356696
 }
