@@ -12080,6 +12080,110 @@
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
         }
+      ],
+      "CR-3d8e0c18-8066-46c7-8e19-85b49e07294d": [
+        {
+          "id": "TPV-1786192366263",
+          "fecha": "2026-08-08 09:32",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 28000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-3d8e0c18-8066-46c7-8e19-85b49e07294d",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-08",
+          "datosTransferenciaId": "Mercado Pago-001 , Mercado Pago-002",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "nombreCuentaTransferencia": "N/A",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1786192366263-368",
+              "descripcion": "PANT8389-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 28000,
+              "subtotal": 28000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT8389",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT8389-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Wige Leg",
+              "inversion": 0,
+              "ganancia": 28000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 28000,
+          "subtotal": 28000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "TPV-1786192609457",
+          "fecha": "2026-08-08 09:36",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 25000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-3d8e0c18-8066-46c7-8e19-85b49e07294d",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-08",
+          "datosTransferenciaId": "Mercado Pago-001 , Mercado Pago-002",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "nombreCuentaTransferencia": "N/A",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1786192609457-369",
+              "descripcion": "PANT3194-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT3194",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3194-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Slouchy",
+              "inversion": 0,
+              "ganancia": 25000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 25000,
+          "subtotal": 25000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        }
       ]
     },
     "MINOM ARGERICH": {
@@ -14014,6 +14118,11 @@
       "fecha": "2026-08-07",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON"
+    },
+    "CR-3d8e0c18-8066-46c7-8e19-85b49e07294d": {
+      "fecha": "2026-08-08",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON"
     }
   },
   "filterOptions": {
@@ -14150,5 +14259,5 @@
     "PANT5614": "https://drive.google.com/thumbnail?id=1jWuVI9kABn1rmBF3gIsHYM0g1UPsD87G&sz=s600-rw",
     "PANT8838": "https://drive.google.com/thumbnail?id=1ovkunxKoWu2B_oBmEMXV0iOJm4-eMBV2&sz=s600-rw"
   },
-  "timestamp_ms": 1786189019359
+  "timestamp_ms": 1786192634534
 }
