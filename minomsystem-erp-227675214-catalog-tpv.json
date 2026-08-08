@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T11:07:50.712Z",
+  "generated_at": "2026-08-08T11:22:50.867Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -1114,8 +1114,8 @@
       "id": "PANT3934",
       "sku": "10032434470189100.00",
       "model": "Ana celeste",
-      "price": 17000,
-      "display_price": 14000,
+      "price": 18000,
+      "display_price": 16000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Chupin",
       "categoryName": "Pantalon Chupin",
@@ -1386,46 +1386,6 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT4779-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT4838",
-      "sku": "Pant011",
-      "model": "Cintura Ajustable",
-      "price": 27000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "",
-      "material": "",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "",
-      "grupo_edad": "",
-      "GRUPO_EDAD": "",
-      "image": "https://drive.google.com/thumbnail?id=1MrAL3jSyTwhcFpEnlxXBIEJqCKyUmgZC&sz=s600-rw",
-      "carpeta_id": "1CEZVCxwG2S9gfl_MAh90znMrQCom-KYj",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4838-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4838-Surtido-Surtido-MINOM OFICIAL"
         }
       ],
       "fecha_creacion": ""
@@ -1706,46 +1666,6 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT7616-Surtido-Surtido-MINOM OFICIAL"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT7692",
-      "sku": "26545887375068700.00",
-      "model": "Wide gris estampado",
-      "price": 23000,
-      "display_price": 21000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Wide Leg",
-      "material": "Rígid",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "",
-      "grupo_edad": "",
-      "GRUPO_EDAD": "",
-      "image": "https://drive.google.com/thumbnail?id=1G1QV-lTljF5ugsyES5_aH4kdjNzp0_Le&sz=s600-rw",
-      "carpeta_id": "1Yh-VjDudMbQKO-QOkopDtSi9WSS6Satf",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT7692-Surtido-Surtido-MINOM ARGERICH"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT7692-Surtido-Surtido-MINOM OFICIAL"
         }
       ],
       "fecha_creacion": ""
@@ -2194,8 +2114,8 @@
       "id": "PANT9288",
       "sku": "26790268437279000.00",
       "model": "Azul",
-      "price": 17000,
-      "display_price": 14000,
+      "price": 18000,
+      "display_price": 16000,
       "minor_surcharge": 0,
       "category_id": "Pantalon Chupin",
       "categoryName": "Pantalon Chupin",
@@ -2426,86 +2346,6 @@
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
           "variation_id": "TOP5771-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "CAMP2235",
-      "sku": "Camp001",
-      "model": "Jeans con peluche",
-      "price": 55000,
-      "display_price": 53000,
-      "minor_surcharge": 0,
-      "category_id": "Campera",
-      "categoryName": "Campera",
-      "parentCategory": "INDUMENTARIA",
-      "season": "INVIERNO",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "11kfQvO-c3iTgYjiepDmAZZtSnyjgE6Lh",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "CAMP2235-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "CAMP2235-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "CAMP8313",
-      "sku": "Camp002",
-      "model": "Con peluche cuero",
-      "price": 65000,
-      "display_price": 63000,
-      "minor_surcharge": 0,
-      "category_id": "Campera",
-      "categoryName": "Campera",
-      "parentCategory": "INDUMENTARIA",
-      "season": "INVIERNO",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Gabardina Rigido",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "1DEKlNlanS-vh4md7xkPslSUcaJeHzbiR",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "CAMP8313-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "CAMP8313-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -3918,21 +3758,21 @@
       {
         "variedad_id": "PANT3934-Curva",
         "nombre": "Curva",
-        "precio_unitario": 14000,
+        "precio_unitario": 16000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT3934-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 17000,
+        "precio_unitario": 18000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT3934-Menor",
         "nombre": "Menor",
-        "precio_unitario": 22000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4048,29 +3888,6 @@
         "variedad_id": "PANT4779-Menor",
         "nombre": "Menor",
         "precio_unitario": 28000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT4838": [
-      {
-        "variedad_id": "PANT4838-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 24000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4838-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4838-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 32000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4209,29 +4026,6 @@
         "variedad_id": "PANT7616-Menor",
         "nombre": "Menor",
         "precio_unitario": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT7692": [
-      {
-        "variedad_id": "PANT7692-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 21000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT7692-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT7692-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4424,21 +4218,21 @@
       {
         "variedad_id": "PANT9288-Curva",
         "nombre": "Curva",
-        "precio_unitario": 14000,
+        "precio_unitario": 16000,
         "cantidad_minima": 6,
         "visible": true
       },
       {
         "variedad_id": "PANT9288-Mayor",
         "nombre": "Mayor",
-        "precio_unitario": 17000,
+        "precio_unitario": 18000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
         "variedad_id": "PANT9288-Menor",
         "nombre": "Menor",
-        "precio_unitario": 22000,
+        "precio_unitario": 23000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4838,52 +4632,6 @@
         "variedad_id": "TOP5771-Menor",
         "nombre": "Menor",
         "precio_unitario": 16000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "CAMP2235": [
-      {
-        "variedad_id": "CAMP2235-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 53000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP2235-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 55000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP2235-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 60000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "CAMP8313": [
-      {
-        "variedad_id": "CAMP8313-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 63000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP8313-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 65000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP8313-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 70000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -5645,5 +5393,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1786187396185
+  "timestamp_ms": 1786188267270
 }
