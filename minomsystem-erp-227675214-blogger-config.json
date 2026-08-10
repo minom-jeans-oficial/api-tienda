@@ -1953,7 +1953,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "47",
+                  "valor": "46",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -1986,7 +1986,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "47"
+                          "stock": "46"
                         }
                       ]
                     }
@@ -7195,7 +7195,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "08-08-2026"
+                  "valor": "10-08-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -7214,7 +7214,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 25000,
+                  "precio": 23000,
                   "variedad": "Curva",
                   "minima": 6,
                   "sub_variedad": {
@@ -7231,20 +7231,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 27000,
+                  "precio": 25000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 32000,
+                  "precio": 30000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-08-07T03:00:00.000Z"
+              "upd": "2026-08-10T03:00:00.000Z"
             },
             {
               "codigo": 166,
@@ -9605,5 +9605,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1786373671697
+  "timestamp_ms": 1786374604220
 }
