@@ -19030,6 +19030,110 @@
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "TPV-1786478502510",
+          "fecha": "2026-08-12 09:35",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 29000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-fa20e8b5-22bb-4e4e-ae4b-cd404de93420",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-11",
+          "datosTransferenciaId": "Mercado Pago-001 , Mercado Pago-002",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "nombreCuentaTransferencia": "N/A",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1786478502510-566",
+              "descripcion": "PANT4545-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 29000,
+              "subtotal": 29000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT4545",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4545-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Wige Leg",
+              "inversion": 0,
+              "ganancia": 29000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 29000,
+          "subtotal": 29000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        }
+      ],
+      "CR-b722d700-aa6d-4caf-a2d4-fbc7ca12ec22": [
+        {
+          "id": "TPV-1786538157008",
+          "fecha": "2026-08-12 09:36",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 30000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-b722d700-aa6d-4caf-a2d4-fbc7ca12ec22",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-12",
+          "datosTransferenciaId": "Mercado Pago-001 , Mercado Pago-002",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "nombreCuentaTransferencia": "N/A",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1786538157008-567",
+              "descripcion": "PANT7325-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT7325",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT7325-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Bagy",
+              "inversion": 0,
+              "ganancia": 30000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ]
     },
@@ -20980,6 +21084,11 @@
       "fecha": "2026-08-11",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON"
+    },
+    "CR-b722d700-aa6d-4caf-a2d4-fbc7ca12ec22": {
+      "fecha": "2026-08-12",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON"
     }
   },
   "filterOptions": {
@@ -21116,5 +21225,5 @@
     "PANT5614": "https://drive.google.com/thumbnail?id=1jWuVI9kABn1rmBF3gIsHYM0g1UPsD87G&sz=s600-rw",
     "PANT8838": "https://drive.google.com/thumbnail?id=1ovkunxKoWu2B_oBmEMXV0iOJm4-eMBV2&sz=s600-rw"
   },
-  "timestamp_ms": 1786480638377
+  "timestamp_ms": 1786538242090
 }
