@@ -21734,6 +21734,59 @@
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
         }
+      ],
+      "CR-4b286f15-270b-4074-a071-90c6c5532781": [
+        {
+          "id": "TPV-1786622896933",
+          "fecha": "2026-08-13 09:08",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 31000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-4b286f15-270b-4074-a071-90c6c5532781",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-13",
+          "datosTransferenciaId": "Mercado Pago-001 , Mercado Pago-002",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "nombreCuentaTransferencia": "N/A",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1786622896933-632",
+              "descripcion": "PANT8140-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 31000,
+              "subtotal": 31000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT8140",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT8140-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Maxi Wige",
+              "inversion": 0,
+              "ganancia": 31000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 31000,
+          "subtotal": 31000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        }
       ]
     },
     "MINOM ARGERICH": {
@@ -23688,6 +23741,11 @@
       "fecha": "2026-08-12",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON"
+    },
+    "CR-4b286f15-270b-4074-a071-90c6c5532781": {
+      "fecha": "2026-08-13",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON"
     }
   },
   "filterOptions": {
@@ -23824,5 +23882,5 @@
     "PANT5614": "https://drive.google.com/thumbnail?id=1jWuVI9kABn1rmBF3gIsHYM0g1UPsD87G&sz=s600-rw",
     "PANT8838": "https://drive.google.com/thumbnail?id=1ovkunxKoWu2B_oBmEMXV0iOJm4-eMBV2&sz=s600-rw"
   },
-  "timestamp_ms": 1786567024163
+  "timestamp_ms": 1786624628099
 }
