@@ -33875,6 +33875,57 @@
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "TPV-1787064994777",
+          "fecha": "2026-08-18 11:56",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 34000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-76822579-1e58-4d85-af5b-94ef3bd33638",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-18",
+          "datosTransferenciaId": "Mercado Pago-001 , Mercado Pago-002",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "nombreCuentaTransferencia": "N/A",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1787064994777-979",
+              "descripcion": "PANT1883-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 34000,
+              "subtotal": 34000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT1883",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT1883-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Oxfort",
+              "inversion": 0,
+              "ganancia": 34000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 34000,
+          "subtotal": 34000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ]
     },
@@ -35991,5 +36042,5 @@
     "PANT5614": "https://drive.google.com/thumbnail?id=1jWuVI9kABn1rmBF3gIsHYM0g1UPsD87G&sz=s600-rw",
     "PANT8838": "https://drive.google.com/thumbnail?id=1ovkunxKoWu2B_oBmEMXV0iOJm4-eMBV2&sz=s600-rw"
   },
-  "timestamp_ms": 1787063835737
+  "timestamp_ms": 1787067472717
 }
