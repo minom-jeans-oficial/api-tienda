@@ -34415,6 +34415,142 @@
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
         }
+      ],
+      "CR-1c6c74af-d69a-4c5f-bea9-519660c194b5": [
+        {
+          "id": "TPV-1787147778735",
+          "fecha": "2026-08-19 10:56",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 33000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-1c6c74af-d69a-4c5f-bea9-519660c194b5",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-19",
+          "datosTransferenciaId": "Mercado Pago-001",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "nombreCuentaTransferencia": "Daniela Santos Ortega",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Rojo",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3000,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1787147778735-993",
+              "descripcion": "PANT5258-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT5258",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT5258-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Wige Leg",
+              "inversion": 0,
+              "ganancia": 30000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "TPV-1787150150945",
+          "fecha": "2026-08-19 11:35",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 79000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-1c6c74af-d69a-4c5f-bea9-519660c194b5",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-19",
+          "datosTransferenciaId": "Mercado Pago-001",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "nombreCuentaTransferencia": "Daniela Santos Ortega",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Rojo",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1787150150945-994",
+              "descripcion": "PANT7332-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 2,
+              "precioUnitario": 23000,
+              "subtotal": 46000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT7332",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT7332-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Oxfort",
+              "inversion": 0,
+              "ganancia": 46000
+            },
+            {
+              "id": "TPV-1787150150945-995",
+              "descripcion": "PANT3934-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 18000,
+              "subtotal": 18000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT3934",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3934-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Chupin",
+              "inversion": 0,
+              "ganancia": 18000
+            },
+            {
+              "id": "TPV-1787150150945-996",
+              "descripcion": "CINT4155-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 15000,
+              "subtotal": 15000,
+              "tipoPrecio": "Mayor",
+              "productoId": "CINT4155",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CINT4155-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Cinturon",
+              "inversion": 0,
+              "ganancia": 15000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 79000,
+          "subtotal": 79000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        }
       ]
     },
     "MINOM ARGERICH": {
@@ -36394,6 +36530,11 @@
       "fecha": "2026-08-18",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON"
+    },
+    "CR-1c6c74af-d69a-4c5f-bea9-519660c194b5": {
+      "fecha": "2026-08-19",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON"
     }
   },
   "filterOptions": {
@@ -36530,5 +36671,5 @@
     "PANT5614": "https://drive.google.com/thumbnail?id=1jWuVI9kABn1rmBF3gIsHYM0g1UPsD87G&sz=s600-rw",
     "PANT8838": "https://drive.google.com/thumbnail?id=1ovkunxKoWu2B_oBmEMXV0iOJm4-eMBV2&sz=s600-rw"
   },
-  "timestamp_ms": 1787085433396
+  "timestamp_ms": 1787150253350
 }
