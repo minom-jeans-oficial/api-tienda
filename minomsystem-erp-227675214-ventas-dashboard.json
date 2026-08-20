@@ -35723,6 +35723,57 @@
           "desactivarRecargoTransferencia": false,
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
+        },
+        {
+          "id": "TPV-1787232167900",
+          "fecha": "2026-08-20 10:22",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 33000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-c3c08f40-fa21-4bd0-8851-010280c19641",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-20",
+          "datosTransferenciaId": "Mercado Pago-001",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "nombreCuentaTransferencia": "Daniela Santos Ortega",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Rojo",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3000,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1787232167900-1033",
+              "descripcion": "PANT3144-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT3144",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3144-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Bagy",
+              "inversion": 0,
+              "ganancia": 30000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
         }
       ]
     },
@@ -37849,5 +37900,5 @@
     "PANT5614": "https://drive.google.com/thumbnail?id=1jWuVI9kABn1rmBF3gIsHYM0g1UPsD87G&sz=s600-rw",
     "PANT8838": "https://drive.google.com/thumbnail?id=1ovkunxKoWu2B_oBmEMXV0iOJm4-eMBV2&sz=s600-rw"
   },
-  "timestamp_ms": 1787229444345
+  "timestamp_ms": 1787233070057
 }
