@@ -35639,6 +35639,91 @@
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
         }
+      ],
+      "CR-c3c08f40-fa21-4bd0-8851-010280c19641": [
+        {
+          "id": "TPV-1787227146355",
+          "fecha": "2026-08-20 08:59",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 88000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-c3c08f40-fa21-4bd0-8851-010280c19641",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-20",
+          "datosTransferenciaId": "Mercado Pago-001 , Mercado Pago-002",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "nombreCuentaTransferencia": "N/A",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1787227146355-1030",
+              "descripcion": "TOP5771-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 16000,
+              "subtotal": 16000,
+              "tipoPrecio": "Mayor",
+              "productoId": "TOP5771",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "TOP5771-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Top",
+              "inversion": 0,
+              "ganancia": 16000
+            },
+            {
+              "id": "TPV-1787227146355-1031",
+              "descripcion": "PANT4545-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 2,
+              "precioUnitario": 24000,
+              "subtotal": 48000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT4545",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4545-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Wige Leg",
+              "inversion": 0,
+              "ganancia": 48000
+            },
+            {
+              "id": "TPV-1787227146355-1032",
+              "descripcion": "PANT7432-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 24000,
+              "subtotal": 24000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT7432",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT7432-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Wige Leg",
+              "inversion": 0,
+              "ganancia": 24000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 88000,
+          "subtotal": 88000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        }
       ]
     },
     "MINOM ARGERICH": {
@@ -37623,6 +37708,11 @@
       "fecha": "2026-08-19",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON"
+    },
+    "CR-c3c08f40-fa21-4bd0-8851-010280c19641": {
+      "fecha": "2026-08-20",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON"
     }
   },
   "filterOptions": {
@@ -37759,5 +37849,5 @@
     "PANT5614": "https://drive.google.com/thumbnail?id=1jWuVI9kABn1rmBF3gIsHYM0g1UPsD87G&sz=s600-rw",
     "PANT8838": "https://drive.google.com/thumbnail?id=1ovkunxKoWu2B_oBmEMXV0iOJm4-eMBV2&sz=s600-rw"
   },
-  "timestamp_ms": 1787171822755
+  "timestamp_ms": 1787229444345
 }
