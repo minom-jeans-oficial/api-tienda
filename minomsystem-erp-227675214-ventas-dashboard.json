@@ -44304,6 +44304,75 @@
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
         }
+      ],
+      "CR-72e75755-4720-4a8c-93de-6dfc3d084bac": [
+        {
+          "id": "TPV-1787662472706",
+          "fecha": "2026-08-25 09:54",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 92000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-72e75755-4720-4a8c-93de-6dfc3d084bac",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-25",
+          "datosTransferenciaId": "Mercado Pago-001 , Mercado Pago-002",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "nombreCuentaTransferencia": "N/A",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1787662472706-1284",
+              "descripcion": "PANT9862-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 3,
+              "precioUnitario": 23000,
+              "subtotal": 69000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT9862",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT9862-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Recto",
+              "inversion": 0,
+              "ganancia": 69000
+            },
+            {
+              "id": "TPV-1787662472706-1285",
+              "descripcion": "PANT8212-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 23000,
+              "subtotal": 23000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT8212",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT8212-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Recto",
+              "inversion": 0,
+              "ganancia": 23000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 92000,
+          "subtotal": 92000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        }
       ]
     },
     "MINOM ARGERICH": {
@@ -46769,6 +46838,11 @@
       "fecha": "2026-08-24",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON"
+    },
+    "CR-72e75755-4720-4a8c-93de-6dfc3d084bac": {
+      "fecha": "2026-08-25",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON"
     }
   },
   "filterOptions": {
@@ -46905,5 +46979,5 @@
     "PANT5614": "https://drive.google.com/thumbnail?id=1jWuVI9kABn1rmBF3gIsHYM0g1UPsD87G&sz=s600-rw",
     "PANT8838": "https://drive.google.com/thumbnail?id=1ovkunxKoWu2B_oBmEMXV0iOJm4-eMBV2&sz=s600-rw"
   },
-  "timestamp_ms": 1787600226709
+  "timestamp_ms": 1787665024921
 }
