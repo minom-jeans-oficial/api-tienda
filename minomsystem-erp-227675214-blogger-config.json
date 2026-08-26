@@ -9374,6 +9374,117 @@
             {
               "codigo": 217,
               "categoria": "Short",
+              "nombre": "SHOR4839",
+              "carpeta_id": "1mh8w_rHDfcZ7j7C_jrB59fFbVMpN2o2v",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Print claro"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jeans Rigido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "26-08-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SHOR4839%0A%F0%9F%94%B9%20Modelo%3A%20Print%20claro%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1MalM6TDrBSZR_qDHWtDOf39Yn5y7BlC3&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1MalM6TDrBSZR_qDHWtDOf39Yn5y7BlC3&sz=s600-rw",
+                  "archivo_id": "1MalM6TDrBSZR_qDHWtDOf39Yn5y7BlC3",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-08-26T16:36:03.119Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 13000,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 15000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-08-26T03:00:00.000Z"
+            },
+            {
+              "codigo": 220,
+              "categoria": "Short",
               "nombre": "SHOR5537",
               "carpeta_id": "1Ij9Kgs34qSs9Olo1El4CW-0J-U4XDaox",
               "descripcion": {
@@ -9504,7 +9615,7 @@
               "upd": "2026-08-22T03:00:00.000Z"
             },
             {
-              "codigo": 220,
+              "codigo": 223,
               "categoria": "Short",
               "nombre": "SHOR6699",
               "carpeta_id": "11evsSZLQ_m4JChG-5xbemXiMH8uI2khV",
@@ -9626,7 +9737,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/7781e5c6.svg",
           "producto": [
             {
-              "codigo": 223,
+              "codigo": 226,
               "categoria": "Top",
               "nombre": "TOP1511",
               "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
@@ -9695,32 +9806,10 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://drive.google.com/thumbnail?id=1RbO5dKRHL7awWLJg-sj0P7YN1cnzweIX&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1RbO5dKRHL7awWLJg-sj0P7YN1cnzweIX&sz=s600-rw",
-                  "archivo_id": "1RbO5dKRHL7awWLJg-sj0P7YN1cnzweIX",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "PORTADA",
-                  "orden": 1,
-                  "fecha_carga": "2026-08-26T16:05:10.726Z"
-                },
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1XXpDbkoN5J5FHhq9H-G04B5S-FK4_f_r&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1XXpDbkoN5J5FHhq9H-G04B5S-FK4_f_r&sz=s600-rw",
-                  "archivo_id": "1XXpDbkoN5J5FHhq9H-G04B5S-FK4_f_r",
-                  "portada": false,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "GALERIA",
-                  "orden": 2,
-                  "fecha_carga": "2026-08-26T16:05:10.726Z"
-                },
-                {
                   "url": "https://drive.google.com/thumbnail?id=16Z7CkC5v1B12q1g_b6sHrP1g4Rc-hwOe&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=16Z7CkC5v1B12q1g_b6sHrP1g4Rc-hwOe&sz=s600-rw",
                   "archivo_id": "16Z7CkC5v1B12q1g_b6sHrP1g4Rc-hwOe",
-                  "portada": false,
+                  "portada": true,
                   "tipo": "image",
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
@@ -9764,7 +9853,7 @@
               "upd": "2026-07-20T03:00:00.000Z"
             },
             {
-              "codigo": 226,
+              "codigo": 229,
               "categoria": "Top",
               "nombre": "TOP5771",
               "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
@@ -9887,5 +9976,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1787761484265
+  "timestamp_ms": 1787762431973
 }
