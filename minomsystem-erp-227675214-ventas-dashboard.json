@@ -45872,6 +45872,59 @@
           "comprobanteFile": "",
           "detalleAuditoriaIA": ""
         }
+      ],
+      "CR-a3189888-4449-4270-9ba9-f2ab72d2463a": [
+        {
+          "id": "TPV-1787750522422",
+          "fecha": "2026-08-26 10:22",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 30000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "telefonoCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-a3189888-4449-4270-9ba9-f2ab72d2463a",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-26",
+          "datosTransferenciaId": "Mercado Pago-001 , Mercado Pago-002",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "nombreCuentaTransferencia": "N/A",
+          "cbuTransferencia": "N/A",
+          "colorTransferencia": "Azul",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1787750522422-1325",
+              "descripcion": "PANT3144-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT3144",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3144-Surtido-Surtido-MINOM OFICIAL",
+              "categoriaPadre": "INDUMENTARIA",
+              "categoria": "Pantalon Bagy",
+              "inversion": 0,
+              "ganancia": 30000
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "comprobanteFile": "",
+          "detalleAuditoriaIA": ""
+        }
       ]
     },
     "MINOM ARGERICH": {
@@ -48342,6 +48395,11 @@
       "fecha": "2026-08-25",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON"
+    },
+    "CR-a3189888-4449-4270-9ba9-f2ab72d2463a": {
+      "fecha": "2026-08-26",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON"
     }
   },
   "filterOptions": {
@@ -48478,5 +48536,5 @@
     "PANT5614": "https://drive.google.com/thumbnail?id=1jWuVI9kABn1rmBF3gIsHYM0g1UPsD87G&sz=s600-rw",
     "PANT8838": "https://drive.google.com/thumbnail?id=1ovkunxKoWu2B_oBmEMXV0iOJm4-eMBV2&sz=s600-rw"
   },
-  "timestamp_ms": 1787686628228
+  "timestamp_ms": 1787751447674
 }
