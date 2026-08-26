@@ -9446,9 +9446,26 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1R3mm5Zg6OVsxA4Nt-wZCly2Zy2w3pevR&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1R3mm5Zg6OVsxA4Nt-wZCly2Zy2w3pevR&sz=s600-rw",
+                  "archivo_id": "1R3mm5Zg6OVsxA4Nt-wZCly2Zy2w3pevR",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-08-26T16:09:14.612Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1gjCLoSu9OQ7fsc9oMpIEpVElDmdzG30w&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1gjCLoSu9OQ7fsc9oMpIEpVElDmdzG30w&sz=s600-rw",
+                  "archivo_id": "1gjCLoSu9OQ7fsc9oMpIEpVElDmdzG30w",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-08-26T16:09:14.612Z"
                 }
               ],
               "variedad": [
@@ -9870,5 +9887,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1787760636914
+  "timestamp_ms": 1787761484265
 }
