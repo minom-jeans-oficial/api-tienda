@@ -3217,7 +3217,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "331",
+                  "valor": "328",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3256,7 +3256,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "331"
+                          "stock": "328"
                         }
                       ]
                     }
@@ -7950,7 +7950,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "252",
+                  "valor": "249",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -7989,7 +7989,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "252"
+                          "stock": "249"
                         }
                       ]
                     }
@@ -8682,7 +8682,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "4",
+                  "valor": "1",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -8721,7 +8721,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "4"
+                          "stock": "1"
                         }
                       ]
                     }
@@ -9430,7 +9430,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "296",
+                  "valor": "295",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -9463,7 +9463,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "296"
+                          "stock": "295"
                         }
                       ]
                     }
@@ -9678,9 +9678,37 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1RbO5dKRHL7awWLJg-sj0P7YN1cnzweIX&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1RbO5dKRHL7awWLJg-sj0P7YN1cnzweIX&sz=s600-rw",
+                  "archivo_id": "1RbO5dKRHL7awWLJg-sj0P7YN1cnzweIX",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-08-26T16:05:10.726Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1XXpDbkoN5J5FHhq9H-G04B5S-FK4_f_r&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1XXpDbkoN5J5FHhq9H-G04B5S-FK4_f_r&sz=s600-rw",
+                  "archivo_id": "1XXpDbkoN5J5FHhq9H-G04B5S-FK4_f_r",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-08-26T16:05:10.726Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=16Z7CkC5v1B12q1g_b6sHrP1g4Rc-hwOe&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=16Z7CkC5v1B12q1g_b6sHrP1g4Rc-hwOe&sz=s600-rw",
+                  "archivo_id": "16Z7CkC5v1B12q1g_b6sHrP1g4Rc-hwOe",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-08-26T16:05:10.726Z"
                 }
               ],
               "variedad": [
@@ -9842,5 +9870,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1787758782537
+  "timestamp_ms": 1787760636914
 }
