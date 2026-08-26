@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T16:22:50.082Z",
+  "generated_at": "2026-08-26T16:37:51.268Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3549,6 +3549,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR4839",
+      "sku": "Shor003",
+      "model": "Print claro",
+      "price": 15000,
+      "display_price": 13000,
+      "minor_surcharge": 0,
+      "category_id": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42",
+      "talles": "Surtido,34,36,38,40,42",
+      "TALLES": "Surtido,34,36,38,40,42",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1MalM6TDrBSZR_qDHWtDOf39Yn5y7BlC3&sz=s600-rw",
+      "carpeta_id": "1mh8w_rHDfcZ7j7C_jrB59fFbVMpN2o2v",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "SHOR4839-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "SHOR4839-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -5365,6 +5405,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "SHOR4839": [
+      {
+        "variedad_id": "SHOR4839-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 13000,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR4839-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR4839-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -5456,5 +5519,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1787761491660
+  "timestamp_ms": 1787762499770
 }
