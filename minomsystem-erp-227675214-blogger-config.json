@@ -9454,7 +9454,18 @@
                   "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-08-26T16:36:03.119Z"
+                  "fecha_carga": "2026-08-26T16:47:54.175Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1Ok76EOZ7CuTHSGC7OlpYcZtdsd0adjIq&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Ok76EOZ7CuTHSGC7OlpYcZtdsd0adjIq&sz=s600-rw",
+                  "archivo_id": "1Ok76EOZ7CuTHSGC7OlpYcZtdsd0adjIq",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-08-26T16:47:54.175Z"
                 }
               ],
               "variedad": [
@@ -9976,5 +9987,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1787762431973
+  "timestamp_ms": 1787763275598
 }
