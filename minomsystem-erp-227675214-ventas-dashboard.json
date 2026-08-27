@@ -37876,6 +37876,134 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1787852693333",
+          "fecha": "2026-08-27 14:44",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 144100,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Tarjeta Debito",
+          "cajaId": "CR-2fac3755-d150-463c-b04b-810b788c6933",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-27",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 13100,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1787852693333-1406",
+              "descripcion": "PANT9048-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 2,
+              "precioUnitario": 27000,
+              "subtotal": 54000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT9048",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT9048-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1787852693333-1407",
+              "descripcion": "PANT4657-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT4657",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4657-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1787852693333-1408",
+              "descripcion": "OFER6488-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "Menor",
+              "productoId": "OFER6488",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER6488-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1787852693333-1409",
+              "descripcion": "PANT8946-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 27000,
+              "subtotal": 27000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT8946",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT8946-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 131000,
+          "subtotal": 131000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1787854716857",
+          "fecha": "2026-08-27 15:18",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 64000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-2fac3755-d150-463c-b04b-810b788c6933",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-27",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1787854716857-1410",
+              "descripcion": "PANT8946-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT8946",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT8946-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1787854716857-1411",
+              "descripcion": "PANT9048-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT9048",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT9048-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 64000,
+          "subtotal": 64000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -39979,5 +40107,5 @@
     "SHOR5537": "https://drive.google.com/thumbnail?id=1l6VmT6htALYy3MAo2QHAOBbkaYR5mkU_&sz=s600-rw",
     "SHOR4839": "https://drive.google.com/thumbnail?id=1UfsCGPIIT_PmIoHe8JVDy3O-65_FGtSs&sz=s600-rw"
   },
-  "timestamp_ms": 1787852238279
+  "timestamp_ms": 1787855940191
 }
