@@ -1192,7 +1192,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "1",
+                  "valor": "0",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -1247,17 +1247,7 @@
                   "precio": 22000,
                   "variedad": "Curva",
                   "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "1"
-                        }
-                      ]
-                    }
-                  }
+                  "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
@@ -9429,12 +9419,12 @@
                   "url": "https://drive.google.com/thumbnail?id=1MalM6TDrBSZR_qDHWtDOf39Yn5y7BlC3&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1MalM6TDrBSZR_qDHWtDOf39Yn5y7BlC3&sz=s600-rw",
                   "archivo_id": "1MalM6TDrBSZR_qDHWtDOf39Yn5y7BlC3",
-                  "portada": true,
+                  "portada": false,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
-                  "rol": "PORTADA",
+                  "rol": "GALERIA",
                   "orden": 1,
-                  "fecha_carga": "2026-08-27T05:10:52.164Z"
+                  "fecha_carga": "2026-08-27T14:20:21.056Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1Ok76EOZ7CuTHSGC7OlpYcZtdsd0adjIq&sz=s1600-rw",
@@ -9445,7 +9435,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-08-27T05:10:52.164Z"
+                  "fecha_carga": "2026-08-27T14:20:21.056Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1wfOsFNNF-fq7JG8tFmbdHzigeaO7-Tb0&sz=s1600-rw",
@@ -9456,7 +9446,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-08-27T05:10:52.164Z"
+                  "fecha_carga": "2026-08-27T14:20:21.056Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1B1iuWaEHSlZ6vd4k83gQShDKjACllPVH&sz=s1600-rw",
@@ -9467,29 +9457,51 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 4,
-                  "fecha_carga": "2026-08-27T05:10:52.164Z"
+                  "fecha_carga": "2026-08-27T14:20:21.056Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1UfsCGPIIT_PmIoHe8JVDy3O-65_FGtSs&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1UfsCGPIIT_PmIoHe8JVDy3O-65_FGtSs&sz=s600-rw",
                   "archivo_id": "1UfsCGPIIT_PmIoHe8JVDy3O-65_FGtSs",
-                  "portada": false,
+                  "portada": true,
                   "tipo": "imagen",
                   "fuente": "IA_Gemini",
-                  "rol": "GALERIA",
+                  "rol": "PORTADA",
                   "orden": 5,
-                  "fecha_carga": "2026-08-27T05:10:52.164Z"
+                  "fecha_carga": "2026-08-27T14:20:21.056Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1kyhyvI4ZhO3Ph_4008XHMJuWKRTKbbin&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1kyhyvI4ZhO3Ph_4008XHMJuWKRTKbbin&sz=s600-rw",
                   "archivo_id": "1kyhyvI4ZhO3Ph_4008XHMJuWKRTKbbin",
                   "portada": false,
-                  "tipo": "image",
+                  "tipo": "imagen",
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 6,
-                  "fecha_carga": "2026-08-27T05:10:52.164Z"
+                  "fecha_carga": "2026-08-27T14:20:21.056Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1EslakI8R2p53vV59AG063HIXRwWd-alK&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1EslakI8R2p53vV59AG063HIXRwWd-alK&sz=s600-rw",
+                  "archivo_id": "1EslakI8R2p53vV59AG063HIXRwWd-alK",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 7,
+                  "fecha_carga": "2026-08-27T14:20:21.056Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1MVwArhOChfUKtJ6VAv8_S3YKdjN_hAQ5&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1MVwArhOChfUKtJ6VAv8_S3YKdjN_hAQ5&sz=s600-rw",
+                  "archivo_id": "1MVwArhOChfUKtJ6VAv8_S3YKdjN_hAQ5",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 8,
+                  "fecha_carga": "2026-08-27T14:20:21.056Z"
                 }
               ],
               "variedad": [
@@ -9595,10 +9607,10 @@
                   "url": "https://drive.google.com/thumbnail?id=1R3mm5Zg6OVsxA4Nt-wZCly2Zy2w3pevR&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1R3mm5Zg6OVsxA4Nt-wZCly2Zy2w3pevR&sz=s600-rw",
                   "archivo_id": "1R3mm5Zg6OVsxA4Nt-wZCly2Zy2w3pevR",
-                  "portada": true,
+                  "portada": false,
                   "tipo": "imagen",
                   "fuente": "Sistema Web",
-                  "rol": "PORTADA",
+                  "rol": "GALERIA",
                   "orden": 1,
                   "fecha_carga": "2026-08-27T03:13:10.147Z"
                 },
@@ -9617,10 +9629,10 @@
                   "url": "https://drive.google.com/thumbnail?id=1l6VmT6htALYy3MAo2QHAOBbkaYR5mkU_&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1l6VmT6htALYy3MAo2QHAOBbkaYR5mkU_&sz=s600-rw",
                   "archivo_id": "1l6VmT6htALYy3MAo2QHAOBbkaYR5mkU_",
-                  "portada": false,
+                  "portada": true,
                   "tipo": "image",
                   "fuente": "IA_Gemini",
-                  "rol": "GALERIA",
+                  "rol": "PORTADA",
                   "orden": 3,
                   "fecha_carga": "2026-08-27T03:13:10.147Z"
                 }
@@ -10022,5 +10034,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1787837990750
+  "timestamp_ms": 1787840696503
 }
