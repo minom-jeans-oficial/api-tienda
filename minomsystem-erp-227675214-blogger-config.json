@@ -9612,7 +9612,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 1,
-                  "fecha_carga": "2026-08-27T03:13:10.147Z"
+                  "fecha_carga": "2026-08-27T20:02:32.895Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1gjCLoSu9OQ7fsc9oMpIEpVElDmdzG30w&sz=s1600-rw",
@@ -9623,18 +9623,40 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-08-27T03:13:10.147Z"
+                  "fecha_carga": "2026-08-27T20:02:32.895Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1l6VmT6htALYy3MAo2QHAOBbkaYR5mkU_&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1l6VmT6htALYy3MAo2QHAOBbkaYR5mkU_&sz=s600-rw",
                   "archivo_id": "1l6VmT6htALYy3MAo2QHAOBbkaYR5mkU_",
                   "portada": true,
-                  "tipo": "image",
+                  "tipo": "imagen",
                   "fuente": "IA_Gemini",
                   "rol": "PORTADA",
                   "orden": 3,
-                  "fecha_carga": "2026-08-27T03:13:10.147Z"
+                  "fecha_carga": "2026-08-27T20:02:32.895Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1I3gbSkQTFxdarX1SekBDAuhdBfh7V10e&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1I3gbSkQTFxdarX1SekBDAuhdBfh7V10e&sz=s600-rw",
+                  "archivo_id": "1I3gbSkQTFxdarX1SekBDAuhdBfh7V10e",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 4,
+                  "fecha_carga": "2026-08-27T20:02:32.895Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1vBG4km-GInxSeVf9UDptgo0sh3lRKPq4&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1vBG4km-GInxSeVf9UDptgo0sh3lRKPq4&sz=s600-rw",
+                  "archivo_id": "1vBG4km-GInxSeVf9UDptgo0sh3lRKPq4",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 5,
+                  "fecha_carga": "2026-08-27T20:02:32.895Z"
                 }
               ],
               "variedad": [
@@ -10028,5 +10050,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1787860486941
+  "timestamp_ms": 1787861393482
 }
