@@ -37352,6 +37352,98 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1787840234228",
+          "fecha": "2026-08-27 11:17",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 33000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-2fac3755-d150-463c-b04b-810b788c6933",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-27",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3000,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1787840234228-1388",
+              "descripcion": "PANT3144-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT3144",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3144-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1787840710157",
+          "fecha": "2026-08-27 11:25",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 59000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-2fac3755-d150-463c-b04b-810b788c6933",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-08-27",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1787840710157-1389",
+              "descripcion": "PANT4655-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 29000,
+              "subtotal": 29000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT4655",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4655-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1787840710157-1390",
+              "descripcion": "PANT4657-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT4657",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4657-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 59000,
+          "subtotal": 59000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -39452,8 +39544,8 @@
     "PANT5614": "https://drive.google.com/thumbnail?id=1jWuVI9kABn1rmBF3gIsHYM0g1UPsD87G&sz=s600-rw",
     "PANT8838": "https://drive.google.com/thumbnail?id=1ovkunxKoWu2B_oBmEMXV0iOJm4-eMBV2&sz=s600-rw",
     "TOP1511": "https://drive.google.com/thumbnail?id=1RbO5dKRHL7awWLJg-sj0P7YN1cnzweIX&sz=s600-rw",
-    "SHOR5537": "https://drive.google.com/thumbnail?id=1R3mm5Zg6OVsxA4Nt-wZCly2Zy2w3pevR&sz=s600-rw",
-    "SHOR4839": "https://drive.google.com/thumbnail?id=1MalM6TDrBSZR_qDHWtDOf39Yn5y7BlC3&sz=s600-rw"
+    "SHOR5537": "https://drive.google.com/thumbnail?id=1l6VmT6htALYy3MAo2QHAOBbkaYR5mkU_&sz=s600-rw",
+    "SHOR4839": "https://drive.google.com/thumbnail?id=1UfsCGPIIT_PmIoHe8JVDy3O-65_FGtSs&sz=s600-rw"
   },
-  "timestamp_ms": 1787837855224
+  "timestamp_ms": 1787841432738
 }
