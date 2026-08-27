@@ -1943,7 +1943,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-2",
+                  "valor": "-3",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -7647,7 +7647,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "122",
+                  "valor": "121",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -7724,7 +7724,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "122"
+                          "stock": "121"
                         }
                       ]
                     }
@@ -9593,7 +9593,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "22-08-2026"
+                  "valor": "27-08-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -9736,7 +9736,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "22-08-2026"
+                  "valor": "27-08-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -9980,15 +9980,9 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://drive.google.com/thumbnail?id=1ogZPbCQjXDUJFpm-iI2_90mNpVVLWdzr&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1ogZPbCQjXDUJFpm-iI2_90mNpVVLWdzr&sz=s600-rw",
-                  "archivo_id": "1ogZPbCQjXDUJFpm-iI2_90mNpVVLWdzr",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "GALERIA",
-                  "orden": 1,
-                  "fecha_carga": "2026-07-20T15:49:43.264Z"
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
                 }
               ],
               "variedad": [
@@ -10034,5 +10028,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1787840696503
+  "timestamp_ms": 1787841594807
 }
