@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T18:52:53.115Z",
+  "generated_at": "2026-08-28T19:07:51.019Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3733,7 +3733,7 @@
       "ageGroup": "Teens",
       "grupo_edad": "Teens",
       "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1DpOyFAxTqB5ZXPTw6CsaqGMONSnDVh_U&sz=s600-rw",
+      "image": "https://drive.google.com/thumbnail?id=19a9Pz3lTNZnfsKu7MnLs7qxxYgVhNPE7&sz=s600-rw",
       "carpeta_id": "1dzG4ghDzQJk7vmLF3tMxSCnjU910P0h_",
       "woo_id": "",
       "variations": [
@@ -3750,6 +3750,33 @@
           "variation_id": "TOP2717-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT1241",
+      "sku": "Pant003",
+      "model": "Mom celeste",
+      "price": 22000,
+      "display_price": 20000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Moon",
+      "categoryName": "Pantalon Moon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1DJ5O3U6w6g8QVafCdr-BHhTRMMKmwrhs",
+      "woo_id": "",
+      "variations": [],
       "fecha_creacion": ""
     }
   ],
@@ -5682,6 +5709,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "PANT1241": [
+      {
+        "variedad_id": "PANT1241-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 20000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT1241-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 22000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT1241-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -5773,5 +5823,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1787943281087
+  "timestamp_ms": 1787944171544
 }
