@@ -835,7 +835,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "179",
+                  "valor": "178",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -2420,7 +2420,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-23",
+                  "valor": "-24",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -8662,7 +8662,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-3",
+                  "valor": "-5",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -10050,5 +10050,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1787926208220
+  "timestamp_ms": 1787927108280
 }
