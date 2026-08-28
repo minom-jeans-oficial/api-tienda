@@ -1192,7 +1192,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-2",
+                  "valor": "-3",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -1943,7 +1943,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-12",
+                  "valor": "-14",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -8419,7 +8419,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "300",
+                  "valor": "299",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -8458,7 +8458,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "300"
+                          "stock": "299"
                         }
                       ]
                     }
@@ -8907,7 +8907,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-8",
+                  "valor": "-9",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -10148,9 +10148,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=17HcFJtyFsBclFpCCnNdTFYzV-5UtlST_&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=17HcFJtyFsBclFpCCnNdTFYzV-5UtlST_&sz=s600-rw",
+                  "archivo_id": "17HcFJtyFsBclFpCCnNdTFYzV-5UtlST_",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-08-28T19:42:50.824Z"
                 }
               ],
               "variedad": [
@@ -10187,6 +10193,139 @@
                 }
               ],
               "upd": "2026-08-22T03:00:00.000Z"
+            },
+            {
+              "codigo": 235,
+              "categoria": "Short",
+              "nombre": "SHOR9772",
+              "carpeta_id": "1lLnayON_s7vFBU1dgIs6XF9kJWYiA8Cm",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Celeste Oxido"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jeans Rigido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "300",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "28-08-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SHOR9772%0A%F0%9F%94%B9%20Modelo%3A%20Celeste%20Oxido%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1aIqV7tNqM9JwxgCiKsvsen7PncelU4LL&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1aIqV7tNqM9JwxgCiKsvsen7PncelU4LL&sz=s600-rw",
+                  "archivo_id": "1aIqV7tNqM9JwxgCiKsvsen7PncelU4LL",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "GALERIA",
+                  "orden": 1,
+                  "fecha_carga": "2026-08-28T19:48:22.533Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1iu3OGexJiCALf1EKal80sjt8xEAv247y&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1iu3OGexJiCALf1EKal80sjt8xEAv247y&sz=s600-rw",
+                  "archivo_id": "1iu3OGexJiCALf1EKal80sjt8xEAv247y",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-08-28T19:48:22.533Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 17000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 19000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-08-28T03:00:00.000Z"
             }
           ]
         },
@@ -10196,7 +10335,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/7781e5c6.svg",
           "producto": [
             {
-              "codigo": 235,
+              "codigo": 238,
               "categoria": "Top",
               "nombre": "TOP1511",
               "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
@@ -10312,7 +10451,7 @@
               "upd": "2026-07-20T03:00:00.000Z"
             },
             {
-              "codigo": 238,
+              "codigo": 241,
               "categoria": "Top",
               "nombre": "TOP2717",
               "carpeta_id": "1dzG4ghDzQJk7vmLF3tMxSCnjU910P0h_",
@@ -10450,7 +10589,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 241,
+              "codigo": 244,
               "categoria": "Top",
               "nombre": "TOP5629",
               "carpeta_id": "1Qx7I0cMaJdF_GJU-cAsgvXizbIHOAqG-",
@@ -10566,7 +10705,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 244,
+              "codigo": 247,
               "categoria": "Top",
               "nombre": "TOP5771",
               "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
@@ -10683,5 +10822,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1787945106605
+  "timestamp_ms": 1787946881130
 }
