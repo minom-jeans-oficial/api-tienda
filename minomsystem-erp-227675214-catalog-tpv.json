@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T17:22:51.450Z",
+  "generated_at": "2026-08-28T17:37:50.475Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3591,6 +3591,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "POLL3123",
+      "sku": "Poll001",
+      "model": "Bordado",
+      "price": 19000,
+      "display_price": 17000,
+      "minor_surcharge": 0,
+      "category_id": "Pollera",
+      "categoryName": "Pollera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1YH2JcqGVpjOZNtiOed-rA4VmEpef9HLj",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "POLL3123-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "POLL3123-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -5430,6 +5470,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "POLL3123": [
+      {
+        "variedad_id": "POLL3123-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "POLL3123-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 19000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "POLL3123-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -5521,5 +5584,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1787937909439
+  "timestamp_ms": 1787938755896
 }
