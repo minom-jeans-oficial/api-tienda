@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T19:07:51.019Z",
+  "generated_at": "2026-08-28T19:22:51.676Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -2293,7 +2293,7 @@
       "ageGroup": "Teens",
       "grupo_edad": "Teens",
       "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1RbO5dKRHL7awWLJg-sj0P7YN1cnzweIX&sz=s600-rw",
+      "image": "https://drive.google.com/thumbnail?id=16Z7CkC5v1B12q1g_b6sHrP1g4Rc-hwOe&sz=s600-rw",
       "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
       "woo_id": "",
       "variations": [
@@ -3693,7 +3693,7 @@
       "ageGroup": "Teens",
       "grupo_edad": "Teens",
       "GRUPO_EDAD": "Teens",
-      "image": "",
+      "image": "https://drive.google.com/thumbnail?id=1rDgD_h--X2EvHBFBAipHyhaSGpIzH8yS&sz=s600-rw",
       "carpeta_id": "1Qx7I0cMaJdF_GJU-cAsgvXizbIHOAqG-",
       "woo_id": "",
       "variations": [
@@ -3773,10 +3773,23 @@
       "ageGroup": "Teens",
       "grupo_edad": "Teens",
       "GRUPO_EDAD": "Teens",
-      "image": "",
+      "image": "https://drive.google.com/thumbnail?id=16V3GDvTV4bhXBAIOHSeL_5E2b0PFeWD_&sz=s600-rw",
       "carpeta_id": "1DJ5O3U6w6g8QVafCdr-BHhTRMMKmwrhs",
       "woo_id": "",
-      "variations": [],
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT1241-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT1241-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
       "fecha_creacion": ""
     }
   ],
@@ -5823,5 +5836,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1787944171544
+  "timestamp_ms": 1787945083826
 }
