@@ -10275,10 +10275,10 @@
                   "archivo_id": "1aIqV7tNqM9JwxgCiKsvsen7PncelU4LL",
                   "portada": true,
                   "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
+                  "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 1,
-                  "fecha_carga": "2026-08-28T19:48:22.533Z"
+                  "fecha_carga": "2026-08-28T19:58:05.807Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1iu3OGexJiCALf1EKal80sjt8xEAv247y&sz=s1600-rw",
@@ -10286,10 +10286,21 @@
                   "archivo_id": "1iu3OGexJiCALf1EKal80sjt8xEAv247y",
                   "portada": false,
                   "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
+                  "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-08-28T19:48:22.533Z"
+                  "fecha_carga": "2026-08-28T19:58:05.807Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1v-2AQsPjvhXIev8xESnLUcY5cor8ArG7&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1v-2AQsPjvhXIev8xESnLUcY5cor8ArG7&sz=s600-rw",
+                  "archivo_id": "1v-2AQsPjvhXIev8xESnLUcY5cor8ArG7",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 3,
+                  "fecha_carga": "2026-08-28T19:58:05.807Z"
                 }
               ],
               "variedad": [
@@ -10822,5 +10833,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1787946881130
+  "timestamp_ms": 1787947755572
 }
