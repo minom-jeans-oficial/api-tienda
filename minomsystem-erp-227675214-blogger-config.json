@@ -9426,9 +9426,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1M1UVbhKOj5hcq15VkvwJruF7wbBtz937&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1M1UVbhKOj5hcq15VkvwJruF7wbBtz937&sz=s600-rw",
+                  "archivo_id": "1M1UVbhKOj5hcq15VkvwJruF7wbBtz937",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-08-28T18:47:50.082Z"
                 }
               ],
               "variedad": [
@@ -9663,7 +9669,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 1,
-                  "fecha_carga": "2026-08-27T14:20:21.056Z"
+                  "fecha_carga": "2026-08-28T18:51:01.442Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1Ok76EOZ7CuTHSGC7OlpYcZtdsd0adjIq&sz=s1600-rw",
@@ -9674,7 +9680,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-08-27T14:20:21.056Z"
+                  "fecha_carga": "2026-08-28T18:51:01.442Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1wfOsFNNF-fq7JG8tFmbdHzigeaO7-Tb0&sz=s1600-rw",
@@ -9685,7 +9691,7 @@
                   "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 3,
-                  "fecha_carga": "2026-08-27T14:20:21.056Z"
+                  "fecha_carga": "2026-08-28T18:51:01.442Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1B1iuWaEHSlZ6vd4k83gQShDKjACllPVH&sz=s1600-rw",
@@ -9696,7 +9702,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 4,
-                  "fecha_carga": "2026-08-27T14:20:21.056Z"
+                  "fecha_carga": "2026-08-28T18:51:01.442Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1UfsCGPIIT_PmIoHe8JVDy3O-65_FGtSs&sz=s1600-rw",
@@ -9707,7 +9713,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "PORTADA",
                   "orden": 5,
-                  "fecha_carga": "2026-08-27T14:20:21.056Z"
+                  "fecha_carga": "2026-08-28T18:51:01.442Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1kyhyvI4ZhO3Ph_4008XHMJuWKRTKbbin&sz=s1600-rw",
@@ -9718,7 +9724,7 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 6,
-                  "fecha_carga": "2026-08-27T14:20:21.056Z"
+                  "fecha_carga": "2026-08-28T18:51:01.442Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1EslakI8R2p53vV59AG063HIXRwWd-alK&sz=s1600-rw",
@@ -9729,18 +9735,29 @@
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 7,
-                  "fecha_carga": "2026-08-27T14:20:21.056Z"
+                  "fecha_carga": "2026-08-28T18:51:01.442Z"
                 },
                 {
                   "url": "https://drive.google.com/thumbnail?id=1MVwArhOChfUKtJ6VAv8_S3YKdjN_hAQ5&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1MVwArhOChfUKtJ6VAv8_S3YKdjN_hAQ5&sz=s600-rw",
                   "archivo_id": "1MVwArhOChfUKtJ6VAv8_S3YKdjN_hAQ5",
                   "portada": false,
-                  "tipo": "image",
+                  "tipo": "imagen",
                   "fuente": "IA_Gemini",
                   "rol": "GALERIA",
                   "orden": 8,
-                  "fecha_carga": "2026-08-27T14:20:21.056Z"
+                  "fecha_carga": "2026-08-28T18:51:01.442Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1hg3uWuxiXIbeyKiaorwVJLEsfFRK3ZLj&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1hg3uWuxiXIbeyKiaorwVJLEsfFRK3ZLj&sz=s600-rw",
+                  "archivo_id": "1hg3uWuxiXIbeyKiaorwVJLEsfFRK3ZLj",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 9,
+                  "fecha_carga": "2026-08-28T18:51:01.442Z"
                 }
               ],
               "variedad": [
@@ -10175,7 +10192,7 @@
               "codigo": 235,
               "categoria": "Top",
               "nombre": "TOP2717",
-              "carpeta_id": "",
+              "carpeta_id": "1dzG4ghDzQJk7vmLF3tMxSCnjU910P0h_",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -10241,9 +10258,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1DpOyFAxTqB5ZXPTw6CsaqGMONSnDVh_U&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1DpOyFAxTqB5ZXPTw6CsaqGMONSnDVh_U&sz=s600-rw",
+                  "archivo_id": "1DpOyFAxTqB5ZXPTw6CsaqGMONSnDVh_U",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-08-28T18:52:20.683Z"
                 }
               ],
               "variedad": [
@@ -10509,5 +10532,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1787942403817
+  "timestamp_ms": 1787943279785
 }
