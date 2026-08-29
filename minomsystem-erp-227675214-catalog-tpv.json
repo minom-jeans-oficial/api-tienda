@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T15:37:59.884Z",
+  "generated_at": "2026-08-29T15:52:50.334Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3871,6 +3871,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR5810",
+      "sku": "Shor005",
+      "model": "Short tachas",
+      "price": 19000,
+      "display_price": 17000,
+      "minor_surcharge": 0,
+      "category_id": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1ACzrW1cdjOWVTt_pTk0RvJQTlWTAmd8E&sz=s600-rw",
+      "carpeta_id": "1SUxzA7lDB632clGFFcSzmpcLBDngZxhU",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "SHOR5810-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "SHOR5810-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -5871,6 +5911,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "SHOR5810": [
+      {
+        "variedad_id": "SHOR5810-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR5810-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 19000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR5810-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -5962,5 +6025,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788017984063
+  "timestamp_ms": 1788018887099
 }
