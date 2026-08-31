@@ -3566,7 +3566,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "185",
+                  "valor": "184",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3605,7 +3605,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "185"
+                          "stock": "184"
                         }
                       ]
                     }
@@ -7293,7 +7293,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "256",
+                  "valor": "255",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -7326,7 +7326,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "256"
+                          "stock": "255"
                         }
                       ]
                     }
@@ -8664,8 +8664,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "6",
-                  "estado": "Media"
+                  "valor": "4",
+                  "estado": "Baja"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -8703,7 +8703,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "6"
+                          "stock": "4"
                         }
                       ]
                     }
@@ -9029,7 +9029,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-26",
+                  "valor": "-28",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -11071,5 +11071,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1788188106936
+  "timestamp_ms": 1788189007237
 }
