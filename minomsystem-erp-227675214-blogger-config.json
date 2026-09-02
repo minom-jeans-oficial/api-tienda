@@ -4311,7 +4311,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-12",
+                  "valor": "-13",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -10571,7 +10571,7 @@
         {
           "codigo": 15,
           "nombre": "Top",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/7781e5c6.svg",
+          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
           "producto": [
             {
               "codigo": 244,
@@ -10632,7 +10632,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "20-07-2026"
+                  "valor": "02-09-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -10657,40 +10657,16 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 10000,
-                  "variedad": "Curva",
-                  "minima": 0,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "217"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
                   "precio": 12000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 14000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
                 }
               ],
-              "upd": "2026-07-20T03:00:00.000Z"
+              "upd": "2026-09-02T03:00:00.000Z"
             },
             {
-              "codigo": 247,
+              "codigo": 245,
               "categoria": "Top",
               "nombre": "TOP2717",
               "carpeta_id": "1dzG4ghDzQJk7vmLF3tMxSCnjU910P0h_",
@@ -10795,32 +10771,8 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 23000,
-                  "variedad": "Curva",
-                  "minima": 0,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "19"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
                   "precio": 25000,
                   "variedad": "Mayor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 30000,
-                  "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
@@ -10828,7 +10780,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 250,
+              "codigo": 246,
               "categoria": "Top",
               "nombre": "TOP5629",
               "carpeta_id": "1Qx7I0cMaJdF_GJU-cAsgvXizbIHOAqG-",
@@ -10911,32 +10863,8 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 18000,
-                  "variedad": "Curva",
-                  "minima": 0,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "13"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
                   "precio": 20000,
                   "variedad": "Mayor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 25000,
-                  "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
@@ -10944,7 +10872,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 253,
+              "codigo": 247,
               "categoria": "Top",
               "nombre": "TOP5771",
               "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
@@ -11021,37 +10949,13 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 14000,
-                  "variedad": "Curva",
-                  "minima": 0,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "1044"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
                   "precio": 16000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 16000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
                 }
               ],
-              "upd": "2026-07-20T03:00:00.000Z"
+              "upd": "2026-08-22T03:00:00.000Z"
             }
           ]
         }
@@ -11061,5 +10965,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1788361793414
+  "timestamp_ms": 1788362139481
 }
