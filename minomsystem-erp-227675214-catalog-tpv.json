@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T15:07:51.478Z",
+  "generated_at": "2026-09-02T15:13:53.483Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -228,7 +228,7 @@
     {
       "id": "Top",
       "name": "Top",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/7781e5c6.svg"
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg"
     },
     {
       "id": "Remera",
@@ -2277,7 +2277,7 @@
       "sku": "Top001",
       "model": "Top colores",
       "price": 12000,
-      "display_price": 10000,
+      "display_price": 12000,
       "minor_surcharge": 0,
       "category_id": "Top",
       "categoryName": "Top",
@@ -2317,7 +2317,7 @@
       "sku": "Top002",
       "model": "top 2",
       "price": 16000,
-      "display_price": 14000,
+      "display_price": 16000,
       "minor_surcharge": 0,
       "category_id": "Top",
       "categoryName": "Top",
@@ -3677,7 +3677,7 @@
       "sku": "Top003",
       "model": "Encaje",
       "price": 20000,
-      "display_price": 18000,
+      "display_price": 20000,
       "minor_surcharge": 0,
       "category_id": "Top",
       "categoryName": "Top",
@@ -3717,7 +3717,7 @@
       "sku": "Top004",
       "model": "Importado",
       "price": 25000,
-      "display_price": 23000,
+      "display_price": 25000,
       "minor_surcharge": 0,
       "category_id": "Top",
       "categoryName": "Top",
@@ -3918,7 +3918,7 @@
     "tipoRegistroProducto": "PRODUCTO SIMPLE"
   },
   "categorySvgs": {
-    "TOP": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/7781e5c6.svg",
+    "TOP": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
     "REMERA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
     "POLLERA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pollera.svg",
     "SHORT": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg",
@@ -4992,52 +4992,6 @@
         "visible": true
       }
     ],
-    "TOP1511": [
-      {
-        "variedad_id": "TOP1511-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 10000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "TOP1511-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 12000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "TOP1511-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 14000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "TOP5771": [
-      {
-        "variedad_id": "TOP5771-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 14000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "TOP5771-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 16000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "TOP5771-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 16000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
     "PANT3628": [
       {
         "variedad_id": "PANT3628-Curva",
@@ -5797,52 +5751,6 @@
         "visible": true
       }
     ],
-    "TOP5629": [
-      {
-        "variedad_id": "TOP5629-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 18000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "TOP5629-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 20000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "TOP5629-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "TOP2717": [
-      {
-        "variedad_id": "TOP2717-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "TOP2717-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "TOP2717-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
     "PANT1241": [
       {
         "variedad_id": "PANT1241-Curva",
@@ -5931,6 +5839,42 @@
         "variedad_id": "SHOR5810-Menor",
         "nombre": "Menor",
         "precio_unitario": 24000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "TOP1511": [
+      {
+        "variedad_id": "TOP1511-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 12000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "TOP5771": [
+      {
+        "variedad_id": "TOP5771-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 16000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "TOP5629": [
+      {
+        "variedad_id": "TOP5629-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "TOP2717": [
+      {
+        "variedad_id": "TOP2717-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -6025,5 +5969,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788361795675
+  "timestamp_ms": 1788362126197
 }
