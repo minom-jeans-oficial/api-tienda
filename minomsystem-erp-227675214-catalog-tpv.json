@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T15:22:49.679Z",
+  "generated_at": "2026-09-03T15:37:50.852Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3951,6 +3951,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "BERM3599",
+      "sku": "Berm001",
+      "model": "Edtampado beige",
+      "price": 20000,
+      "display_price": 18000,
+      "minor_surcharge": 0,
+      "category_id": "Bermuda",
+      "categoryName": "Bermuda",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1XigtqQJAGH7tn0TwpJz51mt3vR7MK1J_",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "BERM3599-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "BERM3599-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -5941,6 +5981,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "BERM3599": [
+      {
+        "variedad_id": "BERM3599-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 18000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "BERM3599-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "BERM3599-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -6032,5 +6095,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788449088062
+  "timestamp_ms": 1788449982653
 }
