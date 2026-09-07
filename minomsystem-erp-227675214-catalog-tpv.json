@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T10:07:49.480Z",
+  "generated_at": "2026-09-07T10:22:49.454Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -22,7 +22,6 @@
           "Presupuesto"
         ],
         "printerIp": "192.168.0.196",
-        "puntoVentaAfip": 1,
         "printSettings": {
           "copias": 1,
           "sonido": "0",
@@ -52,7 +51,6 @@
           "Presupuesto"
         ],
         "printerIp": "192.168.0.111",
-        "puntoVentaAfip": 1,
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -6095,5 +6093,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788775825826
+  "timestamp_ms": 1788776680096
 }
