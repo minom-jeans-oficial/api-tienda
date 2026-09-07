@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T15:52:52.244Z",
+  "generated_at": "2026-09-07T16:08:02.590Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -351,6 +351,246 @@
   ],
   "products": [
     {
+      "id": "BERM3599",
+      "sku": "Berm001",
+      "model": "Edtampado beige",
+      "price": 20000,
+      "display_price": 18000,
+      "minor_surcharge": 0,
+      "category_id": "Bermuda",
+      "categoryName": "Bermuda",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1XigtqQJAGH7tn0TwpJz51mt3vR7MK1J_",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "BERM3599-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "BERM3599-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CAMP1837",
+      "sku": "Camp003",
+      "model": "Campera varios",
+      "price": 50000,
+      "display_price": 48000,
+      "minor_surcharge": 0,
+      "category_id": "Campera",
+      "categoryName": "Campera",
+      "parentCategory": "INDUMENTARIA",
+      "season": "INVIERNO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1xMLwKsKeY3MulZzqtUxmF0tm3tERkebx&sz=s600-rw",
+      "carpeta_id": "1_q2r2by1fZWDyTDZIGheP9NMk8xhGLnb",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "CAMP1837-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "CAMP1837-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CINT1686",
+      "sku": "Cint003",
+      "model": "Varios 2",
+      "price": 19000,
+      "display_price": 17000,
+      "minor_surcharge": 0,
+      "category_id": "Cinturon",
+      "categoryName": "Cinturon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1QKDwb6_uOaxyrGNk2q_JuKD2G-728y5m",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "CINT1686-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "CINT1686-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CINT4155",
+      "sku": "Cint002",
+      "model": "Varios 1",
+      "price": 15000,
+      "display_price": 13000,
+      "minor_surcharge": 0,
+      "category_id": "Cinturon",
+      "categoryName": "Cinturon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1Dl00Bd_bAp6H6k6fZStoBo4B0eDE7ocu",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "CINT4155-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "CINT4155-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CINT4721",
+      "sku": "Cint001",
+      "model": "Varios",
+      "price": 12000,
+      "display_price": 10000,
+      "minor_surcharge": 0,
+      "category_id": "Cinturon",
+      "categoryName": "Cinturon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1Nha4DrpJPfklmxiOuNFj1lQteuFuvfc3",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "CINT4721-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "CINT4721-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "CINT6072",
+      "sku": "Cint004",
+      "model": "Varios 3",
+      "price": 21000,
+      "display_price": 19000,
+      "minor_surcharge": 0,
+      "category_id": "Cinturon",
+      "categoryName": "Cinturon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1jXBA6cJ6YwoZufVGLJca82uC2owTDmqe",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "CINT6072-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "CINT6072-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
       "id": "OFER1572",
       "sku": "Ofer001",
       "model": "PANT",
@@ -591,6 +831,46 @@
       "fecha_creacion": ""
     },
     {
+      "id": "PANT1241",
+      "sku": "Pant003",
+      "model": "Mom celeste",
+      "price": 22000,
+      "display_price": 20000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Moon",
+      "categoryName": "Pantalon Moon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=16V3GDvTV4bhXBAIOHSeL_5E2b0PFeWD_&sz=s600-rw",
+      "carpeta_id": "1DJ5O3U6w6g8QVafCdr-BHhTRMMKmwrhs",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT1241-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT1241-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
       "id": "PANT1847",
       "sku": "Pant001",
       "model": "Gris maxi",
@@ -706,6 +986,86 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT1947-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2110",
+      "sku": "Pant022",
+      "model": "Print claro",
+      "price": 27000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1YV1wXUIWal2S-iNsS3GIHSz-Tut4vOfU",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT2110-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT2110-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT2259",
+      "sku": "Pant002",
+      "model": "Negro",
+      "price": 23000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Moon",
+      "categoryName": "Pantalon Moon",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1ZYI1Tk8ROfvi15QAK3hV2Dz-tSOkk5So&sz=s600-rw",
+      "carpeta_id": "198u9i-xHY06AYsR5LNw9LfXiG4yTmhGU",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT2259-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT2259-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -991,6 +1351,46 @@
       "fecha_creacion": ""
     },
     {
+      "id": "PANT3169",
+      "sku": "Pant012",
+      "model": "Bagy chocolate",
+      "price": 27000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1rzJFBmU2-Fgzy20FQvVO5mo7wzYZItIB&sz=s600-rw",
+      "carpeta_id": "1R9sN2ppN4w6gGr6FpSvNUf3C7Gso5pOb",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT3169-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT3169-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
       "id": "PANT3194",
       "sku": "26793884046964500.00",
       "model": "Slouchy negro",
@@ -1031,6 +1431,126 @@
       "fecha_creacion": ""
     },
     {
+      "id": "PANT3236",
+      "sku": "Pant019",
+      "model": "Nuevo print",
+      "price": 25000,
+      "display_price": 23000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1EPGiSXiVjaQ60izAYfqbSyZAE2EjUODt",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT3236-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT3236-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT3257",
+      "sku": "Pant021",
+      "model": "Bordado wide",
+      "price": 27000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1H08CDdeGUoFLwdRC5-T06NR3bIaX_z5_&sz=s600-rw",
+      "carpeta_id": "1-vKMsZaMWosM-UiWbKaAhYYIjBiM0i1A",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT3257-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT3257-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT3290",
+      "sku": "Pant011",
+      "model": "Estampado negro con reguladores",
+      "price": 27000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=19db26HoQF2KGkRA9KkbvYG4PTILfyQdt&sz=s600-rw",
+      "carpeta_id": "1QUsWYqVPeRdNvy0TbgvZWzxvZppEe69n",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT3290-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT3290-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
       "id": "PANT3437",
       "sku": "26648751968086300.00",
       "model": "Wide chocolate tiro medio",
@@ -1066,6 +1586,46 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT3437-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT3628",
+      "sku": "Pant004",
+      "model": "Elastizado azul",
+      "price": 26000,
+      "display_price": 24000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Maxi Wige",
+      "categoryName": "Pantalon Maxi Wige",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Alto",
+      "material": "Jeans Elastizado",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1MfdLAIJJnEQp6uUCUQPisnzFlD_g9FBa&sz=s600-rw",
+      "carpeta_id": "1N7dS86khAtxavn6CmCp-h8_huSPJ0E1R",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT3628-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT3628-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -1231,6 +1791,86 @@
       "fecha_creacion": ""
     },
     {
+      "id": "PANT4385",
+      "sku": "Pant016",
+      "model": "Blanco",
+      "price": 23000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1FXK1vE2vW1fublu4nXHaJwJGvv2W0Q6X",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4385-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4385-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4545",
+      "sku": "Pant014",
+      "model": "Gris Claro",
+      "price": 24000,
+      "display_price": 22000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1NptaqxZpdZrJ4OTbANblQdN1Gko3folv&sz=s600-rw",
+      "carpeta_id": "10RbbMzwW7_1zC7d013MX-xRir0gjtbW4",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4545-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4545-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
       "id": "PANT4551",
       "sku": "26297584769875100.00",
       "model": "Baggy London",
@@ -1266,6 +1906,46 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT4551-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4575",
+      "sku": "Pant011",
+      "model": "Negro Localizado",
+      "price": 25000,
+      "display_price": 23000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1IsyA46sVDP046LzJa1AlQuUlmvmQup5q&sz=s600-rw",
+      "carpeta_id": "1NxDsE-UE93kiK_sP9k1VRO611dp-DjTK",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4575-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4575-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -1351,6 +2031,86 @@
       "fecha_creacion": ""
     },
     {
+      "id": "PANT4710",
+      "sku": "Pant004",
+      "model": "Celeste",
+      "price": 20000,
+      "display_price": 18000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Chupin",
+      "categoryName": "Pantalon Chupin",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Elastizado",
+      "sizes": "Surtido,36,38,40,42,44,46",
+      "talles": "Surtido,36,38,40,42,44,46",
+      "TALLES": "Surtido,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1apP7aeeNbAXFSYgqDANJ7HrA41R0JmIb",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4710-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4710-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT4723",
+      "sku": "Pant017",
+      "model": "Celeste con Rotura",
+      "price": 24000,
+      "display_price": 22000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1E7kojJqPcx3sC2rJfbYPFhbtLf-rd6FX&sz=s600-rw",
+      "carpeta_id": "1YCK3adMYnF9sa42F5PG3OWrQxCbpdX2T",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT4723-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT4723-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
       "id": "PANT4779",
       "sku": "25920431124287200.00",
       "model": "OXFORD NEGRO",
@@ -1431,6 +2191,126 @@
       "fecha_creacion": ""
     },
     {
+      "id": "PANT5258",
+      "sku": "Pant018",
+      "model": "Wide chocolate",
+      "price": 25000,
+      "display_price": 23000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1crw_7AmcMmBF9APzCP6M4AovAbN0ZZyL&sz=s600-rw",
+      "carpeta_id": "1E4qLWlbtn1WWLos1gFqguD4JE7QTULaM",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT5258-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT5258-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT5578",
+      "sku": "Pant018",
+      "model": "Negro estampado",
+      "price": 25000,
+      "display_price": 23000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1VWfP5OIkwmZhiZaV5tBpZoFOEB-VE11v&sz=s600-rw",
+      "carpeta_id": "1rHfN8mPJrdsSJDfciW05zACodBuQSOmU",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT5578-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT5578-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT5614",
+      "sku": "Pant021",
+      "model": "Animal print",
+      "price": 25000,
+      "display_price": 23000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1jWuVI9kABn1rmBF3gIsHYM0g1UPsD87G&sz=s600-rw",
+      "carpeta_id": "1Z-s3D4KRHzialtuNWORVAkC7lbw3Op3I",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT5614-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT5614-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
       "id": "PANT5798",
       "sku": "26801450732838700.00",
       "model": "oxford oxido tiro alto",
@@ -1466,6 +2346,86 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT5798-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT5968",
+      "sku": "Pant010",
+      "model": "Elastizado tiro bajo",
+      "price": 23000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Oxfort",
+      "categoryName": "Pantalon Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1I88U_8Ik7JT8s6-etejBq7wxMwv-BV-t&sz=s600-rw",
+      "carpeta_id": "1Q0XCF68baBksh9uySeJOrMiBBQqpcf6e",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT5968-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT5968-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT6509",
+      "sku": "Pant020",
+      "model": "Negro con roturas",
+      "price": 24000,
+      "display_price": 22000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1Zh-EAWjOYn3AgpaLbjOyrYXlslbWC08e&sz=s600-rw",
+      "carpeta_id": "1dpRN8eRlgxDAQ-S2hnjJmDAmVZmyPe63",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT6509-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT6509-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -1546,6 +2506,46 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT7106-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT7325",
+      "sku": "Pant013",
+      "model": "Grisss",
+      "price": 25000,
+      "display_price": 23000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1YSsMsVyFtMlfE3V3S2IcO4_miiJKMJ6y&sz=s600-rw",
+      "carpeta_id": "1CsKg9K5H5YxktNGJa6G9Y3dBtQqmMt8W",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT7325-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT7325-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -1671,6 +2671,46 @@
       "fecha_creacion": ""
     },
     {
+      "id": "PANT7650",
+      "sku": "Pant006",
+      "model": "Azul elastizado",
+      "price": 26000,
+      "display_price": 24000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Maxi Wige",
+      "categoryName": "Pantalon Maxi Wige",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Alto",
+      "material": "Jeans Elastizado",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1KyEfvzMK1mwbs-4aU_9cwLYbu3senF4x&sz=s600-rw",
+      "carpeta_id": "1AvKpAvYDnzzAJEy4zhP45m83Idg8N_5Z",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT7650-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT7650-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
       "id": "PANT7858",
       "sku": "26881441064827100.00",
       "model": "Wide verde estampado",
@@ -1706,6 +2746,86 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT7858-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT7862",
+      "sku": "Pant015",
+      "model": "Negro Bastones",
+      "price": 23000,
+      "display_price": 21000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Wige Leg",
+      "categoryName": "Pantalon Wige Leg",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1pjyzYz8ZhkrJGHH-lCYHPJ0v3FMzoRFf&sz=s600-rw",
+      "carpeta_id": "1c1B168PjaSk9Tq3vUe247w16eTtKBiYU",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT7862-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT7862-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8140",
+      "sku": "Pant005",
+      "model": "Negro con Recorte",
+      "price": 26000,
+      "display_price": 24000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Maxi Wige",
+      "categoryName": "Pantalon Maxi Wige",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1NNEucqkXvAK6p_TQJ3DS1ClAfGoTWW7U&sz=s600-rw",
+      "carpeta_id": "11rudJ_531TefFc73QDnwQACFNREYSFi7",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8140-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8140-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -1786,6 +2906,46 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT8212-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT8348",
+      "sku": "Pant007",
+      "model": "Palazo print",
+      "price": 26000,
+      "display_price": 24000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Maxi Wige",
+      "categoryName": "Pantalon Maxi Wige",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1ELNlFN9mSchWoOUiwjpa1INvGabFIHiM&sz=s600-rw",
+      "carpeta_id": "1hp-e2GTXkc69u50IOUZsniFAtfIOrgjN",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8348-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8348-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -1951,6 +3111,46 @@
       "fecha_creacion": ""
     },
     {
+      "id": "PANT8838",
+      "sku": "Pant008",
+      "model": "Print gris",
+      "price": 26000,
+      "display_price": 24000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Maxi Wige",
+      "categoryName": "Pantalon Maxi Wige",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1ovkunxKoWu2B_oBmEMXV0iOJm4-eMBV2&sz=s600-rw",
+      "carpeta_id": "1l-X9Xct8BWhqB2niDRfmF5hfbHiIyEgq",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT8838-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT8838-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
       "id": "PANT8904",
       "sku": "35779747758306500.00",
       "model": "Wide tiro bajo bordo",
@@ -2026,6 +3226,46 @@
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
           "variation_id": "PANT8946-Surtido-Surtido-MINOM OFICIAL"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PANT9048",
+      "sku": "Pant010",
+      "model": "Oxido",
+      "price": 27000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Pantalon Bagy",
+      "categoryName": "Pantalon Bagy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1yC-Ca42cxHjhznvU_NEigNEmBzdKpd0a&sz=s600-rw",
+      "carpeta_id": "14sttWmVo03v41E6zJFd6MEsGqV4AdgQ7",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "PANT9048-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "PANT9048-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -2271,1326 +3511,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "TOP1511",
-      "sku": "Top001",
-      "model": "Top colores",
-      "price": 12000,
-      "display_price": 12000,
-      "minor_surcharge": 0,
-      "category_id": "Top",
-      "categoryName": "Top",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=16Z7CkC5v1B12q1g_b6sHrP1g4Rc-hwOe&sz=s600-rw",
-      "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "TOP1511-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "TOP1511-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "TOP5771",
-      "sku": "Top002",
-      "model": "top 2",
-      "price": 16000,
-      "display_price": 16000,
-      "minor_surcharge": 0,
-      "category_id": "Top",
-      "categoryName": "Top",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1ogZPbCQjXDUJFpm-iI2_90mNpVVLWdzr&sz=s600-rw",
-      "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "TOP5771-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "TOP5771-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT3628",
-      "sku": "Pant004",
-      "model": "Elastizado azul",
-      "price": 26000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Maxi Wige",
-      "categoryName": "Pantalon Maxi Wige",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Alto",
-      "material": "Jeans Elastizado",
-      "sizes": "Surtido,34,36,38,40,42,44,46",
-      "talles": "Surtido,34,36,38,40,42,44,46",
-      "TALLES": "Surtido,34,36,38,40,42,44,46",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1MfdLAIJJnEQp6uUCUQPisnzFlD_g9FBa&sz=s600-rw",
-      "carpeta_id": "1N7dS86khAtxavn6CmCp-h8_huSPJ0E1R",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT3628-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT3628-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT2259",
-      "sku": "Pant002",
-      "model": "Negro",
-      "price": 23000,
-      "display_price": 21000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Moon",
-      "categoryName": "Pantalon Moon",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Medio",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44,46",
-      "talles": "Surtido,34,36,38,40,42,44,46",
-      "TALLES": "Surtido,34,36,38,40,42,44,46",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1ZYI1Tk8ROfvi15QAK3hV2Dz-tSOkk5So&sz=s600-rw",
-      "carpeta_id": "198u9i-xHY06AYsR5LNw9LfXiG4yTmhGU",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT2259-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT2259-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT5968",
-      "sku": "Pant010",
-      "model": "Elastizado tiro bajo",
-      "price": 23000,
-      "display_price": 21000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Oxfort",
-      "categoryName": "Pantalon Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1I88U_8Ik7JT8s6-etejBq7wxMwv-BV-t&sz=s600-rw",
-      "carpeta_id": "1Q0XCF68baBksh9uySeJOrMiBBQqpcf6e",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT5968-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT5968-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT4545",
-      "sku": "Pant014",
-      "model": "Gris Claro",
-      "price": 24000,
-      "display_price": 22000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1NptaqxZpdZrJ4OTbANblQdN1Gko3folv&sz=s600-rw",
-      "carpeta_id": "10RbbMzwW7_1zC7d013MX-xRir0gjtbW4",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4545-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4545-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT7862",
-      "sku": "Pant015",
-      "model": "Negro Bastones",
-      "price": 23000,
-      "display_price": 21000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1pjyzYz8ZhkrJGHH-lCYHPJ0v3FMzoRFf&sz=s600-rw",
-      "carpeta_id": "1c1B168PjaSk9Tq3vUe247w16eTtKBiYU",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT7862-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT7862-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT4385",
-      "sku": "Pant016",
-      "model": "Blanco",
-      "price": 23000,
-      "display_price": 21000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "1FXK1vE2vW1fublu4nXHaJwJGvv2W0Q6X",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4385-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4385-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT4723",
-      "sku": "Pant017",
-      "model": "Celeste con Rotura",
-      "price": 24000,
-      "display_price": 22000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1E7kojJqPcx3sC2rJfbYPFhbtLf-rd6FX&sz=s600-rw",
-      "carpeta_id": "1YCK3adMYnF9sa42F5PG3OWrQxCbpdX2T",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4723-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4723-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT8140",
-      "sku": "Pant005",
-      "model": "Negro con Recorte",
-      "price": 26000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Maxi Wige",
-      "categoryName": "Pantalon Maxi Wige",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Medio",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44,46",
-      "talles": "Surtido,34,36,38,40,42,44,46",
-      "TALLES": "Surtido,34,36,38,40,42,44,46",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1NNEucqkXvAK6p_TQJ3DS1ClAfGoTWW7U&sz=s600-rw",
-      "carpeta_id": "11rudJ_531TefFc73QDnwQACFNREYSFi7",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT8140-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT8140-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT4710",
-      "sku": "Pant004",
-      "model": "Celeste",
-      "price": 20000,
-      "display_price": 18000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Chupin",
-      "categoryName": "Pantalon Chupin",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Elastizado",
-      "sizes": "Surtido,36,38,40,42,44,46",
-      "talles": "Surtido,36,38,40,42,44,46",
-      "TALLES": "Surtido,36,38,40,42,44,46",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "1apP7aeeNbAXFSYgqDANJ7HrA41R0JmIb",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4710-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4710-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT4575",
-      "sku": "Pant011",
-      "model": "Negro Localizado",
-      "price": 25000,
-      "display_price": 23000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Oxfort",
-      "categoryName": "Pantalon Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1IsyA46sVDP046LzJa1AlQuUlmvmQup5q&sz=s600-rw",
-      "carpeta_id": "1NxDsE-UE93kiK_sP9k1VRO611dp-DjTK",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT4575-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT4575-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT9048",
-      "sku": "Pant010",
-      "model": "Oxido",
-      "price": 27000,
-      "display_price": 25000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1yC-Ca42cxHjhznvU_NEigNEmBzdKpd0a&sz=s600-rw",
-      "carpeta_id": "14sttWmVo03v41E6zJFd6MEsGqV4AdgQ7",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT9048-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT9048-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "CINT4721",
-      "sku": "Cint001",
-      "model": "Varios",
-      "price": 12000,
-      "display_price": 10000,
-      "minor_surcharge": 0,
-      "category_id": "Cinturon",
-      "categoryName": "Cinturon",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "1Nha4DrpJPfklmxiOuNFj1lQteuFuvfc3",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "CINT4721-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "CINT4721-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "CINT4155",
-      "sku": "Cint002",
-      "model": "Varios 1",
-      "price": 15000,
-      "display_price": 13000,
-      "minor_surcharge": 0,
-      "category_id": "Cinturon",
-      "categoryName": "Cinturon",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "1Dl00Bd_bAp6H6k6fZStoBo4B0eDE7ocu",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "CINT4155-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "CINT4155-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "CINT1686",
-      "sku": "Cint003",
-      "model": "Varios 2",
-      "price": 19000,
-      "display_price": 17000,
-      "minor_surcharge": 0,
-      "category_id": "Cinturon",
-      "categoryName": "Cinturon",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "1QKDwb6_uOaxyrGNk2q_JuKD2G-728y5m",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "CINT1686-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "CINT1686-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "CINT6072",
-      "sku": "Cint004",
-      "model": "Varios 3",
-      "price": 21000,
-      "display_price": 19000,
-      "minor_surcharge": 0,
-      "category_id": "Cinturon",
-      "categoryName": "Cinturon",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "1jXBA6cJ6YwoZufVGLJca82uC2owTDmqe",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "CINT6072-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "CINT6072-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT3290",
-      "sku": "Pant011",
-      "model": "Estampado negro con reguladores",
-      "price": 27000,
-      "display_price": 25000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Medio",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=19db26HoQF2KGkRA9KkbvYG4PTILfyQdt&sz=s600-rw",
-      "carpeta_id": "1QUsWYqVPeRdNvy0TbgvZWzxvZppEe69n",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT3290-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT3290-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT7650",
-      "sku": "Pant006",
-      "model": "Azul elastizado",
-      "price": 26000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Maxi Wige",
-      "categoryName": "Pantalon Maxi Wige",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Alto",
-      "material": "Jeans Elastizado",
-      "sizes": "Surtido,34,36,38,40,42,44,46",
-      "talles": "Surtido,34,36,38,40,42,44,46",
-      "TALLES": "Surtido,34,36,38,40,42,44,46",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1KyEfvzMK1mwbs-4aU_9cwLYbu3senF4x&sz=s600-rw",
-      "carpeta_id": "1AvKpAvYDnzzAJEy4zhP45m83Idg8N_5Z",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT7650-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT7650-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT5578",
-      "sku": "Pant018",
-      "model": "Negro estampado",
-      "price": 25000,
-      "display_price": 23000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1VWfP5OIkwmZhiZaV5tBpZoFOEB-VE11v&sz=s600-rw",
-      "carpeta_id": "1rHfN8mPJrdsSJDfciW05zACodBuQSOmU",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT5578-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT5578-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "REME2429",
-      "sku": "Reme001",
-      "model": "Basicos",
-      "price": 10000,
-      "display_price": 8000,
-      "minor_surcharge": 0,
-      "category_id": "Remera",
-      "categoryName": "Remera",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Gabardina Rigido",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "1meIOA5eORilWAqIYGXSRyOhrp0Hx9lRF",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "REME2429-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "REME2429-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT3169",
-      "sku": "Pant012",
-      "model": "Bagy chocolate",
-      "price": 27000,
-      "display_price": 25000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Medio",
-      "material": "",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1rzJFBmU2-Fgzy20FQvVO5mo7wzYZItIB&sz=s600-rw",
-      "carpeta_id": "1R9sN2ppN4w6gGr6FpSvNUf3C7Gso5pOb",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT3169-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT3169-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT8348",
-      "sku": "Pant007",
-      "model": "Palazo print",
-      "price": 26000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Maxi Wige",
-      "categoryName": "Pantalon Maxi Wige",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Medio",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44,46",
-      "talles": "Surtido,34,36,38,40,42,44,46",
-      "TALLES": "Surtido,34,36,38,40,42,44,46",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1ELNlFN9mSchWoOUiwjpa1INvGabFIHiM&sz=s600-rw",
-      "carpeta_id": "1hp-e2GTXkc69u50IOUZsniFAtfIOrgjN",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT8348-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT8348-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "CAMP1837",
-      "sku": "Camp003",
-      "model": "Campera varios",
-      "price": 50000,
-      "display_price": 48000,
-      "minor_surcharge": 0,
-      "category_id": "Campera",
-      "categoryName": "Campera",
-      "parentCategory": "INDUMENTARIA",
-      "season": "INVIERNO",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1xMLwKsKeY3MulZzqtUxmF0tm3tERkebx&sz=s600-rw",
-      "carpeta_id": "1_q2r2by1fZWDyTDZIGheP9NMk8xhGLnb",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "CAMP1837-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "CAMP1837-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT5258",
-      "sku": "Pant018",
-      "model": "Wide chocolate",
-      "price": 25000,
-      "display_price": 23000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "",
-      "sizes": "Surtido,34,36,38,40,42,44,46",
-      "talles": "Surtido,34,36,38,40,42,44,46",
-      "TALLES": "Surtido,34,36,38,40,42,44,46",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1crw_7AmcMmBF9APzCP6M4AovAbN0ZZyL&sz=s600-rw",
-      "carpeta_id": "1E4qLWlbtn1WWLos1gFqguD4JE7QTULaM",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT5258-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT5258-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT3236",
-      "sku": "Pant019",
-      "model": "Nuevo print",
-      "price": 25000,
-      "display_price": 23000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "1EPGiSXiVjaQ60izAYfqbSyZAE2EjUODt",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT3236-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT3236-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT7325",
-      "sku": "Pant013",
-      "model": "Grisss",
-      "price": 25000,
-      "display_price": 23000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Bagy",
-      "categoryName": "Pantalon Bagy",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1YSsMsVyFtMlfE3V3S2IcO4_miiJKMJ6y&sz=s600-rw",
-      "carpeta_id": "1CsKg9K5H5YxktNGJa6G9Y3dBtQqmMt8W",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT7325-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT7325-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT5614",
-      "sku": "Pant021",
-      "model": "Animal print",
-      "price": 25000,
-      "display_price": 23000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1jWuVI9kABn1rmBF3gIsHYM0g1UPsD87G&sz=s600-rw",
-      "carpeta_id": "1Z-s3D4KRHzialtuNWORVAkC7lbw3Op3I",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT5614-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT5614-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT8838",
-      "sku": "Pant008",
-      "model": "Print gris",
-      "price": 26000,
-      "display_price": 24000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Maxi Wige",
-      "categoryName": "Pantalon Maxi Wige",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44,46",
-      "talles": "Surtido,34,36,38,40,42,44,46",
-      "TALLES": "Surtido,34,36,38,40,42,44,46",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1ovkunxKoWu2B_oBmEMXV0iOJm4-eMBV2&sz=s600-rw",
-      "carpeta_id": "1l-X9Xct8BWhqB2niDRfmF5hfbHiIyEgq",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT8838-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT8838-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT2110",
-      "sku": "Pant022",
-      "model": "Print claro",
-      "price": 27000,
-      "display_price": 25000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "1YV1wXUIWal2S-iNsS3GIHSz-Tut4vOfU",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT2110-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT2110-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "SHOR5537",
-      "sku": "Shor001",
-      "model": "print",
-      "price": 15000,
-      "display_price": 13000,
-      "minor_surcharge": 0,
-      "category_id": "Short",
-      "categoryName": "Short",
-      "parentCategory": "INDUMENTARIA",
-      "season": "VERANO",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42",
-      "talles": "Surtido,34,36,38,40,42",
-      "TALLES": "Surtido,34,36,38,40,42",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1l6VmT6htALYy3MAo2QHAOBbkaYR5mkU_&sz=s600-rw",
-      "carpeta_id": "1Ij9Kgs34qSs9Olo1El4CW-0J-U4XDaox",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "SHOR5537-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "SHOR5537-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "SHOR6699",
-      "sku": "Shor002",
-      "model": "celeste bordado",
-      "price": 19000,
-      "display_price": 17000,
-      "minor_surcharge": 0,
-      "category_id": "Short",
-      "categoryName": "Short",
-      "parentCategory": "INDUMENTARIA",
-      "season": "VERANO",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42",
-      "talles": "Surtido,34,36,38,40,42",
-      "TALLES": "Surtido,34,36,38,40,42",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=17HcFJtyFsBclFpCCnNdTFYzV-5UtlST_&sz=s600-rw",
-      "carpeta_id": "11evsSZLQ_m4JChG-5xbemXiMH8uI2khV",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "SHOR6699-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "SHOR6699-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "SHOR4839",
-      "sku": "Shor003",
-      "model": "Print claro",
-      "price": 15000,
-      "display_price": 13000,
-      "minor_surcharge": 0,
-      "category_id": "Short",
-      "categoryName": "Short",
-      "parentCategory": "INDUMENTARIA",
-      "season": "VERANO",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42",
-      "talles": "Surtido,34,36,38,40,42",
-      "TALLES": "Surtido,34,36,38,40,42",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1UfsCGPIIT_PmIoHe8JVDy3O-65_FGtSs&sz=s600-rw",
-      "carpeta_id": "1mh8w_rHDfcZ7j7C_jrB59fFbVMpN2o2v",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "SHOR4839-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "SHOR4839-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "POLL3123",
       "sku": "Poll001",
       "model": "Bordado",
@@ -3626,286 +3546,6 @@
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
           "variation_id": "POLL3123-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT6509",
-      "sku": "Pant020",
-      "model": "Negro con roturas",
-      "price": 24000,
-      "display_price": 22000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1Zh-EAWjOYn3AgpaLbjOyrYXlslbWC08e&sz=s600-rw",
-      "carpeta_id": "1dpRN8eRlgxDAQ-S2hnjJmDAmVZmyPe63",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT6509-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT6509-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "TOP5629",
-      "sku": "Top003",
-      "model": "Encaje",
-      "price": 20000,
-      "display_price": 20000,
-      "minor_surcharge": 0,
-      "category_id": "Top",
-      "categoryName": "Top",
-      "parentCategory": "INDUMENTARIA",
-      "season": "VERANO",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Elastizado",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1rDgD_h--X2EvHBFBAipHyhaSGpIzH8yS&sz=s600-rw",
-      "carpeta_id": "1Qx7I0cMaJdF_GJU-cAsgvXizbIHOAqG-",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "TOP5629-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "TOP5629-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "TOP2717",
-      "sku": "Top004",
-      "model": "Importado",
-      "price": 25000,
-      "display_price": 25000,
-      "minor_surcharge": 0,
-      "category_id": "Top",
-      "categoryName": "Top",
-      "parentCategory": "INDUMENTARIA",
-      "season": "VERANO",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Elastizado",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=19a9Pz3lTNZnfsKu7MnLs7qxxYgVhNPE7&sz=s600-rw",
-      "carpeta_id": "1dzG4ghDzQJk7vmLF3tMxSCnjU910P0h_",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "TOP2717-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "TOP2717-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT1241",
-      "sku": "Pant003",
-      "model": "Mom celeste",
-      "price": 22000,
-      "display_price": 20000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Moon",
-      "categoryName": "Pantalon Moon",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Medio",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44,46",
-      "talles": "Surtido,34,36,38,40,42,44,46",
-      "TALLES": "Surtido,34,36,38,40,42,44,46",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=16V3GDvTV4bhXBAIOHSeL_5E2b0PFeWD_&sz=s600-rw",
-      "carpeta_id": "1DJ5O3U6w6g8QVafCdr-BHhTRMMKmwrhs",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT1241-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT1241-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "SHOR9772",
-      "sku": "Shor004",
-      "model": "Celeste Oxido",
-      "price": 19000,
-      "display_price": 17000,
-      "minor_surcharge": 0,
-      "category_id": "Short",
-      "categoryName": "Short",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1iu3OGexJiCALf1EKal80sjt8xEAv247y&sz=s600-rw",
-      "carpeta_id": "1lLnayON_s7vFBU1dgIs6XF9kJWYiA8Cm",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "SHOR9772-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "SHOR9772-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT3257",
-      "sku": "Pant021",
-      "model": "Bordado wide",
-      "price": 27000,
-      "display_price": 25000,
-      "minor_surcharge": 0,
-      "category_id": "Pantalon Wige Leg",
-      "categoryName": "Pantalon Wige Leg",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1H08CDdeGUoFLwdRC5-T06NR3bIaX_z5_&sz=s600-rw",
-      "carpeta_id": "1-vKMsZaMWosM-UiWbKaAhYYIjBiM0i1A",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "PANT3257-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "PANT3257-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "SHOR5810",
-      "sku": "Shor005",
-      "model": "Short tachas",
-      "price": 19000,
-      "display_price": 17000,
-      "minor_surcharge": 0,
-      "category_id": "Short",
-      "categoryName": "Short",
-      "parentCategory": "INDUMENTARIA",
-      "season": "VERANO",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1ACzrW1cdjOWVTt_pTk0RvJQTlWTAmd8E&sz=s600-rw",
-      "carpeta_id": "1SUxzA7lDB632clGFFcSzmpcLBDngZxhU",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "SHOR5810-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "SHOR5810-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -3951,41 +3591,401 @@
       "fecha_creacion": ""
     },
     {
-      "id": "BERM3599",
-      "sku": "Berm001",
-      "model": "Edtampado beige",
-      "price": 20000,
-      "display_price": 18000,
+      "id": "REME2429",
+      "sku": "Reme001",
+      "model": "Basicos",
+      "price": 10000,
+      "display_price": 8000,
       "minor_surcharge": 0,
-      "category_id": "Bermuda",
-      "categoryName": "Bermuda",
+      "category_id": "Remera",
+      "categoryName": "Remera",
       "parentCategory": "INDUMENTARIA",
-      "season": "VERANO",
+      "season": "SIN-TEMPORADA",
       "gender": "Mujer",
       "brand": "MINOM OFICIAL",
       "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42,44,46",
-      "talles": "Surtido,34,36,38,40,42,44,46",
-      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "material": "Gabardina Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
       "ageGroup": "Teens",
       "grupo_edad": "Teens",
       "GRUPO_EDAD": "Teens",
       "image": "",
-      "carpeta_id": "1XigtqQJAGH7tn0TwpJz51mt3vR7MK1J_",
+      "carpeta_id": "1meIOA5eORilWAqIYGXSRyOhrp0Hx9lRF",
       "woo_id": "",
       "variations": [
         {
           "color": "Surtido",
           "size": "Surtido",
           "store_id": "MINOM OFICIAL",
-          "variation_id": "BERM3599-Surtido-Surtido-MINOM OFICIAL"
+          "variation_id": "REME2429-Surtido-Surtido-MINOM OFICIAL"
         },
         {
           "color": "Surtido",
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
-          "variation_id": "BERM3599-Surtido-Surtido-MINOM ARGERICH"
+          "variation_id": "REME2429-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR4839",
+      "sku": "Shor003",
+      "model": "Print claro",
+      "price": 15000,
+      "display_price": 13000,
+      "minor_surcharge": 0,
+      "category_id": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42",
+      "talles": "Surtido,34,36,38,40,42",
+      "TALLES": "Surtido,34,36,38,40,42",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1UfsCGPIIT_PmIoHe8JVDy3O-65_FGtSs&sz=s600-rw",
+      "carpeta_id": "1mh8w_rHDfcZ7j7C_jrB59fFbVMpN2o2v",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "SHOR4839-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "SHOR4839-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR5537",
+      "sku": "Shor001",
+      "model": "print",
+      "price": 15000,
+      "display_price": 13000,
+      "minor_surcharge": 0,
+      "category_id": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42",
+      "talles": "Surtido,34,36,38,40,42",
+      "TALLES": "Surtido,34,36,38,40,42",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1l6VmT6htALYy3MAo2QHAOBbkaYR5mkU_&sz=s600-rw",
+      "carpeta_id": "1Ij9Kgs34qSs9Olo1El4CW-0J-U4XDaox",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "SHOR5537-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "SHOR5537-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR5810",
+      "sku": "Shor005",
+      "model": "Short tachas",
+      "price": 19000,
+      "display_price": 17000,
+      "minor_surcharge": 0,
+      "category_id": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1ACzrW1cdjOWVTt_pTk0RvJQTlWTAmd8E&sz=s600-rw",
+      "carpeta_id": "1SUxzA7lDB632clGFFcSzmpcLBDngZxhU",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "SHOR5810-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "SHOR5810-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR6699",
+      "sku": "Shor002",
+      "model": "celeste bordado",
+      "price": 19000,
+      "display_price": 17000,
+      "minor_surcharge": 0,
+      "category_id": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42",
+      "talles": "Surtido,34,36,38,40,42",
+      "TALLES": "Surtido,34,36,38,40,42",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=17HcFJtyFsBclFpCCnNdTFYzV-5UtlST_&sz=s600-rw",
+      "carpeta_id": "11evsSZLQ_m4JChG-5xbemXiMH8uI2khV",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "SHOR6699-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "SHOR6699-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR9772",
+      "sku": "Shor004",
+      "model": "Celeste Oxido",
+      "price": 19000,
+      "display_price": 17000,
+      "minor_surcharge": 0,
+      "category_id": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1iu3OGexJiCALf1EKal80sjt8xEAv247y&sz=s600-rw",
+      "carpeta_id": "1lLnayON_s7vFBU1dgIs6XF9kJWYiA8Cm",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "SHOR9772-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "SHOR9772-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "TOP1511",
+      "sku": "Top001",
+      "model": "Top colores",
+      "price": 12000,
+      "display_price": 12000,
+      "minor_surcharge": 0,
+      "category_id": "Top",
+      "categoryName": "Top",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=16Z7CkC5v1B12q1g_b6sHrP1g4Rc-hwOe&sz=s600-rw",
+      "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "TOP1511-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "TOP1511-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "TOP2717",
+      "sku": "Top004",
+      "model": "Importado",
+      "price": 25000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Top",
+      "categoryName": "Top",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Elastizado",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=19a9Pz3lTNZnfsKu7MnLs7qxxYgVhNPE7&sz=s600-rw",
+      "carpeta_id": "1dzG4ghDzQJk7vmLF3tMxSCnjU910P0h_",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "TOP2717-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "TOP2717-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "TOP5629",
+      "sku": "Top003",
+      "model": "Encaje",
+      "price": 20000,
+      "display_price": 20000,
+      "minor_surcharge": 0,
+      "category_id": "Top",
+      "categoryName": "Top",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Elastizado",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1rDgD_h--X2EvHBFBAipHyhaSGpIzH8yS&sz=s600-rw",
+      "carpeta_id": "1Qx7I0cMaJdF_GJU-cAsgvXizbIHOAqG-",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "TOP5629-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "TOP5629-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "TOP5771",
+      "sku": "Top002",
+      "model": "top 2",
+      "price": 16000,
+      "display_price": 16000,
+      "minor_surcharge": 0,
+      "category_id": "Top",
+      "categoryName": "Top",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1ogZPbCQjXDUJFpm-iI2_90mNpVVLWdzr&sz=s600-rw",
+      "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "TOP5771-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "TOP5771-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -4050,6 +4050,244 @@
     "CARRUSELES": ""
   },
   "allVarieties": {
+    "BERM3599": [
+      {
+        "variedad_id": "BERM3599-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 18000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "BERM3599-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "BERM3599-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "CAMP1837": [
+      {
+        "variedad_id": "CAMP1837-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 48000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP1837-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 50000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CAMP1837-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 55000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "CINT1686": [
+      {
+        "variedad_id": "CINT1686-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT1686-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 19000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT1686-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "CINT4155": [
+      {
+        "variedad_id": "CINT4155-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 13000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT4155-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT4155-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "CINT4721": [
+      {
+        "variedad_id": "CINT4721-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 10000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT4721-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 12000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT4721-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 17000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "CINT6072": [
+      {
+        "variedad_id": "CINT6072-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 19000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT6072-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 21000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "CINT6072-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "OFER1572": [
+      {
+        "variedad_id": "OFER1572-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "OFER2503": [
+      {
+        "variedad_id": "OFER2503-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 18000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "OFER6488": [
+      {
+        "variedad_id": "OFER6488-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "OFER6855": [
+      {
+        "variedad_id": "OFER6855-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "OFER8592": [
+      {
+        "variedad_id": "OFER8592-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 17000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "OFER9830": [
+      {
+        "variedad_id": "OFER9830-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT1241": [
+      {
+        "variedad_id": "PANT1241-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 20000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT1241-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 22000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT1241-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT1847": [
+      {
+        "variedad_id": "PANT1847-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 24000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT1847-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT1847-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 31000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
     "PANT1883": [
       {
         "variedad_id": "PANT1883-Curva",
@@ -4069,6 +4307,75 @@
         "variedad_id": "PANT1883-Menor",
         "nombre": "Menor",
         "precio_unitario": 34000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT1947": [
+      {
+        "variedad_id": "PANT1947-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT1947-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT1947-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT2110": [
+      {
+        "variedad_id": "PANT2110-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2110-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2110-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT2259": [
+      {
+        "variedad_id": "PANT2259-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2259-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2259-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4165,6 +4472,52 @@
         "visible": true
       }
     ],
+    "PANT2841": [
+      {
+        "variedad_id": "PANT2841-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 16000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2841-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 18000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2841-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT2969": [
+      {
+        "variedad_id": "PANT2969-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 24000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2969-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT2969-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 31000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
     "PANT3144": [
       {
         "variedad_id": "PANT3144-Curva",
@@ -4184,6 +4537,29 @@
         "variedad_id": "PANT3144-Menor",
         "nombre": "Menor",
         "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT3169": [
+      {
+        "variedad_id": "PANT3169-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3169-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3169-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4211,6 +4587,75 @@
         "visible": true
       }
     ],
+    "PANT3236": [
+      {
+        "variedad_id": "PANT3236-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 23000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3236-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3236-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT3257": [
+      {
+        "variedad_id": "PANT3257-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3257-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3257-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT3290": [
+      {
+        "variedad_id": "PANT3290-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3290-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3290-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
     "PANT3437": [
       {
         "variedad_id": "PANT3437-Curva",
@@ -4230,6 +4675,52 @@
         "variedad_id": "PANT3437-Menor",
         "nombre": "Menor",
         "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT3628": [
+      {
+        "variedad_id": "PANT3628-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 24000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3628-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3628-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 31000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT3769": [
+      {
+        "variedad_id": "PANT3769-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3769-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT3769-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4257,6 +4748,29 @@
         "visible": true
       }
     ],
+    "PANT4023": [
+      {
+        "variedad_id": "PANT4023-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 27000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4023-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 29000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4023-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 34000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
     "PANT4330": [
       {
         "variedad_id": "PANT4330-Curva",
@@ -4280,6 +4794,52 @@
         "visible": true
       }
     ],
+    "PANT4385": [
+      {
+        "variedad_id": "PANT4385-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4385-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4385-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT4545": [
+      {
+        "variedad_id": "PANT4545-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 22000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4545-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4545-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 29000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
     "PANT4551": [
       {
         "variedad_id": "PANT4551-Curva",
@@ -4297,6 +4857,29 @@
       },
       {
         "variedad_id": "PANT4551-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT4575": [
+      {
+        "variedad_id": "PANT4575-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 23000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4575-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4575-Menor",
         "nombre": "Menor",
         "precio_unitario": 30000,
         "cantidad_minima": 1,
@@ -4349,6 +4932,52 @@
         "visible": true
       }
     ],
+    "PANT4710": [
+      {
+        "variedad_id": "PANT4710-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 18000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4710-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4710-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT4723": [
+      {
+        "variedad_id": "PANT4723-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 22000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4723-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4723-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 29000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
     "PANT4779": [
       {
         "variedad_id": "PANT4779-Curva",
@@ -4372,6 +5001,98 @@
         "visible": true
       }
     ],
+    "PANT4983": [
+      {
+        "variedad_id": "PANT4983-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 27000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4983-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 29000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT4983-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 34000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT5258": [
+      {
+        "variedad_id": "PANT5258-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 23000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5258-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5258-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT5578": [
+      {
+        "variedad_id": "PANT5578-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 23000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5578-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5578-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT5614": [
+      {
+        "variedad_id": "PANT5614-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 23000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5614-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5614-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
     "PANT5798": [
       {
         "variedad_id": "PANT5798-Curva",
@@ -4391,6 +5112,52 @@
         "variedad_id": "PANT5798-Menor",
         "nombre": "Menor",
         "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT5968": [
+      {
+        "variedad_id": "PANT5968-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5968-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT5968-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT6509": [
+      {
+        "variedad_id": "PANT6509-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 22000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT6509-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT6509-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 29000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4437,6 +5204,29 @@
         "variedad_id": "PANT7106-Menor",
         "nombre": "Menor",
         "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT7325": [
+      {
+        "variedad_id": "PANT7325-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7325-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7325-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4510,6 +5300,29 @@
         "visible": true
       }
     ],
+    "PANT7650": [
+      {
+        "variedad_id": "PANT7650-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 24000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7650-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7650-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 31000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
     "PANT7858": [
       {
         "variedad_id": "PANT7858-Curva",
@@ -4533,6 +5346,75 @@
         "visible": true
       }
     ],
+    "PANT7862": [
+      {
+        "variedad_id": "PANT7862-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 21000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7862-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT7862-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT8140": [
+      {
+        "variedad_id": "PANT8140-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 24000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8140-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8140-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 31000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT8193": [
+      {
+        "variedad_id": "PANT8193-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8193-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8193-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
     "PANT8212": [
       {
         "variedad_id": "PANT8212-Curva",
@@ -4552,6 +5434,29 @@
         "variedad_id": "PANT8212-Menor",
         "nombre": "Menor",
         "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT8348": [
+      {
+        "variedad_id": "PANT8348-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 24000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8348-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8348-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 31000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4648,6 +5553,29 @@
         "visible": true
       }
     ],
+    "PANT8838": [
+      {
+        "variedad_id": "PANT8838-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 24000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8838-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 26000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8838-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 31000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
     "PANT8904": [
       {
         "variedad_id": "PANT8904-Curva",
@@ -4667,6 +5595,75 @@
         "variedad_id": "PANT8904-Menor",
         "nombre": "Menor",
         "precio_unitario": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT8946": [
+      {
+        "variedad_id": "PANT8946-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8946-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT8946-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT9048": [
+      {
+        "variedad_id": "PANT9048-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT9048-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT9048-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "PANT9126": [
+      {
+        "variedad_id": "PANT9126-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT9126-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "PANT9126-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -4786,1003 +5783,6 @@
         "visible": true
       }
     ],
-    "OFER1572": [
-      {
-        "variedad_id": "OFER1572-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 20000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT4983": [
-      {
-        "variedad_id": "PANT4983-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 27000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4983-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 29000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4983-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 34000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT8193": [
-      {
-        "variedad_id": "PANT8193-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 25000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8193-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8193-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT9126": [
-      {
-        "variedad_id": "PANT9126-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 25000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT9126-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT9126-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT4023": [
-      {
-        "variedad_id": "PANT4023-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 27000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4023-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 29000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4023-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 34000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT2841": [
-      {
-        "variedad_id": "PANT2841-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 16000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2841-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 18000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2841-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT8946": [
-      {
-        "variedad_id": "PANT8946-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 25000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8946-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8946-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT1847": [
-      {
-        "variedad_id": "PANT1847-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 24000,
-        "cantidad_minima": 7,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT1847-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 26000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT1847-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 31000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT1947": [
-      {
-        "variedad_id": "PANT1947-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 25000,
-        "cantidad_minima": 7,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT1947-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT1947-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT2969": [
-      {
-        "variedad_id": "PANT2969-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 24000,
-        "cantidad_minima": 7,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2969-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 26000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2969-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 31000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT3769": [
-      {
-        "variedad_id": "PANT3769-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 25000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT3769-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT3769-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "OFER8592": [
-      {
-        "variedad_id": "OFER8592-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 17000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "OFER2503": [
-      {
-        "variedad_id": "OFER2503-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 18000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "OFER6855": [
-      {
-        "variedad_id": "OFER6855-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 20000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "OFER6488": [
-      {
-        "variedad_id": "OFER6488-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "OFER9830": [
-      {
-        "variedad_id": "OFER9830-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 15000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT3628": [
-      {
-        "variedad_id": "PANT3628-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 24000,
-        "cantidad_minima": 7,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT3628-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 26000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT3628-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 31000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT2259": [
-      {
-        "variedad_id": "PANT2259-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 21000,
-        "cantidad_minima": 7,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2259-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2259-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 28000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT5968": [
-      {
-        "variedad_id": "PANT5968-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 21000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT5968-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT5968-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 28000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT4545": [
-      {
-        "variedad_id": "PANT4545-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 22000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4545-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 24000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4545-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 29000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT7862": [
-      {
-        "variedad_id": "PANT7862-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 21000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT7862-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT7862-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 28000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT4385": [
-      {
-        "variedad_id": "PANT4385-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 21000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4385-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4385-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 28000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT4723": [
-      {
-        "variedad_id": "PANT4723-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 22000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4723-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 24000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4723-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 29000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT8140": [
-      {
-        "variedad_id": "PANT8140-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 24000,
-        "cantidad_minima": 7,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8140-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 26000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8140-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 31000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT4710": [
-      {
-        "variedad_id": "PANT4710-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 18000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4710-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 20000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4710-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT4575": [
-      {
-        "variedad_id": "PANT4575-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 23000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4575-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT4575-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT9048": [
-      {
-        "variedad_id": "PANT9048-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 25000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT9048-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT9048-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "CINT4721": [
-      {
-        "variedad_id": "CINT4721-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 10000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CINT4721-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 12000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CINT4721-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 17000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "CINT4155": [
-      {
-        "variedad_id": "CINT4155-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 13000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CINT4155-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 15000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CINT4155-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 20000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "CINT1686": [
-      {
-        "variedad_id": "CINT1686-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 17000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CINT1686-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 19000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CINT1686-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 24000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "CINT6072": [
-      {
-        "variedad_id": "CINT6072-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 19000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CINT6072-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 21000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CINT6072-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 26000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT3290": [
-      {
-        "variedad_id": "PANT3290-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 25000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT3290-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT3290-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT7650": [
-      {
-        "variedad_id": "PANT7650-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 24000,
-        "cantidad_minima": 7,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT7650-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 26000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT7650-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 31000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT5578": [
-      {
-        "variedad_id": "PANT5578-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 23000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT5578-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT5578-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "REME2429": [
-      {
-        "variedad_id": "REME2429-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 8000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "REME2429-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 10000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "REME2429-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 15000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT3169": [
-      {
-        "variedad_id": "PANT3169-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 25000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT3169-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT3169-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT8348": [
-      {
-        "variedad_id": "PANT8348-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 24000,
-        "cantidad_minima": 7,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8348-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 26000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8348-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 31000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "CAMP1837": [
-      {
-        "variedad_id": "CAMP1837-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 48000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP1837-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 50000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "CAMP1837-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 55000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT5258": [
-      {
-        "variedad_id": "PANT5258-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 23000,
-        "cantidad_minima": 7,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT5258-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT5258-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT3236": [
-      {
-        "variedad_id": "PANT3236-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 23000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT3236-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT3236-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT7325": [
-      {
-        "variedad_id": "PANT7325-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 23000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT7325-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT7325-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT5614": [
-      {
-        "variedad_id": "PANT5614-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 23000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT5614-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 25000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT5614-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT8838": [
-      {
-        "variedad_id": "PANT8838-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 24000,
-        "cantidad_minima": 7,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8838-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 26000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT8838-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 31000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT2110": [
-      {
-        "variedad_id": "PANT2110-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 25000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2110-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT2110-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "SHOR5537": [
-      {
-        "variedad_id": "SHOR5537-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 13000,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
-        "variedad_id": "SHOR5537-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 15000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "SHOR5537-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 20000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "SHOR6699": [
-      {
-        "variedad_id": "SHOR6699-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 17000,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
-        "variedad_id": "SHOR6699-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 19000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "SHOR6699-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 24000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "SHOR4839": [
-      {
-        "variedad_id": "SHOR4839-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 13000,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
-        "variedad_id": "SHOR4839-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 15000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "SHOR4839-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 20000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
     "POLL3123": [
       {
         "variedad_id": "POLL3123-Curva",
@@ -5802,157 +5802,6 @@
         "variedad_id": "POLL3123-Menor",
         "nombre": "Menor",
         "precio_unitario": 24000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT6509": [
-      {
-        "variedad_id": "PANT6509-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 22000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT6509-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 24000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT6509-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 29000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT1241": [
-      {
-        "variedad_id": "PANT1241-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 20000,
-        "cantidad_minima": 7,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT1241-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 22000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT1241-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "SHOR9772": [
-      {
-        "variedad_id": "SHOR9772-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 17000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "SHOR9772-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 19000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "SHOR9772-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 24000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "PANT3257": [
-      {
-        "variedad_id": "PANT3257-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 25000,
-        "cantidad_minima": 6,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT3257-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 27000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "PANT3257-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 32000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "SHOR5810": [
-      {
-        "variedad_id": "SHOR5810-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 17000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "SHOR5810-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 19000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "SHOR5810-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 24000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "TOP1511": [
-      {
-        "variedad_id": "TOP1511-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 12000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "TOP5771": [
-      {
-        "variedad_id": "TOP5771-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 16000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "TOP5629": [
-      {
-        "variedad_id": "TOP5629-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 20000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "TOP2717": [
-      {
-        "variedad_id": "TOP2717-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 25000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -5980,25 +5829,176 @@
         "visible": true
       }
     ],
-    "BERM3599": [
+    "REME2429": [
       {
-        "variedad_id": "BERM3599-Curva",
+        "variedad_id": "REME2429-Curva",
         "nombre": "Curva",
-        "precio_unitario": 18000,
-        "cantidad_minima": 7,
-        "visible": true
-      },
-      {
-        "variedad_id": "BERM3599-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 20000,
+        "precio_unitario": 8000,
         "cantidad_minima": 1,
         "visible": true
       },
       {
-        "variedad_id": "BERM3599-Menor",
+        "variedad_id": "REME2429-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 10000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "REME2429-Menor",
         "nombre": "Menor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "SHOR4839": [
+      {
+        "variedad_id": "SHOR4839-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 13000,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR4839-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR4839-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "SHOR5537": [
+      {
+        "variedad_id": "SHOR5537-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 13000,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR5537-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR5537-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "SHOR5810": [
+      {
+        "variedad_id": "SHOR5810-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR5810-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 19000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR5810-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "SHOR6699": [
+      {
+        "variedad_id": "SHOR6699-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR6699-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 19000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR6699-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "SHOR9772": [
+      {
+        "variedad_id": "SHOR9772-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR9772-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 19000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR9772-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "TOP1511": [
+      {
+        "variedad_id": "TOP1511-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 12000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "TOP2717": [
+      {
+        "variedad_id": "TOP2717-Mayor",
+        "nombre": "Mayor",
         "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "TOP5629": [
+      {
+        "variedad_id": "TOP5629-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "TOP5771": [
+      {
+        "variedad_id": "TOP5771-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 16000,
         "cantidad_minima": 1,
         "visible": true
       }
@@ -6093,5 +6093,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788796492517
+  "timestamp_ms": 1788797421369
 }
