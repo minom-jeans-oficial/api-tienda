@@ -8628,6 +8628,129 @@
             {
               "codigo": 199,
               "categoria": "Pantalon Wige Leg",
+              "nombre": "PANT6359",
+              "carpeta_id": "1-FdCZRZR7Y36lfjpUOELjC4cdC1uKfBB",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Negro elastizado con recorte"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Alto"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jeans Elastizado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44",
+                    "46"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "300",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "09-09-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT6359%0A%F0%9F%94%B9%20Modelo%3A%20Negro%20elastizado%20con%20recorte%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1jwVt6IQAA8shDXyG7YVYX3C4hVefVoJj&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1jwVt6IQAA8shDXyG7YVYX3C4hVefVoJj&sz=s600-rw",
+                  "archivo_id": "1jwVt6IQAA8shDXyG7YVYX3C4hVefVoJj",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-09T17:07:33.175Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 23000,
+                  "variedad": "Curva",
+                  "minima": 7,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 25000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 30000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-09-09T03:00:00.000Z"
+            },
+            {
+              "codigo": 202,
+              "categoria": "Pantalon Wige Leg",
               "nombre": "PANT6509",
               "carpeta_id": "1dpRN8eRlgxDAQ-S2hnjJmDAmVZmyPe63",
               "descripcion": {
@@ -8748,7 +8871,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 202,
+              "codigo": 205,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7432",
               "carpeta_id": "16jLb-v4SFvIZTHYv67EBzoAjf01-R-ws",
@@ -8861,7 +8984,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 205,
+              "codigo": 208,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7858",
               "carpeta_id": "1Nt_g-g_rqtLwmGcm-hTaDceSC0HIFTHt",
@@ -8983,7 +9106,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 208,
+              "codigo": 211,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT7862",
               "carpeta_id": "1c1B168PjaSk9Tq3vUe247w16eTtKBiYU",
@@ -9105,7 +9228,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 211,
+              "codigo": 214,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8389",
               "carpeta_id": "1kI7x0VKM0RwEOQb4vb7pq-Tu74wBosHf",
@@ -9216,7 +9339,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 214,
+              "codigo": 217,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8811",
               "carpeta_id": "1XAvHKZAKZXRG-IAzirYkwPYAB39gHPgh",
@@ -9337,7 +9460,7 @@
               "upd": "2026-07-16T03:00:00.000Z"
             },
             {
-              "codigo": 217,
+              "codigo": 220,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT8904",
               "carpeta_id": "18hp_wYAWzzLzDVHpsbv5CSaSjlPcgmv5",
@@ -9459,7 +9582,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 220,
+              "codigo": 223,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9228",
               "carpeta_id": "1oXI-FqpZm7vGcT9n7YO2vQkPnA18jihY",
@@ -9581,7 +9704,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 223,
+              "codigo": 226,
               "categoria": "Pantalon Wige Leg",
               "nombre": "PANT9681",
               "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
@@ -9736,7 +9859,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pollera.svg",
           "producto": [
             {
-              "codigo": 226,
+              "codigo": 229,
               "categoria": "Pollera",
               "nombre": "POLL3123",
               "carpeta_id": "1YH2JcqGVpjOZNtiOed-rA4VmEpef9HLj",
@@ -9852,7 +9975,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 229,
+              "codigo": 232,
               "categoria": "Pollera",
               "nombre": "POLL7459",
               "carpeta_id": "1IOOiV35sl2EW7nD0tv79e2p0WRqrsJYu",
@@ -9976,7 +10099,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 232,
+              "codigo": 235,
               "categoria": "Remera",
               "nombre": "REME2429",
               "carpeta_id": "1meIOA5eORilWAqIYGXSRyOhrp0Hx9lRF",
@@ -10083,7 +10206,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg",
           "producto": [
             {
-              "codigo": 235,
+              "codigo": 238,
               "categoria": "Short",
               "nombre": "SHOR4839",
               "carpeta_id": "1mh8w_rHDfcZ7j7C_jrB59fFbVMpN2o2v",
@@ -10282,7 +10405,7 @@
               "upd": "2026-08-26T03:00:00.000Z"
             },
             {
-              "codigo": 238,
+              "codigo": 241,
               "categoria": "Short",
               "nombre": "SHOR5537",
               "carpeta_id": "1Ij9Kgs34qSs9Olo1El4CW-0J-U4XDaox",
@@ -10447,7 +10570,7 @@
               "upd": "2026-08-22T03:00:00.000Z"
             },
             {
-              "codigo": 241,
+              "codigo": 244,
               "categoria": "Short",
               "nombre": "SHOR5810",
               "carpeta_id": "1SUxzA7lDB632clGFFcSzmpcLBDngZxhU",
@@ -10563,7 +10686,7 @@
               "upd": "2026-08-29T03:00:00.000Z"
             },
             {
-              "codigo": 244,
+              "codigo": 247,
               "categoria": "Short",
               "nombre": "SHOR6699",
               "carpeta_id": "11evsSZLQ_m4JChG-5xbemXiMH8uI2khV",
@@ -10684,7 +10807,7 @@
               "upd": "2026-08-22T03:00:00.000Z"
             },
             {
-              "codigo": 247,
+              "codigo": 250,
               "categoria": "Short",
               "nombre": "SHOR9772",
               "carpeta_id": "1lLnayON_s7vFBU1dgIs6XF9kJWYiA8Cm",
@@ -10835,7 +10958,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
           "producto": [
             {
-              "codigo": 250,
+              "codigo": 253,
               "categoria": "Top",
               "nombre": "TOP1511",
               "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
@@ -10927,7 +11050,7 @@
               "upd": "2026-09-02T03:00:00.000Z"
             },
             {
-              "codigo": 251,
+              "codigo": 254,
               "categoria": "Top",
               "nombre": "TOP2717",
               "carpeta_id": "1dzG4ghDzQJk7vmLF3tMxSCnjU910P0h_",
@@ -11041,7 +11164,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 252,
+              "codigo": 255,
               "categoria": "Top",
               "nombre": "TOP5629",
               "carpeta_id": "1Qx7I0cMaJdF_GJU-cAsgvXizbIHOAqG-",
@@ -11133,7 +11256,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 253,
+              "codigo": 256,
               "categoria": "Top",
               "nombre": "TOP5771",
               "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
@@ -11226,5 +11349,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1788971124245
+  "timestamp_ms": 1788973791890
 }
