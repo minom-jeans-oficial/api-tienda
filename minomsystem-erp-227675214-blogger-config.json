@@ -10070,7 +10070,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "03-09-2026"
+                  "valor": "09-09-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -10475,6 +10475,122 @@
             {
               "codigo": 244,
               "categoria": "Short",
+              "nombre": "SHOR4724",
+              "carpeta_id": "1sOksnU9thCpGEru5zdykkvMSYv96REKq",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Celeste deflecado"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jeans Rigido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "300",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "09-09-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SHOR4724%0A%F0%9F%94%B9%20Modelo%3A%20Celeste%20deflecado%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1MlqOQ9uuTQYkT4Am-H6yJuORgRPMvm1z&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1MlqOQ9uuTQYkT4Am-H6yJuORgRPMvm1z&sz=s600-rw",
+                  "archivo_id": "1MlqOQ9uuTQYkT4Am-H6yJuORgRPMvm1z",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-09T18:36:36.036Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 13000,
+                  "variedad": "Curva",
+                  "minima": 0,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 15000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-09-09T03:00:00.000Z"
+            },
+            {
+              "codigo": 247,
+              "categoria": "Short",
               "nombre": "SHOR4839",
               "carpeta_id": "1mh8w_rHDfcZ7j7C_jrB59fFbVMpN2o2v",
               "descripcion": {
@@ -10672,7 +10788,7 @@
               "upd": "2026-08-26T03:00:00.000Z"
             },
             {
-              "codigo": 247,
+              "codigo": 250,
               "categoria": "Short",
               "nombre": "SHOR5537",
               "carpeta_id": "1Ij9Kgs34qSs9Olo1El4CW-0J-U4XDaox",
@@ -10837,7 +10953,7 @@
               "upd": "2026-08-22T03:00:00.000Z"
             },
             {
-              "codigo": 250,
+              "codigo": 253,
               "categoria": "Short",
               "nombre": "SHOR5810",
               "carpeta_id": "1SUxzA7lDB632clGFFcSzmpcLBDngZxhU",
@@ -10953,7 +11069,7 @@
               "upd": "2026-08-29T03:00:00.000Z"
             },
             {
-              "codigo": 253,
+              "codigo": 256,
               "categoria": "Short",
               "nombre": "SHOR6699",
               "carpeta_id": "11evsSZLQ_m4JChG-5xbemXiMH8uI2khV",
@@ -11074,7 +11190,7 @@
               "upd": "2026-08-22T03:00:00.000Z"
             },
             {
-              "codigo": 256,
+              "codigo": 259,
               "categoria": "Short",
               "nombre": "SHOR9772",
               "carpeta_id": "1lLnayON_s7vFBU1dgIs6XF9kJWYiA8Cm",
@@ -11225,7 +11341,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
           "producto": [
             {
-              "codigo": 259,
+              "codigo": 262,
               "categoria": "Top",
               "nombre": "TOP1511",
               "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
@@ -11317,7 +11433,7 @@
               "upd": "2026-09-02T03:00:00.000Z"
             },
             {
-              "codigo": 260,
+              "codigo": 263,
               "categoria": "Top",
               "nombre": "TOP2717",
               "carpeta_id": "1dzG4ghDzQJk7vmLF3tMxSCnjU910P0h_",
@@ -11431,7 +11547,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 261,
+              "codigo": 264,
               "categoria": "Top",
               "nombre": "TOP5629",
               "carpeta_id": "1Qx7I0cMaJdF_GJU-cAsgvXizbIHOAqG-",
@@ -11523,7 +11639,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 262,
+              "codigo": 265,
               "categoria": "Top",
               "nombre": "TOP5771",
               "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
@@ -11616,5 +11732,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1788978258034
+  "timestamp_ms": 1788979168159
 }
