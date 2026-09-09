@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:07:49.098Z",
+  "generated_at": "2026-09-09T17:22:53.186Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -4029,6 +4029,86 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR3989",
+      "sku": "Shor006",
+      "model": "Negro",
+      "price": 15000,
+      "display_price": 13000,
+      "minor_surcharge": 0,
+      "category_id": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=12-EwdXU00cEUTiXPsJbcAsKcczEmOFBK&sz=s600-rw",
+      "carpeta_id": "1Iy5hRJ5RUHvtq5MAvJ1hgRDZxp_w1B5S",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "SHOR3989-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "SHOR3989-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR4641",
+      "sku": "Shor007",
+      "model": "Negro tachas",
+      "price": 19000,
+      "display_price": 17000,
+      "minor_surcharge": 0,
+      "category_id": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "",
+      "sizes": "Surtido,34,36,38,40,42",
+      "talles": "Surtido,34,36,38,40,42",
+      "TALLES": "Surtido,34,36,38,40,42",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1MnQ08hk21kt2POHofqmSwbAXTUPkNTO1&sz=s600-rw",
+      "carpeta_id": "1jFfm87qmDTefYCwq_sFCb0VImbow4iOj",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "SHOR4641-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "SHOR4641-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -6065,6 +6145,52 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "SHOR3989": [
+      {
+        "variedad_id": "SHOR3989-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 13000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR3989-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR3989-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "SHOR4641": [
+      {
+        "variedad_id": "SHOR4641-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 17000,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR4641-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 19000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR4641-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 24000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -6156,5 +6282,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1788973762342
+  "timestamp_ms": 1788974718997
 }
