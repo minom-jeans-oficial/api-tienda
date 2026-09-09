@@ -9912,7 +9912,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "220",
+                  "valor": "215",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -9951,7 +9951,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "220"
+                          "stock": "215"
                         }
                       ]
                     }
@@ -10208,6 +10208,243 @@
             {
               "codigo": 238,
               "categoria": "Short",
+              "nombre": "SHOR3989",
+              "carpeta_id": "1Iy5hRJ5RUHvtq5MAvJ1hgRDZxp_w1B5S",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Negro"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jeans Rigido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "600",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "09-09-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SHOR3989%0A%F0%9F%94%B9%20Modelo%3A%20Negro%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=12-EwdXU00cEUTiXPsJbcAsKcczEmOFBK&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=12-EwdXU00cEUTiXPsJbcAsKcczEmOFBK&sz=s600-rw",
+                  "archivo_id": "12-EwdXU00cEUTiXPsJbcAsKcczEmOFBK",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-09T17:10:26.360Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 13000,
+                  "variedad": "Curva",
+                  "minima": 0,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "600"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 15000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-09-09T03:00:00.000Z"
+            },
+            {
+              "codigo": 241,
+              "categoria": "Short",
+              "nombre": "SHOR4641",
+              "carpeta_id": "1jFfm87qmDTefYCwq_sFCb0VImbow4iOj",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Negro tachas"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "-"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "VERANO",
+                  "icono": "☀️"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "400",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "09-09-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SHOR4641%0A%F0%9F%94%B9%20Modelo%3A%20Negro%20tachas%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1MnQ08hk21kt2POHofqmSwbAXTUPkNTO1&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1MnQ08hk21kt2POHofqmSwbAXTUPkNTO1&sz=s600-rw",
+                  "archivo_id": "1MnQ08hk21kt2POHofqmSwbAXTUPkNTO1",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-09T17:12:08.776Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 17000,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "400"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 19000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 24000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-09-09T03:00:00.000Z"
+            },
+            {
+              "codigo": 244,
+              "categoria": "Short",
               "nombre": "SHOR4839",
               "carpeta_id": "1mh8w_rHDfcZ7j7C_jrB59fFbVMpN2o2v",
               "descripcion": {
@@ -10405,7 +10642,7 @@
               "upd": "2026-08-26T03:00:00.000Z"
             },
             {
-              "codigo": 241,
+              "codigo": 247,
               "categoria": "Short",
               "nombre": "SHOR5537",
               "carpeta_id": "1Ij9Kgs34qSs9Olo1El4CW-0J-U4XDaox",
@@ -10570,7 +10807,7 @@
               "upd": "2026-08-22T03:00:00.000Z"
             },
             {
-              "codigo": 244,
+              "codigo": 250,
               "categoria": "Short",
               "nombre": "SHOR5810",
               "carpeta_id": "1SUxzA7lDB632clGFFcSzmpcLBDngZxhU",
@@ -10686,7 +10923,7 @@
               "upd": "2026-08-29T03:00:00.000Z"
             },
             {
-              "codigo": 247,
+              "codigo": 253,
               "categoria": "Short",
               "nombre": "SHOR6699",
               "carpeta_id": "11evsSZLQ_m4JChG-5xbemXiMH8uI2khV",
@@ -10807,7 +11044,7 @@
               "upd": "2026-08-22T03:00:00.000Z"
             },
             {
-              "codigo": 250,
+              "codigo": 256,
               "categoria": "Short",
               "nombre": "SHOR9772",
               "carpeta_id": "1lLnayON_s7vFBU1dgIs6XF9kJWYiA8Cm",
@@ -10958,7 +11195,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
           "producto": [
             {
-              "codigo": 253,
+              "codigo": 259,
               "categoria": "Top",
               "nombre": "TOP1511",
               "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
@@ -11050,7 +11287,7 @@
               "upd": "2026-09-02T03:00:00.000Z"
             },
             {
-              "codigo": 254,
+              "codigo": 260,
               "categoria": "Top",
               "nombre": "TOP2717",
               "carpeta_id": "1dzG4ghDzQJk7vmLF3tMxSCnjU910P0h_",
@@ -11164,7 +11401,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 255,
+              "codigo": 261,
               "categoria": "Top",
               "nombre": "TOP5629",
               "carpeta_id": "1Qx7I0cMaJdF_GJU-cAsgvXizbIHOAqG-",
@@ -11256,7 +11493,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 256,
+              "codigo": 262,
               "categoria": "Top",
               "nombre": "TOP5771",
               "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
@@ -11349,5 +11586,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1788973791890
+  "timestamp_ms": 1788974687702
 }
