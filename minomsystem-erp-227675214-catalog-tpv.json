@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:07:50.796Z",
+  "generated_at": "2026-09-12T11:22:58.896Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -4189,6 +4189,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "OXFO6709",
+      "sku": "Oxfo013",
+      "model": "Oxido",
+      "price": 30000,
+      "display_price": 28000,
+      "minor_surcharge": 0,
+      "category_id": "Oxfort",
+      "categoryName": "Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42",
+      "talles": "Surtido,34,36,38,40,42",
+      "TALLES": "Surtido,34,36,38,40,42",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "OXFO6709-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "OXFO6709-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -6317,6 +6357,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "OXFO6709": [
+      {
+        "variedad_id": "OXFO6709-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 28000,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "OXFO6709-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "OXFO6709-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 35000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -6408,5 +6471,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789211374643
+  "timestamp_ms": 1789212417465
 }
