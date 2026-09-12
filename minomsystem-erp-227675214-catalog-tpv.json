@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T12:37:49.241Z",
+  "generated_at": "2026-09-12T12:52:49.030Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -4151,86 +4151,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "OXFO2552",
-      "sku": "Oxfo012",
-      "model": "Camuflado",
-      "price": 30000,
-      "display_price": 28000,
-      "minor_surcharge": 0,
-      "category_id": "Oxfort",
-      "categoryName": "Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido",
-      "talles": "Surtido",
-      "TALLES": "Surtido",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "1Gs2dJ9R7vNAFWBI8gsEOG6RREr9_aHJu",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "OXFO2552-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "OXFO2552-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
-      "id": "OXFO6709",
-      "sku": "Oxfo013",
-      "model": "Oxido",
-      "price": 30000,
-      "display_price": 28000,
-      "minor_surcharge": 0,
-      "category_id": "Oxfort",
-      "categoryName": "Oxfort",
-      "parentCategory": "INDUMENTARIA",
-      "season": "SIN-TEMPORADA",
-      "gender": "Mujer",
-      "brand": "MINOM OFICIAL",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "sizes": "Surtido,34,36,38,40,42",
-      "talles": "Surtido,34,36,38,40,42",
-      "TALLES": "Surtido,34,36,38,40,42",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "image": "https://drive.google.com/thumbnail?id=1uYsXGw3m-MGv6pbmzgmA4tq8RWOTvj5x&sz=s600-rw",
-      "carpeta_id": "1OFAYIuKo6NtMynzCTwHTflpV77_uCQIr",
-      "woo_id": "",
-      "variations": [
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM OFICIAL",
-          "variation_id": "OXFO6709-Surtido-Surtido-MINOM OFICIAL"
-        },
-        {
-          "color": "Surtido",
-          "size": "Surtido",
-          "store_id": "MINOM ARGERICH",
-          "variation_id": "OXFO6709-Surtido-Surtido-MINOM ARGERICH"
-        }
-      ],
-      "fecha_creacion": ""
-    },
-    {
       "id": "OXFO6551",
       "sku": "Oxfo014",
       "model": "Camuflado",
@@ -6535,52 +6455,6 @@
         "visible": true
       }
     ],
-    "OXFO2552": [
-      {
-        "variedad_id": "OXFO2552-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 28000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "OXFO2552-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "OXFO2552-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 35000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "OXFO6709": [
-      {
-        "variedad_id": "OXFO6709-Curva",
-        "nombre": "Curva",
-        "precio_unitario": 28000,
-        "cantidad_minima": 5,
-        "visible": true
-      },
-      {
-        "variedad_id": "OXFO6709-Mayor",
-        "nombre": "Mayor",
-        "precio_unitario": 30000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "variedad_id": "OXFO6709-Menor",
-        "nombre": "Menor",
-        "precio_unitario": 35000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
     "OXFO6551": [
       {
         "variedad_id": "OXFO6551-Curva",
@@ -6786,5 +6660,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789216781830
+  "timestamp_ms": 1789217652511
 }
