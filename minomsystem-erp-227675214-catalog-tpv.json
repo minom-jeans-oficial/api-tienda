@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:22:58.896Z",
+  "generated_at": "2026-09-12T11:37:49.130Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -4211,8 +4211,8 @@
       "ageGroup": "Teens",
       "grupo_edad": "Teens",
       "GRUPO_EDAD": "Teens",
-      "image": "",
-      "carpeta_id": "",
+      "image": "https://drive.google.com/thumbnail?id=1uYsXGw3m-MGv6pbmzgmA4tq8RWOTvj5x&sz=s600-rw",
+      "carpeta_id": "1OFAYIuKo6NtMynzCTwHTflpV77_uCQIr",
       "woo_id": "",
       "variations": [
         {
@@ -4226,6 +4226,206 @@
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
           "variation_id": "OXFO6709-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "OXFO6551",
+      "sku": "Oxfo014",
+      "model": "Camuflado",
+      "price": 30000,
+      "display_price": 28000,
+      "minor_surcharge": 0,
+      "category_id": "Oxfort",
+      "categoryName": "Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,42",
+      "talles": "Surtido,34,36,38,42",
+      "TALLES": "Surtido,34,36,38,42",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1WLCPu2yXnekkhcgXywt34ormZV7yt1ZR",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "OXFO6551-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "OXFO6551-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "OXFO6119",
+      "sku": "Oxfo015",
+      "model": "Oxido",
+      "price": 27000,
+      "display_price": 25000,
+      "minor_surcharge": 0,
+      "category_id": "Oxfort",
+      "categoryName": "Oxfort",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42",
+      "talles": "Surtido,34,36,38,40,42",
+      "TALLES": "Surtido,34,36,38,40,42",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1fOkEeWARwTMTLg2SRBF7HsYOsEAuy33g&sz=s600-rw",
+      "carpeta_id": "1JfRiLWg1m7c8pvvcSZBrUQANNmWSKlda",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "OXFO6119-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "OXFO6119-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR5261",
+      "sku": "Shor009",
+      "model": "Celeste",
+      "price": 15000,
+      "display_price": 13000,
+      "minor_surcharge": 0,
+      "category_id": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "https://drive.google.com/thumbnail?id=1n41ymIivR6ls3mjJm-8CiedwSeI0T2wE&sz=s600-rw",
+      "carpeta_id": "1LAiKBTwUCmkQwZjiTpgWR4R6y2cFRuus",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "SHOR5261-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "SHOR5261-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR6388",
+      "sku": "Shor010",
+      "model": "Azul",
+      "price": 15000,
+      "display_price": 13000,
+      "minor_surcharge": 0,
+      "category_id": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1zwN58oaHBzZW_3eYg9FybT0oOON9mB_1",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "SHOR6388-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "SHOR6388-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "BAGG3524",
+      "sku": "Bagg013",
+      "model": "Azul",
+      "price": 25000,
+      "display_price": 23000,
+      "minor_surcharge": 0,
+      "category_id": "Baggy",
+      "categoryName": "Baggy",
+      "parentCategory": "INDUMENTARIA",
+      "season": "SIN-TEMPORADA",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1LOGtuEenqymPVyzR5u6CFmqToUZlG21G",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "BAGG3524-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "BAGG3524-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -6380,6 +6580,121 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "OXFO6551": [
+      {
+        "variedad_id": "OXFO6551-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 28000,
+        "cantidad_minima": 4,
+        "visible": true
+      },
+      {
+        "variedad_id": "OXFO6551-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "OXFO6551-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 35000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "OXFO6119": [
+      {
+        "variedad_id": "OXFO6119-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 25000,
+        "cantidad_minima": 5,
+        "visible": true
+      },
+      {
+        "variedad_id": "OXFO6119-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "OXFO6119-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "SHOR5261": [
+      {
+        "variedad_id": "SHOR5261-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 13000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR5261-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR5261-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "SHOR6388": [
+      {
+        "variedad_id": "SHOR6388-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 13000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR6388-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR6388-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "BAGG3524": [
+      {
+        "variedad_id": "BAGG3524-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 23000,
+        "cantidad_minima": 6,
+        "visible": true
+      },
+      {
+        "variedad_id": "BAGG3524-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "BAGG3524-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 30000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -6471,5 +6786,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789212417465
+  "timestamp_ms": 1789213161944
 }
