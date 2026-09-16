@@ -71429,6 +71429,176 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-ab70185a-b6bc-4300-b6a4-26dcc3d5a646": [
+        {
+          "id": "TPV-1789566314465",
+          "fecha": "2026-09-16 10:45",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 81000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-ab70185a-b6bc-4300-b6a4-26dcc3d5a646",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-16",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1789566314465-2603",
+              "descripcion": "TOP2717-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "Mayor",
+              "productoId": "TOP2717",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "TOP2717-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1789566314465-2604",
+              "descripcion": "POLL3123-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 24000,
+              "subtotal": 24000,
+              "tipoPrecio": "Menor",
+              "productoId": "POLL3123",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "POLL3123-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1789566314465-2605",
+              "descripcion": "OXFO6119-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "Menor",
+              "productoId": "OXFO6119",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OXFO6119-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 81000,
+          "subtotal": 81000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1789568909201",
+          "fecha": "2026-09-16 11:28",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 61600,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-ab70185a-b6bc-4300-b6a4-26dcc3d5a646",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-16",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 5600,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1789568909201-2606",
+              "descripcion": "POLL3123-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 24000,
+              "subtotal": 24000,
+              "tipoPrecio": "Menor",
+              "productoId": "POLL3123",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "POLL3123-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1789568909201-2607",
+              "descripcion": "OXFO6119-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "Menor",
+              "productoId": "OXFO6119",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OXFO6119-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 56000,
+          "subtotal": 56000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1789569015305",
+          "fecha": "2026-09-16 11:30",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 44000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-ab70185a-b6bc-4300-b6a4-26dcc3d5a646",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-16",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1789569015305-2608",
+              "descripcion": "OXFO6119-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "Menor",
+              "productoId": "OXFO6119",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OXFO6119-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1789569015305-2609",
+              "descripcion": "TOP1511-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 12000,
+              "subtotal": 12000,
+              "tipoPrecio": "Mayor",
+              "productoId": "TOP1511",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "TOP1511-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 44000,
+          "subtotal": 44000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "MINOM ARGERICH": {
@@ -73892,6 +74062,11 @@
       "fecha": "2026-09-15",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON"
+    },
+    "CR-ab70185a-b6bc-4300-b6a4-26dcc3d5a646": {
+      "fecha": "2026-09-16",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON"
     }
   },
   "filterOptions": {
@@ -74027,5 +74202,5 @@
     "SHOR5261": "https://drive.google.com/thumbnail?id=1n41ymIivR6ls3mjJm-8CiedwSeI0T2wE&sz=s600-rw",
     "SHOR6388": "https://drive.google.com/thumbnail?id=1bjPr9acNbGAPSSWSAKC4El2v94kiIA3a&sz=s600-rw"
   },
-  "timestamp_ms": 1789504629900
+  "timestamp_ms": 1789569455872
 }
