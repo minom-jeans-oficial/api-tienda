@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:07:49.488Z",
+  "generated_at": "2026-09-16T12:22:50.355Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -4349,6 +4349,46 @@
         }
       ],
       "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR2510",
+      "sku": "Shor011",
+      "model": "Azul clasico",
+      "price": 15000,
+      "display_price": 13000,
+      "minor_surcharge": 0,
+      "category_id": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "SHOR2510-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "SHOR2510-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
     }
   ],
   "priceConfig": {
@@ -6569,6 +6609,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "SHOR2510": [
+      {
+        "variedad_id": "SHOR2510-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 13000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR2510-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "SHOR2510-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -6660,5 +6723,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789560616412
+  "timestamp_ms": 1789561469031
 }
