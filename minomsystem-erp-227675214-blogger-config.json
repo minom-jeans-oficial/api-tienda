@@ -10124,9 +10124,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=17ykBJMs4MevLcpJ2v5YpW7CvJSMmdIt5&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=17ykBJMs4MevLcpJ2v5YpW7CvJSMmdIt5&sz=s600-rw",
+                  "archivo_id": "17ykBJMs4MevLcpJ2v5YpW7CvJSMmdIt5",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-17T19:11:29.265Z"
                 }
               ],
               "variedad": [
@@ -10482,9 +10488,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1kI1wedDSANDlGe-aeSRbXXAQrqh7O_vW&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1kI1wedDSANDlGe-aeSRbXXAQrqh7O_vW&sz=s600-rw",
+                  "archivo_id": "1kI1wedDSANDlGe-aeSRbXXAQrqh7O_vW",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 2,
+                  "fecha_carga": "2026-09-17T19:11:57.141Z"
                 }
               ],
               "variedad": [
@@ -12908,5 +12920,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1789672184569
+  "timestamp_ms": 1789672482935
 }
