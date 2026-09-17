@@ -72275,6 +72275,48 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-23cc18b4-e153-425f-a080-ca5ed8a723a0": [
+        {
+          "id": "TPV-1789647976075",
+          "fecha": "2026-09-17 09:26",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 30000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-23cc18b4-e153-425f-a080-ca5ed8a723a0",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-17",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1789647976075-2629",
+              "descripcion": "PANT4657-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT4657",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4657-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "MINOM ARGERICH": {
@@ -74743,6 +74785,11 @@
       "fecha": "2026-09-16",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON"
+    },
+    "CR-23cc18b4-e153-425f-a080-ca5ed8a723a0": {
+      "fecha": "2026-09-17",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON"
     }
   },
   "filterOptions": {
@@ -74880,5 +74927,5 @@
     "BERM3677": "https://drive.google.com/thumbnail?id=1nQnwi-rasZXp0Ak9nlxhVEs3wNHn9Dbx&sz=s600-rw",
     "SHOR1274": "https://drive.google.com/thumbnail?id=1ILg1ceB1tuPUApEBfmbDSe9OFEZXLKon&sz=s600-rw"
   },
-  "timestamp_ms": 1789591035046
+  "timestamp_ms": 1789648936808
 }
