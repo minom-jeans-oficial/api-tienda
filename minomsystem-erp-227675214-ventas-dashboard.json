@@ -73010,6 +73010,70 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1789669503314",
+          "fecha": "2026-09-17 15:25",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 70000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-23cc18b4-e153-425f-a080-ca5ed8a723a0",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-17",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1789669503314-2674",
+              "descripcion": "PANT5968-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 28000,
+              "subtotal": 28000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT5968",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT5968-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1789669503314-2675",
+              "descripcion": "PANT2578-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT2578",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2578-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1789669503314-2676",
+              "descripcion": "CINT4721-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 12000,
+              "subtotal": 12000,
+              "tipoPrecio": "Mayor",
+              "productoId": "CINT4721",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "CINT4721-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 70000,
+          "subtotal": 70000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -75166,319 +75230,571 @@
   },
   "cajasMetadata": {
     "CR-db446389-62d0-44d3-98a2-b3014b599d23": {
+      "cajaId": "CR-db446389-62d0-44d3-98a2-b3014b599d23",
       "fecha": "2026-06-26",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-ee6bf2de-5762-4346-b3be-9178fa35657b": {
+      "cajaId": "CR-ee6bf2de-5762-4346-b3be-9178fa35657b",
       "fecha": "2026-07-06",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-e98be5b5-f538-4980-88e7-c5ce789a540c": {
+      "cajaId": "CR-e98be5b5-f538-4980-88e7-c5ce789a540c",
       "fecha": "2026-07-06",
       "tienda": "MINOM ARGERICH",
-      "asesor": "DANIELA"
+      "asesor": "DANIELA",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-46c59afa-8312-4060-b7e5-2db1f6b1a865": {
+      "cajaId": "CR-46c59afa-8312-4060-b7e5-2db1f6b1a865",
       "fecha": "2026-07-09",
       "tienda": "MINOM ARGERICH",
-      "asesor": "DANIELA"
+      "asesor": "DANIELA",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "ce5b3069": {
+      "cajaId": "ce5b3069",
       "fecha": "2026-07-14",
       "tienda": "MINOM ARGERICH",
-      "asesor": "DANIELA"
+      "asesor": "DANIELA",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "Sat D",
+      "estado": "ABIERTA"
     },
     "CR-20e7dbbc-2c0f-466f-9e8a-6859369e8246": {
+      "cajaId": "CR-20e7dbbc-2c0f-466f-9e8a-6859369e8246",
       "fecha": "2026-07-17",
       "tienda": "MINOM ARGERICH",
-      "asesor": "DANIELA"
+      "asesor": "DANIELA",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-0ebd21ce-d34c-4d4c-989b-faf72215dad3": {
+      "cajaId": "CR-0ebd21ce-d34c-4d4c-989b-faf72215dad3",
       "fecha": "2026-07-17",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-2e82b831-bccb-49e8-80e1-efa093f193bb": {
+      "cajaId": "CR-2e82b831-bccb-49e8-80e1-efa093f193bb",
       "fecha": "2026-07-20",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-e0f9a4f5-1e82-4635-ba2e-742a02bda8fe": {
+      "cajaId": "CR-e0f9a4f5-1e82-4635-ba2e-742a02bda8fe",
       "fecha": "2026-07-20",
       "tienda": "MINOM ARGERICH",
-      "asesor": "DANIELA"
+      "asesor": "DANIELA",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-eb56ebd6-e3a1-4f64-8951-583a45380f47": {
+      "cajaId": "CR-eb56ebd6-e3a1-4f64-8951-583a45380f47",
       "fecha": "2026-07-21",
       "tienda": "MINOM ARGERICH",
-      "asesor": "DANIELA"
+      "asesor": "DANIELA",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-07e9a7e8-3819-4076-98cc-f6af11bfed5c": {
+      "cajaId": "CR-07e9a7e8-3819-4076-98cc-f6af11bfed5c",
       "fecha": "2026-07-22",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-79cbeffc-fc38-4d79-bfad-ff6dc4b01f70": {
+      "cajaId": "CR-79cbeffc-fc38-4d79-bfad-ff6dc4b01f70",
       "fecha": "2026-07-23",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-0350affa-58b2-4870-913d-a5125c982bbd": {
+      "cajaId": "CR-0350affa-58b2-4870-913d-a5125c982bbd",
       "fecha": "2026-07-24",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-2895e680-2d6a-4ba4-9f80-7a8c59cb13df": {
+      "cajaId": "CR-2895e680-2d6a-4ba4-9f80-7a8c59cb13df",
       "fecha": "2026-07-25",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-53b332d9-78b3-4399-8896-d7fc4fe919a8": {
+      "cajaId": "CR-53b332d9-78b3-4399-8896-d7fc4fe919a8",
       "fecha": "2026-07-27",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-f0493594-77aa-4b0e-908e-83de0d70fe5c": {
+      "cajaId": "CR-f0493594-77aa-4b0e-908e-83de0d70fe5c",
       "fecha": "2026-07-28",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-800d7099-0fb7-471e-8120-6b43a0d5437b": {
+      "cajaId": "CR-800d7099-0fb7-471e-8120-6b43a0d5437b",
       "fecha": "2026-07-29",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-bdfe6e8f-7c6e-4fc0-b2e4-c3808dfc7eea": {
+      "cajaId": "CR-bdfe6e8f-7c6e-4fc0-b2e4-c3808dfc7eea",
       "fecha": "2026-07-30",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-78d74fdc-0dc7-4ca3-ad3f-46518a7b5ecb": {
+      "cajaId": "CR-78d74fdc-0dc7-4ca3-ad3f-46518a7b5ecb",
       "fecha": "2026-07-31",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-85f48452-2449-4cce-b035-a1dafb5443b7": {
+      "cajaId": "CR-85f48452-2449-4cce-b035-a1dafb5443b7",
       "fecha": "2026-08-03",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-bea1de38-8147-4d9c-8fc6-c65254c78906": {
+      "cajaId": "CR-bea1de38-8147-4d9c-8fc6-c65254c78906",
       "fecha": "2026-08-04",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-9dacbb0c-53b7-4496-97f0-a2edd7836037": {
+      "cajaId": "CR-9dacbb0c-53b7-4496-97f0-a2edd7836037",
       "fecha": "2026-08-05",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-f8f615b1-b25a-4c55-8b35-cfc4f91fc380": {
+      "cajaId": "CR-f8f615b1-b25a-4c55-8b35-cfc4f91fc380",
       "fecha": "2026-08-06",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-b5847f2f-2a6d-4df9-884e-fe6032db8d86": {
+      "cajaId": "CR-b5847f2f-2a6d-4df9-884e-fe6032db8d86",
       "fecha": "2026-08-07",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-3d8e0c18-8066-46c7-8e19-85b49e07294d": {
+      "cajaId": "CR-3d8e0c18-8066-46c7-8e19-85b49e07294d",
       "fecha": "2026-08-08",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-f06185c1-d2bd-49b9-9397-18041b106aa1": {
+      "cajaId": "CR-f06185c1-d2bd-49b9-9397-18041b106aa1",
       "fecha": "2026-08-10",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-fa20e8b5-22bb-4e4e-ae4b-cd404de93420": {
+      "cajaId": "CR-fa20e8b5-22bb-4e4e-ae4b-cd404de93420",
       "fecha": "2026-08-11",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-b722d700-aa6d-4caf-a2d4-fbc7ca12ec22": {
+      "cajaId": "CR-b722d700-aa6d-4caf-a2d4-fbc7ca12ec22",
       "fecha": "2026-08-12",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-4b286f15-270b-4074-a071-90c6c5532781": {
+      "cajaId": "CR-4b286f15-270b-4074-a071-90c6c5532781",
       "fecha": "2026-08-13",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-b3d2c223-61fa-4d17-8ca6-e35e16feb0e4": {
+      "cajaId": "CR-b3d2c223-61fa-4d17-8ca6-e35e16feb0e4",
       "fecha": "2026-08-14",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-d061ffb8-1c6b-4d72-b6ce-0017ca229c0e": {
+      "cajaId": "CR-d061ffb8-1c6b-4d72-b6ce-0017ca229c0e",
       "fecha": "2026-08-15",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-07eba198-4bf9-4584-a1ce-c2f3bec686cf": {
+      "cajaId": "CR-07eba198-4bf9-4584-a1ce-c2f3bec686cf",
       "fecha": "2026-08-17",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-76822579-1e58-4d85-af5b-94ef3bd33638": {
+      "cajaId": "CR-76822579-1e58-4d85-af5b-94ef3bd33638",
       "fecha": "2026-08-18",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-1c6c74af-d69a-4c5f-bea9-519660c194b5": {
+      "cajaId": "CR-1c6c74af-d69a-4c5f-bea9-519660c194b5",
       "fecha": "2026-08-19",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-c3c08f40-fa21-4bd0-8851-010280c19641": {
+      "cajaId": "CR-c3c08f40-fa21-4bd0-8851-010280c19641",
       "fecha": "2026-08-20",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-a9fea033-1544-4186-8f86-4ac3f24ce6e6": {
+      "cajaId": "CR-a9fea033-1544-4186-8f86-4ac3f24ce6e6",
       "fecha": "2026-08-21",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-1bb234c3-caa3-484d-9bc5-0a873a69b27f": {
+      "cajaId": "CR-1bb234c3-caa3-484d-9bc5-0a873a69b27f",
       "fecha": "2026-08-21",
       "tienda": "MINOM ARGERICH",
-      "asesor": "DANIELA"
+      "asesor": "DANIELA",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-bc8e2ea4-99e5-4e47-a478-10195c9cd640": {
+      "cajaId": "CR-bc8e2ea4-99e5-4e47-a478-10195c9cd640",
       "fecha": "2026-08-22",
       "tienda": "MINOM ARGERICH",
-      "asesor": "DANIELA"
+      "asesor": "DANIELA",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-138e8f09-8d90-4df8-a9b7-fdf457db6534": {
+      "cajaId": "CR-138e8f09-8d90-4df8-a9b7-fdf457db6534",
       "fecha": "2026-08-22",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-4871c456-b42d-40d3-b678-6beffb76ba45": {
+      "cajaId": "CR-4871c456-b42d-40d3-b678-6beffb76ba45",
       "fecha": "2026-08-24",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-72e75755-4720-4a8c-93de-6dfc3d084bac": {
+      "cajaId": "CR-72e75755-4720-4a8c-93de-6dfc3d084bac",
       "fecha": "2026-08-25",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-a3189888-4449-4270-9ba9-f2ab72d2463a": {
+      "cajaId": "CR-a3189888-4449-4270-9ba9-f2ab72d2463a",
       "fecha": "2026-08-26",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-2fac3755-d150-463c-b04b-810b788c6933": {
+      "cajaId": "CR-2fac3755-d150-463c-b04b-810b788c6933",
       "fecha": "2026-08-27",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-bd9a5f69-7e08-46ea-bdb8-31b115abc610": {
+      "cajaId": "CR-bd9a5f69-7e08-46ea-bdb8-31b115abc610",
       "fecha": "2026-08-28",
       "tienda": "MINOM ARGERICH",
-      "asesor": "DANIELA"
+      "asesor": "DANIELA",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-6ea1bd46-3e75-499a-affc-7e0850c20f4c": {
+      "cajaId": "CR-6ea1bd46-3e75-499a-affc-7e0850c20f4c",
       "fecha": "2026-08-28",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-08589cb1-c0f5-42ca-97ca-06fd7b3b325a": {
+      "cajaId": "CR-08589cb1-c0f5-42ca-97ca-06fd7b3b325a",
       "fecha": "2026-08-29",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-9b059a90-50dd-49ea-8c05-44ff5e3eb0f5": {
+      "cajaId": "CR-9b059a90-50dd-49ea-8c05-44ff5e3eb0f5",
       "fecha": "2026-08-31",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-a4bb0e7a-887a-424a-98e7-098b668973fc": {
+      "cajaId": "CR-a4bb0e7a-887a-424a-98e7-098b668973fc",
       "fecha": "2026-09-01",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-831667d7-324a-4527-93d1-b9cd3d4e9396": {
+      "cajaId": "CR-831667d7-324a-4527-93d1-b9cd3d4e9396",
       "fecha": "2026-09-02",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-d2aaca01-9ca4-45cc-a95f-9679a0daca88": {
+      "cajaId": "CR-d2aaca01-9ca4-45cc-a95f-9679a0daca88",
       "fecha": "2026-09-03",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-6957b15f-c5b8-458b-bc6a-fac003980fd9": {
+      "cajaId": "CR-6957b15f-c5b8-458b-bc6a-fac003980fd9",
       "fecha": "2026-09-04",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-fe091fec-bd06-4cdd-836b-af1a286e340e": {
+      "cajaId": "CR-fe091fec-bd06-4cdd-836b-af1a286e340e",
       "fecha": "2026-09-05",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-ee0b3486-5ae7-4c5f-a660-d921d80df423": {
+      "cajaId": "CR-ee0b3486-5ae7-4c5f-a660-d921d80df423",
       "fecha": "2026-09-07",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-46a5fcc3-b96a-49f9-a580-6f064caadeaf": {
+      "cajaId": "CR-46a5fcc3-b96a-49f9-a580-6f064caadeaf",
       "fecha": "2026-09-07",
       "tienda": "MINOM ARGERICH",
-      "asesor": "DANIELA"
+      "asesor": "DANIELA",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-703366e2-ca60-4b7d-a61a-94b5817c94e3": {
+      "cajaId": "CR-703366e2-ca60-4b7d-a61a-94b5817c94e3",
       "fecha": "2026-09-08",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-fd16fe8d-b2d7-4c51-97f6-f36af1f226d8": {
+      "cajaId": "CR-fd16fe8d-b2d7-4c51-97f6-f36af1f226d8",
       "fecha": "2026-09-09",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-c000b08e-d0a6-4fe4-a714-061b794a9c12": {
+      "cajaId": "CR-c000b08e-d0a6-4fe4-a714-061b794a9c12",
       "fecha": "2026-09-10",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-691afef1-5408-46d1-a4e2-012bc484e582": {
+      "cajaId": "CR-691afef1-5408-46d1-a4e2-012bc484e582",
       "fecha": "2026-09-11",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-18622c6e-e842-4017-b312-a9ef9c62b8b1": {
+      "cajaId": "CR-18622c6e-e842-4017-b312-a9ef9c62b8b1",
       "fecha": "2026-09-12",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-5047e226-5823-4059-8651-830bc648705e": {
+      "cajaId": "CR-5047e226-5823-4059-8651-830bc648705e",
       "fecha": "2026-09-14",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-2b4e4d30-aa73-46dd-9259-9b17044e6563": {
+      "cajaId": "CR-2b4e4d30-aa73-46dd-9259-9b17044e6563",
       "fecha": "2026-09-15",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-ab70185a-b6bc-4300-b6a4-26dcc3d5a646": {
+      "cajaId": "CR-ab70185a-b6bc-4300-b6a4-26dcc3d5a646",
       "fecha": "2026-09-16",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-23cc18b4-e153-425f-a080-ca5ed8a723a0": {
+      "cajaId": "CR-23cc18b4-e153-425f-a080-ca5ed8a723a0",
       "fecha": "2026-09-17",
       "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON"
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     }
   },
   "filterOptions": {
@@ -75524,6 +75840,575 @@
       "DIRECTA",
       "PEDIDO",
       "WEB"
+    ],
+    "cajasLista": [
+      {
+        "cajaId": "CR-db446389-62d0-44d3-98a2-b3014b599d23",
+        "fecha": "2026-06-26",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-ee6bf2de-5762-4346-b3be-9178fa35657b",
+        "fecha": "2026-07-06",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-e98be5b5-f538-4980-88e7-c5ce789a540c",
+        "fecha": "2026-07-06",
+        "tienda": "MINOM ARGERICH",
+        "asesor": "DANIELA",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-46c59afa-8312-4060-b7e5-2db1f6b1a865",
+        "fecha": "2026-07-09",
+        "tienda": "MINOM ARGERICH",
+        "asesor": "DANIELA",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "ce5b3069",
+        "fecha": "2026-07-14",
+        "tienda": "MINOM ARGERICH",
+        "asesor": "DANIELA",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "Sat D",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-20e7dbbc-2c0f-466f-9e8a-6859369e8246",
+        "fecha": "2026-07-17",
+        "tienda": "MINOM ARGERICH",
+        "asesor": "DANIELA",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-0ebd21ce-d34c-4d4c-989b-faf72215dad3",
+        "fecha": "2026-07-17",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-2e82b831-bccb-49e8-80e1-efa093f193bb",
+        "fecha": "2026-07-20",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-e0f9a4f5-1e82-4635-ba2e-742a02bda8fe",
+        "fecha": "2026-07-20",
+        "tienda": "MINOM ARGERICH",
+        "asesor": "DANIELA",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-eb56ebd6-e3a1-4f64-8951-583a45380f47",
+        "fecha": "2026-07-21",
+        "tienda": "MINOM ARGERICH",
+        "asesor": "DANIELA",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-07e9a7e8-3819-4076-98cc-f6af11bfed5c",
+        "fecha": "2026-07-22",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-79cbeffc-fc38-4d79-bfad-ff6dc4b01f70",
+        "fecha": "2026-07-23",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-0350affa-58b2-4870-913d-a5125c982bbd",
+        "fecha": "2026-07-24",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-2895e680-2d6a-4ba4-9f80-7a8c59cb13df",
+        "fecha": "2026-07-25",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-53b332d9-78b3-4399-8896-d7fc4fe919a8",
+        "fecha": "2026-07-27",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-f0493594-77aa-4b0e-908e-83de0d70fe5c",
+        "fecha": "2026-07-28",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-800d7099-0fb7-471e-8120-6b43a0d5437b",
+        "fecha": "2026-07-29",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-bdfe6e8f-7c6e-4fc0-b2e4-c3808dfc7eea",
+        "fecha": "2026-07-30",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-78d74fdc-0dc7-4ca3-ad3f-46518a7b5ecb",
+        "fecha": "2026-07-31",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-85f48452-2449-4cce-b035-a1dafb5443b7",
+        "fecha": "2026-08-03",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-bea1de38-8147-4d9c-8fc6-c65254c78906",
+        "fecha": "2026-08-04",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-9dacbb0c-53b7-4496-97f0-a2edd7836037",
+        "fecha": "2026-08-05",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-f8f615b1-b25a-4c55-8b35-cfc4f91fc380",
+        "fecha": "2026-08-06",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-b5847f2f-2a6d-4df9-884e-fe6032db8d86",
+        "fecha": "2026-08-07",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-3d8e0c18-8066-46c7-8e19-85b49e07294d",
+        "fecha": "2026-08-08",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-f06185c1-d2bd-49b9-9397-18041b106aa1",
+        "fecha": "2026-08-10",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-fa20e8b5-22bb-4e4e-ae4b-cd404de93420",
+        "fecha": "2026-08-11",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-b722d700-aa6d-4caf-a2d4-fbc7ca12ec22",
+        "fecha": "2026-08-12",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-4b286f15-270b-4074-a071-90c6c5532781",
+        "fecha": "2026-08-13",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-b3d2c223-61fa-4d17-8ca6-e35e16feb0e4",
+        "fecha": "2026-08-14",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-d061ffb8-1c6b-4d72-b6ce-0017ca229c0e",
+        "fecha": "2026-08-15",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-07eba198-4bf9-4584-a1ce-c2f3bec686cf",
+        "fecha": "2026-08-17",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-76822579-1e58-4d85-af5b-94ef3bd33638",
+        "fecha": "2026-08-18",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-1c6c74af-d69a-4c5f-bea9-519660c194b5",
+        "fecha": "2026-08-19",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-c3c08f40-fa21-4bd0-8851-010280c19641",
+        "fecha": "2026-08-20",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-a9fea033-1544-4186-8f86-4ac3f24ce6e6",
+        "fecha": "2026-08-21",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-1bb234c3-caa3-484d-9bc5-0a873a69b27f",
+        "fecha": "2026-08-21",
+        "tienda": "MINOM ARGERICH",
+        "asesor": "DANIELA",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-bc8e2ea4-99e5-4e47-a478-10195c9cd640",
+        "fecha": "2026-08-22",
+        "tienda": "MINOM ARGERICH",
+        "asesor": "DANIELA",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-138e8f09-8d90-4df8-a9b7-fdf457db6534",
+        "fecha": "2026-08-22",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-4871c456-b42d-40d3-b678-6beffb76ba45",
+        "fecha": "2026-08-24",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-72e75755-4720-4a8c-93de-6dfc3d084bac",
+        "fecha": "2026-08-25",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-a3189888-4449-4270-9ba9-f2ab72d2463a",
+        "fecha": "2026-08-26",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-2fac3755-d150-463c-b04b-810b788c6933",
+        "fecha": "2026-08-27",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-bd9a5f69-7e08-46ea-bdb8-31b115abc610",
+        "fecha": "2026-08-28",
+        "tienda": "MINOM ARGERICH",
+        "asesor": "DANIELA",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-6ea1bd46-3e75-499a-affc-7e0850c20f4c",
+        "fecha": "2026-08-28",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-08589cb1-c0f5-42ca-97ca-06fd7b3b325a",
+        "fecha": "2026-08-29",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-9b059a90-50dd-49ea-8c05-44ff5e3eb0f5",
+        "fecha": "2026-08-31",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-a4bb0e7a-887a-424a-98e7-098b668973fc",
+        "fecha": "2026-09-01",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-831667d7-324a-4527-93d1-b9cd3d4e9396",
+        "fecha": "2026-09-02",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-d2aaca01-9ca4-45cc-a95f-9679a0daca88",
+        "fecha": "2026-09-03",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-6957b15f-c5b8-458b-bc6a-fac003980fd9",
+        "fecha": "2026-09-04",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-fe091fec-bd06-4cdd-836b-af1a286e340e",
+        "fecha": "2026-09-05",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-ee0b3486-5ae7-4c5f-a660-d921d80df423",
+        "fecha": "2026-09-07",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-46a5fcc3-b96a-49f9-a580-6f064caadeaf",
+        "fecha": "2026-09-07",
+        "tienda": "MINOM ARGERICH",
+        "asesor": "DANIELA",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-703366e2-ca60-4b7d-a61a-94b5817c94e3",
+        "fecha": "2026-09-08",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-fd16fe8d-b2d7-4c51-97f6-f36af1f226d8",
+        "fecha": "2026-09-09",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-c000b08e-d0a6-4fe4-a714-061b794a9c12",
+        "fecha": "2026-09-10",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-691afef1-5408-46d1-a4e2-012bc484e582",
+        "fecha": "2026-09-11",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-18622c6e-e842-4017-b312-a9ef9c62b8b1",
+        "fecha": "2026-09-12",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-5047e226-5823-4059-8651-830bc648705e",
+        "fecha": "2026-09-14",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-2b4e4d30-aa73-46dd-9259-9b17044e6563",
+        "fecha": "2026-09-15",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-ab70185a-b6bc-4300-b6a4-26dcc3d5a646",
+        "fecha": "2026-09-16",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-23cc18b4-e153-425f-a080-ca5ed8a723a0",
+        "fecha": "2026-09-17",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
+      }
     ]
   },
   "productImageMap": {
@@ -75616,5 +76501,5 @@
     "BERM3677": "https://drive.google.com/thumbnail?id=1nQnwi-rasZXp0Ak9nlxhVEs3wNHn9Dbx&sz=s600-rw",
     "SHOR1274": "https://drive.google.com/thumbnail?id=1ILg1ceB1tuPUApEBfmbDSe9OFEZXLKon&sz=s600-rw"
   },
-  "timestamp_ms": 1789666711721
+  "timestamp_ms": 1789670230111
 }
