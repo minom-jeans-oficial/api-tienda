@@ -73108,6 +73108,46 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1789662055810",
+          "fecha": "2026-09-17 13:21",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 32000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-23cc18b4-e153-425f-a080-ca5ed8a723a0",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-17",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1789662055810-2668",
+              "descripcion": "OXFO6119-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 32000,
+              "subtotal": 32000,
+              "tipoPrecio": "Menor",
+              "productoId": "OXFO6119",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OXFO6119-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 32000,
+          "subtotal": 32000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -75719,5 +75759,5 @@
     "BERM3677": "https://drive.google.com/thumbnail?id=1nQnwi-rasZXp0Ak9nlxhVEs3wNHn9Dbx&sz=s600-rw",
     "SHOR1274": "https://drive.google.com/thumbnail?id=1ILg1ceB1tuPUApEBfmbDSe9OFEZXLKon&sz=s600-rw"
   },
-  "timestamp_ms": 1789659424442
+  "timestamp_ms": 1789663031447
 }
