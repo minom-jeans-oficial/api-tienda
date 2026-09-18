@@ -5728,6 +5728,121 @@
             {
               "codigo": 130,
               "categoria": "Oxfort",
+              "nombre": "OXFO4560",
+              "carpeta_id": "19YaSHl7X9RR1WX9ZyoYCLWsWr3d1F7Xo",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Gris"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jeans Rigido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "300",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "18-09-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20OXFO4560%0A%F0%9F%94%B9%20Modelo%3A%20Gris%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 25000,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 27000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 32000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-09-18T03:00:00.000Z"
+            },
+            {
+              "codigo": 133,
+              "categoria": "Oxfort",
               "nombre": "OXFO6119",
               "carpeta_id": "1JfRiLWg1m7c8pvvcSZBrUQANNmWSKlda",
               "descripcion": {
@@ -5847,7 +5962,7 @@
               "upd": "2026-09-12T03:00:00.000Z"
             },
             {
-              "codigo": 133,
+              "codigo": 136,
               "categoria": "Oxfort",
               "nombre": "OXFO6551",
               "carpeta_id": "1WLCPu2yXnekkhcgXywt34ormZV7yt1ZR",
@@ -5967,7 +6082,7 @@
               "upd": "2026-09-12T03:00:00.000Z"
             },
             {
-              "codigo": 136,
+              "codigo": 139,
               "categoria": "Oxfort",
               "nombre": "PANT1883",
               "carpeta_id": "1yHI0HZueWFbSFWlqOqx56mdPooCMCOgn",
@@ -6194,7 +6309,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 139,
+              "codigo": 142,
               "categoria": "Oxfort",
               "nombre": "PANT2545",
               "carpeta_id": "1rnQIxY8nXVa6EAYH2vGi1pAOUYC7CArd",
@@ -6315,7 +6430,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 142,
+              "codigo": 145,
               "categoria": "Oxfort",
               "nombre": "PANT4023",
               "carpeta_id": "1KezinL8i2ffVZF9Bo9Aa9owR6DtNnikJ",
@@ -6448,7 +6563,7 @@
               "upd": "2026-07-14T03:00:00.000Z"
             },
             {
-              "codigo": 145,
+              "codigo": 148,
               "categoria": "Oxfort",
               "nombre": "PANT4575",
               "carpeta_id": "1NxDsE-UE93kiK_sP9k1VRO611dp-DjTK",
@@ -6570,7 +6685,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 148,
+              "codigo": 151,
               "categoria": "Oxfort",
               "nombre": "PANT4779",
               "carpeta_id": "1p8JojmpITDX1TdO9yoXIt_mFkWEYqtJB",
@@ -6692,7 +6807,7 @@
               "upd": "2026-06-26T03:00:00.000Z"
             },
             {
-              "codigo": 151,
+              "codigo": 154,
               "categoria": "Oxfort",
               "nombre": "PANT4983",
               "carpeta_id": "1q4vA6la7M-o2A9eRjkzGAyunT-1_Y6tq",
@@ -6814,7 +6929,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 154,
+              "codigo": 157,
               "categoria": "Oxfort",
               "nombre": "PANT5798",
               "carpeta_id": "1v5TWfwxWgH5GKCxcqM1V9iqOsdUsCG2a",
@@ -6958,7 +7073,7 @@
               "upd": "2026-06-26T03:00:00.000Z"
             },
             {
-              "codigo": 157,
+              "codigo": 160,
               "categoria": "Oxfort",
               "nombre": "PANT5968",
               "carpeta_id": "1Q0XCF68baBksh9uySeJOrMiBBQqpcf6e",
@@ -7080,7 +7195,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 160,
+              "codigo": 163,
               "categoria": "Oxfort",
               "nombre": "PANT7332",
               "carpeta_id": "1Q2VXBW6ZCumsU4xs87VWcOeLrqnoTV1p",
@@ -7202,7 +7317,7 @@
               "upd": "2026-06-26T03:00:00.000Z"
             },
             {
-              "codigo": 163,
+              "codigo": 166,
               "categoria": "Oxfort",
               "nombre": "PANT8376",
               "carpeta_id": "1wHBgAnOhmLmlI_j87STAF9Wv2qsBqWLD",
@@ -7325,7 +7440,7 @@
               "upd": "2026-06-26T03:00:00.000Z"
             },
             {
-              "codigo": 166,
+              "codigo": 169,
               "categoria": "Oxfort",
               "nombre": "PANT9631",
               "carpeta_id": "1QBSpvWEBGr74Crb4mp3xkN-rcT5EsvTG",
@@ -7450,7 +7565,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg",
           "producto": [
             {
-              "codigo": 169,
+              "codigo": 172,
               "categoria": "Parachute",
               "nombre": "PANT3194",
               "carpeta_id": "1ssiSRIoEko3ujdqxTlzl8q8nAxtwDSPt",
@@ -7572,7 +7687,7 @@
               "upd": "2026-05-31T03:00:00.000Z"
             },
             {
-              "codigo": 172,
+              "codigo": 175,
               "categoria": "Parachute",
               "nombre": "PANT7616",
               "carpeta_id": "1YPTNiFBVeWNHzJoIoxePCLkABg98NeUs",
@@ -7701,7 +7816,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pollera.svg",
           "producto": [
             {
-              "codigo": 175,
+              "codigo": 178,
               "categoria": "Pollera",
               "nombre": "POLL3123",
               "carpeta_id": "1YH2JcqGVpjOZNtiOed-rA4VmEpef9HLj",
@@ -7817,7 +7932,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 178,
+              "codigo": 181,
               "categoria": "Pollera",
               "nombre": "POLL7459",
               "carpeta_id": "1IOOiV35sl2EW7nD0tv79e2p0WRqrsJYu",
@@ -7947,7 +8062,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
             {
-              "codigo": 181,
+              "codigo": 184,
               "categoria": "Remera",
               "nombre": "REME2429",
               "carpeta_id": "1meIOA5eORilWAqIYGXSRyOhrp0Hx9lRF",
@@ -8054,7 +8169,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg",
           "producto": [
             {
-              "codigo": 184,
+              "codigo": 187,
               "categoria": "Short",
               "nombre": "SHOR1274",
               "carpeta_id": "1Etjm6yWAFUCoF7WBw0BzwF51xDyb9wu6",
@@ -8175,7 +8290,7 @@
               "upd": "2026-09-16T03:00:00.000Z"
             },
             {
-              "codigo": 187,
+              "codigo": 190,
               "categoria": "Short",
               "nombre": "SHOR2510",
               "carpeta_id": "1Ikai0cItSBeQyvVbkUOx3gcNEH2FPf5Y",
@@ -8298,7 +8413,7 @@
               "upd": "2026-09-16T03:00:00.000Z"
             },
             {
-              "codigo": 190,
+              "codigo": 193,
               "categoria": "Short",
               "nombre": "SHOR3989",
               "carpeta_id": "1Iy5hRJ5RUHvtq5MAvJ1hgRDZxp_w1B5S",
@@ -8414,7 +8529,7 @@
               "upd": "2026-09-09T03:00:00.000Z"
             },
             {
-              "codigo": 193,
+              "codigo": 196,
               "categoria": "Short",
               "nombre": "SHOR4641",
               "carpeta_id": "1jFfm87qmDTefYCwq_sFCb0VImbow4iOj",
@@ -8535,7 +8650,7 @@
               "upd": "2026-09-09T03:00:00.000Z"
             },
             {
-              "codigo": 196,
+              "codigo": 199,
               "categoria": "Short",
               "nombre": "SHOR4724",
               "carpeta_id": "1sOksnU9thCpGEru5zdykkvMSYv96REKq",
@@ -8651,7 +8766,7 @@
               "upd": "2026-09-09T03:00:00.000Z"
             },
             {
-              "codigo": 199,
+              "codigo": 202,
               "categoria": "Short",
               "nombre": "SHOR4839",
               "carpeta_id": "1mh8w_rHDfcZ7j7C_jrB59fFbVMpN2o2v",
@@ -8860,7 +8975,7 @@
               "upd": "2026-08-26T03:00:00.000Z"
             },
             {
-              "codigo": 202,
+              "codigo": 205,
               "categoria": "Short",
               "nombre": "SHOR5261",
               "carpeta_id": "1LAiKBTwUCmkQwZjiTpgWR4R6y2cFRuus",
@@ -8983,7 +9098,7 @@
               "upd": "2026-09-12T03:00:00.000Z"
             },
             {
-              "codigo": 205,
+              "codigo": 208,
               "categoria": "Short",
               "nombre": "SHOR5537",
               "carpeta_id": "1Ij9Kgs34qSs9Olo1El4CW-0J-U4XDaox",
@@ -9148,7 +9263,7 @@
               "upd": "2026-08-22T03:00:00.000Z"
             },
             {
-              "codigo": 208,
+              "codigo": 211,
               "categoria": "Short",
               "nombre": "SHOR5810",
               "carpeta_id": "1SUxzA7lDB632clGFFcSzmpcLBDngZxhU",
@@ -9264,7 +9379,7 @@
               "upd": "2026-08-29T03:00:00.000Z"
             },
             {
-              "codigo": 211,
+              "codigo": 214,
               "categoria": "Short",
               "nombre": "SHOR6388",
               "carpeta_id": "1zwN58oaHBzZW_3eYg9FybT0oOON9mB_1",
@@ -9386,7 +9501,7 @@
               "upd": "2026-09-12T03:00:00.000Z"
             },
             {
-              "codigo": 214,
+              "codigo": 217,
               "categoria": "Short",
               "nombre": "SHOR6699",
               "carpeta_id": "11evsSZLQ_m4JChG-5xbemXiMH8uI2khV",
@@ -9507,7 +9622,7 @@
               "upd": "2026-08-22T03:00:00.000Z"
             },
             {
-              "codigo": 217,
+              "codigo": 220,
               "categoria": "Short",
               "nombre": "SHOR9772",
               "carpeta_id": "1lLnayON_s7vFBU1dgIs6XF9kJWYiA8Cm",
@@ -9658,7 +9773,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
           "producto": [
             {
-              "codigo": 220,
+              "codigo": 223,
               "categoria": "Top",
               "nombre": "TOP1511",
               "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
@@ -9750,7 +9865,7 @@
               "upd": "2026-09-02T03:00:00.000Z"
             },
             {
-              "codigo": 221,
+              "codigo": 224,
               "categoria": "Top",
               "nombre": "TOP2717",
               "carpeta_id": "1dzG4ghDzQJk7vmLF3tMxSCnjU910P0h_",
@@ -9864,7 +9979,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 222,
+              "codigo": 225,
               "categoria": "Top",
               "nombre": "TOP5629",
               "carpeta_id": "1Qx7I0cMaJdF_GJU-cAsgvXizbIHOAqG-",
@@ -9956,7 +10071,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 223,
+              "codigo": 226,
               "categoria": "Top",
               "nombre": "TOP5771",
               "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
@@ -10049,7 +10164,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg",
           "producto": [
             {
-              "codigo": 224,
+              "codigo": 227,
               "categoria": "Wide Leg",
               "nombre": "PANT2110",
               "carpeta_id": "1YV1wXUIWal2S-iNsS3GIHSz-Tut4vOfU",
@@ -10171,7 +10286,7 @@
               "upd": "2026-08-07T03:00:00.000Z"
             },
             {
-              "codigo": 227,
+              "codigo": 230,
               "categoria": "Wide Leg",
               "nombre": "PANT2578",
               "carpeta_id": "1HW637kRbmZ_obWOHq19nTwdQdCrD5Lqt",
@@ -10293,7 +10408,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 230,
+              "codigo": 233,
               "categoria": "Wide Leg",
               "nombre": "PANT2658",
               "carpeta_id": "12FUGn9lLyq_9rx-yv3-1jqv3wDNbP6rQ",
@@ -10413,7 +10528,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 233,
+              "codigo": 236,
               "categoria": "Wide Leg",
               "nombre": "PANT3236",
               "carpeta_id": "1EPGiSXiVjaQ60izAYfqbSyZAE2EjUODt",
@@ -10535,7 +10650,7 @@
               "upd": "2026-08-10T03:00:00.000Z"
             },
             {
-              "codigo": 236,
+              "codigo": 239,
               "categoria": "Wide Leg",
               "nombre": "PANT3257",
               "carpeta_id": "1-vKMsZaMWosM-UiWbKaAhYYIjBiM0i1A",
@@ -10657,7 +10772,7 @@
               "upd": "2026-08-29T03:00:00.000Z"
             },
             {
-              "codigo": 239,
+              "codigo": 242,
               "categoria": "Wide Leg",
               "nombre": "PANT3437",
               "carpeta_id": "1JUjZvYmgySKryYFHsLbhSd-CeLA3JxWq",
@@ -10775,7 +10890,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 242,
+              "codigo": 245,
               "categoria": "Wide Leg",
               "nombre": "PANT4385",
               "carpeta_id": "1FXK1vE2vW1fublu4nXHaJwJGvv2W0Q6X",
@@ -10891,7 +11006,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 245,
+              "codigo": 248,
               "categoria": "Wide Leg",
               "nombre": "PANT4545",
               "carpeta_id": "10RbbMzwW7_1zC7d013MX-xRir0gjtbW4",
@@ -11013,7 +11128,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 248,
+              "codigo": 251,
               "categoria": "Wide Leg",
               "nombre": "PANT4655",
               "carpeta_id": "1YrISWNg_pnysgLSNziTi5jaUndZbVC1s",
@@ -11178,7 +11293,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 251,
+              "codigo": 254,
               "categoria": "Wide Leg",
               "nombre": "PANT4723",
               "carpeta_id": "1YCK3adMYnF9sa42F5PG3OWrQxCbpdX2T",
@@ -11300,7 +11415,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 254,
+              "codigo": 257,
               "categoria": "Wide Leg",
               "nombre": "PANT5258",
               "carpeta_id": "1E4qLWlbtn1WWLos1gFqguD4JE7QTULaM",
@@ -11423,7 +11538,7 @@
               "upd": "2026-08-04T03:00:00.000Z"
             },
             {
-              "codigo": 257,
+              "codigo": 260,
               "categoria": "Wide Leg",
               "nombre": "PANT5578",
               "carpeta_id": "1rHfN8mPJrdsSJDfciW05zACodBuQSOmU",
@@ -11545,7 +11660,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 260,
+              "codigo": 263,
               "categoria": "Wide Leg",
               "nombre": "PANT5614",
               "carpeta_id": "1Z-s3D4KRHzialtuNWORVAkC7lbw3Op3I",
@@ -11667,7 +11782,7 @@
               "upd": "2026-08-07T03:00:00.000Z"
             },
             {
-              "codigo": 263,
+              "codigo": 266,
               "categoria": "Wide Leg",
               "nombre": "PANT6359",
               "carpeta_id": "1-FdCZRZR7Y36lfjpUOELjC4cdC1uKfBB",
@@ -11790,7 +11905,7 @@
               "upd": "2026-09-09T03:00:00.000Z"
             },
             {
-              "codigo": 266,
+              "codigo": 269,
               "categoria": "Wide Leg",
               "nombre": "PANT6509",
               "carpeta_id": "1dpRN8eRlgxDAQ-S2hnjJmDAmVZmyPe63",
@@ -11912,7 +12027,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 269,
+              "codigo": 272,
               "categoria": "Wide Leg",
               "nombre": "PANT7432",
               "carpeta_id": "16jLb-v4SFvIZTHYv67EBzoAjf01-R-ws",
@@ -12035,7 +12150,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 272,
+              "codigo": 275,
               "categoria": "Wide Leg",
               "nombre": "PANT7858",
               "carpeta_id": "1Nt_g-g_rqtLwmGcm-hTaDceSC0HIFTHt",
@@ -12157,7 +12272,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 275,
+              "codigo": 278,
               "categoria": "Wide Leg",
               "nombre": "PANT7862",
               "carpeta_id": "1c1B168PjaSk9Tq3vUe247w16eTtKBiYU",
@@ -12279,7 +12394,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 278,
+              "codigo": 281,
               "categoria": "Wide Leg",
               "nombre": "PANT8389",
               "carpeta_id": "1kI7x0VKM0RwEOQb4vb7pq-Tu74wBosHf",
@@ -12400,7 +12515,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 281,
+              "codigo": 284,
               "categoria": "Wide Leg",
               "nombre": "PANT8811",
               "carpeta_id": "1XAvHKZAKZXRG-IAzirYkwPYAB39gHPgh",
@@ -12521,7 +12636,7 @@
               "upd": "2026-07-16T03:00:00.000Z"
             },
             {
-              "codigo": 284,
+              "codigo": 287,
               "categoria": "Wide Leg",
               "nombre": "PANT8904",
               "carpeta_id": "18hp_wYAWzzLzDVHpsbv5CSaSjlPcgmv5",
@@ -12643,7 +12758,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 287,
+              "codigo": 290,
               "categoria": "Wide Leg",
               "nombre": "PANT9228",
               "carpeta_id": "1oXI-FqpZm7vGcT9n7YO2vQkPnA18jihY",
@@ -12765,7 +12880,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 290,
+              "codigo": 293,
               "categoria": "Wide Leg",
               "nombre": "PANT9681",
               "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
@@ -12920,5 +13035,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1789744191425
+  "timestamp_ms": 1789745993054
 }
