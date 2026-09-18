@@ -144,7 +144,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "12-09-2026"
+                  "valor": "18-09-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -1032,9 +1032,26 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1EC0gx9HLK33Zd474do8_Gnyc13pdRTQ-&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1EC0gx9HLK33Zd474do8_Gnyc13pdRTQ-&sz=s600-rw",
+                  "archivo_id": "1EC0gx9HLK33Zd474do8_Gnyc13pdRTQ-",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-09-18T18:29:27.062Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1lmnbQqqsmqprG5Id450jCc9pI4snUBrf&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1lmnbQqqsmqprG5Id450jCc9pI4snUBrf&sz=s600-rw",
+                  "archivo_id": "1lmnbQqqsmqprG5Id450jCc9pI4snUBrf",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 3,
+                  "fecha_carga": "2026-09-18T18:29:27.062Z"
                 }
               ],
               "variedad": [
@@ -1926,10 +1943,10 @@
                   "archivo_id": "1Etp8_P6R0aNSMNN4wtLsHSQ9godSBR03",
                   "portada": true,
                   "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
+                  "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-09-17T19:06:02.291Z"
+                  "fecha_carga": "2026-09-18T18:28:34.213Z"
                 }
               ],
               "variedad": [
@@ -13158,5 +13175,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1789755889991
+  "timestamp_ms": 1789756765490
 }
