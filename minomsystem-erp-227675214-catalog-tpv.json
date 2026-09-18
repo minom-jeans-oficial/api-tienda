@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:37:49.796Z",
+  "generated_at": "2026-09-18T15:53:02.699Z",
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -4846,7 +4846,7 @@
       "ageGroup": "Teens",
       "grupo_edad": "Teens",
       "GRUPO_EDAD": "Teens",
-      "image": "",
+      "image": "https://drive.google.com/thumbnail?id=16xHOpIQCBM_f9YrJgPPzoLSFW-gfKrP7&sz=s600-rw",
       "carpeta_id": "19YaSHl7X9RR1WX9ZyoYCLWsWr3d1F7Xo",
       "woo_id": "",
       "variations": [
@@ -4861,6 +4861,49 @@
           "size": "Surtido",
           "store_id": "MINOM ARGERICH",
           "variation_id": "OXFO4560-Surtido-Surtido-MINOM ARGERICH"
+        }
+      ],
+      "fecha_creacion": ""
+    },
+    {
+      "id": "BERM2325",
+      "sku": "Berm004",
+      "model": "Elastizado",
+      "price": 20000,
+      "display_price": 18000,
+      "minor_surcharge": 0,
+      "category_id": "Bermuda",
+      "categoryName": "Bermuda",
+      "parentCategory": "INDUMENTARIA",
+      "season": "VERANO",
+      "gender": "Mujer",
+      "brand": "MINOM OFICIAL",
+      "style": "Tiro Medio",
+      "material": "Jeans Elastizado",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "talles": "Surtido,34,36,38,40,42,44,46",
+      "TALLES": "Surtido,34,36,38,40,42,44,46",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "image": "",
+      "carpeta_id": "1wKXPjU5OPmV2xedgItksQ9Y01WLrgXBj",
+      "woo_id": "",
+      "variations": [
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM OFICIAL",
+          "variation_id": "BERM2325-Surtido-Surtido-MINOM OFICIAL"
+        },
+        {
+          "color": "Surtido",
+          "size": "Surtido",
+          "store_id": "MINOM ARGERICH",
+          "variation_id": "BERM2325-Surtido-Surtido-MINOM ARGERICH"
         }
       ],
       "fecha_creacion": ""
@@ -7199,6 +7242,29 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "BERM2325": [
+      {
+        "variedad_id": "BERM2325-Curva",
+        "nombre": "Curva",
+        "precio_unitario": 18000,
+        "cantidad_minima": 7,
+        "visible": true
+      },
+      {
+        "variedad_id": "BERM2325-Mayor",
+        "nombre": "Mayor",
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "variedad_id": "BERM2325-Menor",
+        "nombre": "Menor",
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "clients": [
@@ -7290,5 +7356,5 @@
     "inventoryDetailView": "BD_INVENTARIO_Detail",
     "inventoryFormView": "BD_INVENTARIO_Form"
   },
-  "timestamp_ms": 1789745957037
+  "timestamp_ms": 1789746902266
 }
