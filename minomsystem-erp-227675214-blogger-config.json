@@ -155,9 +155,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1lNawwU7qLjaRWU5V1pl9LsdpHTky8XFs&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1lNawwU7qLjaRWU5V1pl9LsdpHTky8XFs&sz=s600-rw",
+                  "archivo_id": "1lNawwU7qLjaRWU5V1pl9LsdpHTky8XFs",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-12T03:00:00.000Z"
                 }
               ],
               "variedad": [
@@ -2182,9 +2188,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1Qd4GtyNv0ZBKKCB_E4fMlH58jmre2ZAW&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1Qd4GtyNv0ZBKKCB_E4fMlH58jmre2ZAW&sz=s600-rw",
+                  "archivo_id": "1Qd4GtyNv0ZBKKCB_E4fMlH58jmre2ZAW",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-17T03:00:00.000Z"
                 }
               ],
               "variedad": [
@@ -5346,7 +5358,7 @@
               "codigo": 127,
               "categoria": "Oferta",
               "nombre": "OFER1572",
-              "carpeta_id": "",
+              "carpeta_id": "16NLIL4YxTMcxVegN_fxA5w0Phqjs4zN6",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -13181,5 +13193,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1789812589515
+  "timestamp_ms": 1789818871491
 }
