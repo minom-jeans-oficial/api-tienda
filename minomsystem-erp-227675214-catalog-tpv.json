@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T20:52:54.435Z",
-  "timestamp_ms": 1789851300020,
+  "generated_at": "2026-09-19T21:07:53.386Z",
+  "timestamp_ms": 1789852201872,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -61,156 +61,368 @@
       }
     }
   },
+  "colors": {
+    "Surtido": {
+      "hex": "FF69B4-800080",
+      "textEdge": "White"
+    },
+    "Negro": {
+      "hex": "000000",
+      "textEdge": "White"
+    },
+    "Blanco": {
+      "hex": "FFFFFF",
+      "textEdge": "Black"
+    },
+    "Rojo": {
+      "hex": "FF0000",
+      "textEdge": "White"
+    },
+    "Verde": {
+      "hex": "00FF00",
+      "textEdge": "000000"
+    },
+    "Azul": {
+      "hex": "0000FF",
+      "textEdge": "White"
+    },
+    "Amarillo": {
+      "hex": "FFFF00",
+      "textEdge": "000000"
+    },
+    "Naranja": {
+      "hex": "FFA500",
+      "textEdge": "000000"
+    },
+    "Morado": {
+      "hex": "800080",
+      "textEdge": "White"
+    },
+    "Rosa": {
+      "hex": "FFC0CB",
+      "textEdge": "000000"
+    },
+    "Turquesa": {
+      "hex": "40E0D0",
+      "textEdge": "000000"
+    },
+    "Gris": {
+      "hex": "808080",
+      "textEdge": "White"
+    },
+    "Marron": {
+      "hex": "8B4513",
+      "textEdge": "White"
+    },
+    "Celeste": {
+      "hex": "ADD8E6",
+      "textEdge": "000000"
+    },
+    "Beige": {
+      "hex": "F5F5DC",
+      "textEdge": "Black"
+    },
+    "Lavanda": {
+      "hex": "C080FF",
+      "textEdge": "000000"
+    },
+    "Salmon": {
+      "hex": "FA8072",
+      "textEdge": "000000"
+    },
+    "Lima": {
+      "hex": "C3FF00",
+      "textEdge": "000000"
+    },
+    "Cian": {
+      "hex": "00FFFF",
+      "textEdge": "000000"
+    },
+    "Amarillo Verde": {
+      "hex": "ADFF2F",
+      "textEdge": "000000"
+    },
+    "Coral": {
+      "hex": "FF7F50",
+      "textEdge": "White"
+    },
+    "Esmeralda": {
+      "hex": "019875",
+      "textEdge": "000000"
+    },
+    "Turquesa Claro": {
+      "hex": "40E0D0",
+      "textEdge": "000000"
+    },
+    "Gris claro": {
+      "hex": "D3D3D3",
+      "textEdge": "000000"
+    },
+    "Aguamarina": {
+      "hex": "7FFFD4",
+      "textEdge": "000000"
+    },
+    "Aguamarina medio": {
+      "hex": "66CDAA",
+      "textEdge": "000000"
+    },
+    "Arena": {
+      "hex": "C2B280",
+      "textEdge": "000000"
+    },
+    "Azul celeste": {
+      "hex": "87CEEB",
+      "textEdge": "000000"
+    },
+    "Azul pizarra": {
+      "hex": "6A5ACD",
+      "textEdge": "White"
+    },
+    "Rosa fuerte": {
+      "hex": "FF69B4",
+      "textEdge": "White"
+    },
+    "Bordo": {
+      "hex": "8B0000",
+      "textEdge": "White"
+    },
+    "Azul marino": {
+      "hex": "00008A",
+      "textEdge": "White"
+    },
+    "Azul acero": {
+      "hex": "1482B4",
+      "textEdge": "White"
+    },
+    "Amarillo mostaza": {
+      "hex": "E3B439",
+      "textEdge": "White"
+    },
+    "Rojo anaranjado": {
+      "hex": "FF4500",
+      "textEdge": "White"
+    },
+    "Violeta": {
+      "hex": "4C2882",
+      "textEdge": "White"
+    },
+    "Purpura": {
+      "hex": "620B57",
+      "textEdge": "White"
+    },
+    "Bison": {
+      "hex": "847450",
+      "textEdge": "White"
+    },
+    "Verde Militar": {
+      "hex": "4B5320",
+      "textEdge": "White"
+    },
+    "Borravino": {
+      "hex": "722F37",
+      "textEdge": "White"
+    }
+  },
   "categories": [
     {
       "id": "Top",
       "name": "Top",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg"
     },
     {
       "id": "Remera",
       "name": "Remera",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg"
     },
     {
       "id": "Pollera",
       "name": "Pollera",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pollera.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pollera.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pollera.svg"
     },
     {
       "id": "Short",
       "name": "Short",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg"
     },
     {
       "id": "Campera",
       "name": "Campera",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg"
     },
     {
       "id": "Buzo",
       "name": "Buzo",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/buzo.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/buzo.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/buzo.svg"
     },
     {
       "id": "Camiseta",
       "name": "Camiseta",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/camiseta.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/faac4fc9.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/faac4fc9.svg"
     },
     {
       "id": "Biker",
       "name": "Biker",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/biker.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cffdb5ac.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cffdb5ac.svg"
     },
     {
       "id": "Chaleco",
       "name": "Chaleco",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg"
     },
     {
       "id": "Calza",
       "name": "Calza",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/calza.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/calza.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/calza.svg"
     },
     {
       "id": "Polera",
       "name": "Polera",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/polera.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/polera.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/polera.svg"
     },
     {
       "id": "Oferta",
       "name": "Oferta",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/oferta.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/oferta.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/oferta.svg"
     },
     {
       "id": "Musculosa",
       "name": "Musculosa",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/musculosa.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/musculosa.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/musculosa.svg"
     },
     {
       "id": "Bermuda",
       "name": "Bermuda",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/bermuda.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/bermuda.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/bermuda.svg"
     },
     {
       "id": "SPollera",
       "name": "SPollera",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/spollera.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/spollera.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/spollera.svg"
     },
     {
       "id": "Chupin",
       "name": "Chupin",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chupin.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_chupin.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_chupin.svg"
     },
     {
       "id": "Oxfort",
       "name": "Oxfort",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/oxfort.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_oxfort.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_oxfort.svg"
     },
     {
       "id": "Wide Leg",
       "name": "Wide Leg",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/wide_leg.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg"
     },
     {
       "id": "Moon",
       "name": "Moon",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/moon.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_moon.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_moon.svg"
     },
     {
       "id": "Baggy",
       "name": "Baggy",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/baggy.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_bagy.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_bagy.svg"
     },
     {
       "id": "Maxi Wide",
       "name": "Maxi Wide",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/maxi_wide.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_maxi_wige.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_maxi_wige.svg"
     },
     {
       "id": "Parachute",
       "name": "Parachute",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/parachute.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg"
     },
     {
       "id": "Clasico Recto",
       "name": "Clasico Recto",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/clasico_recto.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_recto.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_recto.svg"
     },
     {
       "id": "Cinturon",
       "name": "Cinturon",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cinturon.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cinturon.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cinturon.svg"
     },
     {
       "id": "Slouchy",
       "name": "Slouchy",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slouchy.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slouchy.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slouchy.svg"
     }
   ],
   "products": [
@@ -15731,6 +15943,32 @@
       "email": ""
     }
   ],
+  "customers": [
+    {
+      "CLIENTE_ID": "CLI001",
+      "CLASIFICACION": "SIMPLE",
+      "NOMBRE_COMPLETO": "Publico General",
+      "CELULAR": "",
+      "CORREO_ELECTRONICO": "",
+      "CUIT_DNI": "",
+      "CONDICION_FISCAL": "Consumidor Final",
+      "TIPO_ENVIO": "RETIRO TIENDA",
+      "AGENCIA_ENVIO": "RETIRO TIENDA",
+      "CODIGO_POSTAL": "",
+      "PROVINCIA": "Buenos Aires",
+      "MUNICIPIO": "",
+      "LOCALIDAD": "",
+      "CALLE": "",
+      "NUMERO": "",
+      "PISO": "",
+      "DEPARTAMENTO": "",
+      "OBSERVACION": "",
+      "id": "CLI001",
+      "name": "Publico General",
+      "phone": "",
+      "email": ""
+    }
+  ],
   "paymentMethods": [
     {
       "MOVIMIENTO_ID": "Efectivo",
@@ -15739,7 +15977,10 @@
       "ICONO": "c8765b1a",
       "id": "Efectivo",
       "name": "Efectivo",
-      "percent": 0
+      "percent": 0,
+      "code": "Efectivo",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/efectivo.svg",
+      "iconoUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/efectivo.svg"
     },
     {
       "MOVIMIENTO_ID": "Transferencia",
@@ -15748,7 +15989,10 @@
       "ICONO": "15abd3d4",
       "id": "Transferencia",
       "name": "Transferencia",
-      "percent": 0.1
+      "percent": 0.1,
+      "code": "Transferencia",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/transferencia.svg",
+      "iconoUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/transferencia.svg"
     },
     {
       "MOVIMIENTO_ID": "Tarjeta Debito",
@@ -15757,7 +16001,10 @@
       "ICONO": "460e6a76",
       "id": "Tarjeta Debito",
       "name": "Tarjeta Debito",
-      "percent": 0.1
+      "percent": 0.1,
+      "code": "Tarjeta Debito",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_debito.svg",
+      "iconoUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_debito.svg"
     },
     {
       "MOVIMIENTO_ID": "Tarjeta Credito",
@@ -15766,7 +16013,10 @@
       "ICONO": "c9ec11fc",
       "id": "Tarjeta Credito",
       "name": "Tarjeta Credito",
-      "percent": 0.1
+      "percent": 0.1,
+      "code": "Tarjeta Credito",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg",
+      "iconoUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg"
     },
     {
       "MOVIMIENTO_ID": "Factura IVA",
@@ -15775,7 +16025,10 @@
       "ICONO": "fdc331ba",
       "id": "Factura IVA",
       "name": "Factura IVA",
-      "percent": 0.21
+      "percent": 0.21,
+      "code": "Factura IVA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg",
+      "iconoUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg"
     },
     {
       "MOVIMIENTO_ID": "Presupuesto",
@@ -15784,18 +16037,98 @@
       "ICONO": "5c4fde81",
       "id": "Presupuesto",
       "name": "Presupuesto",
-      "percent": 0
+      "percent": 0,
+      "code": "Presupuesto",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg",
+      "iconoUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
     }
   ],
   "paymentIcons": {
-    "Efectivo": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/efectivo.svg",
-    "Transferencia": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/transferencia.svg",
-    "Tarjeta Debito": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_debito.svg",
-    "Tarjeta Credito": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_credito.svg",
-    "Factura IVA": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg",
-    "Presupuesto": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
+    "Efectivo": {
+      "porcentaje": 0,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/efectivo.svg"
+    },
+    "Transferencia": {
+      "porcentaje": 0.1,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/transferencia.svg"
+    },
+    "Tarjeta Debito": {
+      "porcentaje": 0.1,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_debito.svg"
+    },
+    "Tarjeta Credito": {
+      "porcentaje": 0.1,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg"
+    },
+    "Factura IVA": {
+      "porcentaje": 0.21,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg"
+    },
+    "Presupuesto": {
+      "porcentaje": 0,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
+    }
   },
-  "transferAccounts": [],
+  "metodosPagoIcons": {
+    "Efectivo": {
+      "porcentaje": 0,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/efectivo.svg"
+    },
+    "Transferencia": {
+      "porcentaje": 0.1,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/transferencia.svg"
+    },
+    "Tarjeta Debito": {
+      "porcentaje": 0.1,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/tarjeta_debito.svg"
+    },
+    "Tarjeta Credito": {
+      "porcentaje": 0.1,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg"
+    },
+    "Factura IVA": {
+      "porcentaje": 0.21,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg"
+    },
+    "Presupuesto": {
+      "porcentaje": 0,
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
+    }
+  },
+  "transferAccounts": [
+    {
+      "CUENTA_ID": "Mercado Pago-001",
+      "COLOR": "Rojo",
+      "TIPO_CUENTA": "PERSONAL",
+      "BANCO": "Mercado Pago",
+      "NOMBRE_CUENTA": "Daniela Santos Ortega",
+      "ALIAS": "Minom.2025",
+      "CBU": "",
+      "ESTADO": true,
+      "id": "Mercado Pago-001",
+      "banco": "Mercado Pago",
+      "name": "Daniela Santos Ortega",
+      "alias": "Minom.2025",
+      "cbu": "",
+      "isInactive": false
+    },
+    {
+      "CUENTA_ID": "Mercado Pago-002",
+      "COLOR": "Azul",
+      "TIPO_CUENTA": "PERSONAL",
+      "BANCO": "Mercado Pago",
+      "NOMBRE_CUENTA": "Gaston Herrera Luna",
+      "ALIAS": "Minom.2923",
+      "CBU": "",
+      "ESTADO": true,
+      "id": "Mercado Pago-002",
+      "banco": "Mercado Pago",
+      "name": "Gaston Herrera Luna",
+      "alias": "Minom.2923",
+      "cbu": "",
+      "isInactive": false
+    }
+  ],
   "generalConfig": {
     "GENERAL_ID": "MINOM OFICIAL",
     "RESPONSABLE": "Daniela Santos Ortega",
@@ -20273,152 +20606,202 @@
     "TOP": {
       "id": "Top",
       "name": "Top",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg"
     },
     "REMERA": {
       "id": "Remera",
       "name": "Remera",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg"
     },
     "POLLERA": {
       "id": "Pollera",
       "name": "Pollera",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pollera.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pollera.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pollera.svg"
     },
     "SHORT": {
       "id": "Short",
       "name": "Short",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg"
     },
     "CAMPERA": {
       "id": "Campera",
       "name": "Campera",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg"
     },
     "BUZO": {
       "id": "Buzo",
       "name": "Buzo",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/buzo.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/buzo.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/buzo.svg"
     },
     "CAMISETA": {
       "id": "Camiseta",
       "name": "Camiseta",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/camiseta.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/faac4fc9.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/faac4fc9.svg"
     },
     "BIKER": {
       "id": "Biker",
       "name": "Biker",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/biker.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cffdb5ac.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cffdb5ac.svg"
     },
     "CHALECO": {
       "id": "Chaleco",
       "name": "Chaleco",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chaleco.svg"
     },
     "CALZA": {
       "id": "Calza",
       "name": "Calza",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/calza.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/calza.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/calza.svg"
     },
     "POLERA": {
       "id": "Polera",
       "name": "Polera",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/polera.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/polera.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/polera.svg"
     },
     "OFERTA": {
       "id": "Oferta",
       "name": "Oferta",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/oferta.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/oferta.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/oferta.svg"
     },
     "MUSCULOSA": {
       "id": "Musculosa",
       "name": "Musculosa",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/musculosa.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/musculosa.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/musculosa.svg"
     },
     "BERMUDA": {
       "id": "Bermuda",
       "name": "Bermuda",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/bermuda.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/bermuda.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/bermuda.svg"
     },
     "SPOLLERA": {
       "id": "SPollera",
       "name": "SPollera",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/spollera.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/spollera.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/spollera.svg"
     },
     "CHUPIN": {
       "id": "Chupin",
       "name": "Chupin",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/chupin.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_chupin.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_chupin.svg"
     },
     "OXFORT": {
       "id": "Oxfort",
       "name": "Oxfort",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/oxfort.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_oxfort.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_oxfort.svg"
     },
     "WIDE LEG": {
       "id": "Wide Leg",
       "name": "Wide Leg",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/wide_leg.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg"
     },
     "MOON": {
       "id": "Moon",
       "name": "Moon",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/moon.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_moon.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_moon.svg"
     },
     "BAGGY": {
       "id": "Baggy",
       "name": "Baggy",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/baggy.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_bagy.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_bagy.svg"
     },
     "MAXI WIDE": {
       "id": "Maxi Wide",
       "name": "Maxi Wide",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/maxi_wide.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_maxi_wige.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_maxi_wige.svg"
     },
     "PARACHUTE": {
       "id": "Parachute",
       "name": "Parachute",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/parachute.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg"
     },
     "CLASICO RECTO": {
       "id": "Clasico Recto",
       "name": "Clasico Recto",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/clasico_recto.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_recto.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_recto.svg"
     },
     "CINTURON": {
       "id": "Cinturon",
       "name": "Cinturon",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cinturon.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cinturon.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cinturon.svg"
     },
     "SLOUCHY": {
       "id": "Slouchy",
       "name": "Slouchy",
-      "parent": "GENERAL",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slouchy.svg"
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slouchy.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slouchy.svg"
     }
   }
 }
