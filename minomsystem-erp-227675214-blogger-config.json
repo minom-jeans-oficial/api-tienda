@@ -1022,7 +1022,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "145",
+                  "valor": "144",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -1072,7 +1072,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "145"
+                          "stock": "144"
                         }
                       ]
                     }
@@ -8048,10 +8048,21 @@
                   "archivo_id": "1M1UVbhKOj5hcq15VkvwJruF7wbBtz937",
                   "portada": true,
                   "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
+                  "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
                   "fecha_carga": "2026-08-28T18:47:50.082Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1umvCTwV8eoMR8npRbzWOXuDdIWJDHqGP&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1umvCTwV8eoMR8npRbzWOXuDdIWJDHqGP&sz=s600-rw",
+                  "archivo_id": "1umvCTwV8eoMR8npRbzWOXuDdIWJDHqGP",
+                  "portada": false,
+                  "tipo": "image",
+                  "fuente": "IA_Gemini",
+                  "rol": "GALERIA",
+                  "orden": 2,
+                  "fecha_carga": "2026-09-21T12:34:50.112Z"
                 }
               ],
               "variedad": [
@@ -8220,7 +8231,7 @@
                 },
                 "grupo_edad": {
                   "label": "Edad",
-                  "valor": "Teens",
+                  "valor": "Adulto",
                   "icono": "👶"
                 },
                 "estilo": {
@@ -8270,7 +8281,7 @@
                 "whatsapp": {
                   "label": "Más Info",
                   "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20POLL7459%0A%F0%9F%94%B9%20Modelo%3A%20Short%20pollera%20oxido%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20POLL7459%0A%F0%9F%94%B9%20Modelo%3A%20Short%20pollera%20oxido%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044%2C%2046"
                 }
               },
               "guia_talles_img": "",
@@ -8734,7 +8745,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "568",
+                  "valor": "567",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -8773,7 +8784,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "568"
+                          "stock": "567"
                         }
                       ]
                     }
@@ -10316,26 +10327,26 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://drive.google.com/thumbnail?id=1rDgD_h--X2EvHBFBAipHyhaSGpIzH8yS&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1rDgD_h--X2EvHBFBAipHyhaSGpIzH8yS&sz=s600-rw",
-                  "archivo_id": "1rDgD_h--X2EvHBFBAipHyhaSGpIzH8yS",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "PORTADA",
-                  "orden": 1,
-                  "fecha_carga": "2026-08-28T19:16:07.970Z"
-                },
-                {
                   "url": "https://drive.google.com/thumbnail?id=1HLqflHQ08qL_avroPhEfft1xlWF1-42d&sz=s1600-rw",
                   "thumbnail_url": "https://drive.google.com/thumbnail?id=1HLqflHQ08qL_avroPhEfft1xlWF1-42d&sz=s600-rw",
                   "archivo_id": "1HLqflHQ08qL_avroPhEfft1xlWF1-42d",
-                  "portada": false,
+                  "portada": true,
                   "tipo": "image",
                   "fuente": "IA_Gemini",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-20T04:37:48.149Z"
+                },
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1rDgD_h--X2EvHBFBAipHyhaSGpIzH8yS&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1rDgD_h--X2EvHBFBAipHyhaSGpIzH8yS&sz=s600-rw",
+                  "archivo_id": "1rDgD_h--X2EvHBFBAipHyhaSGpIzH8yS",
+                  "portada": false,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
                   "rol": "GALERIA",
                   "orden": 2,
-                  "fecha_carga": "2026-09-20T04:37:48.149Z"
+                  "fecha_carga": "2026-08-28T19:16:07.970Z"
                 }
               ],
               "variedad": [
@@ -13314,5 +13325,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1789993473603
+  "timestamp_ms": 1789994387201
 }
