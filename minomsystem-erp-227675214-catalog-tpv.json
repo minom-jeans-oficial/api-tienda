@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T18:38:00.680Z",
-  "timestamp_ms": 1790188810937,
+  "generated_at": "2026-09-23T18:52:57.198Z",
+  "timestamp_ms": 1790189654320,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -1380,8 +1380,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 120,
-          "STOCK_ACTUAL": 120
+          "stock": 119,
+          "STOCK_ACTUAL": 119
         }
       ],
       "prices": [
@@ -6294,8 +6294,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 139,
-          "STOCK_ACTUAL": 139
+          "stock": 138,
+          "STOCK_ACTUAL": 138
         }
       ],
       "prices": [
@@ -9444,8 +9444,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 119,
-          "STOCK_ACTUAL": 119
+          "stock": 118,
+          "STOCK_ACTUAL": 118
         }
       ],
       "prices": [
@@ -14157,8 +14157,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 278,
-          "STOCK_ACTUAL": 278
+          "stock": 277,
+          "STOCK_ACTUAL": 277
         },
         {
           "variation_id": "OXFO6551-Surtido-Surtido-MINOM ARGERICH",
@@ -15057,8 +15057,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 295,
-          "STOCK_ACTUAL": 295
+          "stock": 294,
+          "STOCK_ACTUAL": 294
         },
         {
           "variation_id": "BERM8703-Surtido-Surtido-MINOM ARGERICH",
@@ -16221,9 +16221,9 @@
       "sku": "Shor014",
       "SKU": "Shor014",
       "secondarySku": "Shor014",
-      "model": "Elastizado celestw",
-      "name": "Elastizado celestw",
-      "nombre": "Elastizado celestw",
+      "model": "Elastizado celeste",
+      "name": "Elastizado celeste",
+      "nombre": "Elastizado celeste",
       "price": 16000,
       "minor_surcharge": 0,
       "category": "Short",
@@ -16359,6 +16359,156 @@
           "precio_final": 14000,
           "final_price": 14000,
           "cantidad_minima": 6,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-09-23T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-09-23T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR8812",
+      "sku": "Shor015",
+      "SKU": "Shor015",
+      "secondarySku": "Shor015",
+      "model": "Elastizado negro",
+      "name": "Elastizado negro",
+      "nombre": "Elastizado negro",
+      "price": 16000,
+      "minor_surcharge": 0,
+      "category": "Short",
+      "category_id": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "VERANO",
+      "style": "Tiro Bajo",
+      "material": "Jeans Elastizado",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido,34,36,38,40,42",
+      "talles": "Surtido,34,36,38,40,42",
+      "TALLES": "Surtido,34,36,38,40,42",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1Bv_5KkqrUwerKlzNcf9b951KKJaog-6I&sz=s600-rw",
+      "imagen": "https://drive.google.com/thumbnail?id=1Bv_5KkqrUwerKlzNcf9b951KKJaog-6I&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "SHOR8812-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "SHOR8812-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 300,
+          "STOCK_ACTUAL": 300
+        },
+        {
+          "variation_id": "SHOR8812-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "SHOR8812-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 300,
+          "STOCK_ACTUAL": 300
+        }
+      ],
+      "prices": [
+        {
+          "id": "SHOR8812-Mayor",
+          "variedad_id": "SHOR8812-Mayor",
+          "variety_id": "SHOR8812-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 16000,
+          "precio_unitario": 16000,
+          "precio_final": 16000,
+          "final_price": 16000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "SHOR8812-Menor",
+          "variedad_id": "SHOR8812-Menor",
+          "variety_id": "SHOR8812-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 21000,
+          "precio_unitario": 21000,
+          "precio_final": 21000,
+          "final_price": 21000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "SHOR8812-Curva",
+          "variedad_id": "SHOR8812-Curva",
+          "variety_id": "SHOR8812-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 14000,
+          "precio_unitario": 14000,
+          "precio_final": 14000,
+          "final_price": 14000,
+          "cantidad_minima": 5,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "SHOR8812-Mayor",
+          "variedad_id": "SHOR8812-Mayor",
+          "variety_id": "SHOR8812-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 16000,
+          "precio_unitario": 16000,
+          "precio_final": 16000,
+          "final_price": 16000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "SHOR8812-Menor",
+          "variedad_id": "SHOR8812-Menor",
+          "variety_id": "SHOR8812-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 21000,
+          "precio_unitario": 21000,
+          "precio_final": 21000,
+          "final_price": 21000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "SHOR8812-Curva",
+          "variedad_id": "SHOR8812-Curva",
+          "variety_id": "SHOR8812-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 14000,
+          "precio_unitario": 14000,
+          "precio_final": 14000,
+          "final_price": 14000,
+          "cantidad_minima": 5,
           "visible": true
         }
       ],
@@ -21173,6 +21323,50 @@
         "precio_final": 14000,
         "final_price": 14000,
         "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
+    "SHOR8812": [
+      {
+        "id": "SHOR8812-Mayor",
+        "variedad_id": "SHOR8812-Mayor",
+        "variety_id": "SHOR8812-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "variety_name": "Mayor",
+        "precio": 16000,
+        "precio_unitario": 16000,
+        "precio_final": 16000,
+        "final_price": 16000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "SHOR8812-Menor",
+        "variedad_id": "SHOR8812-Menor",
+        "variety_id": "SHOR8812-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 21000,
+        "precio_unitario": 21000,
+        "precio_final": 21000,
+        "final_price": 21000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "SHOR8812-Curva",
+        "variedad_id": "SHOR8812-Curva",
+        "variety_id": "SHOR8812-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "variety_name": "Curva",
+        "precio": 14000,
+        "precio_unitario": 14000,
+        "precio_final": 14000,
+        "final_price": 14000,
+        "cantidad_minima": 5,
         "visible": true
       }
     ]
