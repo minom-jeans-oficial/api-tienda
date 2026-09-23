@@ -81616,6 +81616,150 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790188692062",
+          "fecha": "2026-09-23 15:38",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 55000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-d8a72717-55f3-4b8f-acdb-fdcb83d15ca6",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-23",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790188692062-2980",
+              "descripcion": "BERM8703-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "Mayor",
+              "productoId": "BERM8703",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "BERM8703-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1790188692062-2981",
+              "descripcion": "OXFO6551-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "Mayor",
+              "productoId": "OXFO6551",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OXFO6551-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 55000,
+          "subtotal": 55000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790189136279",
+          "fecha": "2026-09-23 15:45",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 27000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-d8a72717-55f3-4b8f-acdb-fdcb83d15ca6",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-23",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790189136279-2982",
+              "descripcion": "PANT8193-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 27000,
+              "subtotal": 27000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT8193",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT8193-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 27000,
+          "subtotal": 27000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790189360904",
+          "fecha": "2026-09-23 15:49",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 45000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-d8a72717-55f3-4b8f-acdb-fdcb83d15ca6",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-23",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790189360904-2983",
+              "descripcion": "PANT4657-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT4657",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4657-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1790189360904-2984",
+              "descripcion": "OFER1572-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 20000,
+              "subtotal": 20000,
+              "tipoPrecio": "Menor",
+              "productoId": "OFER1572",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER1572-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 45000,
+          "subtotal": 45000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -85250,7 +85394,8 @@
     "OXFO4560": "https://drive.google.com/thumbnail?id=16xHOpIQCBM_f9YrJgPPzoLSFW-gfKrP7&sz=s600-rw",
     "BERM4987": "https://drive.google.com/thumbnail?id=1s1Uw2m0mjS00bDkKXPL53DzHcdgawryq&sz=s600-rw",
     "SHOR7836": "https://drive.google.com/thumbnail?id=1VDBgYEUI_z5qGtKTs4hlE8XSbnRCYBUK&sz=s600-rw",
-    "SHOR7133": "https://drive.google.com/thumbnail?id=1vBc3MFDm5KvcfIDDBBxa1ifwbsuqtHLS&sz=s600-rw"
+    "SHOR7133": "https://drive.google.com/thumbnail?id=1vBc3MFDm5KvcfIDDBBxa1ifwbsuqtHLS&sz=s600-rw",
+    "SHOR8812": "https://drive.google.com/thumbnail?id=1Bv_5KkqrUwerKlzNcf9b951KKJaog-6I&sz=s600-rw"
   },
-  "timestamp_ms": 1790188699245
+  "timestamp_ms": 1790192259946
 }
