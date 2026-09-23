@@ -81056,6 +81056,110 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790178249813",
+          "fecha": "2026-09-23 12:44",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 53900,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-d8a72717-55f3-4b8f-acdb-fdcb83d15ca6",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-23",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 4900,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790178249813-2959",
+              "descripcion": "PANT2578-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT2578",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2578-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1790178249813-2960",
+              "descripcion": "PANT7432-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 24000,
+              "subtotal": 24000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT7432",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT7432-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 49000,
+          "subtotal": 49000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790179618768",
+          "fecha": "2026-09-23 13:06",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 34000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-d8a72717-55f3-4b8f-acdb-fdcb83d15ca6",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-23",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790179618768-2961",
+              "descripcion": "SHOR6699-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 19000,
+              "subtotal": 19000,
+              "tipoPrecio": "Mayor",
+              "productoId": "SHOR6699",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR6699-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1790179618768-2962",
+              "descripcion": "SHOR3989-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 15000,
+              "subtotal": 15000,
+              "tipoPrecio": "Mayor",
+              "productoId": "SHOR3989",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR3989-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 34000,
+          "subtotal": 34000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -84689,5 +84793,5 @@
     "BERM8703": "https://drive.google.com/thumbnail?id=1Qd4GtyNv0ZBKKCB_E4fMlH58jmre2ZAW&sz=s600-rw",
     "OXFO4560": "https://drive.google.com/thumbnail?id=16xHOpIQCBM_f9YrJgPPzoLSFW-gfKrP7&sz=s600-rw"
   },
-  "timestamp_ms": 1790177867115
+  "timestamp_ms": 1790181434306
 }
