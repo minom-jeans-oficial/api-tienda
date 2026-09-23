@@ -1393,7 +1393,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "74",
+                  "valor": "73",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -1443,7 +1443,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "74"
+                          "stock": "73"
                         }
                       ]
                     }
@@ -10048,7 +10048,7 @@
               "codigo": 229,
               "categoria": "Short",
               "nombre": "SHOR7133",
-              "carpeta_id": "",
+              "carpeta_id": "1sjiC8DkbmC77U3Xlk18aa2967DDUbpx2",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -10104,8 +10104,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "300",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -10120,9 +10120,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1vBc3MFDm5KvcfIDDBBxa1ifwbsuqtHLS&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1vBc3MFDm5KvcfIDDBBxa1ifwbsuqtHLS&sz=s600-rw",
+                  "archivo_id": "1vBc3MFDm5KvcfIDDBBxa1ifwbsuqtHLS",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-09-23T17:54:31.370Z"
                 }
               ],
               "variedad": [
@@ -10131,7 +10137,17 @@
                   "precio": 14000,
                   "variedad": "Curva",
                   "minima": 6,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
@@ -10231,10 +10247,10 @@
                   "archivo_id": "1VDBgYEUI_z5qGtKTs4hlE8XSbnRCYBUK",
                   "portada": true,
                   "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
+                  "fuente": "Sistema Web",
                   "rol": "PORTADA",
                   "orden": 1,
-                  "fecha_carga": "2026-09-23T17:52:11.741Z"
+                  "fecha_carga": "2026-09-23T17:53:10.547Z"
                 }
               ],
               "variedad": [
@@ -13697,5 +13713,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1790186102658
+  "timestamp_ms": 1790186961430
 }
