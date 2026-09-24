@@ -5535,7 +5535,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "115",
+                  "valor": "114",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -6304,7 +6304,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "276",
+                  "valor": "275",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -6343,7 +6343,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "276"
+                          "stock": "275"
                         }
                       ]
                     }
@@ -9004,7 +9004,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "391",
+                  "valor": "389",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -9043,7 +9043,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "391"
+                          "stock": "389"
                         }
                       ]
                     }
@@ -10348,7 +10348,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "299",
+                  "valor": "298",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -10387,7 +10387,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "299"
+                          "stock": "298"
                         }
                       ]
                     }
@@ -13956,5 +13956,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1790270697556
+  "timestamp_ms": 1790271614868
 }
