@@ -81761,6 +81761,84 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-546fe40f-f5a6-4baa-96ca-4ecc1aa7c170": [
+        {
+          "id": "TPV-1790254798096",
+          "fecha": "2026-09-24 09:59",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 94000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-546fe40f-f5a6-4baa-96ca-4ecc1aa7c170",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-24",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790254798096-2985",
+              "descripcion": "POLL3123-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 19000,
+              "subtotal": 19000,
+              "tipoPrecio": "Mayor",
+              "productoId": "POLL3123",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "POLL3123-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1790254798096-2986",
+              "descripcion": "OXFO6119-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 27000,
+              "subtotal": 27000,
+              "tipoPrecio": "Mayor",
+              "productoId": "OXFO6119",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OXFO6119-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1790254798096-2987",
+              "descripcion": "PANT9228-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 23000,
+              "subtotal": 23000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT9228",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT9228-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1790254798096-2988",
+              "descripcion": "PANT5614-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT5614",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT5614-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 94000,
+          "subtotal": 94000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "MINOM ARGERICH": {
@@ -84625,6 +84703,15 @@
       "horaIniciada": "Sat D",
       "horaFinalizada": "",
       "estado": "ABIERTA"
+    },
+    "CR-546fe40f-f5a6-4baa-96ca-4ecc1aa7c170": {
+      "cajaId": "CR-546fe40f-f5a6-4baa-96ca-4ecc1aa7c170",
+      "fecha": "2026-09-24",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     }
   },
   "filterOptions": {
@@ -85292,6 +85379,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-546fe40f-f5a6-4baa-96ca-4ecc1aa7c170",
+        "fecha": "2026-09-24",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -85397,5 +85493,5 @@
     "SHOR7133": "https://drive.google.com/thumbnail?id=1vBc3MFDm5KvcfIDDBBxa1ifwbsuqtHLS&sz=s600-rw",
     "SHOR8812": "https://drive.google.com/thumbnail?id=1Bv_5KkqrUwerKlzNcf9b951KKJaog-6I&sz=s600-rw"
   },
-  "timestamp_ms": 1790192259946
+  "timestamp_ms": 1790257039684
 }
