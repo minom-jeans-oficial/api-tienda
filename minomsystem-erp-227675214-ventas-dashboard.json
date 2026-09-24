@@ -82110,6 +82110,98 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790265534739",
+          "fecha": "2026-09-24 12:58",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 33000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-546fe40f-f5a6-4baa-96ca-4ecc1aa7c170",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-24",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3000,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790265534739-3000",
+              "descripcion": "SHOR3989-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 2,
+              "precioUnitario": 15000,
+              "subtotal": 30000,
+              "tipoPrecio": "Mayor",
+              "productoId": "SHOR3989",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR3989-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790265596811",
+          "fecha": "2026-09-24 12:59",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 33000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-546fe40f-f5a6-4baa-96ca-4ecc1aa7c170",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-24",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3000,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790265596811-3001",
+              "descripcion": "SHOR4724-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 15000,
+              "subtotal": 15000,
+              "tipoPrecio": "Mayor",
+              "productoId": "SHOR4724",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR4724-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1790265596811-3002",
+              "descripcion": "SHOR2510-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 15000,
+              "subtotal": 15000,
+              "tipoPrecio": "Mayor",
+              "productoId": "SHOR2510",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR2510-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -85763,7 +85855,8 @@
     "BERM4987": "https://drive.google.com/thumbnail?id=1s1Uw2m0mjS00bDkKXPL53DzHcdgawryq&sz=s600-rw",
     "SHOR7836": "https://drive.google.com/thumbnail?id=1VDBgYEUI_z5qGtKTs4hlE8XSbnRCYBUK&sz=s600-rw",
     "SHOR7133": "https://drive.google.com/thumbnail?id=1vBc3MFDm5KvcfIDDBBxa1ifwbsuqtHLS&sz=s600-rw",
-    "SHOR8812": "https://drive.google.com/thumbnail?id=1Bv_5KkqrUwerKlzNcf9b951KKJaog-6I&sz=s600-rw"
+    "SHOR8812": "https://drive.google.com/thumbnail?id=1Bv_5KkqrUwerKlzNcf9b951KKJaog-6I&sz=s600-rw",
+    "BERM5525": "https://drive.google.com/thumbnail?id=1cJSl0CBzop9l9nPB3wUMe7Jyhs_Wyr7e&sz=s600-rw"
   },
-  "timestamp_ms": 1790264235583
+  "timestamp_ms": 1790267823194
 }
