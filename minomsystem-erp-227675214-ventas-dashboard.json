@@ -84278,6 +84278,126 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790358776980",
+          "fecha": "2026-09-25 14:53",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 34000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-c2ed365d-9c67-4af7-994d-236a8b9e34ed",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-25",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790358776980-3087",
+              "descripcion": "PANT4023-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 34000,
+              "subtotal": 34000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT4023",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT4023-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 34000,
+          "subtotal": 34000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790360882947",
+          "fecha": "2026-09-25 15:28",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 66000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-c2ed365d-9c67-4af7-994d-236a8b9e34ed",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-25",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 6000,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790360882947-3088",
+              "descripcion": "PANT3144-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 2,
+              "precioUnitario": 30000,
+              "subtotal": 60000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT3144",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3144-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 60000,
+          "subtotal": 60000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790360898906",
+          "fecha": "2026-09-25 15:28",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 33000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-c2ed365d-9c67-4af7-994d-236a8b9e34ed",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-25",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3000,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790360898906-3089",
+              "descripcion": "PANT3144-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT3144",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT3144-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -87995,5 +88115,5 @@
     "BERM5525": "https://drive.google.com/thumbnail?id=1cJSl0CBzop9l9nPB3wUMe7Jyhs_Wyr7e&sz=s600-rw",
     "WIDE5209": "https://drive.google.com/thumbnail?id=1lfrxGnwDthaGcbOINSyeWT7KTmukYWp9&sz=s600-rw"
   },
-  "timestamp_ms": 1790358004509
+  "timestamp_ms": 1790361434228
 }
