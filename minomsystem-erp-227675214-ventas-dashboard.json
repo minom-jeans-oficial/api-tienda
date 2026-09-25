@@ -84502,6 +84502,150 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790365633994",
+          "fecha": "2026-09-25 16:47",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 34100,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-c2ed365d-9c67-4af7-994d-236a8b9e34ed",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-25",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3100,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790365633994-3094",
+              "descripcion": "SHOR7836-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 16000,
+              "subtotal": 16000,
+              "tipoPrecio": "Mayor",
+              "productoId": "SHOR7836",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR7836-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1790365633994-3095",
+              "descripcion": "SHOR3989-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 15000,
+              "subtotal": 15000,
+              "tipoPrecio": "Mayor",
+              "productoId": "SHOR3989",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR3989-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 31000,
+          "subtotal": 31000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790365729361",
+          "fecha": "2026-09-25 16:48",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 39600,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-c2ed365d-9c67-4af7-994d-236a8b9e34ed",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-25",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3600,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790365729361-3096",
+              "descripcion": "POLL3123-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 19000,
+              "subtotal": 19000,
+              "tipoPrecio": "Mayor",
+              "productoId": "POLL3123",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "POLL3123-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1790365729361-3097",
+              "descripcion": "POLL3404-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 17000,
+              "subtotal": 17000,
+              "tipoPrecio": "Mayor",
+              "productoId": "POLL3404",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "POLL3404-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 36000,
+          "subtotal": 36000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790366473378",
+          "fecha": "2026-09-25 17:01",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 22000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-c2ed365d-9c67-4af7-994d-236a8b9e34ed",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-25",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790366473378-3098",
+              "descripcion": "POLL3404-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 22000,
+              "subtotal": 22000,
+              "tipoPrecio": "Menor",
+              "productoId": "POLL3404",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "POLL3404-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 22000,
+          "subtotal": 22000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -88219,5 +88363,5 @@
     "BERM5525": "https://drive.google.com/thumbnail?id=1cJSl0CBzop9l9nPB3wUMe7Jyhs_Wyr7e&sz=s600-rw",
     "WIDE5209": "https://drive.google.com/thumbnail?id=1lfrxGnwDthaGcbOINSyeWT7KTmukYWp9&sz=s600-rw"
   },
-  "timestamp_ms": 1790365034349
+  "timestamp_ms": 1790368645121
 }
