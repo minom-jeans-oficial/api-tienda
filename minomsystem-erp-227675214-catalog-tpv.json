@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T12:07:54.272Z",
-  "timestamp_ms": 1790424576303,
+  "generated_at": "2026-09-26T12:22:58.406Z",
+  "timestamp_ms": 1790425467844,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -8394,8 +8394,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 49,
-          "STOCK_ACTUAL": 49
+          "stock": 48,
+          "STOCK_ACTUAL": 48
         }
       ],
       "prices": [
@@ -16821,9 +16821,9 @@
       "sku": "Ofer007",
       "SKU": "Ofer007",
       "secondarySku": "Ofer007",
-      "model": "Slouchy y wide",
-      "name": "Slouchy y wide",
-      "nombre": "Slouchy y wide",
+      "model": "Variosss",
+      "name": "Variosss",
+      "nombre": "Variosss",
       "price": 22000,
       "minor_surcharge": 0,
       "category": "Oferta",
@@ -16906,8 +16906,8 @@
           "visible": true
         }
       ],
-      "lastUpdate": "2026-09-25T03:00:00.000Z",
-      "ULTIMA_ACTUALIZACION": "2026-09-25T03:00:00.000Z",
+      "lastUpdate": "2026-09-26T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-09-26T03:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -16915,9 +16915,9 @@
       "sku": "Ofer008",
       "SKU": "Ofer008",
       "secondarySku": "Ofer008",
-      "model": "Chupin",
-      "name": "Chupin",
-      "nombre": "Chupin",
+      "model": "Todos",
+      "name": "Todos",
+      "nombre": "Todos",
       "price": 15000,
       "minor_surcharge": 0,
       "category": "Oferta",
@@ -17000,8 +17000,8 @@
           "visible": true
         }
       ],
-      "lastUpdate": "2026-09-25T03:00:00.000Z",
-      "ULTIMA_ACTUALIZACION": "2026-09-25T03:00:00.000Z",
+      "lastUpdate": "2026-09-26T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-09-26T03:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -17297,6 +17297,100 @@
           "precio_final": 13000,
           "final_price": 13000,
           "cantidad_minima": 5,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-09-26T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-09-26T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "OFER1513",
+      "sku": "Ofer009",
+      "SKU": "Ofer009",
+      "secondarySku": "Ofer009",
+      "model": "Brillos",
+      "name": "Brillos",
+      "nombre": "Brillos",
+      "price": 29000,
+      "minor_surcharge": 0,
+      "category": "Oferta",
+      "category_id": "Oferta",
+      "categoryName": "Oferta",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "",
+      "imagen": "",
+      "variations": [
+        {
+          "variation_id": "OFER1513-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "OFER1513-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 30,
+          "STOCK_ACTUAL": 30
+        },
+        {
+          "variation_id": "OFER1513-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "OFER1513-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 30,
+          "STOCK_ACTUAL": 30
+        }
+      ],
+      "prices": [
+        {
+          "id": "OFER1513-Menor",
+          "variedad_id": "OFER1513-Menor",
+          "variety_id": "OFER1513-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 29000,
+          "precio_unitario": 29000,
+          "precio_final": 29000,
+          "final_price": 29000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "OFER1513-Menor",
+          "variedad_id": "OFER1513-Menor",
+          "variety_id": "OFER1513-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 29000,
+          "precio_unitario": 29000,
+          "precio_final": 29000,
+          "final_price": 29000,
+          "cantidad_minima": 1,
           "visible": true
         }
       ],
@@ -22363,6 +22457,22 @@
         "precio_final": 13000,
         "final_price": 13000,
         "cantidad_minima": 5,
+        "visible": true
+      }
+    ],
+    "OFER1513": [
+      {
+        "id": "OFER1513-Menor",
+        "variedad_id": "OFER1513-Menor",
+        "variety_id": "OFER1513-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 29000,
+        "precio_unitario": 29000,
+        "precio_final": 29000,
+        "final_price": 29000,
+        "cantidad_minima": 1,
         "visible": true
       }
     ]
