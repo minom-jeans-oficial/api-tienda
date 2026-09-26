@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T11:37:52.194Z",
-  "timestamp_ms": 1790422747891,
+  "generated_at": "2026-09-26T11:54:36.347Z",
+  "timestamp_ms": 1790423683883,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -17003,6 +17003,156 @@
       "lastUpdate": "2026-09-25T03:00:00.000Z",
       "ULTIMA_ACTUALIZACION": "2026-09-25T03:00:00.000Z",
       "fecha_creacion": ""
+    },
+    {
+      "id": "WIDE1726",
+      "sku": "Wide024",
+      "SKU": "Wide024",
+      "secondarySku": "Wide024",
+      "model": "Blanco",
+      "name": "Blanco",
+      "nombre": "Blanco",
+      "price": 24000,
+      "minor_surcharge": 0,
+      "category": "Wide Leg",
+      "category_id": "Wide Leg",
+      "categoryName": "Wide Leg",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Medio",
+      "material": "",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido,36,38,40,42,44,46",
+      "talles": "Surtido,36,38,40,42,44,46",
+      "TALLES": "Surtido,36,38,40,42,44,46",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=17ePatrPXPIUiC-nRHzptb3fOtwYeg_FF&sz=s600-rw",
+      "imagen": "https://drive.google.com/thumbnail?id=17ePatrPXPIUiC-nRHzptb3fOtwYeg_FF&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "WIDE1726-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "WIDE1726-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 300,
+          "STOCK_ACTUAL": 300
+        },
+        {
+          "variation_id": "WIDE1726-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "WIDE1726-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 300,
+          "STOCK_ACTUAL": 300
+        }
+      ],
+      "prices": [
+        {
+          "id": "WIDE1726-Mayor",
+          "variedad_id": "WIDE1726-Mayor",
+          "variety_id": "WIDE1726-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 24000,
+          "precio_unitario": 24000,
+          "precio_final": 24000,
+          "final_price": 24000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "WIDE1726-Menor",
+          "variedad_id": "WIDE1726-Menor",
+          "variety_id": "WIDE1726-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 29000,
+          "precio_unitario": 29000,
+          "precio_final": 29000,
+          "final_price": 29000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "WIDE1726-Curva",
+          "variedad_id": "WIDE1726-Curva",
+          "variety_id": "WIDE1726-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 22000,
+          "precio_unitario": 22000,
+          "precio_final": 22000,
+          "final_price": 22000,
+          "cantidad_minima": 6,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "WIDE1726-Mayor",
+          "variedad_id": "WIDE1726-Mayor",
+          "variety_id": "WIDE1726-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 24000,
+          "precio_unitario": 24000,
+          "precio_final": 24000,
+          "final_price": 24000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "WIDE1726-Menor",
+          "variedad_id": "WIDE1726-Menor",
+          "variety_id": "WIDE1726-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 29000,
+          "precio_unitario": 29000,
+          "precio_final": 29000,
+          "final_price": 29000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "WIDE1726-Curva",
+          "variedad_id": "WIDE1726-Curva",
+          "variety_id": "WIDE1726-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 22000,
+          "precio_unitario": 22000,
+          "precio_final": 22000,
+          "final_price": 22000,
+          "cantidad_minima": 6,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-09-26T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-09-26T03:00:00.000Z",
+      "fecha_creacion": ""
     }
   ],
   "clients": [
@@ -21975,6 +22125,50 @@
         "precio_final": 15000,
         "final_price": 15000,
         "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "WIDE1726": [
+      {
+        "id": "WIDE1726-Mayor",
+        "variedad_id": "WIDE1726-Mayor",
+        "variety_id": "WIDE1726-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "variety_name": "Mayor",
+        "precio": 24000,
+        "precio_unitario": 24000,
+        "precio_final": 24000,
+        "final_price": 24000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "WIDE1726-Menor",
+        "variedad_id": "WIDE1726-Menor",
+        "variety_id": "WIDE1726-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 29000,
+        "precio_unitario": 29000,
+        "precio_final": 29000,
+        "final_price": 29000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "WIDE1726-Curva",
+        "variedad_id": "WIDE1726-Curva",
+        "variety_id": "WIDE1726-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "variety_name": "Curva",
+        "precio": 22000,
+        "precio_unitario": 22000,
+        "precio_final": 22000,
+        "final_price": 22000,
+        "cantidad_minima": 6,
         "visible": true
       }
     ]
