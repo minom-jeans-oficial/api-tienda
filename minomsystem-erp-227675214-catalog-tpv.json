@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T22:52:54.070Z",
-  "timestamp_ms": 1790636066497,
+  "generated_at": "2026-09-28T23:08:00.751Z",
+  "timestamp_ms": 1790637024240,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -17422,7 +17422,24 @@
       "id": "CLI001",
       "name": "Publico General",
       "phone": "",
-      "email": ""
+      "celular": "",
+      "email": "",
+      "correo": "",
+      "cuit_dni": "",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "SIMPLE",
+      "tipo_envio": "RETIRO TIENDA",
+      "agencia_envio": "RETIRO TIENDA",
+      "codigo_postal": "",
+      "provincia": "Buenos Aires",
+      "municipio": "",
+      "localidad": "",
+      "calle": "",
+      "numero": "",
+      "piso": "",
+      "departamento": "",
+      "observacion": "",
+      "direccion": "Buenos Aires"
     }
   ],
   "customers": [
@@ -17448,7 +17465,24 @@
       "id": "CLI001",
       "name": "Publico General",
       "phone": "",
-      "email": ""
+      "celular": "",
+      "email": "",
+      "correo": "",
+      "cuit_dni": "",
+      "condicion_fiscal": "Consumidor Final",
+      "clasificacion": "SIMPLE",
+      "tipo_envio": "RETIRO TIENDA",
+      "agencia_envio": "RETIRO TIENDA",
+      "codigo_postal": "",
+      "provincia": "Buenos Aires",
+      "municipio": "",
+      "localidad": "",
+      "calle": "",
+      "numero": "",
+      "piso": "",
+      "departamento": "",
+      "observacion": "",
+      "direccion": "Buenos Aires"
     }
   ],
   "paymentMethods": [
