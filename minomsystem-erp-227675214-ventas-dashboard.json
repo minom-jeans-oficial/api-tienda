@@ -121409,6 +121409,61 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790707199160",
+          "fecha": "2026-09-29 15:40",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 33000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-2b958034-1cf4-495c-9819-df64f6f244be",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-29",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3000,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790707199160-3416",
+              "descripcion": "PANT2545-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 30000,
+              "subtotal": 30000,
+              "tipoPrecio": "Menor",
+              "productoId": "PANT2545",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT2545-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 30000,
+          "subtotal": 30000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -125903,5 +125958,5 @@
     "WIDE1726": "https://drive.google.com/thumbnail?id=17ePatrPXPIUiC-nRHzptb3fOtwYeg_FF&sz=s600-rw",
     "SHOR1716": "https://drive.google.com/thumbnail?id=1M1YaZxnDrrWfV6q30IBsjhZlJi49Skj8&sz=s600-rw"
   },
-  "timestamp_ms": 1790707171565
+  "timestamp_ms": 1790714229042
 }
