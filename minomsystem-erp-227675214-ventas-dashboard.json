@@ -121545,6 +121545,73 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790774903394",
+          "fecha": "2026-09-30 10:28",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 56000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-75f26c4a-34e6-491f-8367-23fd7bbc0ed8",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-09-30",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790774903394-3420",
+              "descripcion": "TOP1511-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 2,
+              "precioUnitario": 12000,
+              "subtotal": 24000,
+              "tipoPrecio": "Mayor",
+              "productoId": "TOP1511",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "TOP1511-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1790774903394-3421",
+              "descripcion": "POLL3404-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 2,
+              "precioUnitario": 16000,
+              "subtotal": 32000,
+              "tipoPrecio": "Mayor",
+              "productoId": "POLL3404",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "POLL3404-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 56000,
+          "subtotal": 56000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
         }
       ]
     },
@@ -126057,5 +126124,5 @@
     "WIDE1726": "https://drive.google.com/thumbnail?id=17ePatrPXPIUiC-nRHzptb3fOtwYeg_FF&sz=s600-rw",
     "SHOR1716": "https://drive.google.com/thumbnail?id=1M1YaZxnDrrWfV6q30IBsjhZlJi49Skj8&sz=s600-rw"
   },
-  "timestamp_ms": 1790771833014
+  "timestamp_ms": 1790775529337
 }
