@@ -125893,6 +125893,142 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-75256268-1b72-4a1f-865c-533527620d0d": [
+        {
+          "id": "TPV-1790944293091",
+          "fecha": "2026-10-02 09:31",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 31000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-75256268-1b72-4a1f-865c-533527620d0d",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-10-02",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790944293091-3542",
+              "descripcion": "SHOR4263-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 16000,
+              "subtotal": 16000,
+              "tipoPrecio": "Mayor",
+              "productoId": "SHOR4263",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR4263-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1790944293091-3543",
+              "descripcion": "SHOR5537-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 15000,
+              "subtotal": 15000,
+              "tipoPrecio": "Mayor",
+              "productoId": "SHOR5537",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR5537-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 31000,
+          "subtotal": 31000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        },
+        {
+          "id": "TPV-1790944545083",
+          "fecha": "2026-10-02 09:35",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 34000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-75256268-1b72-4a1f-865c-533527620d0d",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-10-02",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1790944545083-3544",
+              "descripcion": "SHOR5537-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 15000,
+              "subtotal": 15000,
+              "tipoPrecio": "Mayor",
+              "productoId": "SHOR5537",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR5537-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1790944545083-3545",
+              "descripcion": "SHOR4641-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 19000,
+              "subtotal": 19000,
+              "tipoPrecio": "Mayor",
+              "productoId": "SHOR4641",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR4641-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 34000,
+          "subtotal": 34000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     },
     "MINOM ARGERICH": {
@@ -129582,6 +129718,15 @@
       "horaIniciada": "Sat D",
       "horaFinalizada": "",
       "estado": "ABIERTA"
+    },
+    "CR-75256268-1b72-4a1f-865c-533527620d0d": {
+      "cajaId": "CR-75256268-1b72-4a1f-865c-533527620d0d",
+      "fecha": "2026-10-02",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     }
   },
   "filterOptions": {
@@ -130313,6 +130458,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-75256268-1b72-4a1f-865c-533527620d0d",
+        "fecha": "2026-10-02",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -130424,5 +130578,5 @@
     "BERM8322": "https://drive.google.com/thumbnail?id=1TqrtrDNh0ZnNTaLAm1N5PSCBPL_XW7F_&sz=s600-rw",
     "POLL4943": "https://drive.google.com/thumbnail?id=1msL2bc4yCoeIHPRsFE0cINr2r4QbQOw1&sz=s600-rw"
   },
-  "timestamp_ms": 1790887136935
+  "timestamp_ms": 1790944675971
 }
