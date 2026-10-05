@@ -134539,6 +134539,63 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-5c90943e-5cf6-4ac5-9e89-5b5ec92730c8": [
+        {
+          "id": "TPV-1791203427545",
+          "fecha": "2026-10-05 09:30",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 27500,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-5c90943e-5cf6-4ac5-9e89-5b5ec92730c8",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-10-05",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 2500,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1791203427545-3721",
+              "descripcion": "BERM3599-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 25000,
+              "subtotal": 25000,
+              "tipoPrecio": "Menor",
+              "productoId": "BERM3599",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "BERM3599-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 25000,
+          "subtotal": 25000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     }
   },
@@ -135221,6 +135278,15 @@
     "CR-63ece01d-05e4-4b8d-bcdb-d26941bda929": {
       "cajaId": "CR-63ece01d-05e4-4b8d-bcdb-d26941bda929",
       "fecha": "2026-10-03",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
+    },
+    "CR-5c90943e-5cf6-4ac5-9e89-5b5ec92730c8": {
+      "cajaId": "CR-5c90943e-5cf6-4ac5-9e89-5b5ec92730c8",
+      "fecha": "2026-10-05",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON",
       "horaIniciada": "Sat D",
@@ -135957,6 +136023,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-5c90943e-5cf6-4ac5-9e89-5b5ec92730c8",
+        "fecha": "2026-10-05",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -136068,5 +136143,5 @@
     "BERM8322": "https://drive.google.com/thumbnail?id=1TqrtrDNh0ZnNTaLAm1N5PSCBPL_XW7F_&sz=s600-rw",
     "POLL4943": "https://drive.google.com/thumbnail?id=1msL2bc4yCoeIHPRsFE0cINr2r4QbQOw1&sz=s600-rw"
   },
-  "timestamp_ms": 1791142628071
+  "timestamp_ms": 1791203835957
 }
