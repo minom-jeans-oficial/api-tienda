@@ -156586,6 +156586,87 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-faadcd31-5441-4c1d-b304-ea69a1982ac2": [
+        {
+          "id": "TPV-1791804746849",
+          "fecha": "2026-10-12 08:32",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 55000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-faadcd31-5441-4c1d-b304-ea69a1982ac2",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-10-12",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1791804746849-4357",
+              "descripcion": "OXFO4560-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 27000,
+              "subtotal": 27000,
+              "tipoPrecio": "Mayor",
+              "productoId": "OXFO4560",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OXFO4560-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1791804746849-4358",
+              "descripcion": "SHOR7133-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 16000,
+              "subtotal": 16000,
+              "tipoPrecio": "Mayor",
+              "productoId": "SHOR7133",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR7133-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1791804746849-4359",
+              "descripcion": "TOP1511-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 12000,
+              "subtotal": 12000,
+              "tipoPrecio": "Mayor",
+              "productoId": "TOP1511",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "TOP1511-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 55000,
+          "subtotal": 55000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     }
   },
@@ -157313,6 +157394,15 @@
     "CR-65701b29-c9cd-410b-af95-d5db1de0a1f2": {
       "cajaId": "CR-65701b29-c9cd-410b-af95-d5db1de0a1f2",
       "fecha": "2026-10-10",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
+    },
+    "CR-faadcd31-5441-4c1d-b304-ea69a1982ac2": {
+      "cajaId": "CR-faadcd31-5441-4c1d-b304-ea69a1982ac2",
+      "fecha": "2026-10-12",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON",
       "horaIniciada": "Sat D",
@@ -158094,6 +158184,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-faadcd31-5441-4c1d-b304-ea69a1982ac2",
+        "fecha": "2026-10-12",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -158205,5 +158304,5 @@
     "BERM8322": "https://drive.google.com/thumbnail?id=1TqrtrDNh0ZnNTaLAm1N5PSCBPL_XW7F_&sz=s600-rw",
     "POLL4943": "https://drive.google.com/thumbnail?id=1msL2bc4yCoeIHPRsFE0cINr2r4QbQOw1&sz=s600-rw"
   },
-  "timestamp_ms": 1791657442830
+  "timestamp_ms": 1791805049123
 }
