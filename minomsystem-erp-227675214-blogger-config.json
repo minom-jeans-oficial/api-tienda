@@ -2039,7 +2039,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "255",
+                  "valor": "254",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -2078,7 +2078,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "255"
+                          "stock": "254"
                         }
                       ]
                     }
@@ -6913,7 +6913,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "12-09-2026"
+                  "valor": "13-10-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -6938,7 +6938,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 28000,
+                  "precio": 23000,
                   "variedad": "Curva",
                   "minima": 4,
                   "sub_variedad": {
@@ -6955,20 +6955,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 30000,
+                  "precio": 25000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 35000,
+                  "precio": 30000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-09-12T03:00:00.000Z"
+              "upd": "2026-10-13T03:00:00.000Z"
             },
             {
               "codigo": 157,
@@ -15170,5 +15170,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1791901486205
+  "timestamp_ms": 1791902368578
 }
