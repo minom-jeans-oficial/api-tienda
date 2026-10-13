@@ -12056,128 +12056,6 @@
             {
               "codigo": 269,
               "categoria": "Wide Leg",
-              "nombre": "PANT2110",
-              "carpeta_id": "1YV1wXUIWal2S-iNsS3GIHSz-Tut4vOfU",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Print claro"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM OFICIAL"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Adulto",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Tiro Bajo"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Jeans Rigido"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "34",
-                    "36",
-                    "38",
-                    "40",
-                    "42",
-                    "44"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "294",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "08-08-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT2110%0A%F0%9F%94%B9%20Modelo%3A%20Print%20claro%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=17ykBJMs4MevLcpJ2v5YpW7CvJSMmdIt5&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=17ykBJMs4MevLcpJ2v5YpW7CvJSMmdIt5&sz=s600-rw",
-                  "archivo_id": "17ykBJMs4MevLcpJ2v5YpW7CvJSMmdIt5",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "PORTADA",
-                  "orden": 1,
-                  "fecha_carga": "2026-09-17T19:11:29.265Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 25000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "294"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 27000,
-                  "variedad": "Mayor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 32000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-08-07T03:00:00.000Z"
-            },
-            {
-              "codigo": 272,
-              "categoria": "Wide Leg",
               "nombre": "PANT2578",
               "carpeta_id": "1HW637kRbmZ_obWOHq19nTwdQdCrD5Lqt",
               "descripcion": {
@@ -12298,7 +12176,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 275,
+              "codigo": 272,
               "categoria": "Wide Leg",
               "nombre": "PANT2658",
               "carpeta_id": "12FUGn9lLyq_9rx-yv3-1jqv3wDNbP6rQ",
@@ -12360,7 +12238,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "06-07-2026"
+                  "valor": "13-10-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -12385,7 +12263,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 21000,
+                  "precio": 22000,
                   "variedad": "Curva",
                   "minima": 4,
                   "sub_variedad": {
@@ -12402,23 +12280,23 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 23000,
+                  "precio": 24000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 28000,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-07-06T03:00:00.000Z"
+              "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 278,
+              "codigo": 275,
               "categoria": "Wide Leg",
               "nombre": "PANT3236",
               "carpeta_id": "1EPGiSXiVjaQ60izAYfqbSyZAE2EjUODt",
@@ -12540,7 +12418,7 @@
               "upd": "2026-08-10T03:00:00.000Z"
             },
             {
-              "codigo": 281,
+              "codigo": 278,
               "categoria": "Wide Leg",
               "nombre": "PANT3257",
               "carpeta_id": "1-vKMsZaMWosM-UiWbKaAhYYIjBiM0i1A",
@@ -12662,125 +12540,7 @@
               "upd": "2026-08-29T03:00:00.000Z"
             },
             {
-              "codigo": 284,
-              "categoria": "Wide Leg",
-              "nombre": "PANT3437",
-              "carpeta_id": "1JUjZvYmgySKryYFHsLbhSd-CeLA3JxWq",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Wide chocolate tiro medio"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM OFICIAL"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Adulto",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Wide Leg"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Elastizado"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "38",
-                    "42"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "93",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "06-07-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT3437%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20chocolate%20tiro%20medio%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2038%2C%2042"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1WpZtbKcl6gYyb2OPuq4F2o4YE85ziPZd&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1WpZtbKcl6gYyb2OPuq4F2o4YE85ziPZd&sz=s600-rw",
-                  "archivo_id": "1WpZtbKcl6gYyb2OPuq4F2o4YE85ziPZd",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "PORTADA",
-                  "orden": 2,
-                  "fecha_carga": "2026-07-03T00:53:30.555Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 21000,
-                  "variedad": "Curva",
-                  "minima": 2,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "93"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 23000,
-                  "variedad": "Mayor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 28000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-07-06T03:00:00.000Z"
-            },
-            {
-              "codigo": 287,
+              "codigo": 281,
               "categoria": "Wide Leg",
               "nombre": "PANT4385",
               "carpeta_id": "1FXK1vE2vW1fublu4nXHaJwJGvv2W0Q6X",
@@ -12896,7 +12656,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 290,
+              "codigo": 284,
               "categoria": "Wide Leg",
               "nombre": "PANT4545",
               "carpeta_id": "10RbbMzwW7_1zC7d013MX-xRir0gjtbW4",
@@ -13018,7 +12778,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 293,
+              "codigo": 287,
               "categoria": "Wide Leg",
               "nombre": "PANT4655",
               "carpeta_id": "1YrISWNg_pnysgLSNziTi5jaUndZbVC1s",
@@ -13183,7 +12943,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 296,
+              "codigo": 290,
               "categoria": "Wide Leg",
               "nombre": "PANT4723",
               "carpeta_id": "1YCK3adMYnF9sa42F5PG3OWrQxCbpdX2T",
@@ -13305,7 +13065,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 299,
+              "codigo": 293,
               "categoria": "Wide Leg",
               "nombre": "PANT5258",
               "carpeta_id": "1E4qLWlbtn1WWLos1gFqguD4JE7QTULaM",
@@ -13428,7 +13188,7 @@
               "upd": "2026-08-04T03:00:00.000Z"
             },
             {
-              "codigo": 302,
+              "codigo": 296,
               "categoria": "Wide Leg",
               "nombre": "PANT5578",
               "carpeta_id": "1rHfN8mPJrdsSJDfciW05zACodBuQSOmU",
@@ -13550,7 +13310,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 305,
+              "codigo": 299,
               "categoria": "Wide Leg",
               "nombre": "PANT5614",
               "carpeta_id": "1Z-s3D4KRHzialtuNWORVAkC7lbw3Op3I",
@@ -13672,7 +13432,7 @@
               "upd": "2026-08-07T03:00:00.000Z"
             },
             {
-              "codigo": 308,
+              "codigo": 302,
               "categoria": "Wide Leg",
               "nombre": "PANT6359",
               "carpeta_id": "1-FdCZRZR7Y36lfjpUOELjC4cdC1uKfBB",
@@ -13795,7 +13555,7 @@
               "upd": "2026-09-09T03:00:00.000Z"
             },
             {
-              "codigo": 311,
+              "codigo": 305,
               "categoria": "Wide Leg",
               "nombre": "PANT6509",
               "carpeta_id": "1dpRN8eRlgxDAQ-S2hnjJmDAmVZmyPe63",
@@ -13859,7 +13619,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "28-08-2026"
+                  "valor": "13-10-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -13884,7 +13644,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 22000,
+                  "precio": 23000,
                   "variedad": "Curva",
                   "minima": 6,
                   "sub_variedad": {
@@ -13901,23 +13661,23 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 24000,
+                  "precio": 25000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 29000,
+                  "precio": 30000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-08-28T03:00:00.000Z"
+              "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 314,
+              "codigo": 308,
               "categoria": "Wide Leg",
               "nombre": "PANT7432",
               "carpeta_id": "16jLb-v4SFvIZTHYv67EBzoAjf01-R-ws",
@@ -14040,129 +13800,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 317,
-              "categoria": "Wide Leg",
-              "nombre": "PANT7858",
-              "carpeta_id": "1Nt_g-g_rqtLwmGcm-hTaDceSC0HIFTHt",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Wide verde estampado"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM OFICIAL"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Adulto",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Wide Leg"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Rígid"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "34",
-                    "36",
-                    "38",
-                    "40",
-                    "42",
-                    "44"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "95",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "06-07-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT7858%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20verde%20estampado%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1wcNwbsKHLJxXcKoYVt9d4v17C5BQLA9r&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1wcNwbsKHLJxXcKoYVt9d4v17C5BQLA9r&sz=s600-rw",
-                  "archivo_id": "1wcNwbsKHLJxXcKoYVt9d4v17C5BQLA9r",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "PORTADA",
-                  "orden": 2,
-                  "fecha_carga": "2026-07-03T00:53:30.555Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 21000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "95"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 23000,
-                  "variedad": "Mayor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 28000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-07-06T03:00:00.000Z"
-            },
-            {
-              "codigo": 320,
+              "codigo": 311,
               "categoria": "Wide Leg",
               "nombre": "PANT7862",
               "carpeta_id": "1c1B168PjaSk9Tq3vUe247w16eTtKBiYU",
@@ -14226,7 +13864,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "22-07-2026"
+                  "valor": "13-10-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -14251,7 +13889,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 21000,
+                  "precio": 22000,
                   "variedad": "Curva",
                   "minima": 6,
                   "sub_variedad": {
@@ -14268,23 +13906,23 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 23000,
+                  "precio": 24000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 28000,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-07-22T03:00:00.000Z"
+              "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 323,
+              "codigo": 314,
               "categoria": "Wide Leg",
               "nombre": "PANT8389",
               "carpeta_id": "1kI7x0VKM0RwEOQb4vb7pq-Tu74wBosHf",
@@ -14405,128 +14043,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 326,
-              "categoria": "Wide Leg",
-              "nombre": "PANT8811",
-              "carpeta_id": "1XAvHKZAKZXRG-IAzirYkwPYAB39gHPgh",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Wide leg beige"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM OFICIAL"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Adulto",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Tiro Bajo"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Rígid"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "34",
-                    "36",
-                    "40",
-                    "42",
-                    "44"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "99",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "16-07-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT8811%0A%F0%9F%94%B9%20Modelo%3A%20Wide%20leg%20beige%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2040%2C%2042%2C%2044"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1vjGYxoatfL8N1_Qm-45__hdV_dsHyQ9W&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1vjGYxoatfL8N1_Qm-45__hdV_dsHyQ9W&sz=s600-rw",
-                  "archivo_id": "1vjGYxoatfL8N1_Qm-45__hdV_dsHyQ9W",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "Sistema Web",
-                  "rol": "PORTADA",
-                  "orden": 2,
-                  "fecha_carga": "2026-07-03T00:53:30.555Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 18000,
-                  "variedad": "Curva",
-                  "minima": 5,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "99"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 20000,
-                  "variedad": "Mayor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 25000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-07-16T03:00:00.000Z"
-            },
-            {
-              "codigo": 329,
+              "codigo": 317,
               "categoria": "Wide Leg",
               "nombre": "PANT8904",
               "carpeta_id": "18hp_wYAWzzLzDVHpsbv5CSaSjlPcgmv5",
@@ -14648,7 +14165,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 332,
+              "codigo": 320,
               "categoria": "Wide Leg",
               "nombre": "PANT9228",
               "carpeta_id": "1oXI-FqpZm7vGcT9n7YO2vQkPnA18jihY",
@@ -14770,7 +14287,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 335,
+              "codigo": 323,
               "categoria": "Wide Leg",
               "nombre": "PANT9681",
               "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
@@ -14918,7 +14435,7 @@
               "upd": "2026-06-17T03:00:00.000Z"
             },
             {
-              "codigo": 338,
+              "codigo": 326,
               "categoria": "Wide Leg",
               "nombre": "WIDE1726",
               "carpeta_id": "1aA3Wyy2JlOF0xkHwiUl8Ynrpa45Tz83V",
@@ -15040,7 +14557,7 @@
               "upd": "2026-09-26T03:00:00.000Z"
             },
             {
-              "codigo": 341,
+              "codigo": 329,
               "categoria": "Wide Leg",
               "nombre": "WIDE5209",
               "carpeta_id": "1_fKK_zIEfAdTndd4isYOnyyfUzIRpXQG",
@@ -15170,5 +14687,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1791907774536
+  "timestamp_ms": 1791908703665
 }
