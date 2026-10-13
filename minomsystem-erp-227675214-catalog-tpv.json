@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-13T16:22:53.614Z",
-  "timestamp_ms": 1791908669652,
+  "generated_at": "2026-10-13T16:37:53.903Z",
+  "timestamp_ms": 1791909585167,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3594,8 +3594,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": -1,
-          "STOCK_ACTUAL": -1
+          "stock": -2,
+          "STOCK_ACTUAL": -2
         }
       ],
       "prices": [
@@ -12581,8 +12581,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 131,
-          "STOCK_ACTUAL": 131
+          "stock": 130,
+          "STOCK_ACTUAL": 130
         },
         {
           "variation_id": "TOP1511-Surtido-Surtido-MINOM ARGERICH",
@@ -17813,8 +17813,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": true,
-    "DOLAR_BLUE_VENTA": "1535",
-    "DOLAR_BLUE_COMPRA": "1555",
+    "DOLAR_BLUE_VENTA": "1530",
+    "DOLAR_BLUE_COMPRA": "1550",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
