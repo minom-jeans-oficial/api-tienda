@@ -266,7 +266,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "06-10-2026"
+                  "valor": "14-10-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -8906,7 +8906,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "26-09-2026"
+                  "valor": "14-10-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -9274,12 +9274,12 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-6",
-                  "estado": "Baja"
+                  "valor": "294",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "28-07-2026"
+                  "valor": "14-10-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -9298,27 +9298,37 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 8000,
+                  "precio": 3000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "294"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
-                  "precio": 10000,
+                  "precio": 5000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 15000,
+                  "precio": 10000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-07-28T03:00:00.000Z"
+              "upd": "2026-10-14T03:00:00.000Z"
             }
           ]
         },
@@ -11921,8 +11931,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "300",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -14783,5 +14793,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1791979773810
+  "timestamp_ms": 1791980673287
 }
