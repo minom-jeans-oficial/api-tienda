@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T12:07:57.260Z",
-  "timestamp_ms": 1791979775388,
+  "generated_at": "2026-10-14T12:22:54.525Z",
+  "timestamp_ms": 1791980687582,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -722,8 +722,8 @@
           "visible": true
         }
       ],
-      "lastUpdate": "2026-10-06T03:00:00.000Z",
-      "ULTIMA_ACTUALIZACION": "2026-10-06T03:00:00.000Z",
+      "lastUpdate": "2026-10-14T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-14T03:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -13718,8 +13718,8 @@
           "visible": true
         }
       ],
-      "lastUpdate": "2026-09-26T03:00:00.000Z",
-      "ULTIMA_ACTUALIZACION": "2026-09-26T03:00:00.000Z",
+      "lastUpdate": "2026-10-14T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-14T03:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -14030,7 +14030,7 @@
       "model": "Basicos",
       "name": "Basicos",
       "nombre": "Basicos",
-      "price": 10000,
+      "price": 5000,
       "minor_surcharge": 0,
       "category": "Remera",
       "category_id": "Remera",
@@ -14063,8 +14063,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": -6,
-          "STOCK_ACTUAL": -6
+          "stock": 294,
+          "STOCK_ACTUAL": 294
         },
         {
           "variation_id": "REME2429-Surtido-Surtido-MINOM ARGERICH",
@@ -14076,8 +14076,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": 300,
+          "STOCK_ACTUAL": 300
         }
       ],
       "prices": [
@@ -14088,10 +14088,10 @@
           "nombre": "Mayor",
           "variedad": "Mayor",
           "variety_name": "Mayor",
-          "precio": 10000,
-          "precio_unitario": 10000,
-          "precio_final": 10000,
-          "final_price": 10000,
+          "precio": 5000,
+          "precio_unitario": 5000,
+          "precio_final": 5000,
+          "final_price": 5000,
           "cantidad_minima": 1,
           "visible": true
         },
@@ -14102,10 +14102,10 @@
           "nombre": "Menor",
           "variedad": "Menor",
           "variety_name": "Menor",
-          "precio": 15000,
-          "precio_unitario": 15000,
-          "precio_final": 15000,
-          "final_price": 15000,
+          "precio": 10000,
+          "precio_unitario": 10000,
+          "precio_final": 10000,
+          "final_price": 10000,
           "cantidad_minima": 1,
           "visible": true
         },
@@ -14116,10 +14116,10 @@
           "nombre": "Curva",
           "variedad": "Curva",
           "variety_name": "Curva",
-          "precio": 8000,
-          "precio_unitario": 8000,
-          "precio_final": 8000,
-          "final_price": 8000,
+          "precio": 3000,
+          "precio_unitario": 3000,
+          "precio_final": 3000,
+          "final_price": 3000,
           "cantidad_minima": 1,
           "visible": true
         }
@@ -14132,10 +14132,10 @@
           "nombre": "Mayor",
           "variedad": "Mayor",
           "variety_name": "Mayor",
-          "precio": 10000,
-          "precio_unitario": 10000,
-          "precio_final": 10000,
-          "final_price": 10000,
+          "precio": 5000,
+          "precio_unitario": 5000,
+          "precio_final": 5000,
+          "final_price": 5000,
           "cantidad_minima": 1,
           "visible": true
         },
@@ -14146,10 +14146,10 @@
           "nombre": "Menor",
           "variedad": "Menor",
           "variety_name": "Menor",
-          "precio": 15000,
-          "precio_unitario": 15000,
-          "precio_final": 15000,
-          "final_price": 15000,
+          "precio": 10000,
+          "precio_unitario": 10000,
+          "precio_final": 10000,
+          "final_price": 10000,
           "cantidad_minima": 1,
           "visible": true
         },
@@ -14160,16 +14160,16 @@
           "nombre": "Curva",
           "variedad": "Curva",
           "variety_name": "Curva",
-          "precio": 8000,
-          "precio_unitario": 8000,
-          "precio_final": 8000,
-          "final_price": 8000,
+          "precio": 3000,
+          "precio_unitario": 3000,
+          "precio_final": 3000,
+          "final_price": 3000,
           "cantidad_minima": 1,
           "visible": true
         }
       ],
-      "lastUpdate": "2026-07-28T03:00:00.000Z",
-      "ULTIMA_ACTUALIZACION": "2026-07-28T03:00:00.000Z",
+      "lastUpdate": "2026-10-14T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-14T03:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -17101,8 +17101,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
+          "stock": 300,
+          "STOCK_ACTUAL": 300
         },
         {
           "variation_id": "TOP5629-Surtido-Surtido-MINOM ARGERICH",
@@ -21154,10 +21154,10 @@
         "nombre": "Mayor",
         "variedad": "Mayor",
         "variety_name": "Mayor",
-        "precio": 10000,
-        "precio_unitario": 10000,
-        "precio_final": 10000,
-        "final_price": 10000,
+        "precio": 5000,
+        "precio_unitario": 5000,
+        "precio_final": 5000,
+        "final_price": 5000,
         "cantidad_minima": 1,
         "visible": true
       },
@@ -21168,10 +21168,10 @@
         "nombre": "Menor",
         "variedad": "Menor",
         "variety_name": "Menor",
-        "precio": 15000,
-        "precio_unitario": 15000,
-        "precio_final": 15000,
-        "final_price": 15000,
+        "precio": 10000,
+        "precio_unitario": 10000,
+        "precio_final": 10000,
+        "final_price": 10000,
         "cantidad_minima": 1,
         "visible": true
       },
@@ -21182,10 +21182,10 @@
         "nombre": "Curva",
         "variedad": "Curva",
         "variety_name": "Curva",
-        "precio": 8000,
-        "precio_unitario": 8000,
-        "precio_final": 8000,
-        "final_price": 8000,
+        "precio": 3000,
+        "precio_unitario": 3000,
+        "precio_final": 3000,
+        "final_price": 3000,
         "cantidad_minima": 1,
         "visible": true
       }
