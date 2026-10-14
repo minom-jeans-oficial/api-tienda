@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T13:07:59.813Z",
-  "timestamp_ms": 1791983408221,
+  "generated_at": "2026-10-14T13:22:59.827Z",
+  "timestamp_ms": 1791984312027,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -1472,8 +1472,8 @@
           "visible": true
         }
       ],
-      "lastUpdate": "2026-10-06T03:00:00.000Z",
-      "ULTIMA_ACTUALIZACION": "2026-10-06T03:00:00.000Z",
+      "lastUpdate": "2026-10-14T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-14T03:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -6254,19 +6254,6 @@
       "imagen": "https://drive.google.com/thumbnail?id=19db26HoQF2KGkRA9KkbvYG4PTILfyQdt&sz=s600-rw",
       "variations": [
         {
-          "variation_id": "PANT3290-Surtido-Surtido-MINOM OFICIAL",
-          "INVENTARIO_ID": "PANT3290-Surtido-Surtido-MINOM OFICIAL",
-          "store_id": "MINOM OFICIAL",
-          "TIENDA_ID": "MINOM OFICIAL",
-          "color": "Surtido",
-          "COLOR": "Surtido",
-          "size": "Surtido",
-          "size_name": "Surtido",
-          "TALLE": "Surtido",
-          "stock": -19,
-          "STOCK_ACTUAL": -19
-        },
-        {
           "variation_id": "PANT3290-Surtido-Surtido-MINOM ARGERICH",
           "INVENTARIO_ID": "PANT3290-Surtido-Surtido-MINOM ARGERICH",
           "store_id": "MINOM ARGERICH",
@@ -10570,156 +10557,6 @@
       ],
       "lastUpdate": "2026-06-26T03:00:00.000Z",
       "ULTIMA_ACTUALIZACION": "2026-06-26T03:00:00.000Z",
-      "fecha_creacion": ""
-    },
-    {
-      "id": "PANT7650",
-      "sku": "Pant006",
-      "SKU": "Pant006",
-      "secondarySku": "Pant006",
-      "model": "Azul elastizado",
-      "name": "Azul elastizado",
-      "nombre": "Azul elastizado",
-      "price": 26000,
-      "minor_surcharge": 0,
-      "category": "Maxi Wide",
-      "category_id": "Maxi Wide",
-      "categoryName": "Maxi Wide",
-      "parentCategory": "INDUMENTARIA",
-      "brand": "MINOM OFICIAL",
-      "gender": "Mujer",
-      "season": "SIN-TEMPORADA",
-      "style": "Tiro Alto",
-      "material": "Jeans Elastizado",
-      "ageGroup": "Adulto",
-      "grupo_edad": "Adulto",
-      "GRUPO_EDAD": "Adulto",
-      "sizes": "Surtido,34,36,38,40,42,44,46",
-      "talles": "Surtido,34,36,38,40,42,44,46",
-      "TALLES": "Surtido,34,36,38,40,42,44,46",
-      "colors": "Surtido",
-      "colores": "Surtido",
-      "COLORES": "Surtido",
-      "image": "https://drive.google.com/thumbnail?id=1KyEfvzMK1mwbs-4aU_9cwLYbu3senF4x&sz=s600-rw",
-      "imagen": "https://drive.google.com/thumbnail?id=1KyEfvzMK1mwbs-4aU_9cwLYbu3senF4x&sz=s600-rw",
-      "variations": [
-        {
-          "variation_id": "PANT7650-Surtido-Surtido-MINOM OFICIAL",
-          "INVENTARIO_ID": "PANT7650-Surtido-Surtido-MINOM OFICIAL",
-          "store_id": "MINOM OFICIAL",
-          "TIENDA_ID": "MINOM OFICIAL",
-          "color": "Surtido",
-          "COLOR": "Surtido",
-          "size": "Surtido",
-          "size_name": "Surtido",
-          "TALLE": "Surtido",
-          "stock": 270,
-          "STOCK_ACTUAL": 270
-        },
-        {
-          "variation_id": "PANT7650-Surtido-Surtido-MINOM ARGERICH",
-          "INVENTARIO_ID": "PANT7650-Surtido-Surtido-MINOM ARGERICH",
-          "store_id": "MINOM ARGERICH",
-          "TIENDA_ID": "MINOM ARGERICH",
-          "color": "Surtido",
-          "COLOR": "Surtido",
-          "size": "Surtido",
-          "size_name": "Surtido",
-          "TALLE": "Surtido",
-          "stock": 0,
-          "STOCK_ACTUAL": 0
-        }
-      ],
-      "prices": [
-        {
-          "id": "PANT7650-Mayor",
-          "variedad_id": "PANT7650-Mayor",
-          "variety_id": "PANT7650-Mayor",
-          "nombre": "Mayor",
-          "variedad": "Mayor",
-          "variety_name": "Mayor",
-          "precio": 26000,
-          "precio_unitario": 26000,
-          "precio_final": 26000,
-          "final_price": 26000,
-          "cantidad_minima": 1,
-          "visible": true
-        },
-        {
-          "id": "PANT7650-Menor",
-          "variedad_id": "PANT7650-Menor",
-          "variety_id": "PANT7650-Menor",
-          "nombre": "Menor",
-          "variedad": "Menor",
-          "variety_name": "Menor",
-          "precio": 31000,
-          "precio_unitario": 31000,
-          "precio_final": 31000,
-          "final_price": 31000,
-          "cantidad_minima": 1,
-          "visible": true
-        },
-        {
-          "id": "PANT7650-Curva",
-          "variedad_id": "PANT7650-Curva",
-          "variety_id": "PANT7650-Curva",
-          "nombre": "Curva",
-          "variedad": "Curva",
-          "variety_name": "Curva",
-          "precio": 24000,
-          "precio_unitario": 24000,
-          "precio_final": 24000,
-          "final_price": 24000,
-          "cantidad_minima": 7,
-          "visible": true
-        }
-      ],
-      "varieties": [
-        {
-          "id": "PANT7650-Mayor",
-          "variedad_id": "PANT7650-Mayor",
-          "variety_id": "PANT7650-Mayor",
-          "nombre": "Mayor",
-          "variedad": "Mayor",
-          "variety_name": "Mayor",
-          "precio": 26000,
-          "precio_unitario": 26000,
-          "precio_final": 26000,
-          "final_price": 26000,
-          "cantidad_minima": 1,
-          "visible": true
-        },
-        {
-          "id": "PANT7650-Menor",
-          "variedad_id": "PANT7650-Menor",
-          "variety_id": "PANT7650-Menor",
-          "nombre": "Menor",
-          "variedad": "Menor",
-          "variety_name": "Menor",
-          "precio": 31000,
-          "precio_unitario": 31000,
-          "precio_final": 31000,
-          "final_price": 31000,
-          "cantidad_minima": 1,
-          "visible": true
-        },
-        {
-          "id": "PANT7650-Curva",
-          "variedad_id": "PANT7650-Curva",
-          "variety_id": "PANT7650-Curva",
-          "nombre": "Curva",
-          "variedad": "Curva",
-          "variety_name": "Curva",
-          "precio": 24000,
-          "precio_unitario": 24000,
-          "precio_final": 24000,
-          "final_price": 24000,
-          "cantidad_minima": 7,
-          "visible": true
-        }
-      ],
-      "lastUpdate": "2026-07-28T03:00:00.000Z",
-      "ULTIMA_ACTUALIZACION": "2026-07-28T03:00:00.000Z",
       "fecha_creacion": ""
     },
     {
@@ -20669,50 +20506,6 @@
         "precio_final": 17000,
         "final_price": 17000,
         "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "PANT7650": [
-      {
-        "id": "PANT7650-Mayor",
-        "variedad_id": "PANT7650-Mayor",
-        "variety_id": "PANT7650-Mayor",
-        "nombre": "Mayor",
-        "variedad": "Mayor",
-        "variety_name": "Mayor",
-        "precio": 26000,
-        "precio_unitario": 26000,
-        "precio_final": 26000,
-        "final_price": 26000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT7650-Menor",
-        "variedad_id": "PANT7650-Menor",
-        "variety_id": "PANT7650-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 31000,
-        "precio_unitario": 31000,
-        "precio_final": 31000,
-        "final_price": 31000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT7650-Curva",
-        "variedad_id": "PANT7650-Curva",
-        "variety_id": "PANT7650-Curva",
-        "nombre": "Curva",
-        "variedad": "Curva",
-        "variety_name": "Curva",
-        "precio": 24000,
-        "precio_unitario": 24000,
-        "precio_final": 24000,
-        "final_price": 24000,
-        "cantidad_minima": 7,
         "visible": true
       }
     ],
