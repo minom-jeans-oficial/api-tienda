@@ -161373,6 +161373,75 @@
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false
         }
+      ],
+      "CR-1084acf0-5d18-4246-9b9d-7db083fc66b0": [
+        {
+          "id": "TPV-1791982349165",
+          "fecha": "2026-10-14 09:52",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 48400,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-1084acf0-5d18-4246-9b9d-7db083fc66b0",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-10-14",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 4400,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1791982349165-4494",
+              "descripcion": "OFER1572-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 20000,
+              "subtotal": 20000,
+              "tipoPrecio": "Menor",
+              "productoId": "OFER1572",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "OFER1572-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1791982349165-4495",
+              "descripcion": "PANT7432-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 24000,
+              "subtotal": 24000,
+              "tipoPrecio": "Mayor",
+              "productoId": "PANT7432",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "PANT7432-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 44000,
+          "subtotal": 44000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false
+        }
       ]
     }
   },
@@ -162118,6 +162187,15 @@
     "CR-8529e081-f691-4dba-a345-143832e76c9c": {
       "cajaId": "CR-8529e081-f691-4dba-a345-143832e76c9c",
       "fecha": "2026-10-13",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
+    },
+    "CR-1084acf0-5d18-4246-9b9d-7db083fc66b0": {
+      "cajaId": "CR-1084acf0-5d18-4246-9b9d-7db083fc66b0",
+      "fecha": "2026-10-14",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON",
       "horaIniciada": "Sat D",
@@ -162917,6 +162995,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-1084acf0-5d18-4246-9b9d-7db083fc66b0",
+        "fecha": "2026-10-14",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -162974,7 +163061,6 @@
     "PANT4575": "https://drive.google.com/thumbnail?id=1IsyA46sVDP046LzJa1AlQuUlmvmQup5q&sz=s600-rw",
     "PANT9048": "https://drive.google.com/thumbnail?id=1yC-Ca42cxHjhznvU_NEigNEmBzdKpd0a&sz=s600-rw",
     "PANT3290": "https://drive.google.com/thumbnail?id=19db26HoQF2KGkRA9KkbvYG4PTILfyQdt&sz=s600-rw",
-    "PANT7650": "https://drive.google.com/thumbnail?id=1KyEfvzMK1mwbs-4aU_9cwLYbu3senF4x&sz=s600-rw",
     "PANT5578": "https://drive.google.com/thumbnail?id=1VWfP5OIkwmZhiZaV5tBpZoFOEB-VE11v&sz=s600-rw",
     "PANT3169": "https://drive.google.com/thumbnail?id=1rzJFBmU2-Fgzy20FQvVO5mo7wzYZItIB&sz=s600-rw",
     "PANT8348": "https://drive.google.com/thumbnail?id=1ELNlFN9mSchWoOUiwjpa1INvGabFIHiM&sz=s600-rw",
@@ -163026,7 +163112,10 @@
     "SHOR4263": "https://drive.google.com/thumbnail?id=1PhdWTYLqEaexrFtMhe5ng-6w53FfHDLz&sz=s600-rw",
     "POLL4943": "https://drive.google.com/thumbnail?id=1msL2bc4yCoeIHPRsFE0cINr2r4QbQOw1&sz=s600-rw",
     "BAGG4042": "https://drive.google.com/thumbnail?id=17ObHgddQjvBjDqOmVu_MGSsSChc-spt6&sz=s600-rw",
-    "TOP9987": "https://drive.google.com/thumbnail?id=1Pu7re2mL_ZaMW3JffrWVYM7D-2x657Mh&sz=s600-rw"
+    "TOP9987": "https://drive.google.com/thumbnail?id=1Pu7re2mL_ZaMW3JffrWVYM7D-2x657Mh&sz=s600-rw",
+    "BAGG7931": "https://drive.google.com/thumbnail?id=18n7c8EF3-J4MzZIWRQJialyyJibG1rsw&sz=s600-rw",
+    "BERM1844": "https://drive.google.com/thumbnail?id=1UoRZhfEvpwgqeKk8lRnqM3g60N0RIbhC&sz=s600-rw",
+    "SHOR5970": "https://drive.google.com/thumbnail?id=1gTwYBTQMI4RRp4wq4Yen6MDIWoQ7QyTt&sz=s600-rw"
   },
-  "timestamp_ms": 1791981536058
+  "timestamp_ms": 1791985266830
 }
