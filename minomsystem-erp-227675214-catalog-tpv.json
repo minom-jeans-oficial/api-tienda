@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T18:37:52.559Z",
-  "timestamp_ms": 1792175969101,
+  "generated_at": "2026-10-16T18:52:57.439Z",
+  "timestamp_ms": 1792176873494,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -423,6 +423,14 @@
       "parentCategory": "INDUMENTARIA",
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slouchy.svg",
       "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slouchy.svg"
+    },
+    {
+      "id": "Boddy",
+      "name": "Boddy",
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/boddy.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/boddy.svg"
     }
   ],
   "products": [
@@ -17957,8 +17965,8 @@
       "colors": "Surtido",
       "colores": "Surtido",
       "COLORES": "Surtido",
-      "image": "",
-      "imagen": "",
+      "image": "https://drive.google.com/thumbnail?id=1TNsKwohDMfLJnIqnknHRGdvSDR3vEPqn&sz=s600-rw",
+      "imagen": "https://drive.google.com/thumbnail?id=1TNsKwohDMfLJnIqnknHRGdvSDR3vEPqn&sz=s600-rw",
       "variations": [
         {
           "variation_id": "TOP3570-Surtido-Surtido-MINOM OFICIAL",
@@ -18015,6 +18023,278 @@
           "precio_unitario": 12000,
           "precio_final": 12000,
           "final_price": 12000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-10-16T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-16T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "REME3706",
+      "sku": "Reme002",
+      "SKU": "Reme002",
+      "secondarySku": "Reme002",
+      "model": "manga larga lentejuela",
+      "name": "manga larga lentejuela",
+      "nombre": "manga larga lentejuela",
+      "price": 20000,
+      "minor_surcharge": 0,
+      "category": "Remera",
+      "category_id": "Remera",
+      "categoryName": "Remera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1-facY_G842LNg4xfFxOuxMCJkSIsXhIn&sz=s600-rw",
+      "imagen": "https://drive.google.com/thumbnail?id=1-facY_G842LNg4xfFxOuxMCJkSIsXhIn&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "REME3706-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "REME3706-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 30,
+          "STOCK_ACTUAL": 30
+        },
+        {
+          "variation_id": "REME3706-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "REME3706-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 30,
+          "STOCK_ACTUAL": 30
+        }
+      ],
+      "prices": [
+        {
+          "id": "REME3706-Mayor",
+          "variedad_id": "REME3706-Mayor",
+          "variety_id": "REME3706-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 20000,
+          "precio_unitario": 20000,
+          "precio_final": 20000,
+          "final_price": 20000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "REME3706-Menor",
+          "variedad_id": "REME3706-Menor",
+          "variety_id": "REME3706-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 25000,
+          "precio_unitario": 25000,
+          "precio_final": 25000,
+          "final_price": 25000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "REME3706-Curva",
+          "variedad_id": "REME3706-Curva",
+          "variety_id": "REME3706-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 18000,
+          "precio_unitario": 18000,
+          "precio_final": 18000,
+          "final_price": 18000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "REME3706-Mayor",
+          "variedad_id": "REME3706-Mayor",
+          "variety_id": "REME3706-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 20000,
+          "precio_unitario": 20000,
+          "precio_final": 20000,
+          "final_price": 20000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "REME3706-Menor",
+          "variedad_id": "REME3706-Menor",
+          "variety_id": "REME3706-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 25000,
+          "precio_unitario": 25000,
+          "precio_final": 25000,
+          "final_price": 25000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "REME3706-Curva",
+          "variedad_id": "REME3706-Curva",
+          "variety_id": "REME3706-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 18000,
+          "precio_unitario": 18000,
+          "precio_final": 18000,
+          "final_price": 18000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-10-16T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-16T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "BODD3940",
+      "sku": "Bodd002",
+      "SKU": "Bodd002",
+      "secondarySku": "Bodd002",
+      "model": "varios colores",
+      "name": "varios colores",
+      "nombre": "varios colores",
+      "price": 16000,
+      "minor_surcharge": 0,
+      "category": "Boddy",
+      "category_id": "Boddy",
+      "categoryName": "Boddy",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1Rvmi9lOKmgsD4QOzoBX6iNARMsEb6L-c&sz=s600-rw",
+      "imagen": "https://drive.google.com/thumbnail?id=1Rvmi9lOKmgsD4QOzoBX6iNARMsEb6L-c&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "BODD3940-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "BODD3940-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 30,
+          "STOCK_ACTUAL": 30
+        },
+        {
+          "variation_id": "BODD3940-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "BODD3940-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 30,
+          "STOCK_ACTUAL": 30
+        }
+      ],
+      "prices": [
+        {
+          "id": "BODD3940-Mayor",
+          "variedad_id": "BODD3940-Mayor",
+          "variety_id": "BODD3940-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 16000,
+          "precio_unitario": 16000,
+          "precio_final": 16000,
+          "final_price": 16000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "BODD3940-Menor",
+          "variedad_id": "BODD3940-Menor",
+          "variety_id": "BODD3940-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 21000,
+          "precio_unitario": 21000,
+          "precio_final": 21000,
+          "final_price": 21000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "BODD3940-Mayor",
+          "variedad_id": "BODD3940-Mayor",
+          "variety_id": "BODD3940-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 16000,
+          "precio_unitario": 16000,
+          "precio_final": 16000,
+          "final_price": 16000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "BODD3940-Menor",
+          "variedad_id": "BODD3940-Menor",
+          "variety_id": "BODD3940-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 21000,
+          "precio_unitario": 21000,
+          "precio_final": 21000,
+          "final_price": 21000,
           "cantidad_minima": 1,
           "visible": true
         }
@@ -18288,8 +18568,8 @@
     "TIPO_REGISTRO_PRODUCTO": "PRODUCTO SIMPLE",
     "TIPO_REGISTRO_PRECIO": "PRECIO VARIABLE",
     "EXCLUIR_SURTIDOS_VARIANTES": true,
-    "DOLAR_BLUE_VENTA": "1530",
-    "DOLAR_BLUE_COMPRA": "1550",
+    "DOLAR_BLUE_VENTA": "1535",
+    "DOLAR_BLUE_COMPRA": "1555",
     "CLAVE_FILESTACK": "Auk3AeOUQ8GjiLOL1WBvkz",
     "SIN_IMAGEN": "BD_CONFIGURACION_GENERAL_Images/Skypia Underwear.SIN_IMAGEN.031857.png",
     "LIMITE_IMAGENES_PRODUCTO": 10,
@@ -23298,6 +23578,80 @@
         "cantidad_minima": 1,
         "visible": true
       }
+    ],
+    "REME3706": [
+      {
+        "id": "REME3706-Mayor",
+        "variedad_id": "REME3706-Mayor",
+        "variety_id": "REME3706-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "variety_name": "Mayor",
+        "precio": 20000,
+        "precio_unitario": 20000,
+        "precio_final": 20000,
+        "final_price": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME3706-Menor",
+        "variedad_id": "REME3706-Menor",
+        "variety_id": "REME3706-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "precio_final": 25000,
+        "final_price": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "REME3706-Curva",
+        "variedad_id": "REME3706-Curva",
+        "variety_id": "REME3706-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "variety_name": "Curva",
+        "precio": 18000,
+        "precio_unitario": 18000,
+        "precio_final": 18000,
+        "final_price": 18000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "BODD3940": [
+      {
+        "id": "BODD3940-Mayor",
+        "variedad_id": "BODD3940-Mayor",
+        "variety_id": "BODD3940-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "variety_name": "Mayor",
+        "precio": 16000,
+        "precio_unitario": 16000,
+        "precio_final": 16000,
+        "final_price": 16000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BODD3940-Menor",
+        "variedad_id": "BODD3940-Menor",
+        "variety_id": "BODD3940-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 21000,
+        "precio_unitario": 21000,
+        "precio_final": 21000,
+        "final_price": 21000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "appSheet": {
@@ -23507,6 +23861,14 @@
       "parentCategory": "INDUMENTARIA",
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slouchy.svg",
       "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/slouchy.svg"
+    },
+    "BODDY": {
+      "id": "Boddy",
+      "name": "Boddy",
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/boddy.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/boddy.svg"
     }
   }
 }
