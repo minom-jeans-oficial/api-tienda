@@ -388,7 +388,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "14-10-2026"
+                  "valor": "16-10-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -413,7 +413,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 26000,
+                  "precio": 27000,
                   "variedad": "Curva",
                   "minima": 6,
                   "sub_variedad": {
@@ -430,20 +430,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 28000,
+                  "precio": 29000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 33000,
+                  "precio": 34000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-10-14T03:00:00.000Z"
+              "upd": "2026-10-16T03:00:00.000Z"
             },
             {
               "codigo": 10,
@@ -15381,5 +15381,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1792181412599
+  "timestamp_ms": 1792184065030
 }
