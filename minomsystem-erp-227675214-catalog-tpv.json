@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T18:22:53.133Z",
-  "timestamp_ms": 1792175099028,
+  "generated_at": "2026-10-16T18:37:52.559Z",
+  "timestamp_ms": 1792175969101,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -5963,8 +5963,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 229,
-          "STOCK_ACTUAL": 229
+          "stock": 228,
+          "STOCK_ACTUAL": 228
         },
         {
           "variation_id": "PANT3169-Surtido-Surtido-MINOM ARGERICH",
@@ -17928,6 +17928,100 @@
       "lastUpdate": "2026-09-25T03:00:00.000Z",
       "ULTIMA_ACTUALIZACION": "2026-09-25T03:00:00.000Z",
       "fecha_creacion": ""
+    },
+    {
+      "id": "TOP3570",
+      "sku": "Top006",
+      "SKU": "Top006",
+      "secondarySku": "Top006",
+      "model": "lentejuelas",
+      "name": "lentejuelas",
+      "nombre": "lentejuelas",
+      "price": 12000,
+      "minor_surcharge": 0,
+      "category": "Top",
+      "category_id": "Top",
+      "categoryName": "Top",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "",
+      "imagen": "",
+      "variations": [
+        {
+          "variation_id": "TOP3570-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "TOP3570-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 30,
+          "STOCK_ACTUAL": 30
+        },
+        {
+          "variation_id": "TOP3570-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "TOP3570-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 30,
+          "STOCK_ACTUAL": 30
+        }
+      ],
+      "prices": [
+        {
+          "id": "TOP3570-Mayor",
+          "variedad_id": "TOP3570-Mayor",
+          "variety_id": "TOP3570-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 12000,
+          "precio_unitario": 12000,
+          "precio_final": 12000,
+          "final_price": 12000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "TOP3570-Mayor",
+          "variedad_id": "TOP3570-Mayor",
+          "variety_id": "TOP3570-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 12000,
+          "precio_unitario": 12000,
+          "precio_final": 12000,
+          "final_price": 12000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-10-16T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-16T03:00:00.000Z",
+      "fecha_creacion": ""
     }
   ],
   "clients": [
@@ -23186,6 +23280,22 @@
         "precio_final": 13000,
         "final_price": 13000,
         "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
+    "TOP3570": [
+      {
+        "id": "TOP3570-Mayor",
+        "variedad_id": "TOP3570-Mayor",
+        "variety_id": "TOP3570-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "variety_name": "Mayor",
+        "precio": 12000,
+        "precio_unitario": 12000,
+        "precio_final": 12000,
+        "final_price": 12000,
+        "cantidad_minima": 1,
         "visible": true
       }
     ]
