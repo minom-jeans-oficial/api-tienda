@@ -2,12 +2,12 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://minom-jeans.blogspot.com",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
   "pagina_tienda": {
     "tienda_id": "MINOM OFICIAL",
     "descripcion": "Fabricante mayorista de indumentaria Nacional femenino mejor precio y calidad en jeans de todo tipo",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
-    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=MINOM%20OFICIAL&lastName=GASTON&email=minom.oficial%40gmail.com&cellPhone=1149606618&workPhone=1149606618&address=Av.%20Avellaneda%202329%2C%20C1406FYI%20Cdad.%20Aut%C3%B3noma%20de%20Buenos%20Aires%2C%20Argentina&org=MINOM%20OFICIAL&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
+    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=MINOM%20OFICIAL&lastName=DANIELA&email=minom.oficial%40gmail.com&cellPhone=1149606618&workPhone=1149606618&address=Av.%20Avellaneda%202329%2C%20C1406FYI%20Cdad.%20Aut%C3%B3noma%20de%20Buenos%20Aires%2C%20Argentina&org=MINOM%20OFICIAL&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "minom.oficial@gmail.com",
     "telefono": "1149606618",
     "direccion": "Av. Avellaneda 2329, C1406FYI Cdad. Autónoma de Buenos Aires, Argentina",
@@ -16,7 +16,7 @@
       "apertura": "07:00:00",
       "cierre": "17:00:00"
     },
-    "compra_minima": "3",
+    "compra_minima": 3,
     "redes_sociales": {
       "facebook": "https://www.instagram.com/minomjeanss/",
       "instagram": "https://www.instagram.com/minomjeanss/",
@@ -505,7 +505,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "295",
+                  "valor": "294",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -566,7 +566,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "295"
+                          "stock": "294"
                         }
                       ]
                     }
@@ -1266,7 +1266,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "113",
+                  "valor": "112",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -1316,7 +1316,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "113"
+                          "stock": "112"
                         }
                       ]
                     }
@@ -1515,7 +1515,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "110",
+                  "valor": "109",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -1554,7 +1554,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "110"
+                          "stock": "109"
                         }
                       ]
                     }
@@ -1903,7 +1903,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "115",
+                  "valor": "114",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -1964,7 +1964,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "115"
+                          "stock": "114"
                         }
                       ]
                     }
@@ -2055,7 +2055,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "290",
+                  "valor": "289",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -2094,7 +2094,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "290"
+                          "stock": "289"
                         }
                       ]
                     }
@@ -2300,7 +2300,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "249",
+                  "valor": "248",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -2339,7 +2339,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "249"
+                          "stock": "248"
                         }
                       ]
                     }
@@ -6008,7 +6008,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "39",
+                  "valor": "38",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -6047,7 +6047,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "39"
+                          "stock": "38"
                         }
                       ]
                     }
@@ -6647,7 +6647,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "60",
+                  "valor": "58",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -7628,7 +7628,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "45",
+                  "valor": "43",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -7678,7 +7678,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "45"
+                          "stock": "43"
                         }
                       ]
                     }
@@ -7761,7 +7761,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "277",
+                  "valor": "276",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -7800,7 +7800,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "277"
+                          "stock": "276"
                         }
                       ]
                     }
@@ -9141,7 +9141,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "257",
+                  "valor": "256",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -9180,7 +9180,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "257"
+                          "stock": "256"
                         }
                       ]
                     }
@@ -9758,7 +9758,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "341",
+                  "valor": "340",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -9797,7 +9797,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "341"
+                          "stock": "340"
                         }
                       ]
                     }
@@ -10361,7 +10361,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "352",
+                  "valor": "351",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -10400,7 +10400,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "352"
+                          "stock": "351"
                         }
                       ]
                     }
@@ -11223,7 +11223,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "335",
+                  "valor": "334",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -11262,7 +11262,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "335"
+                          "stock": "334"
                         }
                       ]
                     }
@@ -13819,7 +13819,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "163",
+                  "valor": "162",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -13858,7 +13858,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "163"
+                          "stock": "162"
                         }
                       ]
                     }
@@ -15381,5 +15381,5 @@
   "formas_pago": [],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1792254272003
+  "timestamp_ms": 1792255191899
 }
