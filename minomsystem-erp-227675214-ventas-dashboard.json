@@ -1725,73 +1725,6 @@
     "MINOM OFICIAL": {
       "CR-2e82b831-bccb-49e8-80e1-efa093f193bb": [
         {
-          "id": "TPV-1784556480684",
-          "fecha": "2026-07-20 11:07",
-          "origen": "Pedido Local",
-          "estado": "ENTREGADO",
-          "total": 60500,
-          "clienteId": "CLI001",
-          "nombreCliente": "Publico General",
-          "clienteInfo": {
-            "id": "CLI001",
-            "nombre": "Publico General",
-            "celular": "",
-            "email": "",
-            "cuit": "",
-            "condicionFiscal": "Consumidor Final",
-            "tipoEnvio": "RETIRO TIENDA",
-            "agenciaEnvio": "RETIRO TIENDA",
-            "localidad": "",
-            "provincia": "Buenos Aires",
-            "direccion": ""
-          },
-          "celularCliente": "",
-          "emailCliente": "",
-          "tiendaId": "MINOM OFICIAL",
-          "metodoPago": "Transferencia",
-          "cajaId": "CR-2e82b831-bccb-49e8-80e1-efa093f193bb",
-          "asesor": "GASTON",
-          "fechaCaja": "2026-07-20",
-          "bancoTransferencia": "Mercado Pago",
-          "aliasTransferencia": "Minom.2025",
-          "costoEnvio": 0,
-          "recargoTransferencia": 5500,
-          "recargoMenor": 0,
-          "detalles": [
-            {
-              "id": "TPV-1784556480684-68",
-              "descripcion": "PANT4838-Surtido-Surtido-MINOM OFICIAL",
-              "cantidad": 1,
-              "precioUnitario": 32000,
-              "subtotal": 32000,
-              "tipoPrecio": "Menor",
-              "productoId": "PANT4838",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "PANT4838-Surtido-Surtido-MINOM OFICIAL"
-            },
-            {
-              "id": "TPV-1784556480684-69",
-              "descripcion": "PANT2841-Surtido-Surtido-MINOM OFICIAL",
-              "cantidad": 1,
-              "precioUnitario": 23000,
-              "subtotal": 23000,
-              "tipoPrecio": "Menor",
-              "productoId": "PANT2841",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "PANT2841-Surtido-Surtido-MINOM OFICIAL"
-            }
-          ],
-          "pagoEfectivo": 0,
-          "montoProductos": 55000,
-          "subtotal": 55000,
-          "tipoVenta": "DIRECTA",
-          "compraMinima": 1,
-          "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
-        },
-        {
           "id": "TPV-1784559952518",
           "fecha": "2026-07-20 12:05",
           "origen": "Pedido Local",
@@ -175868,15 +175801,6 @@
       "horaFinalizada": "Sat D",
       "estado": "CERRADA"
     },
-    "CR-2e82b831-bccb-49e8-80e1-efa093f193bb": {
-      "cajaId": "CR-2e82b831-bccb-49e8-80e1-efa093f193bb",
-      "fecha": "2026-07-20",
-      "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON",
-      "horaIniciada": "",
-      "horaFinalizada": "",
-      "estado": "ABIERTA"
-    },
     "CR-e0f9a4f5-1e82-4635-ba2e-742a02bda8fe": {
       "cajaId": "CR-e0f9a4f5-1e82-4635-ba2e-742a02bda8fe",
       "fecha": "2026-07-20",
@@ -175885,6 +175809,15 @@
       "horaIniciada": "",
       "horaFinalizada": "Sat D",
       "estado": "CERRADA"
+    },
+    "CR-2e82b831-bccb-49e8-80e1-efa093f193bb": {
+      "cajaId": "CR-2e82b831-bccb-49e8-80e1-efa093f193bb",
+      "fecha": "2026-07-20",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-eb56ebd6-e3a1-4f64-8951-583a45380f47": {
       "cajaId": "CR-eb56ebd6-e3a1-4f64-8951-583a45380f47",
@@ -176681,15 +176614,6 @@
         "estado": "CERRADA"
       },
       {
-        "cajaId": "CR-2e82b831-bccb-49e8-80e1-efa093f193bb",
-        "fecha": "2026-07-20",
-        "tienda": "MINOM OFICIAL",
-        "asesor": "GASTON",
-        "horaIniciada": "",
-        "horaFinalizada": "",
-        "estado": "ABIERTA"
-      },
-      {
         "cajaId": "CR-e0f9a4f5-1e82-4635-ba2e-742a02bda8fe",
         "fecha": "2026-07-20",
         "tienda": "MINOM ARGERICH",
@@ -176697,6 +176621,15 @@
         "horaIniciada": "",
         "horaFinalizada": "Sat D",
         "estado": "CERRADA"
+      },
+      {
+        "cajaId": "CR-2e82b831-bccb-49e8-80e1-efa093f193bb",
+        "fecha": "2026-07-20",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       },
       {
         "cajaId": "CR-eb56ebd6-e3a1-4f64-8951-583a45380f47",
@@ -177552,5 +177485,5 @@
     "REME3706": "https://drive.google.com/thumbnail?id=1-facY_G842LNg4xfFxOuxMCJkSIsXhIn&sz=s600-rw",
     "BODD3940": "https://drive.google.com/thumbnail?id=1Rvmi9lOKmgsD4QOzoBX6iNARMsEb6L-c&sz=s600-rw"
   },
-  "timestamp_ms": 1792262227913
+  "timestamp_ms": 1792334233865
 }
