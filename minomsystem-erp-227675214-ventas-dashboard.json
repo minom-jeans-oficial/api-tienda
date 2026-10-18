@@ -1613,116 +1613,6 @@
     "MINOM OFICIAL": {
       "CR-2e82b831-bccb-49e8-80e1-efa093f193bb": [
         {
-          "id": "TPV-1784577051989",
-          "fecha": "2026-07-20 16:50",
-          "origen": "Pedido Local",
-          "estado": "ENTREGADO",
-          "total": 28000,
-          "clienteId": "CLI001",
-          "nombreCliente": "Publico General",
-          "clienteInfo": {
-            "id": "CLI001",
-            "nombre": "Publico General",
-            "celular": "",
-            "email": "",
-            "cuit": "",
-            "condicionFiscal": "Consumidor Final",
-            "tipoEnvio": "RETIRO TIENDA",
-            "agenciaEnvio": "RETIRO TIENDA",
-            "localidad": "",
-            "provincia": "Buenos Aires",
-            "direccion": ""
-          },
-          "celularCliente": "",
-          "emailCliente": "",
-          "tiendaId": "MINOM OFICIAL",
-          "metodoPago": "Efectivo",
-          "cajaId": "CR-2e82b831-bccb-49e8-80e1-efa093f193bb",
-          "asesor": "GASTON",
-          "fechaCaja": "2026-07-20",
-          "bancoTransferencia": "N/A",
-          "aliasTransferencia": "N/A",
-          "costoEnvio": 0,
-          "recargoTransferencia": 0,
-          "recargoMenor": 0,
-          "detalles": [
-            {
-              "id": "TPV-1784577051989-82",
-              "descripcion": "PANT7858-Surtido-Surtido-MINOM OFICIAL",
-              "cantidad": 1,
-              "precioUnitario": 28000,
-              "subtotal": 28000,
-              "tipoPrecio": "Menor",
-              "productoId": "PANT7858",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "PANT7858-Surtido-Surtido-MINOM OFICIAL"
-            }
-          ],
-          "pagoEfectivo": 0,
-          "montoProductos": 28000,
-          "subtotal": 28000,
-          "tipoVenta": "DIRECTA",
-          "compraMinima": 1,
-          "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
-        },
-        {
-          "id": "TPV-1784577153110",
-          "fecha": "2026-07-20 16:52",
-          "origen": "Pedido Local",
-          "estado": "ENTREGADO",
-          "total": 28000,
-          "clienteId": "CLI001",
-          "nombreCliente": "Publico General",
-          "clienteInfo": {
-            "id": "CLI001",
-            "nombre": "Publico General",
-            "celular": "",
-            "email": "",
-            "cuit": "",
-            "condicionFiscal": "Consumidor Final",
-            "tipoEnvio": "RETIRO TIENDA",
-            "agenciaEnvio": "RETIRO TIENDA",
-            "localidad": "",
-            "provincia": "Buenos Aires",
-            "direccion": ""
-          },
-          "celularCliente": "",
-          "emailCliente": "",
-          "tiendaId": "MINOM OFICIAL",
-          "metodoPago": "Efectivo",
-          "cajaId": "CR-2e82b831-bccb-49e8-80e1-efa093f193bb",
-          "asesor": "GASTON",
-          "fechaCaja": "2026-07-20",
-          "bancoTransferencia": "N/A",
-          "aliasTransferencia": "N/A",
-          "costoEnvio": 0,
-          "recargoTransferencia": 0,
-          "recargoMenor": 0,
-          "detalles": [
-            {
-              "id": "TPV-1784577153110-83",
-              "descripcion": "PANT7692-Surtido-Surtido-MINOM OFICIAL",
-              "cantidad": 1,
-              "precioUnitario": 28000,
-              "subtotal": 28000,
-              "tipoPrecio": "Menor",
-              "productoId": "PANT7692",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "PANT7692-Surtido-Surtido-MINOM OFICIAL"
-            }
-          ],
-          "pagoEfectivo": 0,
-          "montoProductos": 28000,
-          "subtotal": 28000,
-          "tipoVenta": "DIRECTA",
-          "compraMinima": 1,
-          "pagoMixto": false,
-          "desactivarRecargoTransferencia": false
-        },
-        {
           "id": "TPV-1784578048766",
           "fecha": "2026-07-22 14:39",
           "origen": "Pedido Local",
@@ -175182,15 +175072,6 @@
       "horaFinalizada": "Sat D",
       "estado": "CERRADA"
     },
-    "CR-2e82b831-bccb-49e8-80e1-efa093f193bb": {
-      "cajaId": "CR-2e82b831-bccb-49e8-80e1-efa093f193bb",
-      "fecha": "2026-07-20",
-      "tienda": "MINOM OFICIAL",
-      "asesor": "GASTON",
-      "horaIniciada": "",
-      "horaFinalizada": "",
-      "estado": "ABIERTA"
-    },
     "CR-eb56ebd6-e3a1-4f64-8951-583a45380f47": {
       "cajaId": "CR-eb56ebd6-e3a1-4f64-8951-583a45380f47",
       "fecha": "2026-07-21",
@@ -175199,6 +175080,15 @@
       "horaIniciada": "",
       "horaFinalizada": "Sat D",
       "estado": "CERRADA"
+    },
+    "CR-2e82b831-bccb-49e8-80e1-efa093f193bb": {
+      "cajaId": "CR-2e82b831-bccb-49e8-80e1-efa093f193bb",
+      "fecha": "2026-07-20",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON",
+      "horaIniciada": "",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
     },
     "CR-07e9a7e8-3819-4076-98cc-f6af11bfed5c": {
       "cajaId": "CR-07e9a7e8-3819-4076-98cc-f6af11bfed5c",
@@ -175985,15 +175875,6 @@
         "estado": "CERRADA"
       },
       {
-        "cajaId": "CR-2e82b831-bccb-49e8-80e1-efa093f193bb",
-        "fecha": "2026-07-20",
-        "tienda": "MINOM OFICIAL",
-        "asesor": "GASTON",
-        "horaIniciada": "",
-        "horaFinalizada": "",
-        "estado": "ABIERTA"
-      },
-      {
         "cajaId": "CR-eb56ebd6-e3a1-4f64-8951-583a45380f47",
         "fecha": "2026-07-21",
         "tienda": "MINOM ARGERICH",
@@ -176001,6 +175882,15 @@
         "horaIniciada": "",
         "horaFinalizada": "Sat D",
         "estado": "CERRADA"
+      },
+      {
+        "cajaId": "CR-2e82b831-bccb-49e8-80e1-efa093f193bb",
+        "fecha": "2026-07-20",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       },
       {
         "cajaId": "CR-07e9a7e8-3819-4076-98cc-f6af11bfed5c",
@@ -176847,5 +176737,5 @@
     "REME3706": "https://drive.google.com/thumbnail?id=1-facY_G842LNg4xfFxOuxMCJkSIsXhIn&sz=s600-rw",
     "BODD3940": "https://drive.google.com/thumbnail?id=1Rvmi9lOKmgsD4QOzoBX6iNARMsEb6L-c&sz=s600-rw"
   },
-  "timestamp_ms": 1792348628677
+  "timestamp_ms": 1792359432163
 }
