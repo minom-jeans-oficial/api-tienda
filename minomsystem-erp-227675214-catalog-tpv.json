@@ -1,10 +1,14 @@
 {
-  "generated_at": "2026-10-20T21:37:55.461Z",
-  "timestamp_ms": 1792532381565,
+  "generated_at": "2026-10-20T21:52:59.390Z",
+  "timestamp_ms": 1792533308319,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
+      "businessName": "MINOM OFICIAL",
       "address": "Av. Avellaneda 2329, C1406FYI Cdad. Autónoma de Buenos Aires, Argentina",
+      "cuit": "27187785613",
+      "iibb": "",
+      "condicionIva": "",
       "phone": 1149606618,
       "policies": "Fabricante mayorista de indumentaria Nacional femenino mejor precio y calidad en jeans de todo tipo",
       "logoUrl": "BD_TIENDAS_Images/MINOM OFICIAL.LOGOTIPO.170347.png",
@@ -14,15 +18,17 @@
         "minimumPurchase": 3,
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
-        "allowedPaymentMethods": [
-          "Efectivo",
-          "Transferencia",
-          "Tarjeta Debito",
-          "Tarjeta Credito",
-          "Factura IVA",
-          "Presupuesto"
-        ],
+        "ticketFormat": "Formato Texto Plano",
         "printerIp": "192.168.0.196",
+        "puntoVentaAfip": 0,
+        "facturacionHabilitada": false,
+        "afipUserToken": "",
+        "afipApiKey": "",
+        "afipApiToken": "",
+        "condicionIva": "",
+        "tiposComprobantePermitidos": [
+          "PRESUPUESTO"
+        ],
         "printSettings": {
           "copias": 1,
           "sonido": "0",
@@ -33,7 +39,11 @@
     },
     "MINOM ARGERICH": {
       "name": "MINOM ARGERICH",
+      "businessName": "MINOM ARGERICH",
       "address": "Minom Jeans, Argerich 394, C1406AMD C1406AMD, Cdad. Autónoma de Buenos Aires",
+      "cuit": "27187785613",
+      "iibb": "",
+      "condicionIva": "",
       "phone": 1149606618,
       "policies": "Fabricante mayorista de indumentaria Nacional femenino mejor precio y calidad en jeans de todo tipo",
       "logoUrl": "BD_TIENDAS_Images/MINOM OFICIAL.LOGOTIPO.170347.png",
@@ -43,15 +53,17 @@
         "minimumPurchase": 3,
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
-        "allowedPaymentMethods": [
-          "Efectivo",
-          "Transferencia",
-          "Tarjeta Debito",
-          "Tarjeta Credito",
-          "Factura IVA",
-          "Presupuesto"
-        ],
+        "ticketFormat": "Formato Texto Plano",
         "printerIp": "192.168.0.7",
+        "puntoVentaAfip": 0,
+        "facturacionHabilitada": false,
+        "afipUserToken": "",
+        "afipApiKey": "",
+        "afipApiToken": "",
+        "condicionIva": "",
+        "tiposComprobantePermitidos": [
+          "PRESUPUESTO"
+        ],
         "printSettings": {
           "copias": 1,
           "sonido": "1",
@@ -18586,6 +18598,7 @@
     "impuestos": 0,
     "tipoVenta": "MINORISTA"
   },
+  "invoiceTypes": [],
   "allVarieties": {
     "BERM3599": [
       {
