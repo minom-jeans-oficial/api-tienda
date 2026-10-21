@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T11:07:57.030Z",
-  "timestamp_ms": 1792580993451,
+  "generated_at": "2026-10-21T11:23:02.012Z",
+  "timestamp_ms": 1792581861287,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -19,7 +19,7 @@
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
         "ticketFormat": "Formato Texto Plano",
-        "printerIp": "192.168.1.34",
+        "printerIp": "192.168.0.196",
         "puntoVentaAfip": 2,
         "facturacionHabilitada": true,
         "afipUserToken": "8146c6d006de6e90712dbbf40221eaa6f3f0e0b79fad6fdd11d1613e5048aeee",
