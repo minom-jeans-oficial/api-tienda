@@ -2,12 +2,12 @@
   "status": "0",
   "message": "Éxito (Bridge V3 + Smart API)",
   "pagina_url": "https://minom-jeans.blogspot.com",
-  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
+  "pagina_logo": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
   "pagina_tienda": {
     "tienda_id": "MINOM OFICIAL",
     "descripcion": "Fabricante mayorista de indumentaria Nacional femenino mejor precio y calidad en jeans de todo tipo",
-    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
-    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=MINOM%20OFICIAL&lastName=DANIELA&email=minom.oficial%40gmail.com&cellPhone=1149606618&workPhone=1149606618&address=Av.%20Avellaneda%202329%2C%20C1406FYI%20Cdad.%20Aut%C3%B3noma%20de%20Buenos%20Aires%2C%20Argentina&org=MINOM%20OFICIAL&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
+    "logo_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_TIENDAS&amp;fileName=BD_TIENDAS_Images%2FMINOM%20OFICIAL.LOGOTIPO.170347.png",
+    "vcard_url": "https://script.google.com/macros/s/AKfycbxw0K2xeU6quzBcJLDbg6IOVWKx7XlmdsANjVTJdzW-kbPJ3H2Tz6bxgfMZ1zU6aZfxRw/exec?firstName=MINOM%20OFICIAL&lastName=GASTON&email=minom.oficial%40gmail.com&cellPhone=1149606618&workPhone=1149606618&address=Av.%20Avellaneda%202329%2C%20C1406FYI%20Cdad.%20Aut%C3%B3noma%20de%20Buenos%20Aires%2C%20Argentina&org=MINOM%20OFICIAL&title=Administrador&birthday=20200602&url=%7B%22Url%22%3A%22%22%2C%22LinkText%22%3A%22%22%7D&image=%7B%22Url%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%2C%22LinkText%22%3A%22https%3A%2F%2Fwww.appsheet.com%2Ftemplate%2Fgettablefileurl%3FappName%3DMINOMSYSTEM-ERP-227675214%26amp%3BtableName%3DBD_TIENDAS%26amp%3BfileName%3DBD_TIENDAS_Images%252FMINOM%2520OFICIAL.LOGOTIPO.170347.png%22%7D&note=Ventas%20y%20servicios.%20Atenci%C3%B3n%20de%20lunes%20a%20viernes%2C%2010%3A00%20a%2018%3A00%20hs%20y%20s%C3%A1bados%20hasta%20las%2014%3A00%20hs.",
     "correo": "minom.oficial@gmail.com",
     "telefono": "1149606618",
     "direccion": "Av. Avellaneda 2329, C1406FYI Cdad. Autónoma de Buenos Aires, Argentina",
@@ -16,7 +16,7 @@
       "apertura": "07:00:00",
       "cierre": "17:00:00"
     },
-    "compra_minima": 3,
+    "compra_minima": "3",
     "redes_sociales": {
       "facebook": "https://www.instagram.com/minomjeanss/",
       "instagram": "https://www.instagram.com/minomjeanss/",
@@ -9630,7 +9630,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "13",
+                  "valor": "11",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -9669,7 +9669,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "13"
+                          "stock": "11"
                         }
                       ]
                     }
@@ -12462,6 +12462,100 @@
             {
               "codigo": 279,
               "categoria": "Top",
+              "nombre": "TOP5540",
+              "carpeta_id": "1VhVLk_be-B61-PQXGUuJzdNTVhRS2ij5",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "1234"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jeans Elastizado"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "94",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "21-10-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20TOP5540%0A%F0%9F%94%B9%20Modelo%3A%201234%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1saMbHyoliQvrzTkLs1Vr8FAytuXhBT1K&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1saMbHyoliQvrzTkLs1Vr8FAytuXhBT1K&sz=s600-rw",
+                  "archivo_id": "1saMbHyoliQvrzTkLs1Vr8FAytuXhBT1K",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "GALERIA",
+                  "orden": 1,
+                  "fecha_carga": "2026-10-21T03:33:17.431Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 12300,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-10-21T03:00:00.000Z"
+            },
+            {
+              "codigo": 280,
+              "categoria": "Top",
               "nombre": "TOP5629",
               "carpeta_id": "1Qx7I0cMaJdF_GJU-cAsgvXizbIHOAqG-",
               "descripcion": {
@@ -12563,7 +12657,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 280,
+              "codigo": 281,
               "categoria": "Top",
               "nombre": "TOP5771",
               "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
@@ -12649,7 +12743,7 @@
               "upd": "2026-08-22T03:00:00.000Z"
             },
             {
-              "codigo": 281,
+              "codigo": 282,
               "categoria": "Top",
               "nombre": "TOP9987",
               "carpeta_id": "12Svx-ISugc9waK9sU1CQfDtvSsZeIMvX",
@@ -12748,7 +12842,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg",
           "producto": [
             {
-              "codigo": 282,
+              "codigo": 283,
               "categoria": "Wide Leg",
               "nombre": "PANT2578",
               "carpeta_id": "1HW637kRbmZ_obWOHq19nTwdQdCrD5Lqt",
@@ -12870,7 +12964,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 285,
+              "codigo": 286,
               "categoria": "Wide Leg",
               "nombre": "PANT2658",
               "carpeta_id": "12FUGn9lLyq_9rx-yv3-1jqv3wDNbP6rQ",
@@ -12990,7 +13084,7 @@
               "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 288,
+              "codigo": 289,
               "categoria": "Wide Leg",
               "nombre": "PANT3236",
               "carpeta_id": "1EPGiSXiVjaQ60izAYfqbSyZAE2EjUODt",
@@ -13112,7 +13206,7 @@
               "upd": "2026-08-10T03:00:00.000Z"
             },
             {
-              "codigo": 291,
+              "codigo": 292,
               "categoria": "Wide Leg",
               "nombre": "PANT3257",
               "carpeta_id": "1-vKMsZaMWosM-UiWbKaAhYYIjBiM0i1A",
@@ -13234,7 +13328,7 @@
               "upd": "2026-08-29T03:00:00.000Z"
             },
             {
-              "codigo": 294,
+              "codigo": 295,
               "categoria": "Wide Leg",
               "nombre": "PANT4385",
               "carpeta_id": "1FXK1vE2vW1fublu4nXHaJwJGvv2W0Q6X",
@@ -13350,7 +13444,7 @@
               "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 297,
+              "codigo": 298,
               "categoria": "Wide Leg",
               "nombre": "PANT4545",
               "carpeta_id": "10RbbMzwW7_1zC7d013MX-xRir0gjtbW4",
@@ -13472,7 +13566,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 300,
+              "codigo": 301,
               "categoria": "Wide Leg",
               "nombre": "PANT4655",
               "carpeta_id": "1YrISWNg_pnysgLSNziTi5jaUndZbVC1s",
@@ -13637,7 +13731,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 303,
+              "codigo": 304,
               "categoria": "Wide Leg",
               "nombre": "PANT4723",
               "carpeta_id": "1YCK3adMYnF9sa42F5PG3OWrQxCbpdX2T",
@@ -13759,7 +13853,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 306,
+              "codigo": 307,
               "categoria": "Wide Leg",
               "nombre": "PANT5258",
               "carpeta_id": "1E4qLWlbtn1WWLos1gFqguD4JE7QTULaM",
@@ -13882,7 +13976,7 @@
               "upd": "2026-08-04T03:00:00.000Z"
             },
             {
-              "codigo": 309,
+              "codigo": 310,
               "categoria": "Wide Leg",
               "nombre": "PANT5578",
               "carpeta_id": "1rHfN8mPJrdsSJDfciW05zACodBuQSOmU",
@@ -14004,7 +14098,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 312,
+              "codigo": 313,
               "categoria": "Wide Leg",
               "nombre": "PANT5614",
               "carpeta_id": "1Z-s3D4KRHzialtuNWORVAkC7lbw3Op3I",
@@ -14126,7 +14220,7 @@
               "upd": "2026-08-07T03:00:00.000Z"
             },
             {
-              "codigo": 315,
+              "codigo": 316,
               "categoria": "Wide Leg",
               "nombre": "PANT6359",
               "carpeta_id": "1-FdCZRZR7Y36lfjpUOELjC4cdC1uKfBB",
@@ -14249,7 +14343,7 @@
               "upd": "2026-09-09T03:00:00.000Z"
             },
             {
-              "codigo": 318,
+              "codigo": 319,
               "categoria": "Wide Leg",
               "nombre": "PANT6509",
               "carpeta_id": "1dpRN8eRlgxDAQ-S2hnjJmDAmVZmyPe63",
@@ -14371,7 +14465,7 @@
               "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 321,
+              "codigo": 322,
               "categoria": "Wide Leg",
               "nombre": "PANT7432",
               "carpeta_id": "16jLb-v4SFvIZTHYv67EBzoAjf01-R-ws",
@@ -14494,7 +14588,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 324,
+              "codigo": 325,
               "categoria": "Wide Leg",
               "nombre": "PANT7862",
               "carpeta_id": "1c1B168PjaSk9Tq3vUe247w16eTtKBiYU",
@@ -14616,7 +14710,7 @@
               "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 327,
+              "codigo": 328,
               "categoria": "Wide Leg",
               "nombre": "PANT8389",
               "carpeta_id": "1kI7x0VKM0RwEOQb4vb7pq-Tu74wBosHf",
@@ -14737,7 +14831,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 330,
+              "codigo": 331,
               "categoria": "Wide Leg",
               "nombre": "PANT8904",
               "carpeta_id": "18hp_wYAWzzLzDVHpsbv5CSaSjlPcgmv5",
@@ -14859,7 +14953,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 333,
+              "codigo": 334,
               "categoria": "Wide Leg",
               "nombre": "PANT9228",
               "carpeta_id": "1oXI-FqpZm7vGcT9n7YO2vQkPnA18jihY",
@@ -14981,7 +15075,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 336,
+              "codigo": 337,
               "categoria": "Wide Leg",
               "nombre": "PANT9681",
               "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
@@ -15129,7 +15223,7 @@
               "upd": "2026-06-17T03:00:00.000Z"
             },
             {
-              "codigo": 339,
+              "codigo": 340,
               "categoria": "Wide Leg",
               "nombre": "WIDE1726",
               "carpeta_id": "1aA3Wyy2JlOF0xkHwiUl8Ynrpa45Tz83V",
@@ -15251,7 +15345,7 @@
               "upd": "2026-09-26T03:00:00.000Z"
             },
             {
-              "codigo": 342,
+              "codigo": 343,
               "categoria": "Wide Leg",
               "nombre": "WIDE5209",
               "carpeta_id": "1_fKK_zIEfAdTndd4isYOnyyfUzIRpXQG",
@@ -15378,8 +15472,33 @@
       ]
     }
   ],
-  "formas_pago": [],
+  "formas_pago": [
+    {
+      "nombre": "Efectivo",
+      "recargo": 0
+    },
+    {
+      "nombre": "Transferencia",
+      "recargo": 10
+    },
+    {
+      "nombre": "Tarjeta Debito",
+      "recargo": 10
+    },
+    {
+      "nombre": "Tarjeta Credito",
+      "recargo": 23
+    },
+    {
+      "nombre": "Factura IVA",
+      "recargo": 21
+    },
+    {
+      "nombre": "Presupuesto",
+      "recargo": 0
+    }
+  ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1792526085662
+  "timestamp_ms": 1792556694510
 }
