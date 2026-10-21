@@ -204921,13 +204921,13 @@
           "compraMinima": 1,
           "pagoMixto": false,
           "desactivarRecargoTransferencia": false,
-          "tipoComprobante": "TICKET_COMUN",
-          "estadoFacturacion": "NO_FISCAL",
-          "puntoVenta": 2,
-          "numeroComprobante": "",
-          "cae": "",
-          "caeVencimiento": "",
-          "facturaPdfUrl": "",
+          "tipoComprobante": "FACTURA_C",
+          "estadoFacturacion": "FACTURADO",
+          "puntoVenta": 6,
+          "numeroComprobante": "00006-00000001",
+          "cae": 86428761666902,
+          "caeVencimiento": "2026-10-31T03:00:00.000Z",
+          "facturaPdfUrl": "https://www.tusfacturas.app/app/descarga/pdf/2de01565568cc815186f2c1eab447de6/ga75t0MAyHBh6e0zMsd1pQ13094287y/73986-20961230986-0-11-00006-00000001.pdf",
           "netoGravado": 0,
           "montoIva": 0
         }
@@ -205696,7 +205696,7 @@
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
       "businessName": "MINOM OFICIAL",
-      "address": "Av. Avellaneda 2329, C1406FYI Cdad. Autónoma de Buenos Aires, Argentina",
+      "address": "Av. Avellaneda 2923, C1406FYI Cdad. Autónoma de Buenos Aires, Argentina",
       "cuit": "20961230986",
       "iibb": "",
       "condicionIva": "MONOTRIBUTO",
@@ -205711,7 +205711,7 @@
         "allowNegativeStock": true,
         "ticketFormat": "Formato Texto Plano",
         "printerIp": "192.168.0.196",
-        "puntoVentaAfip": 2,
+        "puntoVentaAfip": 6,
         "facturacionHabilitada": true,
         "afipUserToken": "8146c6d006de6e90712dbbf40221eaa6f3f0e0b79fad6fdd11d1613e5048aeee",
         "afipApiKey": "73986",
@@ -205733,7 +205733,7 @@
       "name": "MINOM ARGERICH",
       "businessName": "MINOM ARGERICH",
       "address": "Minom Jeans, Argerich 394, C1406AMD C1406AMD, Cdad. Autónoma de Buenos Aires",
-      "cuit": "27187785613",
+      "cuit": "20961230986",
       "iibb": "",
       "condicionIva": "MONOTRIBUTO",
       "phone": 1149606618,
@@ -206675,5 +206675,5 @@
     "BODD3940": "https://drive.google.com/thumbnail?id=1Rvmi9lOKmgsD4QOzoBX6iNARMsEb6L-c&sz=s600-rw",
     "TOP5540": "https://drive.google.com/thumbnail?id=1saMbHyoliQvrzTkLs1Vr8FAytuXhBT1K&sz=s600-rw"
   },
-  "timestamp_ms": 1792597055226
+  "timestamp_ms": 1792598389136
 }
