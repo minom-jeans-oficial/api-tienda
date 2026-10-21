@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T16:23:01.010Z",
-  "timestamp_ms": 1792599913199,
+  "generated_at": "2026-10-21T16:37:57.303Z",
+  "timestamp_ms": 1792600776861,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -1238,8 +1238,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 246,
-          "STOCK_ACTUAL": 246
+          "stock": 245,
+          "STOCK_ACTUAL": 245
         },
         {
           "variation_id": "BERM3677-Surtido-Surtido-MINOM ARGERICH",
@@ -3734,8 +3734,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 270,
-          "STOCK_ACTUAL": 270
+          "stock": 269,
+          "STOCK_ACTUAL": 269
         },
         {
           "variation_id": "OXFO4560-Surtido-Surtido-MINOM ARGERICH",
@@ -8234,8 +8234,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 107,
-          "STOCK_ACTUAL": 107
+          "stock": 106,
+          "STOCK_ACTUAL": 106
         }
       ],
       "prices": [
@@ -18315,100 +18315,6 @@
       "lastUpdate": "2026-10-16T03:00:00.000Z",
       "ULTIMA_ACTUALIZACION": "2026-10-16T03:00:00.000Z",
       "fecha_creacion": ""
-    },
-    {
-      "id": "TOP5540",
-      "sku": "Top007",
-      "SKU": "Top007",
-      "secondarySku": "Top007",
-      "model": "1234",
-      "name": "1234",
-      "nombre": "1234",
-      "price": 12300,
-      "minor_surcharge": 0,
-      "category": "Top",
-      "category_id": "Top",
-      "categoryName": "Top",
-      "parentCategory": "INDUMENTARIA",
-      "brand": "MINOM OFICIAL",
-      "gender": "Mujer",
-      "season": "SIN-TEMPORADA",
-      "style": "Tiro Bajo",
-      "material": "Jeans Elastizado",
-      "ageGroup": "Teens",
-      "grupo_edad": "Teens",
-      "GRUPO_EDAD": "Teens",
-      "sizes": "Surtido,34,36",
-      "talles": "Surtido,34,36",
-      "TALLES": "Surtido,34,36",
-      "colors": "Surtido",
-      "colores": "Surtido",
-      "COLORES": "Surtido",
-      "image": "https://drive.google.com/thumbnail?id=1saMbHyoliQvrzTkLs1Vr8FAytuXhBT1K&sz=s600-rw",
-      "imagen": "https://drive.google.com/thumbnail?id=1saMbHyoliQvrzTkLs1Vr8FAytuXhBT1K&sz=s600-rw",
-      "variations": [
-        {
-          "variation_id": "TOP5540-Surtido-Surtido-MINOM OFICIAL",
-          "INVENTARIO_ID": "TOP5540-Surtido-Surtido-MINOM OFICIAL",
-          "store_id": "MINOM OFICIAL",
-          "TIENDA_ID": "MINOM OFICIAL",
-          "color": "Surtido",
-          "COLOR": "Surtido",
-          "size": "Surtido",
-          "size_name": "Surtido",
-          "TALLE": "Surtido",
-          "stock": 94,
-          "STOCK_ACTUAL": 94
-        },
-        {
-          "variation_id": "TOP5540-Surtido-Surtido-MINOM ARGERICH",
-          "INVENTARIO_ID": "TOP5540-Surtido-Surtido-MINOM ARGERICH",
-          "store_id": "MINOM ARGERICH",
-          "TIENDA_ID": "MINOM ARGERICH",
-          "color": "Surtido",
-          "COLOR": "Surtido",
-          "size": "Surtido",
-          "size_name": "Surtido",
-          "TALLE": "Surtido",
-          "stock": 100,
-          "STOCK_ACTUAL": 100
-        }
-      ],
-      "prices": [
-        {
-          "id": "TOP5540-Mayor",
-          "variedad_id": "TOP5540-Mayor",
-          "variety_id": "TOP5540-Mayor",
-          "nombre": "Mayor",
-          "variedad": "Mayor",
-          "variety_name": "Mayor",
-          "precio": 12300,
-          "precio_unitario": 12300,
-          "precio_final": 12300,
-          "final_price": 12300,
-          "cantidad_minima": 1,
-          "visible": true
-        }
-      ],
-      "varieties": [
-        {
-          "id": "TOP5540-Mayor",
-          "variedad_id": "TOP5540-Mayor",
-          "variety_id": "TOP5540-Mayor",
-          "nombre": "Mayor",
-          "variedad": "Mayor",
-          "variety_name": "Mayor",
-          "precio": 12300,
-          "precio_unitario": 12300,
-          "precio_final": 12300,
-          "final_price": 12300,
-          "cantidad_minima": 1,
-          "visible": true
-        }
-      ],
-      "lastUpdate": "2026-10-21T03:00:00.000Z",
-      "ULTIMA_ACTUALIZACION": "2026-10-21T03:00:00.000Z",
-      "fecha_creacion": ""
     }
   ],
   "clients": [
@@ -23754,22 +23660,6 @@
         "precio_unitario": 21000,
         "precio_final": 21000,
         "final_price": 21000,
-        "cantidad_minima": 1,
-        "visible": true
-      }
-    ],
-    "TOP5540": [
-      {
-        "id": "TOP5540-Mayor",
-        "variedad_id": "TOP5540-Mayor",
-        "variety_id": "TOP5540-Mayor",
-        "nombre": "Mayor",
-        "variedad": "Mayor",
-        "variety_name": "Mayor",
-        "precio": 12300,
-        "precio_unitario": 12300,
-        "precio_final": 12300,
-        "final_price": 12300,
         "cantidad_minima": 1,
         "visible": true
       }
