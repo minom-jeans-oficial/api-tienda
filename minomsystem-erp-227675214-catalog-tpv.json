@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T15:37:54.743Z",
-  "timestamp_ms": 1792597192355,
+  "generated_at": "2026-10-21T15:52:56.596Z",
+  "timestamp_ms": 1792598096635,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
       "businessName": "MINOM OFICIAL",
-      "address": "Av. Avellaneda 2329, C1406FYI Cdad. Autónoma de Buenos Aires, Argentina",
+      "address": "Av. Avellaneda 2923, C1406FYI Cdad. Autónoma de Buenos Aires, Argentina",
       "cuit": "20961230986",
       "iibb": "",
       "condicionIva": "MONOTRIBUTO",
@@ -20,7 +20,7 @@
         "allowNegativeStock": true,
         "ticketFormat": "Formato Texto Plano",
         "printerIp": "192.168.0.196",
-        "puntoVentaAfip": 2,
+        "puntoVentaAfip": 6,
         "facturacionHabilitada": true,
         "afipUserToken": "8146c6d006de6e90712dbbf40221eaa6f3f0e0b79fad6fdd11d1613e5048aeee",
         "afipApiKey": "73986",
@@ -42,7 +42,7 @@
       "name": "MINOM ARGERICH",
       "businessName": "MINOM ARGERICH",
       "address": "Minom Jeans, Argerich 394, C1406AMD C1406AMD, Cdad. Autónoma de Buenos Aires",
-      "cuit": "27187785613",
+      "cuit": "20961230986",
       "iibb": "",
       "condicionIva": "MONOTRIBUTO",
       "phone": 1149606618,
@@ -18619,8 +18619,8 @@
   ],
   "generalConfig": {
     "GENERAL_ID": "MINOM OFICIAL",
-    "RESPONSABLE": "Daniela Santos Ortega",
-    "CUIT": 27187785613,
+    "RESPONSABLE": "HERRERA LUNA GASTON ALEJANDRO",
+    "CUIT": 20961230986,
     "TELEFONO": 1149606618,
     "CELULAR": 1149606618,
     "CORREO_ELECTRONICO": "minom.oficial@gmail.com",
