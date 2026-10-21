@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-20T22:08:05.279Z",
-  "timestamp_ms": 1792534217536,
+  "generated_at": "2026-10-21T04:22:57.511Z",
+  "timestamp_ms": 1792556694657,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
       "businessName": "MINOM OFICIAL",
       "address": "Av. Avellaneda 2329, C1406FYI Cdad. Autónoma de Buenos Aires, Argentina",
-      "cuit": "27187785613",
+      "cuit": "20961230986",
       "iibb": "",
-      "condicionIva": "",
+      "condicionIva": "MONOTRIBUTO",
       "phone": 1149606618,
       "policies": "Fabricante mayorista de indumentaria Nacional femenino mejor precio y calidad en jeans de todo tipo",
       "logoUrl": "BD_TIENDAS_Images/MINOM OFICIAL.LOGOTIPO.170347.png",
@@ -19,15 +19,16 @@
         "saleMode": "MANUAL",
         "allowNegativeStock": true,
         "ticketFormat": "Formato Texto Plano",
-        "printerIp": "192.168.0.196",
-        "puntoVentaAfip": 0,
-        "facturacionHabilitada": false,
-        "afipUserToken": "",
-        "afipApiKey": "",
-        "afipApiToken": "",
-        "condicionIva": "",
+        "printerIp": "192.168.1.34",
+        "puntoVentaAfip": 2,
+        "facturacionHabilitada": true,
+        "afipUserToken": "8146c6d006de6e90712dbbf40221eaa6f3f0e0b79fad6fdd11d1613e5048aeee",
+        "afipApiKey": "73986",
+        "afipApiToken": "716d00646f1abd4285b9f12a57871640",
+        "condicionIva": "MONOTRIBUTO",
         "tiposComprobantePermitidos": [
-          "PRESUPUESTO"
+          "PRESUPUESTO",
+          "FACTURA_C"
         ],
         "printSettings": {
           "copias": 1,
@@ -43,7 +44,7 @@
       "address": "Minom Jeans, Argerich 394, C1406AMD C1406AMD, Cdad. Autónoma de Buenos Aires",
       "cuit": "27187785613",
       "iibb": "",
-      "condicionIva": "",
+      "condicionIva": "MONOTRIBUTO",
       "phone": 1149606618,
       "policies": "Fabricante mayorista de indumentaria Nacional femenino mejor precio y calidad en jeans de todo tipo",
       "logoUrl": "BD_TIENDAS_Images/MINOM OFICIAL.LOGOTIPO.170347.png",
@@ -60,7 +61,7 @@
         "afipUserToken": "",
         "afipApiKey": "",
         "afipApiToken": "",
-        "condicionIva": "",
+        "condicionIva": "MONOTRIBUTO",
         "tiposComprobantePermitidos": [
           "PRESUPUESTO"
         ],
@@ -18084,8 +18085,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 13,
-          "STOCK_ACTUAL": 13
+          "stock": 11,
+          "STOCK_ACTUAL": 11
         },
         {
           "variation_id": "REME3706-Surtido-Surtido-MINOM ARGERICH",
@@ -18314,6 +18315,100 @@
       "lastUpdate": "2026-10-16T03:00:00.000Z",
       "ULTIMA_ACTUALIZACION": "2026-10-16T03:00:00.000Z",
       "fecha_creacion": ""
+    },
+    {
+      "id": "TOP5540",
+      "sku": "Top007",
+      "SKU": "Top007",
+      "secondarySku": "Top007",
+      "model": "1234",
+      "name": "1234",
+      "nombre": "1234",
+      "price": 12300,
+      "minor_surcharge": 0,
+      "category": "Top",
+      "category_id": "Top",
+      "categoryName": "Top",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Elastizado",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido,34,36",
+      "talles": "Surtido,34,36",
+      "TALLES": "Surtido,34,36",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1saMbHyoliQvrzTkLs1Vr8FAytuXhBT1K&sz=s600-rw",
+      "imagen": "https://drive.google.com/thumbnail?id=1saMbHyoliQvrzTkLs1Vr8FAytuXhBT1K&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "TOP5540-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "TOP5540-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 94,
+          "STOCK_ACTUAL": 94
+        },
+        {
+          "variation_id": "TOP5540-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "TOP5540-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 100,
+          "STOCK_ACTUAL": 100
+        }
+      ],
+      "prices": [
+        {
+          "id": "TOP5540-Mayor",
+          "variedad_id": "TOP5540-Mayor",
+          "variety_id": "TOP5540-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 12300,
+          "precio_unitario": 12300,
+          "precio_final": 12300,
+          "final_price": 12300,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "TOP5540-Mayor",
+          "variedad_id": "TOP5540-Mayor",
+          "variety_id": "TOP5540-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 12300,
+          "precio_unitario": 12300,
+          "precio_final": 12300,
+          "final_price": 12300,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-10-21T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-21T03:00:00.000Z",
+      "fecha_creacion": ""
     }
   ],
   "clients": [
@@ -18450,30 +18545,6 @@
       "code": "Tarjeta Credito",
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg",
       "iconoUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg"
-    },
-    {
-      "MOVIMIENTO_ID": "Factura IVA",
-      "PORCENTAJE": 0.21,
-      "TERMINOS_CONDICIONES": "",
-      "ICONO": "fdc331ba",
-      "id": "Factura IVA",
-      "name": "Factura IVA",
-      "percent": 0.21,
-      "code": "Factura IVA",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg",
-      "iconoUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg"
-    },
-    {
-      "MOVIMIENTO_ID": "Presupuesto",
-      "PORCENTAJE": 0,
-      "TERMINOS_CONDICIONES": "",
-      "ICONO": "5c4fde81",
-      "id": "Presupuesto",
-      "name": "Presupuesto",
-      "percent": 0,
-      "code": "Presupuesto",
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg",
-      "iconoUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
     }
   ],
   "paymentIcons": {
@@ -18492,14 +18563,6 @@
     "Tarjeta Credito": {
       "porcentaje": 0.1,
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg"
-    },
-    "Factura IVA": {
-      "porcentaje": 0.21,
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg"
-    },
-    "Presupuesto": {
-      "porcentaje": 0,
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
     }
   },
   "metodosPagoIcons": {
@@ -18518,14 +18581,6 @@
     "Tarjeta Credito": {
       "porcentaje": 0.1,
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/crédito_con_iva.svg"
-    },
-    "Factura IVA": {
-      "porcentaje": 0.21,
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/factura_iva.svg"
-    },
-    "Presupuesto": {
-      "porcentaje": 0,
-      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/presupuesto.svg"
     }
   },
   "transferAccounts": [
@@ -18598,7 +18653,44 @@
     "impuestos": 0,
     "tipoVenta": "MINORISTA"
   },
-  "invoiceTypes": [],
+  "invoiceTypes": [
+    {
+      "COMPROBANTE_ID": "COMP_A",
+      "NOMBRE": "Factura A",
+      "CODIGO_AFIP": 1,
+      "LETRA": "A",
+      "DISCRIMINA_IVA": true,
+      "REQUIERE_RECEPTOR": true,
+      "ESTADO": "ACTIVO"
+    },
+    {
+      "COMPROBANTE_ID": "COMP_B",
+      "NOMBRE": "Factura B",
+      "CODIGO_AFIP": 6,
+      "LETRA": "B",
+      "DISCRIMINA_IVA": false,
+      "REQUIERE_RECEPTOR": false,
+      "ESTADO": "ACTIVO"
+    },
+    {
+      "COMPROBANTE_ID": "COMP_C",
+      "NOMBRE": "Factura C",
+      "CODIGO_AFIP": 11,
+      "LETRA": "C",
+      "DISCRIMINA_IVA": false,
+      "REQUIERE_RECEPTOR": false,
+      "ESTADO": "ACTIVO"
+    },
+    {
+      "COMPROBANTE_ID": "COMP_PRESUPUESTO",
+      "NOMBRE": "Presupuesto / No Fiscal",
+      "CODIGO_AFIP": 0,
+      "LETRA": "X",
+      "DISCRIMINA_IVA": false,
+      "REQUIERE_RECEPTOR": false,
+      "ESTADO": "ACTIVO"
+    }
+  ],
   "allVarieties": {
     "BERM3599": [
       {
@@ -23662,6 +23754,22 @@
         "precio_unitario": 21000,
         "precio_final": 21000,
         "final_price": 21000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "TOP5540": [
+      {
+        "id": "TOP5540-Mayor",
+        "variedad_id": "TOP5540-Mayor",
+        "variety_id": "TOP5540-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "variety_name": "Mayor",
+        "precio": 12300,
+        "precio_unitario": 12300,
+        "precio_final": 12300,
+        "final_price": 12300,
         "cantidad_minima": 1,
         "visible": true
       }
