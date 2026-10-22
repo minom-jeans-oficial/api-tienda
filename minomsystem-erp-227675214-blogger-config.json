@@ -139,7 +139,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "289",
+                  "valor": "288",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -178,7 +178,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "289"
+                          "stock": "288"
                         }
                       ]
                     }
@@ -383,7 +383,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "269",
+                  "valor": "268",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -422,7 +422,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "269"
+                          "stock": "268"
                         }
                       ]
                     }
@@ -1637,7 +1637,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "52",
+                  "valor": "51",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -1687,7 +1687,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "52"
+                          "stock": "51"
                         }
                       ]
                     }
@@ -4134,7 +4134,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "64",
+                  "valor": "63",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -4167,7 +4167,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "64"
+                          "stock": "63"
                         }
                       ]
                     }
@@ -11301,7 +11301,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "184",
+                  "valor": "183",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -11384,7 +11384,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "184"
+                          "stock": "183"
                         }
                       ]
                     }
@@ -11461,7 +11461,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "251",
+                  "valor": "250",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -11500,7 +11500,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "251"
+                          "stock": "250"
                         }
                       ]
                     }
@@ -11705,7 +11705,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "249",
+                  "valor": "248",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -11744,7 +11744,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "249"
+                          "stock": "248"
                         }
                       ]
                     }
@@ -16010,5 +16010,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1792689066134
+  "timestamp_ms": 1792689906908
 }
