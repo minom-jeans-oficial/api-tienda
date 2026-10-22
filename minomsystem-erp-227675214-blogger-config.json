@@ -1266,7 +1266,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "106",
+                  "valor": "105",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -1316,7 +1316,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "106"
+                          "stock": "105"
                         }
                       ]
                     }
@@ -2193,9 +2193,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1i_Ssea9deC3tTftoTx1iZrsK4vcYu6UM&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1i_Ssea9deC3tTftoTx1iZrsK4vcYu6UM&sz=s600-rw",
+                  "archivo_id": "1i_Ssea9deC3tTftoTx1iZrsK4vcYu6UM",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-10-22T13:38:56.548Z"
                 }
               ],
               "variedad": [
@@ -10061,7 +10067,7 @@
               "codigo": 228,
               "categoria": "Short",
               "nombre": "SHOR2304",
-              "carpeta_id": "",
+              "carpeta_id": "1_YqsZtmEy_adLILeTWSMeNZM5DGai2MI",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -10133,9 +10139,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1BsG5VSwYzB0szJ5zkO99iy29tQpyHdrV&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1BsG5VSwYzB0szJ5zkO99iy29tQpyHdrV&sz=s600-rw",
+                  "archivo_id": "1BsG5VSwYzB0szJ5zkO99iy29tQpyHdrV",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-10-22T13:39:17.066Z"
                 }
               ],
               "variedad": [
@@ -10300,7 +10312,7 @@
               "codigo": 234,
               "categoria": "Short",
               "nombre": "SHOR3447",
-              "carpeta_id": "",
+              "carpeta_id": "1IhmAal6FmahNgHm4kBN_1DyIgLtsfeSJ",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -10350,8 +10362,8 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "0",
-                  "estado": "Baja"
+                  "valor": "350",
+                  "estado": "Alta"
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
@@ -10377,7 +10389,17 @@
                   "precio": 14000,
                   "variedad": "Curva",
                   "minima": 0,
-                  "sub_variedad": {}
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "350"
+                        }
+                      ]
+                    }
+                  }
                 },
                 {
                   "moneda": "$",
@@ -15982,5 +16004,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1792676430930
+  "timestamp_ms": 1792677268528
 }
