@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T13:37:53.721Z",
-  "timestamp_ms": 1792762801985,
+  "generated_at": "2026-10-23T13:53:28.719Z",
+  "timestamp_ms": 1792763731112,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -1838,8 +1838,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 373,
-          "STOCK_ACTUAL": 373
+          "stock": 372,
+          "STOCK_ACTUAL": 372
         },
         {
           "variation_id": "BERM8322-Surtido-Surtido-MINOM ARGERICH",
@@ -2995,8 +2995,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 92,
-          "STOCK_ACTUAL": 92
+          "stock": 91,
+          "STOCK_ACTUAL": 91
         }
       ],
       "prices": [
@@ -16021,8 +16021,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 311,
-          "STOCK_ACTUAL": 311
+          "stock": 308,
+          "STOCK_ACTUAL": 308
         },
         {
           "variation_id": "SHOR5970-Surtido-Surtido-MINOM ARGERICH",
@@ -16458,8 +16458,8 @@
       "colors": "Surtido",
       "colores": "Surtido",
       "COLORES": "Surtido",
-      "image": "",
-      "imagen": "",
+      "image": "https://drive.google.com/thumbnail?id=1anOL10clQ4F7kaoyTbl1c4h5r11nMhUe&sz=s600-rw",
+      "imagen": "https://drive.google.com/thumbnail?id=1anOL10clQ4F7kaoyTbl1c4h5r11nMhUe&sz=s600-rw",
       "variations": [
         {
           "variation_id": "SHOR6935-Surtido-Surtido-MINOM OFICIAL",
@@ -19064,6 +19064,306 @@
       ],
       "lastUpdate": "2026-10-22T03:00:00.000Z",
       "ULTIMA_ACTUALIZACION": "2026-10-22T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "WIDE8605",
+      "sku": "Wide021",
+      "SKU": "Wide021",
+      "secondarySku": "Wide021",
+      "model": "Azul localizado tiro medio alto",
+      "name": "Azul localizado tiro medio alto",
+      "nombre": "Azul localizado tiro medio alto",
+      "price": 23000,
+      "minor_surcharge": 0,
+      "category": "Wide Leg",
+      "category_id": "Wide Leg",
+      "categoryName": "Wide Leg",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido,36,40,42,44,46",
+      "talles": "Surtido,36,40,42,44,46",
+      "TALLES": "Surtido,36,40,42,44,46",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=186UhVogcZg8TlvXk9M3mQ9dTcMmLppJZ&sz=s600-rw",
+      "imagen": "https://drive.google.com/thumbnail?id=186UhVogcZg8TlvXk9M3mQ9dTcMmLppJZ&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "WIDE8605-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "WIDE8605-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 100,
+          "STOCK_ACTUAL": 100
+        },
+        {
+          "variation_id": "WIDE8605-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "WIDE8605-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 100,
+          "STOCK_ACTUAL": 100
+        }
+      ],
+      "prices": [
+        {
+          "id": "WIDE8605-Mayor",
+          "variedad_id": "WIDE8605-Mayor",
+          "variety_id": "WIDE8605-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 23000,
+          "precio_unitario": 23000,
+          "precio_final": 23000,
+          "final_price": 23000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "WIDE8605-Menor",
+          "variedad_id": "WIDE8605-Menor",
+          "variety_id": "WIDE8605-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 28000,
+          "precio_unitario": 28000,
+          "precio_final": 28000,
+          "final_price": 28000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "WIDE8605-Curva",
+          "variedad_id": "WIDE8605-Curva",
+          "variety_id": "WIDE8605-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 21000,
+          "precio_unitario": 21000,
+          "precio_final": 21000,
+          "final_price": 21000,
+          "cantidad_minima": 5,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "WIDE8605-Mayor",
+          "variedad_id": "WIDE8605-Mayor",
+          "variety_id": "WIDE8605-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 23000,
+          "precio_unitario": 23000,
+          "precio_final": 23000,
+          "final_price": 23000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "WIDE8605-Menor",
+          "variedad_id": "WIDE8605-Menor",
+          "variety_id": "WIDE8605-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 28000,
+          "precio_unitario": 28000,
+          "precio_final": 28000,
+          "final_price": 28000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "WIDE8605-Curva",
+          "variedad_id": "WIDE8605-Curva",
+          "variety_id": "WIDE8605-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 21000,
+          "precio_unitario": 21000,
+          "precio_final": 21000,
+          "final_price": 21000,
+          "cantidad_minima": 5,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-10-23T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-23T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "BERM7472",
+      "sku": "Berm010",
+      "SKU": "Berm010",
+      "secondarySku": "Berm010",
+      "model": "oxido de recorte",
+      "name": "oxido de recorte",
+      "nombre": "oxido de recorte",
+      "price": 22000,
+      "minor_surcharge": 0,
+      "category": "Bermuda",
+      "category_id": "Bermuda",
+      "categoryName": "Bermuda",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Medio",
+      "material": "Jeans Rigido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido,38,40,42,44",
+      "talles": "Surtido,38,40,42,44",
+      "TALLES": "Surtido,38,40,42,44",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1UIuvWAyTntQUULPq1ejqWJCLadyLfZiW&sz=s600-rw",
+      "imagen": "https://drive.google.com/thumbnail?id=1UIuvWAyTntQUULPq1ejqWJCLadyLfZiW&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "BERM7472-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "BERM7472-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 100,
+          "STOCK_ACTUAL": 100
+        },
+        {
+          "variation_id": "BERM7472-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "BERM7472-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 100,
+          "STOCK_ACTUAL": 100
+        }
+      ],
+      "prices": [
+        {
+          "id": "BERM7472-Mayor",
+          "variedad_id": "BERM7472-Mayor",
+          "variety_id": "BERM7472-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 22000,
+          "precio_unitario": 22000,
+          "precio_final": 22000,
+          "final_price": 22000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "BERM7472-Menor",
+          "variedad_id": "BERM7472-Menor",
+          "variety_id": "BERM7472-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 27000,
+          "precio_unitario": 27000,
+          "precio_final": 27000,
+          "final_price": 27000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "BERM7472-Curva",
+          "variedad_id": "BERM7472-Curva",
+          "variety_id": "BERM7472-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 20000,
+          "precio_unitario": 20000,
+          "precio_final": 20000,
+          "final_price": 20000,
+          "cantidad_minima": 4,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "BERM7472-Mayor",
+          "variedad_id": "BERM7472-Mayor",
+          "variety_id": "BERM7472-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 22000,
+          "precio_unitario": 22000,
+          "precio_final": 22000,
+          "final_price": 22000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "BERM7472-Menor",
+          "variedad_id": "BERM7472-Menor",
+          "variety_id": "BERM7472-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 27000,
+          "precio_unitario": 27000,
+          "precio_final": 27000,
+          "final_price": 27000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "BERM7472-Curva",
+          "variedad_id": "BERM7472-Curva",
+          "variety_id": "BERM7472-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 20000,
+          "precio_unitario": 20000,
+          "precio_final": 20000,
+          "final_price": 20000,
+          "cantidad_minima": 4,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-10-23T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-23T03:00:00.000Z",
       "fecha_creacion": ""
     }
   ],
@@ -24631,6 +24931,94 @@
         "precio_final": 14000,
         "final_price": 14000,
         "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "WIDE8605": [
+      {
+        "id": "WIDE8605-Mayor",
+        "variedad_id": "WIDE8605-Mayor",
+        "variety_id": "WIDE8605-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "variety_name": "Mayor",
+        "precio": 23000,
+        "precio_unitario": 23000,
+        "precio_final": 23000,
+        "final_price": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "WIDE8605-Menor",
+        "variedad_id": "WIDE8605-Menor",
+        "variety_id": "WIDE8605-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 28000,
+        "precio_unitario": 28000,
+        "precio_final": 28000,
+        "final_price": 28000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "WIDE8605-Curva",
+        "variedad_id": "WIDE8605-Curva",
+        "variety_id": "WIDE8605-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "variety_name": "Curva",
+        "precio": 21000,
+        "precio_unitario": 21000,
+        "precio_final": 21000,
+        "final_price": 21000,
+        "cantidad_minima": 5,
+        "visible": true
+      }
+    ],
+    "BERM7472": [
+      {
+        "id": "BERM7472-Mayor",
+        "variedad_id": "BERM7472-Mayor",
+        "variety_id": "BERM7472-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "variety_name": "Mayor",
+        "precio": 22000,
+        "precio_unitario": 22000,
+        "precio_final": 22000,
+        "final_price": 22000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BERM7472-Menor",
+        "variedad_id": "BERM7472-Menor",
+        "variety_id": "BERM7472-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 27000,
+        "precio_unitario": 27000,
+        "precio_final": 27000,
+        "final_price": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BERM7472-Curva",
+        "variedad_id": "BERM7472-Curva",
+        "variety_id": "BERM7472-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "variety_name": "Curva",
+        "precio": 20000,
+        "precio_unitario": 20000,
+        "precio_final": 20000,
+        "final_price": 20000,
+        "cantidad_minima": 4,
         "visible": true
       }
     ]
