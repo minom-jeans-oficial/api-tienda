@@ -1271,7 +1271,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "08-08-2026"
+                  "valor": "27-10-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -1324,20 +1324,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 25000,
+                  "precio": 24000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 30000,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-06-26T03:00:00.000Z"
+              "upd": "2026-10-27T03:00:00.000Z"
             },
             {
               "codigo": 31,
@@ -6124,7 +6124,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "04-08-2026"
+                  "valor": "27-10-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -6149,7 +6149,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 24000,
+                  "precio": 22000,
                   "variedad": "Curva",
                   "minima": 7,
                   "sub_variedad": {
@@ -6166,20 +6166,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 26000,
+                  "precio": 24000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 31000,
+                  "precio": 29000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-08-04T03:00:00.000Z"
+              "upd": "2026-10-27T03:00:00.000Z"
             },
             {
               "codigo": 147,
@@ -9738,7 +9738,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "119",
+                  "valor": "118",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -9788,7 +9788,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "119"
+                          "stock": "118"
                         }
                       ]
                     }
@@ -9992,7 +9992,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "100",
+                  "valor": "99",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -10008,9 +10008,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1WMguPi-W3dmYR0aFUcPn5zPah3VhY3ET&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1WMguPi-W3dmYR0aFUcPn5zPah3VhY3ET&sz=s600-rw",
+                  "archivo_id": "1WMguPi-W3dmYR0aFUcPn5zPah3VhY3ET",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-10-27T19:54:35.896Z"
                 }
               ],
               "variedad": [
@@ -10025,7 +10031,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "100"
+                          "stock": "99"
                         }
                       ]
                     }
@@ -16982,5 +16988,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1793129949870
+  "timestamp_ms": 1793131807859
 }
