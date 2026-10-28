@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-28T15:52:56.381Z",
-  "timestamp_ms": 1793202856234,
+  "generated_at": "2026-10-28T16:07:56.767Z",
+  "timestamp_ms": 1793203770855,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -20265,6 +20265,156 @@
       "lastUpdate": "2026-10-27T03:00:00.000Z",
       "ULTIMA_ACTUALIZACION": "2026-10-27T03:00:00.000Z",
       "fecha_creacion": ""
+    },
+    {
+      "id": "BERM4398",
+      "sku": "Berm014",
+      "SKU": "Berm014",
+      "secondarySku": "Berm014",
+      "model": "Camuflado Cargo Verde/Rosa",
+      "name": "Camuflado Cargo Verde/Rosa",
+      "nombre": "Camuflado Cargo Verde/Rosa",
+      "price": 27000,
+      "minor_surcharge": 0,
+      "category": "Bermuda",
+      "category_id": "Bermuda",
+      "categoryName": "Bermuda",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "talles": "Surtido,34,36,38,40,42,44",
+      "TALLES": "Surtido,34,36,38,40,42,44",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "",
+      "imagen": "",
+      "variations": [
+        {
+          "variation_id": "BERM4398-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "BERM4398-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 350,
+          "STOCK_ACTUAL": 350
+        },
+        {
+          "variation_id": "BERM4398-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "BERM4398-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 350,
+          "STOCK_ACTUAL": 350
+        }
+      ],
+      "prices": [
+        {
+          "id": "BERM4398-Mayor",
+          "variedad_id": "BERM4398-Mayor",
+          "variety_id": "BERM4398-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 27000,
+          "precio_unitario": 27000,
+          "precio_final": 27000,
+          "final_price": 27000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "BERM4398-Menor",
+          "variedad_id": "BERM4398-Menor",
+          "variety_id": "BERM4398-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 32000,
+          "precio_unitario": 32000,
+          "precio_final": 32000,
+          "final_price": 32000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "BERM4398-Curva",
+          "variedad_id": "BERM4398-Curva",
+          "variety_id": "BERM4398-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 25000,
+          "precio_unitario": 25000,
+          "precio_final": 25000,
+          "final_price": 25000,
+          "cantidad_minima": 6,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "BERM4398-Mayor",
+          "variedad_id": "BERM4398-Mayor",
+          "variety_id": "BERM4398-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 27000,
+          "precio_unitario": 27000,
+          "precio_final": 27000,
+          "final_price": 27000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "BERM4398-Menor",
+          "variedad_id": "BERM4398-Menor",
+          "variety_id": "BERM4398-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 32000,
+          "precio_unitario": 32000,
+          "precio_final": 32000,
+          "final_price": 32000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "BERM4398-Curva",
+          "variedad_id": "BERM4398-Curva",
+          "variety_id": "BERM4398-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 25000,
+          "precio_unitario": 25000,
+          "precio_final": 25000,
+          "final_price": 25000,
+          "cantidad_minima": 6,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-10-28T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-10-28T03:00:00.000Z",
+      "fecha_creacion": ""
     }
   ],
   "clients": [
@@ -26183,6 +26333,50 @@
         "precio_final": 18000,
         "final_price": 18000,
         "cantidad_minima": 5,
+        "visible": true
+      }
+    ],
+    "BERM4398": [
+      {
+        "id": "BERM4398-Mayor",
+        "variedad_id": "BERM4398-Mayor",
+        "variety_id": "BERM4398-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "variety_name": "Mayor",
+        "precio": 27000,
+        "precio_unitario": 27000,
+        "precio_final": 27000,
+        "final_price": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BERM4398-Menor",
+        "variedad_id": "BERM4398-Menor",
+        "variety_id": "BERM4398-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 32000,
+        "precio_unitario": 32000,
+        "precio_final": 32000,
+        "final_price": 32000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "BERM4398-Curva",
+        "variedad_id": "BERM4398-Curva",
+        "variety_id": "BERM4398-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "variety_name": "Curva",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "precio_final": 25000,
+        "final_price": 25000,
+        "cantidad_minima": 6,
         "visible": true
       }
     ]
