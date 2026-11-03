@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-03T15:07:55.015Z",
-  "timestamp_ms": 1793718556533,
+  "generated_at": "2026-11-03T15:22:55.824Z",
+  "timestamp_ms": 1793719464047,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -20894,8 +20894,8 @@
       "colors": "Surtido",
       "colores": "Surtido",
       "COLORES": "Surtido",
-      "image": "",
-      "imagen": "",
+      "image": "https://drive.google.com/thumbnail?id=1DIIMyuWPZX5CgfgnH9zDK8HgoM3fLX1R&sz=s600-rw",
+      "imagen": "https://drive.google.com/thumbnail?id=1DIIMyuWPZX5CgfgnH9zDK8HgoM3fLX1R&sz=s600-rw",
       "variations": [
         {
           "variation_id": "SHOR6163-Surtido-Surtido-MINOM OFICIAL",
@@ -21009,6 +21009,156 @@
           "precio_final": 15000,
           "final_price": 15000,
           "cantidad_minima": 6,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-03T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-11-03T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "POLL5281",
+      "sku": "Poll007",
+      "SKU": "Poll007",
+      "secondarySku": "Poll007",
+      "model": "con Regulador celeste",
+      "name": "con Regulador celeste",
+      "nombre": "con Regulador celeste",
+      "price": 20000,
+      "minor_surcharge": 0,
+      "category": "Pollera",
+      "category_id": "Pollera",
+      "categoryName": "Pollera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido,42,44",
+      "talles": "Surtido,42,44",
+      "TALLES": "Surtido,42,44",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "",
+      "imagen": "",
+      "variations": [
+        {
+          "variation_id": "POLL5281-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "POLL5281-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 200,
+          "STOCK_ACTUAL": 200
+        },
+        {
+          "variation_id": "POLL5281-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "POLL5281-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 200,
+          "STOCK_ACTUAL": 200
+        }
+      ],
+      "prices": [
+        {
+          "id": "POLL5281-Mayor",
+          "variedad_id": "POLL5281-Mayor",
+          "variety_id": "POLL5281-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 20000,
+          "precio_unitario": 20000,
+          "precio_final": 20000,
+          "final_price": 20000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "POLL5281-Menor",
+          "variedad_id": "POLL5281-Menor",
+          "variety_id": "POLL5281-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 25000,
+          "precio_unitario": 25000,
+          "precio_final": 25000,
+          "final_price": 25000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "POLL5281-Curva",
+          "variedad_id": "POLL5281-Curva",
+          "variety_id": "POLL5281-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 18000,
+          "precio_unitario": 18000,
+          "precio_final": 18000,
+          "final_price": 18000,
+          "cantidad_minima": 2,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "POLL5281-Mayor",
+          "variedad_id": "POLL5281-Mayor",
+          "variety_id": "POLL5281-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 20000,
+          "precio_unitario": 20000,
+          "precio_final": 20000,
+          "final_price": 20000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "POLL5281-Menor",
+          "variedad_id": "POLL5281-Menor",
+          "variety_id": "POLL5281-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 25000,
+          "precio_unitario": 25000,
+          "precio_final": 25000,
+          "final_price": 25000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "POLL5281-Curva",
+          "variedad_id": "POLL5281-Curva",
+          "variety_id": "POLL5281-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 18000,
+          "precio_unitario": 18000,
+          "precio_final": 18000,
+          "final_price": 18000,
+          "cantidad_minima": 2,
           "visible": true
         }
       ],
@@ -27153,6 +27303,50 @@
         "precio_final": 15000,
         "final_price": 15000,
         "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
+    "POLL5281": [
+      {
+        "id": "POLL5281-Mayor",
+        "variedad_id": "POLL5281-Mayor",
+        "variety_id": "POLL5281-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "variety_name": "Mayor",
+        "precio": 20000,
+        "precio_unitario": 20000,
+        "precio_final": 20000,
+        "final_price": 20000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "POLL5281-Menor",
+        "variedad_id": "POLL5281-Menor",
+        "variety_id": "POLL5281-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "precio_final": 25000,
+        "final_price": 25000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "POLL5281-Curva",
+        "variedad_id": "POLL5281-Curva",
+        "variety_id": "POLL5281-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "variety_name": "Curva",
+        "precio": 18000,
+        "precio_unitario": 18000,
+        "precio_final": 18000,
+        "final_price": 18000,
+        "cantidad_minima": 2,
         "visible": true
       }
     ]
