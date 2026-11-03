@@ -1670,70 +1670,6 @@
     "MINOM OFICIAL": {
       "CR-9dacbb0c-53b7-4496-97f0-a2edd7836037": [
         {
-          "id": "TPV-1785931981533",
-          "fecha": "2026-08-05 09:13",
-          "origen": "Pedido Local",
-          "estado": "ENTREGADO",
-          "total": 33000,
-          "clienteId": "CLI001",
-          "nombreCliente": "Publico General",
-          "clienteInfo": {
-            "id": "CLI001",
-            "nombre": "Publico General",
-            "celular": "",
-            "email": "",
-            "cuit": "",
-            "condicionFiscal": "Consumidor Final",
-            "tipoEnvio": "RETIRO TIENDA",
-            "agenciaEnvio": "RETIRO TIENDA",
-            "localidad": "",
-            "provincia": "Buenos Aires",
-            "direccion": ""
-          },
-          "celularCliente": "",
-          "emailCliente": "",
-          "tiendaId": "MINOM OFICIAL",
-          "metodoPago": "Transferencia",
-          "cajaId": "CR-9dacbb0c-53b7-4496-97f0-a2edd7836037",
-          "asesor": "GASTON",
-          "fechaCaja": "2026-08-05",
-          "bancoTransferencia": "Mercado Pago",
-          "aliasTransferencia": "Minom.2025",
-          "costoEnvio": 0,
-          "recargoTransferencia": 3000,
-          "recargoMenor": 0,
-          "detalles": [
-            {
-              "id": "TPV-1785931981533-298",
-              "descripcion": "PANT5578-Surtido-Surtido-MINOM OFICIAL",
-              "cantidad": 1,
-              "precioUnitario": 30000,
-              "subtotal": 30000,
-              "tipoPrecio": "Menor",
-              "productoId": "PANT5578",
-              "color": "Surtido",
-              "talle": "Surtido",
-              "variedadId": "PANT5578-Surtido-Surtido-MINOM OFICIAL"
-            }
-          ],
-          "pagoEfectivo": 0,
-          "montoProductos": 30000,
-          "subtotal": 30000,
-          "tipoVenta": "DIRECTA",
-          "compraMinima": 1,
-          "pagoMixto": false,
-          "desactivarRecargoTransferencia": false,
-          "tipoComprobante": "TICKET_COMUN",
-          "estadoFacturacion": "NO_FISCAL",
-          "puntoVenta": "",
-          "numeroComprobante": "",
-          "cae": "",
-          "caeVencimiento": "",
-          "facturaPdfUrl": "",
-          "netoGravado": 0,
-          "montoIva": 0
-        },
-        {
           "id": "TPV-1785937186868",
           "fecha": "2026-08-05 10:39",
           "origen": "Pedido Local",
@@ -240511,6 +240447,148 @@
           "netoGravado": 0,
           "montoIva": 0
         }
+      ],
+      "CR-3adf64d5-2452-4ae3-b449-952f6f71b4c6": [
+        {
+          "id": "TPV-1793705972286",
+          "fecha": "2026-11-03 08:39",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 42900,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Transferencia",
+          "cajaId": "CR-3adf64d5-2452-4ae3-b449-952f6f71b4c6",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-11-03",
+          "bancoTransferencia": "Mercado Pago",
+          "aliasTransferencia": "Minom.2025",
+          "costoEnvio": 0,
+          "recargoTransferencia": 3900,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1793705972286-6223",
+              "descripcion": "SHOR2510-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 15000,
+              "subtotal": 15000,
+              "tipoPrecio": "Mayor",
+              "productoId": "SHOR2510",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR2510-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1793705972286-6224",
+              "descripcion": "TOP1511-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 2,
+              "precioUnitario": 12000,
+              "subtotal": 24000,
+              "tipoPrecio": "Mayor",
+              "productoId": "TOP1511",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "TOP1511-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 39000,
+          "subtotal": 39000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "TICKET_COMUN",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": 6,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
+        },
+        {
+          "id": "TPV-1793706569470",
+          "fecha": "2026-11-03 08:49",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 21000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-3adf64d5-2452-4ae3-b449-952f6f71b4c6",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-11-03",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1793706569470-6225",
+              "descripcion": "SHOR8812-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 21000,
+              "subtotal": 21000,
+              "tipoPrecio": "Menor",
+              "productoId": "SHOR8812",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "SHOR8812-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 21000,
+          "subtotal": 21000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": true,
+          "tipoComprobante": "TICKET_COMUN",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": 6,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
+        }
       ]
     }
   },
@@ -241274,6 +241352,15 @@
     "CR-5e7cc403-cb08-4c65-b6ac-3314ad673095": {
       "cajaId": "CR-5e7cc403-cb08-4c65-b6ac-3314ad673095",
       "fecha": "2026-11-02",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
+    },
+    "CR-3adf64d5-2452-4ae3-b449-952f6f71b4c6": {
+      "cajaId": "CR-3adf64d5-2452-4ae3-b449-952f6f71b4c6",
+      "fecha": "2026-11-03",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON",
       "horaIniciada": "Sat D",
@@ -242156,6 +242243,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-3adf64d5-2452-4ae3-b449-952f6f71b4c6",
+        "fecha": "2026-11-03",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -242291,5 +242387,5 @@
     "SHOR5755": "https://drive.google.com/thumbnail?id=1ZW-Hahv1ucp610K-d9YPK0iscIppnYMj&sz=s600-rw",
     "SHOR8131": "https://drive.google.com/thumbnail?id=1NSL2gOPup5qLY5ZuvQhoZ3AOejVWc1ov&sz=s600-rw"
   },
-  "timestamp_ms": 1793651851750
+  "timestamp_ms": 1793709458186
 }
