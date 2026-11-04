@@ -243678,6 +243678,82 @@
           "facturaPdfUrl": "",
           "netoGravado": 0,
           "montoIva": 0
+        },
+        {
+          "id": "TPV-1793822515995",
+          "fecha": "2026-11-04 17:01",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 68000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-eeb2c744-ffe6-41e9-8369-7718741d52dc",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-11-04",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1793822515995-6320",
+              "descripcion": "TOP1511-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 3,
+              "precioUnitario": 12000,
+              "subtotal": 36000,
+              "tipoPrecio": "Mayor",
+              "productoId": "TOP1511",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "TOP1511-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1793822515995-6321",
+              "descripcion": "TOP5771-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 2,
+              "precioUnitario": 16000,
+              "subtotal": 32000,
+              "tipoPrecio": "Mayor",
+              "productoId": "TOP5771",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "TOP5771-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 68000,
+          "subtotal": 68000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "TICKET_COMUN",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": 6,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ]
     }
@@ -245459,7 +245535,10 @@
     "SHOR5755": "https://drive.google.com/thumbnail?id=1ZW-Hahv1ucp610K-d9YPK0iscIppnYMj&sz=s600-rw",
     "SHOR8131": "https://drive.google.com/thumbnail?id=1NSL2gOPup5qLY5ZuvQhoZ3AOejVWc1ov&sz=s600-rw",
     "SHOR6163": "https://drive.google.com/thumbnail?id=1DIIMyuWPZX5CgfgnH9zDK8HgoM3fLX1R&sz=s600-rw",
-    "POLL5281": "https://drive.google.com/thumbnail?id=1fmLHsJPbK-dYtO1iQ_0eGn1ABktWSx2e&sz=s600-rw"
+    "POLL5281": "https://drive.google.com/thumbnail?id=1fmLHsJPbK-dYtO1iQ_0eGn1ABktWSx2e&sz=s600-rw",
+    "SHOR7949": "https://drive.google.com/thumbnail?id=18nMGS4Pr9lUzdEm5GaSzh5GpW0d7290q&sz=s600-rw",
+    "SHOR4055": "https://drive.google.com/thumbnail?id=1XAYkGW6MqypR_koZOvjuL_4VeV-m-e4x&sz=s600-rw",
+    "SHOR3514": "https://drive.google.com/thumbnail?id=1OonVMlXyygvwPU1gSDEGXYmWlgh-D4bf&sz=s600-rw"
   },
-  "timestamp_ms": 1793821228062
+  "timestamp_ms": 1793824644921
 }
