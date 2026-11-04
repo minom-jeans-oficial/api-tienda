@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-04T17:53:00.554Z",
-  "timestamp_ms": 1793814876124,
+  "generated_at": "2026-11-04T18:08:12.509Z",
+  "timestamp_ms": 1793815792236,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -14521,8 +14521,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 108,
-          "STOCK_ACTUAL": 108
+          "stock": 107,
+          "STOCK_ACTUAL": 107
         },
         {
           "variation_id": "SHOR1716-Surtido-Surtido-MINOM ARGERICH",
@@ -15721,8 +15721,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 159,
-          "STOCK_ACTUAL": 159
+          "stock": 158,
+          "STOCK_ACTUAL": 158
         },
         {
           "variation_id": "SHOR5537-Surtido-Surtido-MINOM ARGERICH",
@@ -21159,6 +21159,100 @@
           "precio_final": 18000,
           "final_price": 18000,
           "cantidad_minima": 2,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-04T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-11-04T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "OFER9718",
+      "sku": "Ofer010",
+      "SKU": "Ofer010",
+      "secondarySku": "Ofer010",
+      "model": "Varios",
+      "name": "Varios",
+      "nombre": "Varios",
+      "price": 15000,
+      "minor_surcharge": 0,
+      "category": "Oferta",
+      "category_id": "Oferta",
+      "categoryName": "Oferta",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "",
+      "imagen": "",
+      "variations": [
+        {
+          "variation_id": "OFER9718-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "OFER9718-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 250,
+          "STOCK_ACTUAL": 250
+        },
+        {
+          "variation_id": "OFER9718-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "OFER9718-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 250,
+          "STOCK_ACTUAL": 250
+        }
+      ],
+      "prices": [
+        {
+          "id": "OFER9718-Menor",
+          "variedad_id": "OFER9718-Menor",
+          "variety_id": "OFER9718-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 15000,
+          "precio_unitario": 15000,
+          "precio_final": 15000,
+          "final_price": 15000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "OFER9718-Menor",
+          "variedad_id": "OFER9718-Menor",
+          "variety_id": "OFER9718-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 15000,
+          "precio_unitario": 15000,
+          "precio_final": 15000,
+          "final_price": 15000,
+          "cantidad_minima": 1,
           "visible": true
         }
       ],
@@ -27347,6 +27441,22 @@
         "precio_final": 18000,
         "final_price": 18000,
         "cantidad_minima": 2,
+        "visible": true
+      }
+    ],
+    "OFER9718": [
+      {
+        "id": "OFER9718-Menor",
+        "variedad_id": "OFER9718-Menor",
+        "variety_id": "OFER9718-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 15000,
+        "precio_unitario": 15000,
+        "precio_final": 15000,
+        "final_price": 15000,
+        "cantidad_minima": 1,
         "visible": true
       }
     ]
