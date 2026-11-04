@@ -11605,6 +11605,128 @@
             {
               "codigo": 265,
               "categoria": "Short",
+              "nombre": "SHOR3514",
+              "carpeta_id": "10TdkX02harmKQzDBTyPifexRzuVNZxDd",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Mini Celeste con ruedo"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jeans Rigido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "300",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "04-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SHOR3514%0A%F0%9F%94%B9%20Modelo%3A%20Mini%20Celeste%20con%20ruedo%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1OonVMlXyygvwPU1gSDEGXYmWlgh-D4bf&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1OonVMlXyygvwPU1gSDEGXYmWlgh-D4bf&sz=s600-rw",
+                  "archivo_id": "1OonVMlXyygvwPU1gSDEGXYmWlgh-D4bf",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-04T19:46:01.370Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 13000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 15000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-04T03:00:00.000Z"
+            },
+            {
+              "codigo": 268,
+              "categoria": "Short",
               "nombre": "SHOR3989",
               "carpeta_id": "1Iy5hRJ5RUHvtq5MAvJ1hgRDZxp_w1B5S",
               "descripcion": {
@@ -11719,7 +11841,129 @@
               "upd": "2026-09-09T03:00:00.000Z"
             },
             {
-              "codigo": 268,
+              "codigo": 271,
+              "categoria": "Short",
+              "nombre": "SHOR4055",
+              "carpeta_id": "11kFYDKuAgZMvsGalFzS52FSCIyAORgph",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Clasico azul Nevado"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jeans Rigido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "300",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "04-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SHOR4055%0A%F0%9F%94%B9%20Modelo%3A%20Clasico%20azul%20Nevado%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=1XAYkGW6MqypR_koZOvjuL_4VeV-m-e4x&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1XAYkGW6MqypR_koZOvjuL_4VeV-m-e4x&sz=s600-rw",
+                  "archivo_id": "1XAYkGW6MqypR_koZOvjuL_4VeV-m-e4x",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "Sistema Web",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-04T19:45:56.606Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 13000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "300"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 15000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 20000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-04T03:00:00.000Z"
+            },
+            {
+              "codigo": 274,
               "categoria": "Short",
               "nombre": "SHOR4263",
               "carpeta_id": "1W5Cu12gL4tRcK4xHlHyCbLa8gLQuKzbO",
@@ -11841,7 +12085,7 @@
               "upd": "2026-09-30T03:00:00.000Z"
             },
             {
-              "codigo": 271,
+              "codigo": 277,
               "categoria": "Short",
               "nombre": "SHOR4641",
               "carpeta_id": "1jFfm87qmDTefYCwq_sFCb0VImbow4iOj",
@@ -11962,7 +12206,7 @@
               "upd": "2026-09-09T03:00:00.000Z"
             },
             {
-              "codigo": 274,
+              "codigo": 280,
               "categoria": "Short",
               "nombre": "SHOR4724",
               "carpeta_id": "1sOksnU9thCpGEru5zdykkvMSYv96REKq",
@@ -12089,7 +12333,7 @@
               "upd": "2026-09-09T03:00:00.000Z"
             },
             {
-              "codigo": 277,
+              "codigo": 283,
               "categoria": "Short",
               "nombre": "SHOR4839",
               "carpeta_id": "1mh8w_rHDfcZ7j7C_jrB59fFbVMpN2o2v",
@@ -12298,7 +12542,7 @@
               "upd": "2026-08-26T03:00:00.000Z"
             },
             {
-              "codigo": 280,
+              "codigo": 286,
               "categoria": "Short",
               "nombre": "SHOR5261",
               "carpeta_id": "1LAiKBTwUCmkQwZjiTpgWR4R6y2cFRuus",
@@ -12421,7 +12665,7 @@
               "upd": "2026-09-12T03:00:00.000Z"
             },
             {
-              "codigo": 283,
+              "codigo": 289,
               "categoria": "Short",
               "nombre": "SHOR5537",
               "carpeta_id": "1Ij9Kgs34qSs9Olo1El4CW-0J-U4XDaox",
@@ -12586,7 +12830,7 @@
               "upd": "2026-08-22T03:00:00.000Z"
             },
             {
-              "codigo": 286,
+              "codigo": 292,
               "categoria": "Short",
               "nombre": "SHOR5755",
               "carpeta_id": "1t2BdHn48JcxNqinnb7rmDssLmVYeXksE",
@@ -12708,7 +12952,7 @@
               "upd": "2026-10-31T03:00:00.000Z"
             },
             {
-              "codigo": 289,
+              "codigo": 295,
               "categoria": "Short",
               "nombre": "SHOR5810",
               "carpeta_id": "1SUxzA7lDB632clGFFcSzmpcLBDngZxhU",
@@ -12824,7 +13068,7 @@
               "upd": "2026-08-29T03:00:00.000Z"
             },
             {
-              "codigo": 292,
+              "codigo": 298,
               "categoria": "Short",
               "nombre": "SHOR5970",
               "carpeta_id": "1mAO8eo92QZO7dl3ryPTQ3zYvwbe5WEri",
@@ -12946,7 +13190,7 @@
               "upd": "2026-10-14T03:00:00.000Z"
             },
             {
-              "codigo": 295,
+              "codigo": 301,
               "categoria": "Short",
               "nombre": "SHOR6163",
               "carpeta_id": "1eRWkHjtDXL2Le-3MGmr7rRwL8BsSbJB3",
@@ -13068,7 +13312,7 @@
               "upd": "2026-11-03T03:00:00.000Z"
             },
             {
-              "codigo": 298,
+              "codigo": 304,
               "categoria": "Short",
               "nombre": "SHOR6335",
               "carpeta_id": "1ZXzx3qGAn5n-qm29OhdTWw4z4O1W_K1w",
@@ -13190,7 +13434,7 @@
               "upd": "2026-10-22T03:00:00.000Z"
             },
             {
-              "codigo": 301,
+              "codigo": 307,
               "categoria": "Short",
               "nombre": "SHOR6388",
               "carpeta_id": "1zwN58oaHBzZW_3eYg9FybT0oOON9mB_1",
@@ -13312,7 +13556,7 @@
               "upd": "2026-09-12T03:00:00.000Z"
             },
             {
-              "codigo": 304,
+              "codigo": 310,
               "categoria": "Short",
               "nombre": "SHOR6699",
               "carpeta_id": "11evsSZLQ_m4JChG-5xbemXiMH8uI2khV",
@@ -13433,7 +13677,7 @@
               "upd": "2026-08-22T03:00:00.000Z"
             },
             {
-              "codigo": 307,
+              "codigo": 313,
               "categoria": "Short",
               "nombre": "SHOR6935",
               "carpeta_id": "1FPveO_aF9q4s18vU5nGb6qOzw4P3WrzV",
@@ -13556,7 +13800,7 @@
               "upd": "2026-09-24T03:00:00.000Z"
             },
             {
-              "codigo": 310,
+              "codigo": 316,
               "categoria": "Short",
               "nombre": "SHOR7133",
               "carpeta_id": "1sjiC8DkbmC77U3Xlk18aa2967DDUbpx2",
@@ -13678,7 +13922,7 @@
               "upd": "2026-09-23T03:00:00.000Z"
             },
             {
-              "codigo": 313,
+              "codigo": 319,
               "categoria": "Short",
               "nombre": "SHOR7836",
               "carpeta_id": "1KyVQiRY4rYvTynsVLYm-zysr8r_EZhee",
@@ -13800,7 +14044,118 @@
               "upd": "2026-09-23T03:00:00.000Z"
             },
             {
-              "codigo": 316,
+              "codigo": 322,
+              "categoria": "Short",
+              "nombre": "SHOR7949",
+              "carpeta_id": "1Ue382GY34JuH5IuYVBXeriruV6gTgivq",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "mini Deflecado Negro"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "Jeans Rigido"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "0",
+                  "estado": "Baja"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "04-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20SHOR7949%0A%F0%9F%94%B9%20Modelo%3A%20mini%20Deflecado%20Negro%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://drive.google.com/thumbnail?id=18nMGS4Pr9lUzdEm5GaSzh5GpW0d7290q&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=18nMGS4Pr9lUzdEm5GaSzh5GpW0d7290q&sz=s600-rw",
+                  "archivo_id": "18nMGS4Pr9lUzdEm5GaSzh5GpW0d7290q",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-04T19:44:34.746Z"
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 14000,
+                  "variedad": "Curva",
+                  "minima": 5,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 16000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 21000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-04T03:00:00.000Z"
+            },
+            {
+              "codigo": 325,
               "categoria": "Short",
               "nombre": "SHOR8131",
               "carpeta_id": "",
@@ -13922,7 +14277,7 @@
               "upd": "2026-10-31T03:00:00.000Z"
             },
             {
-              "codigo": 319,
+              "codigo": 328,
               "categoria": "Short",
               "nombre": "SHOR8812",
               "carpeta_id": "1yMGMvhMKmlU5Sxu5KYJIpoThJnyx7l49",
@@ -14043,7 +14398,7 @@
               "upd": "2026-09-23T03:00:00.000Z"
             },
             {
-              "codigo": 322,
+              "codigo": 331,
               "categoria": "Short",
               "nombre": "SHOR9581",
               "carpeta_id": "1YnJdk15HFZ4F-16ZroaDSSNR3fth9ITY",
@@ -14165,7 +14520,7 @@
               "upd": "2026-10-22T03:00:00.000Z"
             },
             {
-              "codigo": 325,
+              "codigo": 334,
               "categoria": "Short",
               "nombre": "SHOR9772",
               "carpeta_id": "1lLnayON_s7vFBU1dgIs6XF9kJWYiA8Cm",
@@ -14316,7 +14671,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
           "producto": [
             {
-              "codigo": 328,
+              "codigo": 337,
               "categoria": "Top",
               "nombre": "TOP1511",
               "carpeta_id": "1q-G7tlPmjeyGx2-kTPUsz6Nc704jpTjN",
@@ -14408,7 +14763,7 @@
               "upd": "2026-09-02T03:00:00.000Z"
             },
             {
-              "codigo": 329,
+              "codigo": 338,
               "categoria": "Top",
               "nombre": "TOP2717",
               "carpeta_id": "1dzG4ghDzQJk7vmLF3tMxSCnjU910P0h_",
@@ -14522,7 +14877,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 330,
+              "codigo": 339,
               "categoria": "Top",
               "nombre": "TOP3570",
               "carpeta_id": "1hCYqb28UeVMPJL-ZyiVFEzqxKBG4KhL2",
@@ -14614,7 +14969,7 @@
               "upd": "2026-10-16T03:00:00.000Z"
             },
             {
-              "codigo": 331,
+              "codigo": 340,
               "categoria": "Top",
               "nombre": "TOP5629",
               "carpeta_id": "1Qx7I0cMaJdF_GJU-cAsgvXizbIHOAqG-",
@@ -14717,7 +15072,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 332,
+              "codigo": 341,
               "categoria": "Top",
               "nombre": "TOP5771",
               "carpeta_id": "1ugt7PkIJzwZbIz4uuWf5sKAYvt1NltX7",
@@ -14803,7 +15158,7 @@
               "upd": "2026-08-22T03:00:00.000Z"
             },
             {
-              "codigo": 333,
+              "codigo": 342,
               "categoria": "Top",
               "nombre": "TOP9987",
               "carpeta_id": "12Svx-ISugc9waK9sU1CQfDtvSsZeIMvX",
@@ -14902,7 +15257,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg",
           "producto": [
             {
-              "codigo": 334,
+              "codigo": 343,
               "categoria": "Wide Leg",
               "nombre": "PANT2578",
               "carpeta_id": "1HW637kRbmZ_obWOHq19nTwdQdCrD5Lqt",
@@ -15024,7 +15379,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 337,
+              "codigo": 346,
               "categoria": "Wide Leg",
               "nombre": "PANT2658",
               "carpeta_id": "12FUGn9lLyq_9rx-yv3-1jqv3wDNbP6rQ",
@@ -15144,7 +15499,7 @@
               "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 340,
+              "codigo": 349,
               "categoria": "Wide Leg",
               "nombre": "PANT3236",
               "carpeta_id": "1EPGiSXiVjaQ60izAYfqbSyZAE2EjUODt",
@@ -15266,7 +15621,7 @@
               "upd": "2026-08-10T03:00:00.000Z"
             },
             {
-              "codigo": 343,
+              "codigo": 352,
               "categoria": "Wide Leg",
               "nombre": "PANT3257",
               "carpeta_id": "1-vKMsZaMWosM-UiWbKaAhYYIjBiM0i1A",
@@ -15388,7 +15743,7 @@
               "upd": "2026-08-29T03:00:00.000Z"
             },
             {
-              "codigo": 346,
+              "codigo": 355,
               "categoria": "Wide Leg",
               "nombre": "PANT4385",
               "carpeta_id": "1FXK1vE2vW1fublu4nXHaJwJGvv2W0Q6X",
@@ -15504,7 +15859,7 @@
               "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 349,
+              "codigo": 358,
               "categoria": "Wide Leg",
               "nombre": "PANT4545",
               "carpeta_id": "10RbbMzwW7_1zC7d013MX-xRir0gjtbW4",
@@ -15626,7 +15981,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 352,
+              "codigo": 361,
               "categoria": "Wide Leg",
               "nombre": "PANT4655",
               "carpeta_id": "1YrISWNg_pnysgLSNziTi5jaUndZbVC1s",
@@ -15791,7 +16146,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 355,
+              "codigo": 364,
               "categoria": "Wide Leg",
               "nombre": "PANT4723",
               "carpeta_id": "1YCK3adMYnF9sa42F5PG3OWrQxCbpdX2T",
@@ -15913,7 +16268,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 358,
+              "codigo": 367,
               "categoria": "Wide Leg",
               "nombre": "PANT5258",
               "carpeta_id": "1E4qLWlbtn1WWLos1gFqguD4JE7QTULaM",
@@ -16036,7 +16391,7 @@
               "upd": "2026-08-04T03:00:00.000Z"
             },
             {
-              "codigo": 361,
+              "codigo": 370,
               "categoria": "Wide Leg",
               "nombre": "PANT5578",
               "carpeta_id": "1rHfN8mPJrdsSJDfciW05zACodBuQSOmU",
@@ -16158,7 +16513,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 364,
+              "codigo": 373,
               "categoria": "Wide Leg",
               "nombre": "PANT5614",
               "carpeta_id": "1Z-s3D4KRHzialtuNWORVAkC7lbw3Op3I",
@@ -16280,7 +16635,7 @@
               "upd": "2026-08-07T03:00:00.000Z"
             },
             {
-              "codigo": 367,
+              "codigo": 376,
               "categoria": "Wide Leg",
               "nombre": "PANT6359",
               "carpeta_id": "1-FdCZRZR7Y36lfjpUOELjC4cdC1uKfBB",
@@ -16403,7 +16758,7 @@
               "upd": "2026-09-09T03:00:00.000Z"
             },
             {
-              "codigo": 370,
+              "codigo": 379,
               "categoria": "Wide Leg",
               "nombre": "PANT6509",
               "carpeta_id": "1dpRN8eRlgxDAQ-S2hnjJmDAmVZmyPe63",
@@ -16525,7 +16880,7 @@
               "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 373,
+              "codigo": 382,
               "categoria": "Wide Leg",
               "nombre": "PANT7432",
               "carpeta_id": "16jLb-v4SFvIZTHYv67EBzoAjf01-R-ws",
@@ -16648,7 +17003,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 376,
+              "codigo": 385,
               "categoria": "Wide Leg",
               "nombre": "PANT7862",
               "carpeta_id": "1c1B168PjaSk9Tq3vUe247w16eTtKBiYU",
@@ -16770,7 +17125,7 @@
               "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 379,
+              "codigo": 388,
               "categoria": "Wide Leg",
               "nombre": "PANT8389",
               "carpeta_id": "1kI7x0VKM0RwEOQb4vb7pq-Tu74wBosHf",
@@ -16891,7 +17246,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 382,
+              "codigo": 391,
               "categoria": "Wide Leg",
               "nombre": "PANT8904",
               "carpeta_id": "18hp_wYAWzzLzDVHpsbv5CSaSjlPcgmv5",
@@ -17013,7 +17368,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 385,
+              "codigo": 394,
               "categoria": "Wide Leg",
               "nombre": "PANT9228",
               "carpeta_id": "1oXI-FqpZm7vGcT9n7YO2vQkPnA18jihY",
@@ -17135,7 +17490,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 388,
+              "codigo": 397,
               "categoria": "Wide Leg",
               "nombre": "PANT9681",
               "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
@@ -17283,7 +17638,7 @@
               "upd": "2026-06-17T03:00:00.000Z"
             },
             {
-              "codigo": 391,
+              "codigo": 400,
               "categoria": "Wide Leg",
               "nombre": "WIDE1726",
               "carpeta_id": "1aA3Wyy2JlOF0xkHwiUl8Ynrpa45Tz83V",
@@ -17405,7 +17760,7 @@
               "upd": "2026-09-26T03:00:00.000Z"
             },
             {
-              "codigo": 394,
+              "codigo": 403,
               "categoria": "Wide Leg",
               "nombre": "WIDE4284",
               "carpeta_id": "1CW1gnw7KHG1DVaDnX0X3cq1mnLCUUTa0",
@@ -17527,7 +17882,7 @@
               "upd": "2026-10-24T03:00:00.000Z"
             },
             {
-              "codigo": 397,
+              "codigo": 406,
               "categoria": "Wide Leg",
               "nombre": "WIDE5209",
               "carpeta_id": "1_fKK_zIEfAdTndd4isYOnyyfUzIRpXQG",
@@ -17650,7 +18005,7 @@
               "upd": "2026-09-25T03:00:00.000Z"
             },
             {
-              "codigo": 400,
+              "codigo": 409,
               "categoria": "Wide Leg",
               "nombre": "WIDE8605",
               "carpeta_id": "1DjEhNzsDjyN6p_m6zzED6hPjwivaY8sy",
@@ -17803,5 +18158,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1793821197256
+  "timestamp_ms": 1793822070443
 }
