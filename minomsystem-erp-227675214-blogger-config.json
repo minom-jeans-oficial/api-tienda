@@ -10482,7 +10482,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "03-11-2026"
+                  "valor": "04-11-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -10493,9 +10493,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1fmLHsJPbK-dYtO1iQ_0eGn1ABktWSx2e&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1fmLHsJPbK-dYtO1iQ_0eGn1ABktWSx2e&sz=s600-rw",
+                  "archivo_id": "1fmLHsJPbK-dYtO1iQ_0eGn1ABktWSx2e",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-04T11:40:03.989Z"
                 }
               ],
               "variedad": [
@@ -17711,5 +17717,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1793787887161
+  "timestamp_ms": 1793793310386
 }
