@@ -1637,7 +1637,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "42",
+                  "valor": "41",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -1687,7 +1687,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "42"
+                          "stock": "41"
                         }
                       ]
                     }
@@ -11566,7 +11566,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 15000,
+                  "precio": 13000,
                   "variedad": "Curva",
                   "minima": 7,
                   "sub_variedad": {
@@ -11583,14 +11583,14 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 17000,
+                  "precio": 15000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 22000,
+                  "precio": 20000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -11925,7 +11925,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 15000,
+                  "precio": 13000,
                   "variedad": "Curva",
                   "minima": 5,
                   "sub_variedad": {
@@ -11942,14 +11942,14 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 17000,
+                  "precio": 15000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 22000,
+                  "precio": 20000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -12655,7 +12655,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 15000,
+                  "precio": 13000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -12672,14 +12672,14 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 17000,
+                  "precio": 15000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 22000,
+                  "precio": 20000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -13078,7 +13078,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "136",
+                  "valor": "135",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -13161,7 +13161,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "136"
+                          "stock": "135"
                         }
                       ]
                     }
@@ -14974,7 +14974,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 15000,
+                  "precio": 13000,
                   "variedad": "Curva",
                   "minima": 6,
                   "sub_variedad": {
@@ -14991,14 +14991,14 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 17000,
+                  "precio": 15000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 22000,
+                  "precio": 20000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
@@ -15539,7 +15539,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-1",
+                  "valor": "-2",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -19011,5 +19011,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1794419711621
+  "timestamp_ms": 1794420576483
 }
