@@ -10809,7 +10809,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "284",
+                  "valor": "282",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -10848,7 +10848,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "284"
+                          "stock": "282"
                         }
                       ]
                     }
@@ -11418,7 +11418,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "22-10-2026"
+                  "valor": "11-11-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -11443,7 +11443,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 15000,
+                  "precio": 17000,
                   "variedad": "Curva",
                   "minima": 6,
                   "sub_variedad": {
@@ -11460,20 +11460,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 17000,
+                  "precio": 19000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 22000,
+                  "precio": 24000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-10-22T03:00:00.000Z"
+              "upd": "2026-11-11T03:00:00.000Z"
             },
             {
               "codigo": 262,
@@ -11779,7 +11779,7 @@
                 },
                 "ultima_actualizacion": {
                   "label": "UPD",
-                  "valor": "22-10-2026"
+                  "valor": "11-11-2026"
                 },
                 "whatsapp": {
                   "label": "Más Info",
@@ -11804,7 +11804,7 @@
               "variedad": [
                 {
                   "moneda": "$",
-                  "precio": 14000,
+                  "precio": 16000,
                   "variedad": "Curva",
                   "minima": 0,
                   "sub_variedad": {
@@ -11821,20 +11821,20 @@
                 },
                 {
                   "moneda": "$",
-                  "precio": 16000,
+                  "precio": 18000,
                   "variedad": "Mayor",
                   "minima": 1,
                   "sub_variedad": {}
                 },
                 {
                   "moneda": "$",
-                  "precio": 21000,
+                  "precio": 23000,
                   "variedad": "Menor",
                   "minima": 1,
                   "sub_variedad": {}
                 }
               ],
-              "upd": "2026-10-22T03:00:00.000Z"
+              "upd": "2026-11-11T03:00:00.000Z"
             },
             {
               "codigo": 271,
@@ -19001,5 +19001,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1794405303491
+  "timestamp_ms": 1794406225439
 }
