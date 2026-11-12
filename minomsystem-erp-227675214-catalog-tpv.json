@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T16:37:54.456Z",
-  "timestamp_ms": 1794501576681,
+  "generated_at": "2026-11-12T16:52:55.060Z",
+  "timestamp_ms": 1794502462379,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -8481,156 +8481,6 @@
       "fecha_creacion": ""
     },
     {
-      "id": "PANT4723",
-      "sku": "Pant017",
-      "SKU": "Pant017",
-      "secondarySku": "Pant017",
-      "model": "Celeste con Rotura",
-      "name": "Celeste con Rotura",
-      "nombre": "Celeste con Rotura",
-      "price": 24000,
-      "minor_surcharge": 0,
-      "category": "Wide Leg",
-      "category_id": "Wide Leg",
-      "categoryName": "Wide Leg",
-      "parentCategory": "INDUMENTARIA",
-      "brand": "MINOM OFICIAL",
-      "gender": "Mujer",
-      "season": "SIN-TEMPORADA",
-      "style": "Tiro Bajo",
-      "material": "Jeans Rigido",
-      "ageGroup": "Adulto",
-      "grupo_edad": "Adulto",
-      "GRUPO_EDAD": "Adulto",
-      "sizes": "Surtido,34,36,38,40,42,44",
-      "talles": "Surtido,34,36,38,40,42,44",
-      "TALLES": "Surtido,34,36,38,40,42,44",
-      "colors": "Surtido",
-      "colores": "Surtido",
-      "COLORES": "Surtido",
-      "image": "https://drive.google.com/thumbnail?id=1E7kojJqPcx3sC2rJfbYPFhbtLf-rd6FX&sz=s600-rw",
-      "imagen": "https://drive.google.com/thumbnail?id=1E7kojJqPcx3sC2rJfbYPFhbtLf-rd6FX&sz=s600-rw",
-      "variations": [
-        {
-          "variation_id": "PANT4723-Surtido-Surtido-MINOM OFICIAL",
-          "INVENTARIO_ID": "PANT4723-Surtido-Surtido-MINOM OFICIAL",
-          "store_id": "MINOM OFICIAL",
-          "TIENDA_ID": "MINOM OFICIAL",
-          "color": "Surtido",
-          "COLOR": "Surtido",
-          "size": "Surtido",
-          "size_name": "Surtido",
-          "TALLE": "Surtido",
-          "stock": 285,
-          "STOCK_ACTUAL": 285
-        },
-        {
-          "variation_id": "PANT4723-Surtido-Surtido-MINOM ARGERICH",
-          "INVENTARIO_ID": "PANT4723-Surtido-Surtido-MINOM ARGERICH",
-          "store_id": "MINOM ARGERICH",
-          "TIENDA_ID": "MINOM ARGERICH",
-          "color": "Surtido",
-          "COLOR": "Surtido",
-          "size": "Surtido",
-          "size_name": "Surtido",
-          "TALLE": "Surtido",
-          "stock": 300,
-          "STOCK_ACTUAL": 300
-        }
-      ],
-      "prices": [
-        {
-          "id": "PANT4723-Mayor",
-          "variedad_id": "PANT4723-Mayor",
-          "variety_id": "PANT4723-Mayor",
-          "nombre": "Mayor",
-          "variedad": "Mayor",
-          "variety_name": "Mayor",
-          "precio": 24000,
-          "precio_unitario": 24000,
-          "precio_final": 24000,
-          "final_price": 24000,
-          "cantidad_minima": 1,
-          "visible": true
-        },
-        {
-          "id": "PANT4723-Menor",
-          "variedad_id": "PANT4723-Menor",
-          "variety_id": "PANT4723-Menor",
-          "nombre": "Menor",
-          "variedad": "Menor",
-          "variety_name": "Menor",
-          "precio": 29000,
-          "precio_unitario": 29000,
-          "precio_final": 29000,
-          "final_price": 29000,
-          "cantidad_minima": 1,
-          "visible": true
-        },
-        {
-          "id": "PANT4723-Curva",
-          "variedad_id": "PANT4723-Curva",
-          "variety_id": "PANT4723-Curva",
-          "nombre": "Curva",
-          "variedad": "Curva",
-          "variety_name": "Curva",
-          "precio": 22000,
-          "precio_unitario": 22000,
-          "precio_final": 22000,
-          "final_price": 22000,
-          "cantidad_minima": 6,
-          "visible": true
-        }
-      ],
-      "varieties": [
-        {
-          "id": "PANT4723-Mayor",
-          "variedad_id": "PANT4723-Mayor",
-          "variety_id": "PANT4723-Mayor",
-          "nombre": "Mayor",
-          "variedad": "Mayor",
-          "variety_name": "Mayor",
-          "precio": 24000,
-          "precio_unitario": 24000,
-          "precio_final": 24000,
-          "final_price": 24000,
-          "cantidad_minima": 1,
-          "visible": true
-        },
-        {
-          "id": "PANT4723-Menor",
-          "variedad_id": "PANT4723-Menor",
-          "variety_id": "PANT4723-Menor",
-          "nombre": "Menor",
-          "variedad": "Menor",
-          "variety_name": "Menor",
-          "precio": 29000,
-          "precio_unitario": 29000,
-          "precio_final": 29000,
-          "final_price": 29000,
-          "cantidad_minima": 1,
-          "visible": true
-        },
-        {
-          "id": "PANT4723-Curva",
-          "variedad_id": "PANT4723-Curva",
-          "variety_id": "PANT4723-Curva",
-          "nombre": "Curva",
-          "variedad": "Curva",
-          "variety_name": "Curva",
-          "precio": 22000,
-          "precio_unitario": 22000,
-          "precio_final": 22000,
-          "final_price": 22000,
-          "cantidad_minima": 6,
-          "visible": true
-        }
-      ],
-      "lastUpdate": "2026-07-28T03:00:00.000Z",
-      "ULTIMA_ACTUALIZACION": "2026-07-28T03:00:00.000Z",
-      "fecha_creacion": ""
-    },
-    {
       "id": "PANT4779",
       "sku": "25920431124287200.00",
       "SKU": "25920431124287200.00",
@@ -14371,8 +14221,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 284,
-          "STOCK_ACTUAL": 284
+          "stock": 283,
+          "STOCK_ACTUAL": 283
         },
         {
           "variation_id": "SHOR1274-Surtido-Surtido-MINOM ARGERICH",
@@ -14521,8 +14371,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 96,
-          "STOCK_ACTUAL": 96
+          "stock": 95,
+          "STOCK_ACTUAL": 95
         },
         {
           "variation_id": "SHOR1716-Surtido-Surtido-MINOM ARGERICH",
@@ -20457,8 +20307,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 333,
-          "STOCK_ACTUAL": 333
+          "stock": 332,
+          "STOCK_ACTUAL": 332
         },
         {
           "variation_id": "BERM6076-Surtido-Surtido-MINOM ARGERICH",
@@ -22501,8 +22351,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 296,
-          "STOCK_ACTUAL": 296
+          "stock": 295,
+          "STOCK_ACTUAL": 295
         },
         {
           "variation_id": "WIDE2097-Surtido-Surtido-MINOM ARGERICH",
@@ -22801,8 +22651,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 347,
-          "STOCK_ACTUAL": 347
+          "stock": 346,
+          "STOCK_ACTUAL": 346
         },
         {
           "variation_id": "WIDE8608-Surtido-Surtido-MINOM ARGERICH",
@@ -24824,50 +24674,6 @@
         "precio_unitario": 18000,
         "precio_final": 18000,
         "final_price": 18000,
-        "cantidad_minima": 6,
-        "visible": true
-      }
-    ],
-    "PANT4723": [
-      {
-        "id": "PANT4723-Mayor",
-        "variedad_id": "PANT4723-Mayor",
-        "variety_id": "PANT4723-Mayor",
-        "nombre": "Mayor",
-        "variedad": "Mayor",
-        "variety_name": "Mayor",
-        "precio": 24000,
-        "precio_unitario": 24000,
-        "precio_final": 24000,
-        "final_price": 24000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT4723-Menor",
-        "variedad_id": "PANT4723-Menor",
-        "variety_id": "PANT4723-Menor",
-        "nombre": "Menor",
-        "variedad": "Menor",
-        "variety_name": "Menor",
-        "precio": 29000,
-        "precio_unitario": 29000,
-        "precio_final": 29000,
-        "final_price": 29000,
-        "cantidad_minima": 1,
-        "visible": true
-      },
-      {
-        "id": "PANT4723-Curva",
-        "variedad_id": "PANT4723-Curva",
-        "variety_id": "PANT4723-Curva",
-        "nombre": "Curva",
-        "variedad": "Curva",
-        "variety_name": "Curva",
-        "precio": 22000,
-        "precio_unitario": 22000,
-        "precio_final": 22000,
-        "final_price": 22000,
         "cantidad_minima": 6,
         "visible": true
       }
