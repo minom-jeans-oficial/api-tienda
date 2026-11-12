@@ -2911,7 +2911,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "333",
+                  "valor": "332",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -2950,7 +2950,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "333"
+                          "stock": "332"
                         }
                       ]
                     }
@@ -11170,7 +11170,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "284",
+                  "valor": "283",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -11209,7 +11209,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "284"
+                          "stock": "283"
                         }
                       ]
                     }
@@ -11291,7 +11291,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "96",
+                  "valor": "95",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -11330,7 +11330,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "96"
+                          "stock": "95"
                         }
                       ]
                     }
@@ -16757,128 +16757,6 @@
             {
               "codigo": 379,
               "categoria": "Wide Leg",
-              "nombre": "PANT4723",
-              "carpeta_id": "1YCK3adMYnF9sa42F5PG3OWrQxCbpdX2T",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Celeste con Rotura"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM OFICIAL"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Adulto",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Tiro Bajo"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Jeans Rigido"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "34",
-                    "36",
-                    "38",
-                    "40",
-                    "42",
-                    "44"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "285",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "28-07-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20PANT4723%0A%F0%9F%94%B9%20Modelo%3A%20Celeste%20con%20Rotura%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Adulto%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1E7kojJqPcx3sC2rJfbYPFhbtLf-rd6FX&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1E7kojJqPcx3sC2rJfbYPFhbtLf-rd6FX&sz=s600-rw",
-                  "archivo_id": "1E7kojJqPcx3sC2rJfbYPFhbtLf-rd6FX",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "PORTADA",
-                  "orden": 1,
-                  "fecha_carga": "2026-07-22T19:45:45.941Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 22000,
-                  "variedad": "Curva",
-                  "minima": 6,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "285"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 24000,
-                  "variedad": "Mayor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 29000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-07-28T03:00:00.000Z"
-            },
-            {
-              "codigo": 382,
-              "categoria": "Wide Leg",
               "nombre": "PANT5258",
               "carpeta_id": "1E4qLWlbtn1WWLos1gFqguD4JE7QTULaM",
               "descripcion": {
@@ -17000,7 +16878,7 @@
               "upd": "2026-08-04T03:00:00.000Z"
             },
             {
-              "codigo": 385,
+              "codigo": 382,
               "categoria": "Wide Leg",
               "nombre": "PANT5578",
               "carpeta_id": "1rHfN8mPJrdsSJDfciW05zACodBuQSOmU",
@@ -17122,7 +17000,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 388,
+              "codigo": 385,
               "categoria": "Wide Leg",
               "nombre": "PANT5614",
               "carpeta_id": "1Z-s3D4KRHzialtuNWORVAkC7lbw3Op3I",
@@ -17244,7 +17122,7 @@
               "upd": "2026-08-07T03:00:00.000Z"
             },
             {
-              "codigo": 391,
+              "codigo": 388,
               "categoria": "Wide Leg",
               "nombre": "PANT6359",
               "carpeta_id": "1-FdCZRZR7Y36lfjpUOELjC4cdC1uKfBB",
@@ -17367,7 +17245,7 @@
               "upd": "2026-09-09T03:00:00.000Z"
             },
             {
-              "codigo": 394,
+              "codigo": 391,
               "categoria": "Wide Leg",
               "nombre": "PANT6509",
               "carpeta_id": "1dpRN8eRlgxDAQ-S2hnjJmDAmVZmyPe63",
@@ -17489,7 +17367,7 @@
               "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 397,
+              "codigo": 394,
               "categoria": "Wide Leg",
               "nombre": "PANT7432",
               "carpeta_id": "16jLb-v4SFvIZTHYv67EBzoAjf01-R-ws",
@@ -17612,7 +17490,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 400,
+              "codigo": 397,
               "categoria": "Wide Leg",
               "nombre": "PANT7862",
               "carpeta_id": "1c1B168PjaSk9Tq3vUe247w16eTtKBiYU",
@@ -17734,7 +17612,7 @@
               "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 403,
+              "codigo": 400,
               "categoria": "Wide Leg",
               "nombre": "PANT8389",
               "carpeta_id": "1kI7x0VKM0RwEOQb4vb7pq-Tu74wBosHf",
@@ -17855,7 +17733,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 406,
+              "codigo": 403,
               "categoria": "Wide Leg",
               "nombre": "PANT8904",
               "carpeta_id": "18hp_wYAWzzLzDVHpsbv5CSaSjlPcgmv5",
@@ -17977,7 +17855,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 409,
+              "codigo": 406,
               "categoria": "Wide Leg",
               "nombre": "PANT9228",
               "carpeta_id": "1oXI-FqpZm7vGcT9n7YO2vQkPnA18jihY",
@@ -18099,7 +17977,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 412,
+              "codigo": 409,
               "categoria": "Wide Leg",
               "nombre": "PANT9681",
               "carpeta_id": "13r6aF5RnrzNVDu3X0yUyWAHLyY08sUuB",
@@ -18247,7 +18125,7 @@
               "upd": "2026-06-17T03:00:00.000Z"
             },
             {
-              "codigo": 415,
+              "codigo": 412,
               "categoria": "Wide Leg",
               "nombre": "WIDE1726",
               "carpeta_id": "1aA3Wyy2JlOF0xkHwiUl8Ynrpa45Tz83V",
@@ -18369,7 +18247,7 @@
               "upd": "2026-09-26T03:00:00.000Z"
             },
             {
-              "codigo": 418,
+              "codigo": 415,
               "categoria": "Wide Leg",
               "nombre": "WIDE2097",
               "carpeta_id": "1SXDXsGiPsBNU62BwhvuRGjlIZewF2KWU",
@@ -18428,7 +18306,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "296",
+                  "valor": "295",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -18467,7 +18345,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "296"
+                          "stock": "295"
                         }
                       ]
                     }
@@ -18491,7 +18369,7 @@
               "upd": "2026-11-06T03:00:00.000Z"
             },
             {
-              "codigo": 421,
+              "codigo": 418,
               "categoria": "Wide Leg",
               "nombre": "WIDE4284",
               "carpeta_id": "1CW1gnw7KHG1DVaDnX0X3cq1mnLCUUTa0",
@@ -18613,7 +18491,7 @@
               "upd": "2026-10-24T03:00:00.000Z"
             },
             {
-              "codigo": 424,
+              "codigo": 421,
               "categoria": "Wide Leg",
               "nombre": "WIDE5209",
               "carpeta_id": "1_fKK_zIEfAdTndd4isYOnyyfUzIRpXQG",
@@ -18736,7 +18614,7 @@
               "upd": "2026-09-25T03:00:00.000Z"
             },
             {
-              "codigo": 427,
+              "codigo": 424,
               "categoria": "Wide Leg",
               "nombre": "WIDE8605",
               "carpeta_id": "1DjEhNzsDjyN6p_m6zzED6hPjwivaY8sy",
@@ -18857,7 +18735,7 @@
               "upd": "2026-10-23T03:00:00.000Z"
             },
             {
-              "codigo": 430,
+              "codigo": 427,
               "categoria": "Wide Leg",
               "nombre": "WIDE8608",
               "carpeta_id": "",
@@ -18916,7 +18794,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "347",
+                  "valor": "346",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -18955,7 +18833,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "347"
+                          "stock": "346"
                         }
                       ]
                     }
@@ -18979,7 +18857,7 @@
               "upd": "2026-11-11T03:00:00.000Z"
             },
             {
-              "codigo": 433,
+              "codigo": 430,
               "categoria": "Wide Leg",
               "nombre": "WIDE8985",
               "carpeta_id": "15HQ5uMFzcxP8GfcdivLlQoR9biSom0AZ",
@@ -19133,5 +19011,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1794501593682
+  "timestamp_ms": 1794502520421
 }
