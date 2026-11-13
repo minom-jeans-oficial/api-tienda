@@ -3155,7 +3155,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "92",
+                  "valor": "91",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3194,7 +3194,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "92"
+                          "stock": "91"
                         }
                       ]
                     }
@@ -3278,7 +3278,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "209",
+                  "valor": "208",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3317,7 +3317,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "209"
+                          "stock": "208"
                         }
                       ]
                     }
@@ -4645,7 +4645,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "564",
+                  "valor": "563",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -4678,7 +4678,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "564"
+                          "stock": "563"
                         }
                       ]
                     }
@@ -10809,7 +10809,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "280",
+                  "valor": "279",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -10848,7 +10848,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "280"
+                          "stock": "279"
                         }
                       ]
                     }
@@ -12255,7 +12255,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "292",
+                  "valor": "291",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -12294,7 +12294,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "292"
+                          "stock": "291"
                         }
                       ]
                     }
@@ -14701,7 +14701,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "335",
+                  "valor": "334",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -14740,7 +14740,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "335"
+                          "stock": "334"
                         }
                       ]
                     }
@@ -18306,7 +18306,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "295",
+                  "valor": "294",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -18345,7 +18345,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "295"
+                          "stock": "294"
                         }
                       ]
                     }
@@ -19011,5 +19011,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1794571792544
+  "timestamp_ms": 1794574478189
 }
