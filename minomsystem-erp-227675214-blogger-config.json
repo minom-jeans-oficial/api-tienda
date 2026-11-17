@@ -3521,7 +3521,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "356",
+                  "valor": "355",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -3560,7 +3560,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "356"
+                          "stock": "355"
                         }
                       ]
                     }
@@ -4865,7 +4865,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-39",
+                  "valor": "-40",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -11170,7 +11170,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "268",
+                  "valor": "267",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -11209,7 +11209,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "268"
+                          "stock": "267"
                         }
                       ]
                     }
@@ -13670,7 +13670,7 @@
               "codigo": 313,
               "categoria": "Short",
               "nombre": "SHOR6239",
-              "carpeta_id": "",
+              "carpeta_id": "1vKuim325z4SCW05nwaqdwUybXfMKTbIh",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -13742,9 +13742,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1P6pTXWwHfRbWA_EMLe6B5iJNLKOcSkOO&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1P6pTXWwHfRbWA_EMLe6B5iJNLKOcSkOO&sz=s600-rw",
+                  "archivo_id": "1P6pTXWwHfRbWA_EMLe6B5iJNLKOcSkOO",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-17T17:18:05.210Z"
                 }
               ],
               "variedad": [
@@ -14086,7 +14092,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "280",
+                  "valor": "279",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -14125,7 +14131,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "280"
+                          "stock": "279"
                         }
                       ]
                     }
@@ -16041,7 +16047,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "6",
+                  "valor": "5",
                   "estado": "Media"
                 },
                 "ultima_actualizacion": {
@@ -16080,7 +16086,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "6"
+                          "stock": "5"
                         }
                       ]
                     }
@@ -19127,5 +19133,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1794935364261
+  "timestamp_ms": 1794936330158
 }
