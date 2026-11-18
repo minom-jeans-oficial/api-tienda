@@ -264910,6 +264910,82 @@
           "facturaPdfUrl": "",
           "netoGravado": 0,
           "montoIva": 0
+        },
+        {
+          "id": "TPV-1795031533695",
+          "fecha": "2026-11-18 16:52",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 49000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-18bc897b-6ecc-4f86-8e88-bc4af27dc2a8",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-11-18",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1795031533695-7641",
+              "descripcion": "BERM6076-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 27000,
+              "subtotal": 27000,
+              "tipoPrecio": "Mayor",
+              "productoId": "BERM6076",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "BERM6076-Surtido-Surtido-MINOM OFICIAL"
+            },
+            {
+              "id": "TPV-1795031533695-7642",
+              "descripcion": "BERM7459-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 22000,
+              "subtotal": 22000,
+              "tipoPrecio": "Mayor",
+              "productoId": "BERM7459",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "BERM7459-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 49000,
+          "subtotal": 49000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "TICKET_COMUN",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": 6,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
         }
       ]
     }
@@ -266777,5 +266853,5 @@
     "SHOR6239": "https://drive.google.com/thumbnail?id=1P6pTXWwHfRbWA_EMLe6B5iJNLKOcSkOO&sz=s600-rw",
     "CHUP1533": "https://drive.google.com/thumbnail?id=1ovsc2QUEDFo1sNn5g466cXgkJamN4goB&sz=s600-rw"
   },
-  "timestamp_ms": 1795030655090
+  "timestamp_ms": 1795037834486
 }
