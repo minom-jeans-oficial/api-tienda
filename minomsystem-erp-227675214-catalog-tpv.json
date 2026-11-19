@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T14:53:01.662Z",
-  "timestamp_ms": 1795100071413,
+  "generated_at": "2026-11-19T15:07:57.377Z",
+  "timestamp_ms": 1795101000343,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -3076,8 +3076,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 176,
-          "STOCK_ACTUAL": 176
+          "stock": 175,
+          "STOCK_ACTUAL": 175
         },
         {
           "variation_id": "OFER2424-Surtido-Surtido-MINOM ARGERICH",
@@ -13621,8 +13621,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 228,
-          "STOCK_ACTUAL": 228
+          "stock": 227,
+          "STOCK_ACTUAL": 227
         },
         {
           "variation_id": "POLL3404-Surtido-Surtido-MINOM ARGERICH",
@@ -16621,8 +16621,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 131,
-          "STOCK_ACTUAL": 131
+          "stock": 130,
+          "STOCK_ACTUAL": 130
         },
         {
           "variation_id": "SHOR7836-Surtido-Surtido-MINOM ARGERICH",
@@ -20007,8 +20007,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 85,
-          "STOCK_ACTUAL": 85
+          "stock": 84,
+          "STOCK_ACTUAL": 84
         },
         {
           "variation_id": "POLL4323-Surtido-Surtido-MINOM ARGERICH",
@@ -23101,8 +23101,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 345,
-          "STOCK_ACTUAL": 345
+          "stock": 343,
+          "STOCK_ACTUAL": 343
         },
         {
           "variation_id": "POLL8145-Surtido-Surtido-MINOM ARGERICH",
@@ -23576,8 +23576,8 @@
       "colors": "Surtido",
       "colores": "Surtido",
       "COLORES": "Surtido",
-      "image": "",
-      "imagen": "",
+      "image": "https://drive.google.com/thumbnail?id=1uIAMQXvEW57wxykDXAIDAafMq0N7l_Vq&sz=s600-rw",
+      "imagen": "https://drive.google.com/thumbnail?id=1uIAMQXvEW57wxykDXAIDAafMq0N7l_Vq&sz=s600-rw",
       "variations": [
         {
           "variation_id": "OFER6316-Surtido-Surtido-MINOM OFICIAL",
@@ -23635,6 +23635,156 @@
           "precio_final": 15000,
           "final_price": 15000,
           "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-19T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-11-19T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "POLL7447",
+      "sku": "Poll010",
+      "SKU": "Poll010",
+      "secondarySku": "Poll010",
+      "model": "Blanca Rigida",
+      "name": "Blanca Rigida",
+      "nombre": "Blanca Rigida",
+      "price": 18000,
+      "minor_surcharge": 0,
+      "category": "Pollera",
+      "category_id": "Pollera",
+      "categoryName": "Pollera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido,34,36,38,40,44",
+      "talles": "Surtido,34,36,38,40,44",
+      "TALLES": "Surtido,34,36,38,40,44",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1FKj4HXbFRk3nZUXlB0HPEJI09fWiHwjm&sz=s600-rw",
+      "imagen": "https://drive.google.com/thumbnail?id=1FKj4HXbFRk3nZUXlB0HPEJI09fWiHwjm&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "POLL7447-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "POLL7447-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 300,
+          "STOCK_ACTUAL": 300
+        },
+        {
+          "variation_id": "POLL7447-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "POLL7447-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 300,
+          "STOCK_ACTUAL": 300
+        }
+      ],
+      "prices": [
+        {
+          "id": "POLL7447-Mayor",
+          "variedad_id": "POLL7447-Mayor",
+          "variety_id": "POLL7447-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 18000,
+          "precio_unitario": 18000,
+          "precio_final": 18000,
+          "final_price": 18000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "POLL7447-Menor",
+          "variedad_id": "POLL7447-Menor",
+          "variety_id": "POLL7447-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 23000,
+          "precio_unitario": 23000,
+          "precio_final": 23000,
+          "final_price": 23000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "POLL7447-Curva",
+          "variedad_id": "POLL7447-Curva",
+          "variety_id": "POLL7447-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 16000,
+          "precio_unitario": 16000,
+          "precio_final": 16000,
+          "final_price": 16000,
+          "cantidad_minima": 5,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "POLL7447-Mayor",
+          "variedad_id": "POLL7447-Mayor",
+          "variety_id": "POLL7447-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 18000,
+          "precio_unitario": 18000,
+          "precio_final": 18000,
+          "final_price": 18000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "POLL7447-Menor",
+          "variedad_id": "POLL7447-Menor",
+          "variety_id": "POLL7447-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 23000,
+          "precio_unitario": 23000,
+          "precio_final": 23000,
+          "final_price": 23000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "POLL7447-Curva",
+          "variedad_id": "POLL7447-Curva",
+          "variety_id": "POLL7447-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "variety_name": "Curva",
+          "precio": 16000,
+          "precio_unitario": 16000,
+          "precio_final": 16000,
+          "final_price": 16000,
+          "cantidad_minima": 5,
           "visible": true
         }
       ],
@@ -30503,6 +30653,50 @@
         "precio_final": 15000,
         "final_price": 15000,
         "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "POLL7447": [
+      {
+        "id": "POLL7447-Mayor",
+        "variedad_id": "POLL7447-Mayor",
+        "variety_id": "POLL7447-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "variety_name": "Mayor",
+        "precio": 18000,
+        "precio_unitario": 18000,
+        "precio_final": 18000,
+        "final_price": 18000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "POLL7447-Menor",
+        "variedad_id": "POLL7447-Menor",
+        "variety_id": "POLL7447-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 23000,
+        "precio_unitario": 23000,
+        "precio_final": 23000,
+        "final_price": 23000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "POLL7447-Curva",
+        "variedad_id": "POLL7447-Curva",
+        "variety_id": "POLL7447-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "variety_name": "Curva",
+        "precio": 16000,
+        "precio_unitario": 16000,
+        "precio_final": 16000,
+        "final_price": 16000,
+        "cantidad_minima": 5,
         "visible": true
       }
     ]
