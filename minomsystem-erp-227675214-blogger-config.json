@@ -326,6 +326,122 @@
             {
               "codigo": 7,
               "categoria": "Baggy",
+              "nombre": "BAGG4941",
+              "carpeta_id": "",
+              "descripcion": {
+                "modelo": {
+                  "label": "Modelo",
+                  "valor": "Print Negro/Gris"
+                },
+                "marca": {
+                  "label": "Marca",
+                  "valor": "MINOM OFICIAL"
+                },
+                "genero": {
+                  "label": "Género",
+                  "valor": "Mujer",
+                  "icono": "♀️"
+                },
+                "grupo_edad": {
+                  "label": "Edad",
+                  "valor": "Teens",
+                  "icono": "👶"
+                },
+                "estilo": {
+                  "label": "Estilo",
+                  "valor": "Tiro Bajo"
+                },
+                "material": {
+                  "label": "Material",
+                  "valor": "-"
+                },
+                "temporada": {
+                  "label": "Temporada",
+                  "valor": "SIN-TEMPORADA",
+                  "icono": "🚫"
+                },
+                "talles": {
+                  "label": "Talles",
+                  "valores": [
+                    "Surtido",
+                    "34",
+                    "36",
+                    "38",
+                    "40",
+                    "42",
+                    "44"
+                  ]
+                },
+                "colores": {
+                  "label": "Colores",
+                  "valores": [
+                    {
+                      "nombre": "Surtido",
+                      "hex": "#FF69B4-800080"
+                    }
+                  ]
+                },
+                "stock": {
+                  "label": "Stock",
+                  "valor": "350",
+                  "estado": "Alta"
+                },
+                "ultima_actualizacion": {
+                  "label": "UPD",
+                  "valor": "19-11-2026"
+                },
+                "whatsapp": {
+                  "label": "Más Info",
+                  "telefono": 1149606618,
+                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20BAGG4941%0A%F0%9F%94%B9%20Modelo%3A%20Print%20Negro%2FGris%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042%2C%2044"
+                }
+              },
+              "guia_talles_img": "",
+              "imagen": [
+                {
+                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
+                  "portada": true
+                }
+              ],
+              "variedad": [
+                {
+                  "moneda": "$",
+                  "precio": 25000,
+                  "variedad": "Curva",
+                  "minima": 6,
+                  "sub_variedad": {
+                    "Surtido": {
+                      "color": "#FF69B4-800080",
+                      "talles": [
+                        {
+                          "talle": "Surtido",
+                          "stock": "350"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "moneda": "$",
+                  "precio": 27000,
+                  "variedad": "Mayor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                },
+                {
+                  "moneda": "$",
+                  "precio": 32000,
+                  "variedad": "Menor",
+                  "minima": 1,
+                  "sub_variedad": {}
+                }
+              ],
+              "upd": "2026-11-19T03:00:00.000Z"
+            },
+            {
+              "codigo": 10,
+              "categoria": "Baggy",
               "nombre": "BAGG7931",
               "carpeta_id": "12KLkC9tf7dxYN3ZO5B_wdGALxzlIwU5l",
               "descripcion": {
@@ -446,7 +562,7 @@
               "upd": "2026-10-16T03:00:00.000Z"
             },
             {
-              "codigo": 10,
+              "codigo": 13,
               "categoria": "Baggy",
               "nombre": "PANT3144",
               "carpeta_id": "1C-9HM7MTOOcl4GxvQ84xnSYLaKr9go0D",
@@ -590,7 +706,7 @@
               "upd": "2026-10-15T03:00:00.000Z"
             },
             {
-              "codigo": 13,
+              "codigo": 16,
               "categoria": "Baggy",
               "nombre": "PANT3169",
               "carpeta_id": "1R9sN2ppN4w6gGr6FpSvNUf3C7Gso5pOb",
@@ -712,7 +828,7 @@
               "upd": "2026-08-07T03:00:00.000Z"
             },
             {
-              "codigo": 16,
+              "codigo": 19,
               "categoria": "Baggy",
               "nombre": "PANT3290",
               "carpeta_id": "1QUsWYqVPeRdNvy0TbgvZWzxvZppEe69n",
@@ -835,7 +951,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 19,
+              "codigo": 22,
               "categoria": "Baggy",
               "nombre": "PANT3769",
               "carpeta_id": "1tpWdJX5rKI88FKmqsHapQo3HifrpRFJ4",
@@ -968,7 +1084,7 @@
               "upd": "2026-07-14T03:00:00.000Z"
             },
             {
-              "codigo": 22,
+              "codigo": 25,
               "categoria": "Baggy",
               "nombre": "PANT4330",
               "carpeta_id": "1w0IwolZnXEbF0g860Eqy6yAzxqo3gVJD",
@@ -1091,7 +1207,7 @@
               "upd": "2026-06-26T03:00:00.000Z"
             },
             {
-              "codigo": 25,
+              "codigo": 28,
               "categoria": "Baggy",
               "nombre": "PANT4551",
               "carpeta_id": "19FVdJP0j5bb-Hxa_Gfivga0PigMNMImC",
@@ -1213,7 +1329,7 @@
               "upd": "2026-06-26T03:00:00.000Z"
             },
             {
-              "codigo": 28,
+              "codigo": 31,
               "categoria": "Baggy",
               "nombre": "PANT4657",
               "carpeta_id": "1A7ybXc5rcOvlZRRDBgWWPAozaG1LDFuj",
@@ -1340,7 +1456,7 @@
               "upd": "2026-10-27T03:00:00.000Z"
             },
             {
-              "codigo": 31,
+              "codigo": 34,
               "categoria": "Baggy",
               "nombre": "PANT7325",
               "carpeta_id": "1CsKg9K5H5YxktNGJa6G9Y3dBtQqmMt8W",
@@ -1456,7 +1572,7 @@
               "upd": "2026-08-07T03:00:00.000Z"
             },
             {
-              "codigo": 34,
+              "codigo": 37,
               "categoria": "Baggy",
               "nombre": "PANT8193",
               "carpeta_id": "1Fs915u9AyKsSVGK0JGVpxB3EuLbIDPbO",
@@ -1578,7 +1694,7 @@
               "upd": "2026-07-14T03:00:00.000Z"
             },
             {
-              "codigo": 37,
+              "codigo": 40,
               "categoria": "Baggy",
               "nombre": "PANT8946",
               "carpeta_id": "1iW-VxPIlZQ1rQfx854NzjIT4zldy9Zup",
@@ -1711,7 +1827,7 @@
               "upd": "2026-07-14T03:00:00.000Z"
             },
             {
-              "codigo": 40,
+              "codigo": 43,
               "categoria": "Baggy",
               "nombre": "PANT9048",
               "carpeta_id": "14sttWmVo03v41E6zJFd6MEsGqV4AdgQ7",
@@ -1844,7 +1960,7 @@
               "upd": "2026-07-25T03:00:00.000Z"
             },
             {
-              "codigo": 43,
+              "codigo": 46,
               "categoria": "Baggy",
               "nombre": "PANT9126",
               "carpeta_id": "14_BpA7g7zbSo_d7hambrIwzpQ7BTF94M",
@@ -1995,7 +2111,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/bermuda.svg",
           "producto": [
             {
-              "codigo": 46,
+              "codigo": 49,
               "categoria": "Bermuda",
               "nombre": "BERM1844",
               "carpeta_id": "1Jc1OwHau2DAHa35acPjFAO5CcdrDb_GE",
@@ -2118,7 +2234,7 @@
               "upd": "2026-10-14T03:00:00.000Z"
             },
             {
-              "codigo": 49,
+              "codigo": 52,
               "categoria": "Bermuda",
               "nombre": "BERM3040",
               "carpeta_id": "10R2N23S8V9J2GEYD6FHEUCRTUMLFmlBd",
@@ -2240,7 +2356,7 @@
               "upd": "2026-10-21T03:00:00.000Z"
             },
             {
-              "codigo": 52,
+              "codigo": 55,
               "categoria": "Bermuda",
               "nombre": "BERM3599",
               "carpeta_id": "1XigtqQJAGH7tn0TwpJz51mt3vR7MK1J_",
@@ -2363,7 +2479,7 @@
               "upd": "2026-09-03T03:00:00.000Z"
             },
             {
-              "codigo": 55,
+              "codigo": 58,
               "categoria": "Bermuda",
               "nombre": "BERM3677",
               "carpeta_id": "1nS2EaX2hN1XPOGU_P0R3LNEIQgb7tXex",
@@ -2485,7 +2601,7 @@
               "upd": "2026-09-16T03:00:00.000Z"
             },
             {
-              "codigo": 58,
+              "codigo": 61,
               "categoria": "Bermuda",
               "nombre": "BERM4398",
               "carpeta_id": "1yqMhH4jwo7c-p09ZOxg8i-Yr25s1ErFo",
@@ -2607,7 +2723,7 @@
               "upd": "2026-10-28T03:00:00.000Z"
             },
             {
-              "codigo": 61,
+              "codigo": 64,
               "categoria": "Bermuda",
               "nombre": "BERM4987",
               "carpeta_id": "18dwsjPwoB3MmeDox4b-MFCsCw85oV5uV",
@@ -2729,7 +2845,7 @@
               "upd": "2026-09-19T03:00:00.000Z"
             },
             {
-              "codigo": 64,
+              "codigo": 67,
               "categoria": "Bermuda",
               "nombre": "BERM5525",
               "carpeta_id": "1GxbRrIw007BTyNZWx7W-YKcQcXWxoMNL",
@@ -2851,7 +2967,7 @@
               "upd": "2026-09-24T03:00:00.000Z"
             },
             {
-              "codigo": 67,
+              "codigo": 70,
               "categoria": "Bermuda",
               "nombre": "BERM6076",
               "carpeta_id": "1QG7GoPyaWVL2TpnKpcWcNIJ9HOtJ_cbK",
@@ -2974,7 +3090,7 @@
               "upd": "2026-10-31T03:00:00.000Z"
             },
             {
-              "codigo": 70,
+              "codigo": 73,
               "categoria": "Bermuda",
               "nombre": "BERM6222",
               "carpeta_id": "1Mh0DDWRCGVnr51EXsEza8tIATt2sfYhB",
@@ -3096,7 +3212,7 @@
               "upd": "2026-10-27T03:00:00.000Z"
             },
             {
-              "codigo": 73,
+              "codigo": 76,
               "categoria": "Bermuda",
               "nombre": "BERM6803",
               "carpeta_id": "1R-YGQYAum0StVqWd6DrDEkdkdtjiu5x_",
@@ -3218,7 +3334,7 @@
               "upd": "2026-10-27T03:00:00.000Z"
             },
             {
-              "codigo": 76,
+              "codigo": 79,
               "categoria": "Bermuda",
               "nombre": "BERM7459",
               "carpeta_id": "19pM4ln6w2GgbnQk8uos7DsA7Ifg7mHQj",
@@ -3341,7 +3457,7 @@
               "upd": "2026-10-06T03:00:00.000Z"
             },
             {
-              "codigo": 79,
+              "codigo": 82,
               "categoria": "Bermuda",
               "nombre": "BERM7472",
               "carpeta_id": "1Bj3Yxnzpw0Y0h8UU_rYVTPhKLi3wuMZd",
@@ -3461,7 +3577,7 @@
               "upd": "2026-10-23T03:00:00.000Z"
             },
             {
-              "codigo": 82,
+              "codigo": 85,
               "categoria": "Bermuda",
               "nombre": "BERM8322",
               "carpeta_id": "17WYyWDs5HZV0SfmoMVBOQ6IM7mdwvbQS",
@@ -3584,7 +3700,7 @@
               "upd": "2026-09-30T03:00:00.000Z"
             },
             {
-              "codigo": 85,
+              "codigo": 88,
               "categoria": "Bermuda",
               "nombre": "BERM8703",
               "carpeta_id": "1xYg9M9gGcXAIlnQ_QFe2zV5LnL5iy-0y",
@@ -3706,7 +3822,7 @@
               "upd": "2026-09-16T03:00:00.000Z"
             },
             {
-              "codigo": 88,
+              "codigo": 91,
               "categoria": "Bermuda",
               "nombre": "BERM9870",
               "carpeta_id": "11t4Q_z4eFxwTGVcNbllMHX6xr85xtqGS",
@@ -3835,7 +3951,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/boddy.svg",
           "producto": [
             {
-              "codigo": 91,
+              "codigo": 94,
               "categoria": "Boddy",
               "nombre": "BODD3940",
               "carpeta_id": "1NLPIUpXj-DJ7jkN2JCP7xj0ioCO2WYhW",
@@ -3941,7 +4057,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/campera.svg",
           "producto": [
             {
-              "codigo": 93,
+              "codigo": 96,
               "categoria": "Campera",
               "nombre": "CAMP1837",
               "carpeta_id": "1_q2r2by1fZWDyTDZIGheP9NMk8xhGLnb",
@@ -4064,7 +4180,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_chupin.svg",
           "producto": [
             {
-              "codigo": 96,
+              "codigo": 99,
               "categoria": "Chupin",
               "nombre": "CHUP1533",
               "carpeta_id": "1fAHBypNd1nowh5mfnZTwGZ3UDZBE3a8m",
@@ -4188,7 +4304,7 @@
               "upd": "2026-11-17T03:00:00.000Z"
             },
             {
-              "codigo": 99,
+              "codigo": 102,
               "categoria": "Chupin",
               "nombre": "PANT2841",
               "carpeta_id": "1RPnWogo2IkjKi3JODwIMlXJAcTqPjyY0",
@@ -4343,7 +4459,7 @@
               "upd": "2026-07-14T03:00:00.000Z"
             },
             {
-              "codigo": 102,
+              "codigo": 105,
               "categoria": "Chupin",
               "nombre": "PANT3934",
               "carpeta_id": "1TIAw7Z_I1xygInrDdMxkBzgU0sOS0pZ9",
@@ -4465,7 +4581,7 @@
               "upd": "2026-08-08T03:00:00.000Z"
             },
             {
-              "codigo": 105,
+              "codigo": 108,
               "categoria": "Chupin",
               "nombre": "PANT4710",
               "carpeta_id": "1apP7aeeNbAXFSYgqDANJ7HrA41R0JmIb",
@@ -4587,7 +4703,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 108,
+              "codigo": 111,
               "categoria": "Chupin",
               "nombre": "PANT9288",
               "carpeta_id": "1g5B6TcyDrOEYFhbn2XLAsEUHPYzX591L",
@@ -4716,7 +4832,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/cinturon.svg",
           "producto": [
             {
-              "codigo": 111,
+              "codigo": 114,
               "categoria": "Cinturon",
               "nombre": "CINT1686",
               "carpeta_id": "1QKDwb6_uOaxyrGNk2q_JuKD2G-728y5m",
@@ -4826,7 +4942,7 @@
               "upd": "2026-07-27T03:00:00.000Z"
             },
             {
-              "codigo": 114,
+              "codigo": 117,
               "categoria": "Cinturon",
               "nombre": "CINT4155",
               "carpeta_id": "1Dl00Bd_bAp6H6k6fZStoBo4B0eDE7ocu",
@@ -4936,7 +5052,7 @@
               "upd": "2026-07-27T03:00:00.000Z"
             },
             {
-              "codigo": 117,
+              "codigo": 120,
               "categoria": "Cinturon",
               "nombre": "CINT4721",
               "carpeta_id": "1Nha4DrpJPfklmxiOuNFj1lQteuFuvfc3",
@@ -5036,7 +5152,7 @@
               "upd": "2026-07-25T03:00:00.000Z"
             },
             {
-              "codigo": 120,
+              "codigo": 123,
               "categoria": "Cinturon",
               "nombre": "CINT6072",
               "carpeta_id": "1jXBA6cJ6YwoZufVGLJca82uC2owTDmqe",
@@ -5153,7 +5269,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_recto.svg",
           "producto": [
             {
-              "codigo": 123,
+              "codigo": 126,
               "categoria": "Clasico Recto",
               "nombre": "PANT2683",
               "carpeta_id": "1stznauKb7UcIlgcDuTWLup7CiMUUTrDq",
@@ -5275,7 +5391,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 126,
+              "codigo": 129,
               "categoria": "Clasico Recto",
               "nombre": "PANT6545",
               "carpeta_id": "1xOSjiT7lVULTd6LywTjZf2ygBvN9IGXD",
@@ -5419,7 +5535,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 129,
+              "codigo": 132,
               "categoria": "Clasico Recto",
               "nombre": "PANT7106",
               "carpeta_id": "1ugNMmTWhZxlXbBEUZEFU-WjGLLDKDJOx",
@@ -5541,7 +5657,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 132,
+              "codigo": 135,
               "categoria": "Clasico Recto",
               "nombre": "PANT8212",
               "carpeta_id": "1qT2SBAWyrg0dyANAInzUb3MZEX6EAoRY",
@@ -5663,7 +5779,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 135,
+              "codigo": 138,
               "categoria": "Clasico Recto",
               "nombre": "PANT9862",
               "carpeta_id": "16Daw8od-3sU8K_-cHjNrxaIsgmo3ulTi",
@@ -5803,7 +5919,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_maxi_wige.svg",
           "producto": [
             {
-              "codigo": 138,
+              "codigo": 141,
               "categoria": "Maxi Wide",
               "nombre": "PANT1847",
               "carpeta_id": "1L1A1VVySi6mSRSSO8s8b8AoLSet1QjE6",
@@ -5926,7 +6042,7 @@
               "upd": "2026-07-14T03:00:00.000Z"
             },
             {
-              "codigo": 141,
+              "codigo": 144,
               "categoria": "Maxi Wide",
               "nombre": "PANT1947",
               "carpeta_id": "1rKXMguc7Trpz1KZm_nj2di_UN8QBdgZZ",
@@ -6049,7 +6165,7 @@
               "upd": "2026-07-14T03:00:00.000Z"
             },
             {
-              "codigo": 144,
+              "codigo": 147,
               "categoria": "Maxi Wide",
               "nombre": "PANT2969",
               "carpeta_id": "1nVy6h5bq0IY-W4TScj2vuxvdOX__T_cV",
@@ -6172,7 +6288,7 @@
               "upd": "2026-07-14T03:00:00.000Z"
             },
             {
-              "codigo": 147,
+              "codigo": 150,
               "categoria": "Maxi Wide",
               "nombre": "PANT3628",
               "carpeta_id": "1N7dS86khAtxavn6CmCp-h8_huSPJ0E1R",
@@ -6295,7 +6411,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 150,
+              "codigo": 153,
               "categoria": "Maxi Wide",
               "nombre": "PANT8140",
               "carpeta_id": "11rudJ_531TefFc73QDnwQACFNREYSFi7",
@@ -6418,7 +6534,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 153,
+              "codigo": 156,
               "categoria": "Maxi Wide",
               "nombre": "PANT8348",
               "carpeta_id": "1hp-e2GTXkc69u50IOUZsniFAtfIOrgjN",
@@ -6541,7 +6657,7 @@
               "upd": "2026-10-27T03:00:00.000Z"
             },
             {
-              "codigo": 156,
+              "codigo": 159,
               "categoria": "Maxi Wide",
               "nombre": "PANT8838",
               "carpeta_id": "1l-X9Xct8BWhqB2niDRfmF5hfbHiIyEgq",
@@ -6671,7 +6787,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_moon.svg",
           "producto": [
             {
-              "codigo": 159,
+              "codigo": 162,
               "categoria": "Moon",
               "nombre": "PANT1241",
               "carpeta_id": "1DJ5O3U6w6g8QVafCdr-BHhTRMMKmwrhs",
@@ -6794,7 +6910,7 @@
               "upd": "2026-08-28T03:00:00.000Z"
             },
             {
-              "codigo": 162,
+              "codigo": 165,
               "categoria": "Moon",
               "nombre": "PANT2259",
               "carpeta_id": "198u9i-xHY06AYsR5LNw9LfXiG4yTmhGU",
@@ -6917,7 +7033,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 165,
+              "codigo": 168,
               "categoria": "Moon",
               "nombre": "PANT8582",
               "carpeta_id": "1ABRNNdfBTCTkrNhQhc5Oh__lle7K_4un",
@@ -7045,7 +7161,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/oferta.svg",
           "producto": [
             {
-              "codigo": 168,
+              "codigo": 171,
               "categoria": "Oferta",
               "nombre": "OFER1513",
               "carpeta_id": "14OhvdkoNNtE1knS1Wvtj2TxWJh17avJP",
@@ -7131,7 +7247,7 @@
               "upd": "2026-09-26T03:00:00.000Z"
             },
             {
-              "codigo": 169,
+              "codigo": 172,
               "categoria": "Oferta",
               "nombre": "OFER1572",
               "carpeta_id": "16NLIL4YxTMcxVegN_fxA5w0Phqjs4zN6",
@@ -7217,7 +7333,7 @@
               "upd": "2026-07-16T03:00:00.000Z"
             },
             {
-              "codigo": 170,
+              "codigo": 173,
               "categoria": "Oferta",
               "nombre": "OFER2424",
               "carpeta_id": "19k4ZULhWEVIcAx1vi9Hru7zlXXfCHGs7",
@@ -7303,7 +7419,7 @@
               "upd": "2026-09-25T03:00:00.000Z"
             },
             {
-              "codigo": 171,
+              "codigo": 174,
               "categoria": "Oferta",
               "nombre": "OFER2503",
               "carpeta_id": "",
@@ -7389,7 +7505,7 @@
               "upd": "2026-07-16T03:00:00.000Z"
             },
             {
-              "codigo": 172,
+              "codigo": 175,
               "categoria": "Oferta",
               "nombre": "OFER2577",
               "carpeta_id": "1pVvtl_w02CI2cQtrLWS6ing1yd2vBvWs",
@@ -7475,7 +7591,7 @@
               "upd": "2026-09-25T03:00:00.000Z"
             },
             {
-              "codigo": 173,
+              "codigo": 176,
               "categoria": "Oferta",
               "nombre": "OFER4144",
               "carpeta_id": "1SdXppE79wW8Gn1DC4vu4RmF0FYfmkVS1",
@@ -7572,7 +7688,7 @@
               "upd": "2026-11-19T03:00:00.000Z"
             },
             {
-              "codigo": 174,
+              "codigo": 177,
               "categoria": "Oferta",
               "nombre": "OFER6316",
               "carpeta_id": "1nikiRLDcDC2Zx4r0FBZlEUBn04Okys1x",
@@ -7664,7 +7780,7 @@
               "upd": "2026-11-19T03:00:00.000Z"
             },
             {
-              "codigo": 175,
+              "codigo": 178,
               "categoria": "Oferta",
               "nombre": "OFER6488",
               "carpeta_id": "",
@@ -7750,7 +7866,7 @@
               "upd": "2026-07-16T03:00:00.000Z"
             },
             {
-              "codigo": 176,
+              "codigo": 179,
               "categoria": "Oferta",
               "nombre": "OFER6855",
               "carpeta_id": "",
@@ -7836,7 +7952,7 @@
               "upd": "2026-07-28T03:00:00.000Z"
             },
             {
-              "codigo": 177,
+              "codigo": 180,
               "categoria": "Oferta",
               "nombre": "OFER7360",
               "carpeta_id": "1DkTx5hLyxLrPrH3sBrw_NPZ6_69g7qJ3",
@@ -7928,7 +8044,7 @@
               "upd": "2026-11-19T03:00:00.000Z"
             },
             {
-              "codigo": 178,
+              "codigo": 181,
               "categoria": "Oferta",
               "nombre": "OFER8592",
               "carpeta_id": "1oDRgLfdONJKbwCRHsDi1RjpDZ1yqUlvM",
@@ -8014,7 +8130,7 @@
               "upd": "2026-07-16T03:00:00.000Z"
             },
             {
-              "codigo": 179,
+              "codigo": 182,
               "categoria": "Oferta",
               "nombre": "OFER9718",
               "carpeta_id": "1a5tKI4qw8ECI6ayUYhPTjtLuXqCmiwEL",
@@ -8100,7 +8216,7 @@
               "upd": "2026-11-04T03:00:00.000Z"
             },
             {
-              "codigo": 180,
+              "codigo": 183,
               "categoria": "Oferta",
               "nombre": "OFER9830",
               "carpeta_id": "",
@@ -8193,7 +8309,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_oxfort.svg",
           "producto": [
             {
-              "codigo": 181,
+              "codigo": 184,
               "categoria": "Oxfort",
               "nombre": "OXFO4560",
               "carpeta_id": "19YaSHl7X9RR1WX9ZyoYCLWsWr3d1F7Xo",
@@ -8314,7 +8430,7 @@
               "upd": "2026-09-18T03:00:00.000Z"
             },
             {
-              "codigo": 184,
+              "codigo": 187,
               "categoria": "Oxfort",
               "nombre": "OXFO6119",
               "carpeta_id": "1JfRiLWg1m7c8pvvcSZBrUQANNmWSKlda",
@@ -8435,7 +8551,7 @@
               "upd": "2026-09-12T03:00:00.000Z"
             },
             {
-              "codigo": 187,
+              "codigo": 190,
               "categoria": "Oxfort",
               "nombre": "OXFO6551",
               "carpeta_id": "1WLCPu2yXnekkhcgXywt34ormZV7yt1ZR",
@@ -8555,7 +8671,7 @@
               "upd": "2026-10-13T03:00:00.000Z"
             },
             {
-              "codigo": 190,
+              "codigo": 193,
               "categoria": "Oxfort",
               "nombre": "PANT1883",
               "carpeta_id": "1yHI0HZueWFbSFWlqOqx56mdPooCMCOgn",
@@ -8782,7 +8898,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 193,
+              "codigo": 196,
               "categoria": "Oxfort",
               "nombre": "PANT2545",
               "carpeta_id": "1rnQIxY8nXVa6EAYH2vGi1pAOUYC7CArd",
@@ -8903,7 +9019,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 196,
+              "codigo": 199,
               "categoria": "Oxfort",
               "nombre": "PANT4023",
               "carpeta_id": "1KezinL8i2ffVZF9Bo9Aa9owR6DtNnikJ",
@@ -9036,7 +9152,7 @@
               "upd": "2026-07-14T03:00:00.000Z"
             },
             {
-              "codigo": 199,
+              "codigo": 202,
               "categoria": "Oxfort",
               "nombre": "PANT4575",
               "carpeta_id": "1NxDsE-UE93kiK_sP9k1VRO611dp-DjTK",
@@ -9158,7 +9274,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 202,
+              "codigo": 205,
               "categoria": "Oxfort",
               "nombre": "PANT4779",
               "carpeta_id": "1p8JojmpITDX1TdO9yoXIt_mFkWEYqtJB",
@@ -9280,7 +9396,7 @@
               "upd": "2026-06-26T03:00:00.000Z"
             },
             {
-              "codigo": 205,
+              "codigo": 208,
               "categoria": "Oxfort",
               "nombre": "PANT4983",
               "carpeta_id": "1q4vA6la7M-o2A9eRjkzGAyunT-1_Y6tq",
@@ -9402,7 +9518,7 @@
               "upd": "2026-07-06T03:00:00.000Z"
             },
             {
-              "codigo": 208,
+              "codigo": 211,
               "categoria": "Oxfort",
               "nombre": "PANT5798",
               "carpeta_id": "1v5TWfwxWgH5GKCxcqM1V9iqOsdUsCG2a",
@@ -9546,7 +9662,7 @@
               "upd": "2026-06-26T03:00:00.000Z"
             },
             {
-              "codigo": 211,
+              "codigo": 214,
               "categoria": "Oxfort",
               "nombre": "PANT5968",
               "carpeta_id": "1Q0XCF68baBksh9uySeJOrMiBBQqpcf6e",
@@ -9668,7 +9784,7 @@
               "upd": "2026-07-22T03:00:00.000Z"
             },
             {
-              "codigo": 214,
+              "codigo": 217,
               "categoria": "Oxfort",
               "nombre": "PANT7332",
               "carpeta_id": "1Q2VXBW6ZCumsU4xs87VWcOeLrqnoTV1p",
@@ -9790,7 +9906,7 @@
               "upd": "2026-06-26T03:00:00.000Z"
             },
             {
-              "codigo": 217,
+              "codigo": 220,
               "categoria": "Oxfort",
               "nombre": "PANT8376",
               "carpeta_id": "1wHBgAnOhmLmlI_j87STAF9Wv2qsBqWLD",
@@ -9913,7 +10029,7 @@
               "upd": "2026-06-26T03:00:00.000Z"
             },
             {
-              "codigo": 220,
+              "codigo": 223,
               "categoria": "Oxfort",
               "nombre": "PANT9631",
               "carpeta_id": "1QBSpvWEBGr74Crb4mp3xkN-rcT5EsvTG",
@@ -10038,7 +10154,7 @@
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_parachute.svg",
           "producto": [
             {
-              "codigo": 223,
+              "codigo": 226,
               "categoria": "Parachute",
               "nombre": "PANT3194",
               "carpeta_id": "1ssiSRIoEko3ujdqxTlzl8q8nAxtwDSPt",
@@ -10160,7 +10276,7 @@
               "upd": "2026-05-31T03:00:00.000Z"
             },
             {
-              "codigo": 226,
+              "codigo": 229,
               "categoria": "Parachute",
               "nombre": "PANT7616",
               "carpeta_id": "1YPTNiFBVeWNHzJoIoxePCLkABg98NeUs",
@@ -10285,134 +10401,6 @@
         },
         {
           "codigo": 13,
-          "nombre": "Polera",
-          "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/polera.svg",
-          "producto": [
-            {
-              "codigo": 229,
-              "categoria": "Polera",
-              "nombre": "POLE6734",
-              "carpeta_id": "1tsTYrmpIrUcYs7Qa4DzgP3exM0Y2gQ_4",
-              "descripcion": {
-                "modelo": {
-                  "label": "Modelo",
-                  "valor": "Polleras Variadas"
-                },
-                "marca": {
-                  "label": "Marca",
-                  "valor": "MINOM OFICIAL"
-                },
-                "genero": {
-                  "label": "Género",
-                  "valor": "Mujer",
-                  "icono": "♀️"
-                },
-                "grupo_edad": {
-                  "label": "Edad",
-                  "valor": "Teens",
-                  "icono": "👶"
-                },
-                "estilo": {
-                  "label": "Estilo",
-                  "valor": "Tiro Bajo"
-                },
-                "material": {
-                  "label": "Material",
-                  "valor": "Jeans Rigido"
-                },
-                "temporada": {
-                  "label": "Temporada",
-                  "valor": "SIN-TEMPORADA",
-                  "icono": "🚫"
-                },
-                "talles": {
-                  "label": "Talles",
-                  "valores": [
-                    "Surtido",
-                    "34",
-                    "36",
-                    "38",
-                    "40",
-                    "42"
-                  ]
-                },
-                "colores": {
-                  "label": "Colores",
-                  "valores": [
-                    {
-                      "nombre": "Surtido",
-                      "hex": "#FF69B4-800080"
-                    }
-                  ]
-                },
-                "stock": {
-                  "label": "Stock",
-                  "valor": "100",
-                  "estado": "Alta"
-                },
-                "ultima_actualizacion": {
-                  "label": "UPD",
-                  "valor": "19-11-2026"
-                },
-                "whatsapp": {
-                  "label": "Más Info",
-                  "telefono": 1149606618,
-                  "url": "https://wa.me/5491149606618?text=%C2%A1Hola!%20Interesado%20en%3A%0A%F0%9F%94%B9%20C%C3%B3digo%3A%20POLE6734%0A%F0%9F%94%B9%20Modelo%3A%20Polleras%20Variadas%0A%F0%9F%94%B9%20Marca%3A%20MINOM%20OFICIAL%0A%F0%9F%94%B9%20G%C3%A9nero%3A%20Mujer%0A%F0%9F%94%B9%20Edad%3A%20Teens%0A%F0%9F%94%B9%20Talles%3A%20Surtido%2C%2034%2C%2036%2C%2038%2C%2040%2C%2042"
-                }
-              },
-              "guia_talles_img": "",
-              "imagen": [
-                {
-                  "url": "https://drive.google.com/thumbnail?id=1O6KtFUAleaoFqXU0CGJ_m3yTfReJVbE6&sz=s1600-rw",
-                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1O6KtFUAleaoFqXU0CGJ_m3yTfReJVbE6&sz=s600-rw",
-                  "archivo_id": "1O6KtFUAleaoFqXU0CGJ_m3yTfReJVbE6",
-                  "portada": true,
-                  "tipo": "imagen",
-                  "fuente": "AppSheet Sync",
-                  "rol": "PORTADA",
-                  "orden": 1,
-                  "fecha_carga": "2026-11-19T13:59:05.315Z"
-                }
-              ],
-              "variedad": [
-                {
-                  "moneda": "$",
-                  "precio": 13000,
-                  "variedad": "Curva",
-                  "minima": 5,
-                  "sub_variedad": {
-                    "Surtido": {
-                      "color": "#FF69B4-800080",
-                      "talles": [
-                        {
-                          "talle": "Surtido",
-                          "stock": "100"
-                        }
-                      ]
-                    }
-                  }
-                },
-                {
-                  "moneda": "$",
-                  "precio": 15000,
-                  "variedad": "Mayor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                },
-                {
-                  "moneda": "$",
-                  "precio": 20000,
-                  "variedad": "Menor",
-                  "minima": 1,
-                  "sub_variedad": {}
-                }
-              ],
-              "upd": "2026-11-19T03:00:00.000Z"
-            }
-          ]
-        },
-        {
-          "codigo": 14,
           "nombre": "Pollera",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pollera.svg",
           "producto": [
@@ -11650,7 +11638,7 @@
           ]
         },
         {
-          "codigo": 15,
+          "codigo": 14,
           "nombre": "Remera",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/remera.svg",
           "producto": [
@@ -11883,7 +11871,7 @@
           ]
         },
         {
-          "codigo": 16,
+          "codigo": 15,
           "nombre": "Short",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/short.svg",
           "producto": [
@@ -16173,7 +16161,7 @@
           ]
         },
         {
-          "codigo": 17,
+          "codigo": 16,
           "nombre": "Top",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/top.svg",
           "producto": [
@@ -16759,7 +16747,7 @@
           ]
         },
         {
-          "codigo": 18,
+          "codigo": 17,
           "nombre": "Wide Leg",
           "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pantalon_wige_leg.svg",
           "producto": [
@@ -19909,5 +19897,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1795108181163
+  "timestamp_ms": 1795109088082
 }
