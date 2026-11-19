@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T13:37:54.544Z",
-  "timestamp_ms": 1795095554594,
+  "generated_at": "2026-11-19T13:53:01.816Z",
+  "timestamp_ms": 1795096529345,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -23209,6 +23209,194 @@
       "lastUpdate": "2026-11-17T03:00:00.000Z",
       "ULTIMA_ACTUALIZACION": "2026-11-17T03:00:00.000Z",
       "fecha_creacion": ""
+    },
+    {
+      "id": "OFER7360",
+      "sku": "Ofer011",
+      "SKU": "Ofer011",
+      "secondarySku": "Ofer011",
+      "model": "Capri azul",
+      "name": "Capri azul",
+      "nombre": "Capri azul",
+      "price": 15000,
+      "minor_surcharge": 0,
+      "category": "Oferta",
+      "category_id": "Oferta",
+      "categoryName": "Oferta",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "",
+      "imagen": "",
+      "variations": [
+        {
+          "variation_id": "OFER7360-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "OFER7360-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 100,
+          "STOCK_ACTUAL": 100
+        },
+        {
+          "variation_id": "OFER7360-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "OFER7360-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 100,
+          "STOCK_ACTUAL": 100
+        }
+      ],
+      "prices": [
+        {
+          "id": "OFER7360-Menor",
+          "variedad_id": "OFER7360-Menor",
+          "variety_id": "OFER7360-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 15000,
+          "precio_unitario": 15000,
+          "precio_final": 15000,
+          "final_price": 15000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "OFER7360-Menor",
+          "variedad_id": "OFER7360-Menor",
+          "variety_id": "OFER7360-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 15000,
+          "precio_unitario": 15000,
+          "precio_final": 15000,
+          "final_price": 15000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-19T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-11-19T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "OFER4144",
+      "sku": "Ofer012",
+      "SKU": "Ofer012",
+      "secondarySku": "Ofer012",
+      "model": "Bermuda Corta naranja",
+      "name": "Bermuda Corta naranja",
+      "nombre": "Bermuda Corta naranja",
+      "price": 15000,
+      "minor_surcharge": 0,
+      "category": "Oferta",
+      "category_id": "Oferta",
+      "categoryName": "Oferta",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido,34,36,38,40,42",
+      "talles": "Surtido,34,36,38,40,42",
+      "TALLES": "Surtido,34,36,38,40,42",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "",
+      "imagen": "",
+      "variations": [
+        {
+          "variation_id": "OFER4144-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "OFER4144-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 100,
+          "STOCK_ACTUAL": 100
+        },
+        {
+          "variation_id": "OFER4144-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "OFER4144-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 100,
+          "STOCK_ACTUAL": 100
+        }
+      ],
+      "prices": [
+        {
+          "id": "OFER4144-Menor",
+          "variedad_id": "OFER4144-Menor",
+          "variety_id": "OFER4144-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 15000,
+          "precio_unitario": 15000,
+          "precio_final": 15000,
+          "final_price": 15000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "OFER4144-Menor",
+          "variedad_id": "OFER4144-Menor",
+          "variety_id": "OFER4144-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 15000,
+          "precio_unitario": 15000,
+          "precio_final": 15000,
+          "final_price": 15000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-19T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-11-19T03:00:00.000Z",
+      "fecha_creacion": ""
     }
   ],
   "clients": [
@@ -29979,6 +30167,38 @@
         "precio_final": 16000,
         "final_price": 16000,
         "cantidad_minima": 6,
+        "visible": true
+      }
+    ],
+    "OFER7360": [
+      {
+        "id": "OFER7360-Menor",
+        "variedad_id": "OFER7360-Menor",
+        "variety_id": "OFER7360-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 15000,
+        "precio_unitario": 15000,
+        "precio_final": 15000,
+        "final_price": 15000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
+    ],
+    "OFER4144": [
+      {
+        "id": "OFER4144-Menor",
+        "variedad_id": "OFER4144-Menor",
+        "variety_id": "OFER4144-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 15000,
+        "precio_unitario": 15000,
+        "precio_final": 15000,
+        "final_price": 15000,
+        "cantidad_minima": 1,
         "visible": true
       }
     ]
