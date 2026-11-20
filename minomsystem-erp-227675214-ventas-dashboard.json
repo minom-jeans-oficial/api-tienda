@@ -266273,6 +266273,72 @@
           "netoGravado": 0,
           "montoIva": 0
         }
+      ],
+      "CR-3e812fea-5749-424a-bb4e-f051871b59e2": [
+        {
+          "id": "TPV-1795173686251",
+          "fecha": "2026-11-20 08:21",
+          "origen": "Pedido Local",
+          "estado": "ENTREGADO",
+          "total": 31000,
+          "clienteId": "CLI001",
+          "nombreCliente": "Publico General",
+          "clienteInfo": {
+            "id": "CLI001",
+            "nombre": "Publico General",
+            "celular": "",
+            "email": "",
+            "cuit": "",
+            "condicionFiscal": "Consumidor Final",
+            "tipoEnvio": "RETIRO TIENDA",
+            "agenciaEnvio": "RETIRO TIENDA",
+            "localidad": "",
+            "provincia": "Buenos Aires",
+            "direccion": ""
+          },
+          "celularCliente": "",
+          "emailCliente": "",
+          "tiendaId": "MINOM OFICIAL",
+          "metodoPago": "Efectivo",
+          "cajaId": "CR-3e812fea-5749-424a-bb4e-f051871b59e2",
+          "asesor": "GASTON",
+          "fechaCaja": "2026-11-20",
+          "bancoTransferencia": "N/A",
+          "aliasTransferencia": "N/A",
+          "costoEnvio": 0,
+          "recargoTransferencia": 0,
+          "recargoMenor": 0,
+          "detalles": [
+            {
+              "id": "TPV-1795173686251-7711",
+              "descripcion": "WIDE8608-Surtido-Surtido-MINOM OFICIAL",
+              "cantidad": 1,
+              "precioUnitario": 31000,
+              "subtotal": 31000,
+              "tipoPrecio": "Menor",
+              "productoId": "WIDE8608",
+              "color": "Surtido",
+              "talle": "Surtido",
+              "variedadId": "WIDE8608-Surtido-Surtido-MINOM OFICIAL"
+            }
+          ],
+          "pagoEfectivo": 0,
+          "montoProductos": 31000,
+          "subtotal": 31000,
+          "tipoVenta": "DIRECTA",
+          "compraMinima": 1,
+          "pagoMixto": false,
+          "desactivarRecargoTransferencia": false,
+          "tipoComprobante": "TICKET_COMUN",
+          "estadoFacturacion": "NO_FISCAL",
+          "puntoVenta": 6,
+          "numeroComprobante": "",
+          "cae": "",
+          "caeVencimiento": "",
+          "facturaPdfUrl": "",
+          "netoGravado": 0,
+          "montoIva": 0
+        }
       ]
     }
   },
@@ -267063,6 +267129,15 @@
     "CR-8ebcbdf8-3992-4de9-aa54-2582a536921b": {
       "cajaId": "CR-8ebcbdf8-3992-4de9-aa54-2582a536921b",
       "fecha": "2026-11-19",
+      "tienda": "MINOM OFICIAL",
+      "asesor": "GASTON",
+      "horaIniciada": "Sat D",
+      "horaFinalizada": "",
+      "estado": "ABIERTA"
+    },
+    "CR-3e812fea-5749-424a-bb4e-f051871b59e2": {
+      "cajaId": "CR-3e812fea-5749-424a-bb4e-f051871b59e2",
+      "fecha": "2026-11-20",
       "tienda": "MINOM OFICIAL",
       "asesor": "GASTON",
       "horaIniciada": "Sat D",
@@ -267972,6 +268047,15 @@
         "horaIniciada": "Sat D",
         "horaFinalizada": "",
         "estado": "ABIERTA"
+      },
+      {
+        "cajaId": "CR-3e812fea-5749-424a-bb4e-f051871b59e2",
+        "fecha": "2026-11-20",
+        "tienda": "MINOM OFICIAL",
+        "asesor": "GASTON",
+        "horaIniciada": "Sat D",
+        "horaFinalizada": "",
+        "estado": "ABIERTA"
       }
     ]
   },
@@ -268127,5 +268211,5 @@
     "POLL7447": "https://drive.google.com/thumbnail?id=1FKj4HXbFRk3nZUXlB0HPEJI09fWiHwjm&sz=s600-rw",
     "BAGG4941": "https://drive.google.com/thumbnail?id=18E37GenjCiqhnjln-G39xBgBuQ3Mj0TA&sz=s600-rw"
   },
-  "timestamp_ms": 1795120649468
+  "timestamp_ms": 1795174647884
 }
