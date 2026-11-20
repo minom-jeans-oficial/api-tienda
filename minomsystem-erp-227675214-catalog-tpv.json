@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T19:52:54.329Z",
-  "timestamp_ms": 1795204495861,
+  "generated_at": "2026-11-20T20:07:53.030Z",
+  "timestamp_ms": 1795205402835,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -444,6 +444,14 @@
       "parentCategory": "INDUMENTARIA",
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/boddy.svg",
       "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/boddy.svg"
+    },
+    {
+      "id": "Pescador",
+      "name": "Pescador",
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pescador.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pescador.svg"
     }
   ],
   "products": [
@@ -8821,8 +8829,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 128,
-          "STOCK_ACTUAL": 128
+          "stock": 127,
+          "STOCK_ACTUAL": 127
         },
         {
           "variation_id": "PANT5258-Surtido-Surtido-MINOM ARGERICH",
@@ -20157,8 +20165,8 @@
           "size": "Surtido",
           "size_name": "Surtido",
           "TALLE": "Surtido",
-          "stock": 245,
-          "STOCK_ACTUAL": 245
+          "stock": 244,
+          "STOCK_ACTUAL": 244
         },
         {
           "variation_id": "BERM4398-Surtido-Surtido-MINOM ARGERICH",
@@ -23935,6 +23943,128 @@
           "precio_final": 16000,
           "final_price": 16000,
           "cantidad_minima": 8,
+          "visible": true
+        }
+      ],
+      "lastUpdate": "2026-11-20T03:00:00.000Z",
+      "ULTIMA_ACTUALIZACION": "2026-11-20T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "PESC4073",
+      "sku": "Pesc002",
+      "SKU": "Pesc002",
+      "secondarySku": "Pesc002",
+      "model": "Oxido Elastizado Boton",
+      "name": "Oxido Elastizado Boton",
+      "nombre": "Oxido Elastizado Boton",
+      "price": 22000,
+      "minor_surcharge": 0,
+      "category": "Pescador",
+      "category_id": "Pescador",
+      "categoryName": "Pescador",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Elastizado",
+      "ageGroup": "Teens",
+      "grupo_edad": "Teens",
+      "GRUPO_EDAD": "Teens",
+      "sizes": "Surtido",
+      "talles": "Surtido",
+      "TALLES": "Surtido",
+      "colors": "Surtido",
+      "colores": "Surtido",
+      "COLORES": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=12gs7H9yCcBMSlpvvotZqUBSw01ogPXb-&sz=s600-rw",
+      "imagen": "https://drive.google.com/thumbnail?id=12gs7H9yCcBMSlpvvotZqUBSw01ogPXb-&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "PESC4073-Surtido-Surtido-MINOM OFICIAL",
+          "INVENTARIO_ID": "PESC4073-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "TIENDA_ID": "MINOM OFICIAL",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 300,
+          "STOCK_ACTUAL": 300
+        },
+        {
+          "variation_id": "PESC4073-Surtido-Surtido-MINOM ARGERICH",
+          "INVENTARIO_ID": "PESC4073-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "TIENDA_ID": "MINOM ARGERICH",
+          "color": "Surtido",
+          "COLOR": "Surtido",
+          "size": "Surtido",
+          "size_name": "Surtido",
+          "TALLE": "Surtido",
+          "stock": 300,
+          "STOCK_ACTUAL": 300
+        }
+      ],
+      "prices": [
+        {
+          "id": "PESC4073-Mayor",
+          "variedad_id": "PESC4073-Mayor",
+          "variety_id": "PESC4073-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 22000,
+          "precio_unitario": 22000,
+          "precio_final": 22000,
+          "final_price": 22000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "PESC4073-Menor",
+          "variedad_id": "PESC4073-Menor",
+          "variety_id": "PESC4073-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 27000,
+          "precio_unitario": 27000,
+          "precio_final": 27000,
+          "final_price": 27000,
+          "cantidad_minima": 1,
+          "visible": true
+        }
+      ],
+      "varieties": [
+        {
+          "id": "PESC4073-Mayor",
+          "variedad_id": "PESC4073-Mayor",
+          "variety_id": "PESC4073-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "variety_name": "Mayor",
+          "precio": 22000,
+          "precio_unitario": 22000,
+          "precio_final": 22000,
+          "final_price": 22000,
+          "cantidad_minima": 1,
+          "visible": true
+        },
+        {
+          "id": "PESC4073-Menor",
+          "variedad_id": "PESC4073-Menor",
+          "variety_id": "PESC4073-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "variety_name": "Menor",
+          "precio": 27000,
+          "precio_unitario": 27000,
+          "precio_final": 27000,
+          "final_price": 27000,
+          "cantidad_minima": 1,
           "visible": true
         }
       ],
@@ -30893,6 +31023,36 @@
         "cantidad_minima": 8,
         "visible": true
       }
+    ],
+    "PESC4073": [
+      {
+        "id": "PESC4073-Mayor",
+        "variedad_id": "PESC4073-Mayor",
+        "variety_id": "PESC4073-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "variety_name": "Mayor",
+        "precio": 22000,
+        "precio_unitario": 22000,
+        "precio_final": 22000,
+        "final_price": 22000,
+        "cantidad_minima": 1,
+        "visible": true
+      },
+      {
+        "id": "PESC4073-Menor",
+        "variedad_id": "PESC4073-Menor",
+        "variety_id": "PESC4073-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "variety_name": "Menor",
+        "precio": 27000,
+        "precio_unitario": 27000,
+        "precio_final": 27000,
+        "final_price": 27000,
+        "cantidad_minima": 1,
+        "visible": true
+      }
     ]
   },
   "appSheet": {
@@ -31110,6 +31270,14 @@
       "parentCategory": "INDUMENTARIA",
       "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/boddy.svg",
       "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/boddy.svg"
+    },
+    "PESCADOR": {
+      "id": "Pescador",
+      "name": "Pescador",
+      "parent": "INDUMENTARIA",
+      "parentCategory": "INDUMENTARIA",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pescador.svg",
+      "icono": "https://cdn.jsdelivr.net/gh/SystemBlogShop/erp-shared-assets@main/assets/icons/pescador.svg"
     }
   }
 }
