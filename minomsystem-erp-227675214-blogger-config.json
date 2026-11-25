@@ -5354,7 +5354,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-61",
+                  "valor": "-62",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -7096,7 +7096,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "269",
+                  "valor": "268",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -7135,7 +7135,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "269"
+                          "stock": "268"
                         }
                       ]
                     }
@@ -8610,7 +8610,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "175",
+                  "valor": "174",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -11160,7 +11160,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "217",
+                  "valor": "216",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -11199,7 +11199,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "217"
+                          "stock": "216"
                         }
                       ]
                     }
@@ -12869,7 +12869,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "151",
+                  "valor": "150",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -12908,7 +12908,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "151"
+                          "stock": "150"
                         }
                       ]
                     }
@@ -15059,7 +15059,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "350",
+                  "valor": "349",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -15098,7 +15098,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "350"
+                          "stock": "349"
                         }
                       ]
                     }
@@ -20196,7 +20196,7 @@
               "codigo": 457,
               "categoria": "Wide Leg",
               "nombre": "WIDE7116",
-              "carpeta_id": "",
+              "carpeta_id": "1zi1dQtJPqxxnoWx8ZXL1V_WEBrqN5Elj",
               "descripcion": {
                 "modelo": {
                   "label": "Modelo",
@@ -20268,9 +20268,15 @@
               "guia_talles_img": "",
               "imagen": [
                 {
-                  "url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "thumbnail_url": "https://www.appsheet.com/template/gettablefileurl?appName=MINOMSYSTEM-ERP-227675214&tableName=BD_CONFIGURACION_GENERAL&fileName=BD_CONFIGURACION_GENERAL_Images%2FSkypia%20Underwear.SIN_IMAGEN.031857.png",
-                  "portada": true
+                  "url": "https://drive.google.com/thumbnail?id=1qrOIsL-X1iH8fSmyTBMmlXlNW9NsNzJF&sz=s1600-rw",
+                  "thumbnail_url": "https://drive.google.com/thumbnail?id=1qrOIsL-X1iH8fSmyTBMmlXlNW9NsNzJF&sz=s600-rw",
+                  "archivo_id": "1qrOIsL-X1iH8fSmyTBMmlXlNW9NsNzJF",
+                  "portada": true,
+                  "tipo": "imagen",
+                  "fuente": "AppSheet Sync",
+                  "rol": "PORTADA",
+                  "orden": 1,
+                  "fecha_carga": "2026-11-25T18:28:45.552Z"
                 }
               ],
               "variedad": [
@@ -20706,5 +20712,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1795631098034
+  "timestamp_ms": 1795631990088
 }
