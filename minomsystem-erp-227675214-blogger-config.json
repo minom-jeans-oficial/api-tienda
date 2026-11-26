@@ -2788,7 +2788,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "234",
+                  "valor": "232",
                   "estado": "Alta"
                 },
                 "ultima_actualizacion": {
@@ -2827,7 +2827,7 @@
                       "talles": [
                         {
                           "talle": "Surtido",
-                          "stock": "234"
+                          "stock": "232"
                         }
                       ]
                     }
@@ -17118,7 +17118,7 @@
                 },
                 "stock": {
                   "label": "Stock",
-                  "valor": "-14",
+                  "valor": "-15",
                   "estado": "Baja"
                 },
                 "ultima_actualizacion": {
@@ -20712,5 +20712,5 @@
   ],
   "cuenta_transferencia_dia": {},
   "aplicar_marca_agua": true,
-  "timestamp_ms": 1795715658692
+  "timestamp_ms": 1795719270973
 }
