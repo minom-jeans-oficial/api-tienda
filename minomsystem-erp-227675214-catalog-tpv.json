@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T16:22:55.611Z",
-  "timestamp_ms": 1795796689759,
+  "generated_at": "2026-11-27T16:38:22.110Z",
+  "timestamp_ms": 1795797643638,
   "stores": {
     "MINOM OFICIAL": {
       "name": "MINOM OFICIAL",
@@ -4649,7 +4649,7 @@
           "store_id": "MINOM OFICIAL",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 207
+          "stock": 206
         },
         {
           "variation_id": "PANT5614-Surtido-Surtido-MINOM ARGERICH",
@@ -8199,7 +8199,7 @@
           "store_id": "MINOM OFICIAL",
           "color": "Surtido",
           "size": "Surtido",
-          "stock": 109
+          "stock": 108
         },
         {
           "variation_id": "SHOR7836-Surtido-Surtido-MINOM ARGERICH",
@@ -12120,6 +12120,219 @@
         }
       ],
       "lastUpdate": "2026-11-25T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "WIDE5679",
+      "sku": "Wide026",
+      "secondarySku": "Wide026",
+      "model": "Dos Botones",
+      "name": "Dos Botones",
+      "price": 26000,
+      "minor_surcharge": 0,
+      "category": "Wide Leg",
+      "categoryName": "Wide Leg",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "ageGroup": "Teens",
+      "sizes": "Surtido,34,36,38,40,42,44,46",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=1qAUNqGsEh9_aQWGMwipngaZbzATjy46v&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "WIDE5679-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 400
+        },
+        {
+          "variation_id": "WIDE5679-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 400
+        }
+      ],
+      "prices": [
+        {
+          "id": "WIDE5679-Mayor",
+          "variedad_id": "WIDE5679-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "precio": 26000,
+          "precio_unitario": 26000,
+          "cantidad_minima": 1,
+          "visible": false
+        },
+        {
+          "id": "WIDE5679-Menor",
+          "variedad_id": "WIDE5679-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 31000,
+          "precio_unitario": 31000,
+          "cantidad_minima": 1,
+          "visible": false
+        },
+        {
+          "id": "WIDE5679-Curva",
+          "variedad_id": "WIDE5679-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 24000,
+          "precio_unitario": 24000,
+          "cantidad_minima": 7,
+          "visible": false
+        }
+      ],
+      "lastUpdate": "2026-11-27T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "SHOR8106",
+      "sku": "Shor037",
+      "secondarySku": "Shor037",
+      "model": "New Print",
+      "name": "New Print",
+      "price": 17000,
+      "minor_surcharge": 0,
+      "category": "Short",
+      "categoryName": "Short",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "ageGroup": "Teens",
+      "sizes": "Surtido,34,36,38,40,42,44",
+      "colors": "Surtido",
+      "image": "https://drive.google.com/thumbnail?id=10hlDzmscexK5eKTnd8LcWQS27bNzv0sE&sz=s600-rw",
+      "variations": [
+        {
+          "variation_id": "SHOR8106-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 300
+        },
+        {
+          "variation_id": "SHOR8106-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 300
+        }
+      ],
+      "prices": [
+        {
+          "id": "SHOR8106-Mayor",
+          "variedad_id": "SHOR8106-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "precio": 17000,
+          "precio_unitario": 17000,
+          "cantidad_minima": 1,
+          "visible": false
+        },
+        {
+          "id": "SHOR8106-Menor",
+          "variedad_id": "SHOR8106-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 22000,
+          "precio_unitario": 22000,
+          "cantidad_minima": 1,
+          "visible": false
+        },
+        {
+          "id": "SHOR8106-Curva",
+          "variedad_id": "SHOR8106-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 15000,
+          "precio_unitario": 15000,
+          "cantidad_minima": 6,
+          "visible": false
+        }
+      ],
+      "lastUpdate": "2026-11-27T03:00:00.000Z",
+      "fecha_creacion": ""
+    },
+    {
+      "id": "POLL5767",
+      "sku": "Poll011",
+      "secondarySku": "Poll011",
+      "model": "Print Beige con Bordado",
+      "name": "Print Beige con Bordado",
+      "price": 20000,
+      "minor_surcharge": 0,
+      "category": "Pollera",
+      "categoryName": "Pollera",
+      "parentCategory": "INDUMENTARIA",
+      "brand": "MINOM OFICIAL",
+      "gender": "Mujer",
+      "season": "SIN-TEMPORADA",
+      "style": "Tiro Bajo",
+      "material": "Jeans Rigido",
+      "ageGroup": "Teens",
+      "sizes": "Surtido,34,36,38,40,42",
+      "colors": "Surtido",
+      "image": "",
+      "variations": [
+        {
+          "variation_id": "POLL5767-Surtido-Surtido-MINOM OFICIAL",
+          "store_id": "MINOM OFICIAL",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 350
+        },
+        {
+          "variation_id": "POLL5767-Surtido-Surtido-MINOM ARGERICH",
+          "store_id": "MINOM ARGERICH",
+          "color": "Surtido",
+          "size": "Surtido",
+          "stock": 350
+        }
+      ],
+      "prices": [
+        {
+          "id": "POLL5767-Mayor",
+          "variedad_id": "POLL5767-Mayor",
+          "nombre": "Mayor",
+          "variedad": "Mayor",
+          "precio": 20000,
+          "precio_unitario": 20000,
+          "cantidad_minima": 1,
+          "visible": false
+        },
+        {
+          "id": "POLL5767-Menor",
+          "variedad_id": "POLL5767-Menor",
+          "nombre": "Menor",
+          "variedad": "Menor",
+          "precio": 25000,
+          "precio_unitario": 25000,
+          "cantidad_minima": 1,
+          "visible": false
+        },
+        {
+          "id": "POLL5767-Curva",
+          "variedad_id": "POLL5767-Curva",
+          "nombre": "Curva",
+          "variedad": "Curva",
+          "precio": 18000,
+          "precio_unitario": 18000,
+          "cantidad_minima": 5,
+          "visible": false
+        }
+      ],
+      "lastUpdate": "2026-11-27T03:00:00.000Z",
       "fecha_creacion": ""
     }
   ],
@@ -17421,6 +17634,102 @@
         "precio": 15000,
         "precio_unitario": 15000,
         "cantidad_minima": 6,
+        "visible": false
+      }
+    ],
+    "WIDE5679": [
+      {
+        "id": "WIDE5679-Mayor",
+        "variedad_id": "WIDE5679-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "precio": 26000,
+        "precio_unitario": 26000,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "id": "WIDE5679-Menor",
+        "variedad_id": "WIDE5679-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 31000,
+        "precio_unitario": 31000,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "id": "WIDE5679-Curva",
+        "variedad_id": "WIDE5679-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 24000,
+        "precio_unitario": 24000,
+        "cantidad_minima": 7,
+        "visible": false
+      }
+    ],
+    "SHOR8106": [
+      {
+        "id": "SHOR8106-Mayor",
+        "variedad_id": "SHOR8106-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "precio": 17000,
+        "precio_unitario": 17000,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "id": "SHOR8106-Menor",
+        "variedad_id": "SHOR8106-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 22000,
+        "precio_unitario": 22000,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "id": "SHOR8106-Curva",
+        "variedad_id": "SHOR8106-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 15000,
+        "precio_unitario": 15000,
+        "cantidad_minima": 6,
+        "visible": false
+      }
+    ],
+    "POLL5767": [
+      {
+        "id": "POLL5767-Mayor",
+        "variedad_id": "POLL5767-Mayor",
+        "nombre": "Mayor",
+        "variedad": "Mayor",
+        "precio": 20000,
+        "precio_unitario": 20000,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "id": "POLL5767-Menor",
+        "variedad_id": "POLL5767-Menor",
+        "nombre": "Menor",
+        "variedad": "Menor",
+        "precio": 25000,
+        "precio_unitario": 25000,
+        "cantidad_minima": 1,
+        "visible": false
+      },
+      {
+        "id": "POLL5767-Curva",
+        "variedad_id": "POLL5767-Curva",
+        "nombre": "Curva",
+        "variedad": "Curva",
+        "precio": 18000,
+        "precio_unitario": 18000,
+        "cantidad_minima": 5,
         "visible": false
       }
     ]
